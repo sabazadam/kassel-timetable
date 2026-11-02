@@ -1,0 +1,51 @@
+{
+  "summary": "Modulprüfungsordnung Musik L2 of 30.01.2023: compulsory modules 1, 2, 3, 5, 7 and the practical semester, plus one continued profile (4a with 6a, or 4b with 6b).",
+  "categories": [
+    {
+      "id": "modul-4",
+      "group": "oneOf",
+      "name": "Artistic practice 2 (4a or 4b)",
+      "nameDe": "Modul 4a oder 4b",
+      "short": "Modul 4a/4b",
+      "count": 1,
+      "ects": 8,
+      "note": "8 ECTS: choose 4a (second instrument) or 4b (elective profile) and continue that same profile in module 6; 4a then only 6a, 4b then only 6b.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 4a Künstlerische Praxis 2 (Persönliches Profil Zweitinstrument)"
+        },
+        {
+          "type": "module",
+          "id": "Modul 4b Künstlerische Praxis 2 (Persönliches Profil Wahlpflichtangebot)"
+        }
+      ]
+    },
+    {
+      "id": "modul-6",
+      "group": "oneOf",
+      "name": "Artistic practice 3 (6a or 6b)",
+      "nameDe": "Modul 6a oder 6b",
+      "short": "Modul 6a/6b",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS: continue the module 4 profile (6a only after 4a; 6b only after 4b, including the elective profile chosen in 4b). Do not mix a and b.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 6a Künstlerische Praxis 3 (Persönliches Profil Zweitinstrument)"
+        },
+        {
+          "type": "module",
+          "id": "Modul 6b Künstlerische Praxis 3 (Persönliches Profil Wahlpflicht)"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "la-hr-musik",
+  "po": "Lehramt an Haupt- u. Realschulen Musik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20557&token=75a886ec9c99c35a126a37461927b26ef68fd05e"
+  ]
+}

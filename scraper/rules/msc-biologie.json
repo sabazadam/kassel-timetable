@@ -1,0 +1,75 @@
+{
+  "summary": "PO 2023 section 7: 80 ECTS compulsory modules (super seminars and lab rotations I and II, generic skills, Berufliche Orientierung II, methods and project planning II, thesis), at least 28 ECTS from one of two specializations (Molekularbiologie der Zelle or Biodiversität und Evolutionsbiologie) including 24 ECTS of Forschungsmodule from that same specialization, and 12 ECTS of free electives drawn from both specializations (mixing is allowed).",
+  "categories": [
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodule > Schwerpunkt 1 Molekularbiologie der Zelle"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodule > Schwerpunkt 2 Biodiversität und Evolutionsbiologie"
+        }
+      ],
+      "name": "One specialization",
+      "nameDe": "Studienschwerpunkt (Molekularbiologie der Zelle oder Biodiversität und Evolutionsbiologie)",
+      "short": "Specialization",
+      "count": 1,
+      "ects": 28,
+      "note": "Choose one specialization and take modules worth at least 28 ECTS from it. 24 of those ECTS must be Forschungsmodule from that same specialization."
+    },
+    {
+      "id": "spec-research",
+      "group": "oneOf",
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodule > Schwerpunkt 1 Molekularbiologie der Zelle"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodule > Schwerpunkt 2 Biodiversität und Evolutionsbiologie"
+        }
+      ],
+      "name": "Research modules in the specialization",
+      "nameDe": "Forschungsmodule im Studienschwerpunkt",
+      "short": "Research modules",
+      "count": 2,
+      "ects": 24,
+      "exclude": [
+        "Angewandte Biotechnologie",
+        "Biological Rhythmus, Oscillations and Clocks",
+        "DNA-Diagnostik",
+        "Evolution der Photosynthese",
+        "Arbeitsgemeinschaft Pilze",
+        "Methoden der Molekularbiologie und Biophysik",
+        "Mikrobielle Molekulargenetik",
+        "Molekulare Mechanismen biochemischer Prozesse",
+        "Nanobiologie",
+        "Sinnesphysiologie",
+        "Spezielle Aspekte der Entwicklungsgenetik",
+        "Spezielle Methoden der molekularen Mikrobiologie"
+      ],
+      "note": "Take 24 ECTS of Forschungsmodule (two modules, 12 ECTS each) in the specialization chosen for the 28 ECTS requirement. These credits are part of those 28, and both choices must be the same specialization."
+    },
+    {
+      "id": "Wahlpflichtmodule > Frei wählbare Wahlpflichtmodule",
+      "group": "area",
+      "name": "Free electives",
+      "nameDe": "Frei wählbare Wahlpflichtmodule",
+      "short": "Free electives",
+      "count": 1,
+      "ects": 12,
+      "note": "Take 12 ECTS of free electives in addition to the specialization. The pool is both specializations and modules from them may be mixed."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-biologie",
+  "po": "Master Biologie (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21956&token=bc9466ed52d2455c049150d1116c0d1147325986"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "summary": "PO 2023 section 7: compulsory basic phase and main phase modules, one of the two specializations (Maschinenbau or Elektrotechnik/Informatik) with 22 ECTS of advanced modules (at least 6 ECTS practical competencies), and the 15-ECTS thesis module. Specialization exams require 77 ECTS from the basic phase.",
+  "categories": [
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt Maschinenbau oder Elektrotechnik/Informatik",
+      "short": "Specialization",
+      "count": 1,
+      "note": "22 ECTS of advanced modules from one specialization, including at least 6 ECTS of practical competencies; requires an approved study plan",
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Elektrotechnik / Informatik"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Maschinenbau"
+        }
+      ],
+      "ects": 22
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-mechatronik",
+  "po": "Bachelor Mechatronik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21967&token=d2f215cef41952ed81a56b34d1d10a0bc4371d65"
+  ]
+}

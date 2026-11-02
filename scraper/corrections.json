@@ -1,0 +1,172 @@
+{
+ "note": "Hand corrections to eCampus data, applied on every scrape: { courseId: { source, series: [{ match: {series fields}, set: {series fields} }] } }. Remove an entry once eCampus has the same information or its date has passed. Entries with \"login\" come from pages that need a university login (e.g. Moodle); scrape with --public-only to leave them out.",
+ "courses": {
+  "57543": {
+   "source": "User, 2026-10-28: Reinforcement Learning exercise (Wednesdays) moves to room -1605; eCampus says \"Raum im Fachgebiet\".",
+   "series": [
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "day": 3,
+      "start": "10:00"
+     },
+     "set": {
+      "room": "Raum -1605 (WA-Neubau (Emilien))",
+      "note": ""
+     }
+    }
+   ]
+  },
+  "70067": {
+   "source": "ComTec course page uni-kassel.de/eecs/fachgebiete/comtec/lehre/vorlesungen/communication-technology-2.html, read 2026-10-19: first session Thursday 22.10.2026, 11:00, Hörsaal -1605; eCampus starts the series on 15.10.2026.",
+   "series": [
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "day": 4,
+      "start": "11:00"
+     },
+     "set": {
+      "startDate": "2026-10-22"
+     }
+    }
+   ]
+  },
+  "70068": {
+   "source": "ComTec course page uni-kassel.de/eecs/fachgebiete/comtec/lehre/vorlesungen/communication-technology-2.html, read 2026-10-19: first session Thursday 22.10.2026, 11:00, Hörsaal -1605; eCampus starts the series on 15.10.2026.",
+   "series": [
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "day": 4,
+      "start": "12:30"
+     },
+     "set": {
+      "startDate": "2026-10-22"
+     }
+    }
+   ]
+  },
+  "71815": {
+   "source": "User, 2026-11-02: PRML I lecture is Monday 14:15-15:45 from 19.10.2026 in room 0315 (on 19.10.2026: room 0425); eCampus says 14:00-16:00 and room -1319 on 26.10.2026.",
+   "series": [
+    {
+     "match": {
+      "rhythm": "Einzeltermin",
+      "startDate": "2026-10-19"
+     },
+     "set": {
+      "start": "14:15",
+      "end": "15:45"
+     }
+    },
+    {
+     "match": {
+      "rhythm": "Einzeltermin",
+      "startDate": "2026-10-26"
+     },
+     "set": {
+      "start": "14:15",
+      "end": "15:45",
+      "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+     }
+    },
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "startDate": "2026-11-02"
+     },
+     "set": {
+      "start": "14:15",
+      "end": "15:45"
+     }
+    }
+   ]
+  },
+  "71816": {
+   "source": "Moodle course 23482 (PRML I), read 2026-10-19: both exercise groups start 04.11.2026; eCampus says 21.10.2026.",
+   "login": "moodle",
+   "series": [
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "day": 3,
+      "start": "08:30"
+     },
+     "set": {
+      "startDate": "2026-11-04"
+     }
+    },
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "day": 3,
+      "start": "10:00"
+     },
+     "set": {
+      "startDate": "2026-11-04"
+     }
+    }
+   ]
+  },
+  "71817": {
+   "source": "User, 2026-10-19: Deep Learning's first session (20.10.2026) is in lecture hall 0425 and has an exam; eCampus still says Hörsaal -1319.",
+   "series": [
+    {
+     "match": {
+      "rhythm": "Einzeltermin",
+      "startDate": "2026-10-20"
+     },
+     "set": {
+      "room": "Hörsaal 0425 (Wilhelmshöher Allee)",
+      "note": "Erster Termin im Hörsaal 0425, mit Prüfung."
+     }
+    },
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "startDate": "2026-10-27"
+     },
+     "set": {
+      "note": "Ab 27.10.2026 Raum 0303c im Fachgebiet."
+     }
+    }
+   ]
+  },
+  "71819": {
+   "source": "User, 2026-11-02: Deep Learning Monday session is 12:15-13:45; eCampus says 12:00-14:00.",
+   "series": [
+    {
+     "match": {
+      "rhythm": "wöchentlich",
+      "day": 1,
+      "startDate": "2026-10-26"
+     },
+     "set": {
+      "start": "12:15",
+      "end": "13:45"
+     }
+    }
+   ]
+  },
+  "71822": {
+   "source": "User, 2026-10-28: Advanced Machine Learning Techniques exercise is Thursdays 10:00-12:00, starting 29.10.2026; eCampus says \"nach Vereinbarung\"; room 0303c (same lab as the lecture). End date assumed to match the lecture series (ends 09.02.2027).",
+   "series": [
+    {
+     "match": {
+      "rhythm": "nach Vereinbarung"
+     },
+     "set": {
+      "rhythm": "wöchentlich",
+      "day": 4,
+      "start": "10:00",
+      "end": "12:00",
+      "startDate": "2026-10-29",
+      "endDate": "2027-02-11",
+      "room": "Labor 0303c im Fachgebiet IES"
+     }
+    }
+   ]
+  }
+ }
+}

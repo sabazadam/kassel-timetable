@@ -1,0 +1,35 @@
+{
+  "summary": "These rules follow the Fachprüfungsordnung für das Zweitfach Sport of 5 June 2025, in force from winter semester 2025/26, whose study-plan annex is marked PO-2024. The po field keeps the app programme name Bachelor Berufliche Schulen Sport (2014) Nebenfach. Under § 6 the Sport second subject (Zweitfach) in the bachelor's programmes in vocational and business education totals 34 ECTS. Five compulsory modules make up 28 ECTS: Training und Bewegung (6), Körper und Gesundheit (6), Spielen 1 (Zielschussspiele) (5), Spielen 2 (Rückschlagspiele) (5), and Bewegen im Wasser und Laufen, Springen, Werfen (6). The remaining 6 ECTS are one Wahlpflicht module, chosen from Bewegungsfelder A, B or C (M13b, M14b, M15b, 6 ECTS each). The winter 2026/27 list offers those three under the titles Modul 13a, Modul 14a and Modul 15a, which this rule uses so the offered modules match.",
+  "categories": [
+    {
+      "id": "wahlpflicht-bewegungsfelder",
+      "group": "anyOf",
+      "name": "Movement field elective",
+      "nameDe": "Wahlpflicht Bewegungsfelder",
+      "short": "Movement elective",
+      "count": 1,
+      "note": "§ 6 sets the Sport second subject at 34 ECTS, of which the five compulsory modules contribute 28 ECTS, so the Wahlpflicht share is 6 ECTS. The student therefore completes exactly one of Bewegungsfelder A (M13b), Bewegungsfelder B (M14b) or Bewegungsfelder C (M15b), each worth 6 ECTS.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 13a: Bewegungsfelder A"
+        },
+        {
+          "type": "module",
+          "id": "Modul 14a: Bewegungsfelder B"
+        },
+        {
+          "type": "module",
+          "id": "Modul 15a: Bewegungsfelder C"
+        }
+      ],
+      "ects": 6
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-berufliche-schulen-sport-nebenfach",
+  "po": "Bachelor Berufliche Schulen Sport (2014) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28682&token=8610fd463463c8e264f6f787f6a4f0b1d34b9340"
+  ]
+}

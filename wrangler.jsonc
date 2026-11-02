@@ -1,0 +1,32 @@
+// Cloudflare Workers static assets: serves dist/ (built by deploy/build.js) on spacedevelopers.net.
+// Static files are served directly; only /api/* runs the Worker script (worker/index.js: feedback form).
+{
+  "name": "ders-programi",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-09-30",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "run_worker_first": ["/api/*"]
+  },
+  // Feedback reports (schema in worker/schema.sql).
+  "d1_databases": [
+    { "binding": "DB", "database_name": "ders-feedback", "database_id": "c5d7c9e3-8c92-41e1-8c17-d4a8d4d08d5b" }
+  ],
+  // At most 3 feedback posts per sender per minute (per Cloudflare location); daily caps live in worker/feedback.js.
+  "ratelimits": [
+    { "name": "FEEDBACK_LIMIT", "namespace_id": "1101", "simple": { "limit": 3, "period": 60 } }
+  ],
+  // Secrets (wrangler secret put): TURNSTILE_SECRET, TELEGRAM_TOKEN, TELEGRAM_CHAT, IP_SALT.
+  "workers_dev": false,
+  // Worker routes on the proxied hostnames: Cloudflare answers every request from these files and never
+  // forwards it to the mac-mini. (Custom domains would need the old tunnel DNS records deleted first.)
+  "routes": [
+    { "pattern": "spacedevelopers.net/*", "zone_name": "spacedevelopers.net" },
+    { "pattern": "www.spacedevelopers.net/*", "zone_name": "spacedevelopers.net" }
+    // unikassel.fun (Cloudflare zone, registered at Hostinger) was served here as custom domains until
+    // 2026-10-20; paused while it is unclear whether the university's name may be used in the domain.
+    // To bring it back: { "pattern": "unikassel.fun", "custom_domain": true } and the same for www.
+  ]
+}

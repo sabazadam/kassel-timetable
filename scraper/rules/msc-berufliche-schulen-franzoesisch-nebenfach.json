@@ -1,0 +1,59 @@
+{
+  "slug": "msc-berufliche-schulen-franzoesisch-nebenfach",
+  "po": "Master Berufliche Schulen Französisch (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26958&token=385dd7c07004a9468ccc51063cf0ddeeeb3f3d94"
+  ],
+  "summary": "The Master second subject French for vocational teacher education (PO 2024) consists of four compulsory modules worth 28 credits and a separate elective area. Compulsory modules are Sprachpraxis Französisch Aufbaumodul (6 credits), Sprachpraxis Französisch Vertiefungsmodul (6 credits), Fachdidaktik Vertiefungsmodul (Innovation im Fremdsprachenunterricht) (10 credits) and Schulpraktische Studien (6 credits). In the elective area the student completes the one basis module among modules 4, 5 and 6 (6 credits) that was not taken in the Bachelor, and two of the three advanced modules 7, 8 and 9 (6 credits each, 12 credits). All six elective modules are in the winter 2026/27 offering.",
+  "pickOne": [],
+  "categories": [
+    {
+      "id": "wahl-basis",
+      "group": "anyOf",
+      "name": "One remaining basis module",
+      "nameDe": "Fehlendes Basismodul",
+      "short": "One basis module",
+      "count": 1,
+      "note": "In the elective area the student must complete the one module among Französische Sprachwissenschaft Basismodul, Französische Literaturwissenschaft Basismodul and Französische Landes- und Kulturwissenschaften Basismodul (modules 4, 5 and 6, 6 credits each) that was not already completed in the Bachelor programme.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Französische Sprachwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Französische Literaturwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Französische Landes- und Kulturwissenschaften Basismodul"
+        }
+      ],
+      "ects": 6
+    },
+    {
+      "id": "wahl-aufbau",
+      "group": "anyOf",
+      "name": "Two advanced modules",
+      "nameDe": "Zwei Aufbaumodule",
+      "short": "Two advanced modules",
+      "count": 2,
+      "note": "Two modules must be completed from Französische Sprachwissenschaft Aufbaumodul I (Vertiefung), Französische Literaturwissenschaft Aufbaumodul I (Vertiefung) and Französische Landes- und Kulturwissenschaften Aufbaumodul I (Vertiefung) (modules 7, 8 and 9, 6 credits each).",
+      "options": [
+        {
+          "type": "module",
+          "id": "Französische Sprachwissenschaft Aufbaumodul I (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Französische Literaturwissenschaft Aufbaumodul I (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Französische Landes- und Kulturwissenschaften Aufbaumodul I (Vertiefung)"
+        }
+      ],
+      "ects": 12
+    }
+  ]
+}

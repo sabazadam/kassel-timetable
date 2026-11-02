@@ -1,0 +1,1846 @@
+{
+ "generatedAt": "2026-10-19T21:03:59.782Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Berufliche Schulen Chemie (2024) Nebenfach",
+ "programEn": "Master Vocational Schools: Chemistry (Minor) (2024)",
+ "slug": "msc-berufliche-schulen-chemie-nebenfach",
+ "degree": "master",
+ "themes": [
+  {
+   "id": "complex-chemistry",
+   "modules": [
+    "m44751",
+    "m44704",
+    "m44734"
+   ],
+   "text": {
+    "tr": [
+     "Kompleks ve Organometalik Kimya",
+     "Öğrenciler, yapı, bağ ve merkez atomun metal komplekslerini ve biyolojik işlevlerini nasıl şekillendirdiğini ve organometalik reaktiflerin pratikte nasıl kullanıldığını öğrenir."
+    ],
+    "en": [
+     "Complex and Organometallic Chemistry",
+     "Students learn how structure, bonding and the central atom shape metal complexes, including their biological role, and how organometallic reagents are used in practice."
+    ],
+    "de": [
+     "Komplex und metallorganische Chemie",
+     "Studierende lernen, wie Struktur, Bindung und das Zentralatom Metallkomplexe und ihre biologische Funktion prägen und wie metallorganische Reagenzien in der Praxis eingesetzt werden."
+    ]
+   }
+  },
+  {
+   "id": "organic-synthesis",
+   "modules": [
+    "m44752",
+    "m44734",
+    "m44704"
+   ],
+   "text": {
+    "tr": [
+     "İleri Organik Sentez",
+     "Öğrenciler, zorlu çok basamaklı organik sentezleri planlamayı ve yürütmeyi, sonuçları belgelendirmeyi ve sunmayı ve bu sentezlerdeki mekanizmalar ile organometalik reaktiflerle güvenli çalışmayı öğrenir."
+    ],
+    "en": [
+     "Advanced Organic Synthesis",
+     "Students learn to plan and carry out demanding multistep organic syntheses, to document and present the results, and to work safely with the mechanisms and organometallic reagents these syntheses use."
+    ],
+    "de": [
+     "Fortgeschrittene organische Synthese",
+     "Studierende lernen, anspruchsvolle mehrstufige organische Synthesen zu planen und durchzuführen, Ergebnisse zu dokumentieren und zu präsentieren und dabei sicher mit den zugehörigen Mechanismen und metallorganischen Reagenzien zu arbeiten."
+    ]
+   }
+  },
+  {
+   "id": "electrochemistry",
+   "modules": [
+    "m57739",
+    "m44751",
+    "m44704"
+   ],
+   "text": {
+    "tr": [
+     "Elektrokimya ve Yapı",
+     "Öğrenciler, elektrokimyasal enerji dönüşümünü ve sınırlarını ve bağ ile merkez atomun optik, manyetik ve kimyasal özellikleri nasıl belirlediğini öğrenir."
+    ],
+    "en": [
+     "Electrochemistry and Structure",
+     "Students learn electrochemical energy conversion and its limits, and how bonding and the central atom control optical, magnetic and chemical properties."
+    ],
+    "de": [
+     "Elektrochemie und Struktur",
+     "Studierende lernen die elektrochemische Energiewandlung und ihre Grenzen sowie den Einfluss von Bindung und Zentralatom auf optische, magnetische und chemische Eigenschaften."
+    ]
+   }
+  },
+  {
+   "id": "chemistry-teaching",
+   "modules": [
+    "m44745",
+    "m57732",
+    "m44746"
+   ],
+   "text": {
+    "tr": [
+     "Kimya Dersi Planlama",
+     "Öğrenciler, kimya derslerini temel kavramlar, eğitim standartları ve güncel kimya didaktiği araştırmalarına göre gerçek okul koşullarında planlamayı öğrenir."
+    ],
+    "en": [
+     "Chemistry Lesson Planning",
+     "Students learn to plan chemistry lessons from basic concepts, educational standards and current chemistry education research under real school conditions."
+    ],
+    "de": [
+     "Planung von Chemieunterricht",
+     "Studierende lernen, Chemieunterricht aus Basiskonzepten, Bildungsstandards und aktueller chemiedidaktischer Forschung unter realen Schulbedingungen zu planen."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "kc-a-or-kc-b",
+   "group": "oneOf",
+   "name": "Complex or coordination chemistry",
+   "nameDe": "Komplexchemie oder Koordinationschemie",
+   "short": "KC A or KC B",
+   "count": 1,
+   "ects": 5,
+   "note": "Section 5 requires exactly one of Modul KC A Komplexchemie or Modul KC B Koordinationschemie, worth 5 credits. The two modules are alternatives and are not both taken.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 9 Komplexchemie"
+    },
+    {
+     "type": "module",
+     "id": "Modul 11 Koordinationschemie"
+    }
+   ],
+   "nameTr": "Kompleks veya koordinasyon kimyası",
+   "noteTr": "Madde 5, Modul KC A Komplexchemie veya Modul KC B Koordinationschemie modüllerinden tam olarak birini gerektirir; modül 5 kredidir. İki modül birbirinin alternatifidir ve ikisi birden alınmaz.",
+   "noteDe": "§ 5 verlangt genau eines der Module Modul KC A Komplexchemie oder Modul KC B Koordinationschemie im Umfang von 5 Leistungspunkten. Die beiden Module sind Alternativen und werden nicht beide belegt."
+  },
+  {
+   "id": "at-least-one-oc-iv-or-mc",
+   "group": "anyOf",
+   "name": "At least one of OC IV or MC",
+   "nameDe": "Mindestens OC IV oder MC",
+   "short": "OC IV or MC",
+   "count": 1,
+   "ects": 5,
+   "note": "Section 5 requires two modules of 5 credits each (10 in total) from OC IV, MC, PC IV B and PC IV C, including at least one of OC IV or MC. This category is that OC IV or MC module.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 12 Fortgeschrittenenpraktikum Organische Chemie"
+    },
+    {
+     "type": "module",
+     "id": "Modul 13 Metallorganische Chemie"
+    }
+   ],
+   "nameTr": "OC IV veya MC'den en az biri",
+   "noteTr": "Madde 5, OC IV, MC, PC IV B ve PC IV C arasından her biri 5 kredi olan iki modül (toplam 10) ister; bunlardan en az biri OC IV veya MC olmalıdır. Bu kategori, o OC IV veya MC modülüdür.",
+   "noteDe": "Abschnitt 5 verlangt zwei Module zu je 5 Leistungspunkten (insgesamt 10) aus OC IV, MC, PC IV B und PC IV C, darunter mindestens OC IV oder MC. Diese Kategorie ist dieses Modul OC IV oder MC."
+  },
+  {
+   "id": "one-further-advanced",
+   "group": "anyOf",
+   "name": "One further advanced module",
+   "nameDe": "Ein weiteres Modul aus OC IV, MC, PC IV B oder PC IV C",
+   "short": "One further module",
+   "count": 1,
+   "ects": 5,
+   "note": "The other module may be OC IV, MC, PC IV B or PC IV C, so OC IV and MC together complete both categories. One module cannot fill both categories.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 12 Fortgeschrittenenpraktikum Organische Chemie"
+    },
+    {
+     "type": "module",
+     "id": "Modul 13 Metallorganische Chemie"
+    },
+    {
+     "type": "module",
+     "id": "Vertiefung Physikalische Chemie - Elektrochemie"
+    },
+    {
+     "type": "module",
+     "id": "Modul 16 Vertiefung Polymere und nachhaltige Materialien"
+    }
+   ],
+   "nameTr": "Bir ileri düzey modül daha",
+   "noteTr": "Diğer modül OC IV, MC, PC IV B veya PC IV C olabilir; böylece OC IV ve MC birlikte her iki kategoriyi de tamamlar. Bir modül her iki kategoriyi birden dolduramaz.",
+   "noteDe": "Das andere Modul kann OC IV, MC, PC IV B oder PC IV C sein; OC IV und MC zusammen erfüllen daher beide Kategorien. Ein Modul kann nicht beide Kategorien füllen."
+  }
+ ],
+ "rulesSummary": {
+  "en": "Under § 5 of the Fachprüfungsordnung of 12 December 2024, the chemistry Zweitfach electives are one of KC A or KC B (5 credits) and two modules of 5 credits each from OC IV, MC, PC IV B and PC IV C, with at least one of those two being OC IV or MC. DC I, DC II, DC SPS, DC IV and PC II are required by § 5 and are not choice categories. For DC II, § 5 and the module description state 11 credits with no alternative, while Anhang 2 (concordance with the Fachprüfungsordnung of 7 May 2014) lists 10 CP and the winter 2026/27 offer lists Modul 18 Praktikum Chemiedidaktik at 10 ECTS, so this file sets no ECTS value for DC II. PC II (5 credits) is not in the winter 2026/27 offer.",
+  "tr": "12 Aralık 2024 tarihli Fachprüfungsordnung'un § 5'ine göre Zweitfach Chemie seçmelileri şunlardır: KC A veya KC B'den biri (5 kredi) ve OC IV, MC, PC IV B ile PC IV C arasından her biri 5 kredi olan iki modül; bu ikisinden en az biri OC IV veya MC olmalıdır. DC I, DC II, DC SPS, DC IV ve PC II § 5 uyarınca zorunludur ve seçim kategorisi değildir. DC II için § 5 ve modül açıklaması alternatifsiz 11 kredi belirtir; Anhang 2 (7 Mayıs 2014 tarihli Fachprüfungsordnung ile denklik) 10 CP yazar, 2026/27 kış dönemi sunumu ise Modul 18 Praktikum Chemiedidaktik'i 10 ECTS olarak listeler. Bu nedenle bu dosya DC II için bir ECTS değeri belirlemez. PC II (5 kredi) 2026/27 kış dönemi sunumunda yer almaz.",
+  "de": "Nach § 5 der Fachprüfungsordnung vom 12. Dezember 2024 bestehen die Wahlpflichtangebote im Zweitfach Chemie aus einem von KC A oder KC B (5 Leistungspunkte) und zwei Modulen zu je 5 Leistungspunkten aus OC IV, MC, PC IV B und PC IV C, wobei mindestens eines dieser beiden OC IV oder MC sein muss. DC I, DC II, DC SPS, DC IV und PC II sind nach § 5 Pflicht und keine Wahlkategorien. Für DC II nennen § 5 und die Modulbeschreibung 11 Leistungspunkte ohne Alternative, während Anhang 2 (Konkordanz mit der Fachprüfungsordnung vom 7. Mai 2014) 10 CP aufführt und das Angebot im Wintersemester 2026/27 Modul 18 Praktikum Chemiedidaktik mit 10 ECTS listet; diese Datei setzt daher für DC II keinen ECTS-Wert. PC II (5 Leistungspunkte) ist im Angebot des Wintersemesters 2026/27 nicht enthalten."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26968&token=5adaca6935e67eb31485e1e77d4506b5f5f7bfe9"
+ ],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Die Sicherheitsbelehrung zum Praktikum findet statt am Montag 11.01.27 9.00 Uhr im Raum 2131. Die pünktliche Teilnahme an der Sicherheitsbelehrung ist Zugangsvoraussetzung zum Praktikum Metallorganische Chemie. Es gibt keinen Nachtermin.": {
+   "en": "The safety briefing for the practical course takes place on Monday, 11.01.27, at 9.00 in Room 2131. Punctual attendance at the safety briefing is a prerequisite for admission to the practical course Organometallic Chemistry. There is no alternative date.",
+   "tr": "Uygulamaya yönelik güvenlik bilgilendirmesi 11.01.27 Pazartesi günü saat 9.00'da Oda 2131'de yapılacaktır. Güvenlik bilgilendirmesine zamanında katılmak, Organometalik Kimya uygulamasına kabul şartıdır. Telafi tarihi yoktur."
+  },
+  "diese Lehrveranstaltung findet nur für Studierende der PO 2006 im WiSe statt": {
+   "en": "This course takes place only for students under PO 2006 in the winter semester.",
+   "tr": "Bu ders yalnızca PO 2006 kapsamındaki öğrenciler için kış döneminde yapılmaktadır."
+  },
+  "per Zoom (Link in Moodle); Einwahl in den Moodle-Kurs bis spätestens 15.09.26": {
+   "en": "Via Zoom (link in Moodle); enrollment in the Moodle course by 15.09.26 at the latest",
+   "tr": "Zoom üzerinden (bağlantı Moodle'da); Moodle kursuna kayıt en geç 15.09.26 tarihine kadar"
+  },
+  "Beginn: 8:15 Uhr": {
+   "en": "Start: 8:15",
+   "tr": "Başlangıç: 8:15"
+  },
+  "Vorbesprechung": {
+   "en": "Kick-off meeting",
+   "tr": "Ön görüşme"
+  },
+  "online": {
+   "en": "online",
+   "tr": "çevrimiçi"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m57739",
+   "title": "Vertiefung Physikalische Chemie - Elektrochemie",
+   "titleEn": "Advanced Physical Chemistry - Electrochemistry",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "one-further-advanced"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70211",
+    "70240",
+    "70244"
+   ]
+  },
+  {
+   "id": "m57732",
+   "title": "Vertiefungsstudien Chemiedidaktik",
+   "titleEn": "Advanced Studies in Chemistry Didactics",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "59840"
+   ]
+  },
+  {
+   "id": "m44704",
+   "title": "Modul 11 Koordinationschemie",
+   "titleEn": "Module 11 Coordination Chemistry",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "kc-a-or-kc-b"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "70246",
+    "70247",
+    "70941"
+   ]
+  },
+  {
+   "id": "m44752",
+   "title": "Modul 12 Fortgeschrittenenpraktikum Organische Chemie",
+   "titleEn": "Module 12 Advanced Lab Organic Chemistry",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "at-least-one-oc-iv-or-mc",
+    "one-further-advanced"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70175",
+    "70177"
+   ]
+  },
+  {
+   "id": "m44734",
+   "title": "Modul 13 Metallorganische Chemie",
+   "titleEn": "Module 13 Organometallic Chemistry",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "at-least-one-oc-iv-or-mc",
+    "one-further-advanced"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70287"
+   ]
+  },
+  {
+   "id": "m44701",
+   "title": "Modul 16 Vertiefung Polymere und nachhaltige Materialien",
+   "titleEn": "Module 16 Advanced Polymers and Sustainable Materials",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "one-further-advanced"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "70240",
+    "70244",
+    "70211"
+   ]
+  },
+  {
+   "id": "m44745",
+   "title": "Modul 17 Einführung Chemiedidaktik",
+   "titleEn": "Module 17 Introduction to Chemistry Didactics",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70288"
+   ]
+  },
+  {
+   "id": "m44746",
+   "title": "Modul 18 Praktikum Chemiedidaktik",
+   "titleEn": "Module 18 Chemistry Didactics Lab",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "54586",
+    "54589"
+   ]
+  },
+  {
+   "id": "m44751",
+   "title": "Modul 9 Komplexchemie",
+   "titleEn": "Module 9 Complex Chemistry",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "kc-a-or-kc-b"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70246",
+    "70247"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "70288",
+   "title": "Chemiedidaktik I",
+   "number": "FB1018.3345w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. David-Samuel Di Fuccia",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. David-Samuel Di Fuccia"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70288&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Chemistry Didactics I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54586",
+   "title": "Didaktisches Grundpraktikum",
+   "number": "FB1018.3350",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Janne-Marie Bothor",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Janne-Marie Bothor"
+       ],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54586&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24209",
+    "key": false
+   },
+   "titleEn": "Basic Didactic Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54589",
+   "title": "Seminar zum didaktischen Grundpraktikum",
+   "number": "FB1018.3370",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Janne-Marie Bothor",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Janne-Marie Bothor"
+       ],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54589&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24209",
+    "key": false
+   },
+   "titleEn": "Seminar for the Basic Didactic Lab",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "59840",
+   "title": "Vertiefung Chemiedidaktik",
+   "number": "FB1018.3301",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Christina Bies",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3117 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59840&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Chemistry Didactics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70246",
+   "title": "Anorganische Chemie II",
+   "number": "FB1018.3070w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Rudolf Pietschnig",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rudolf Pietschnig"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70246&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23386",
+    "key": true
+   },
+   "titleEn": "Inorganic Chemistry II",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70247",
+   "title": "Fortgeschrittenenpraktikum (Komplexchemie)",
+   "number": "FB1018.3095w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Rudolf Pietschnig, Dr. Martin Maurer, Denis Kargin",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rudolf Pietschnig",
+        "Dr. Martin Maurer",
+        "Denis Kargin"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70247&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23984",
+    "key": false
+   },
+   "titleEn": "Advanced Lab (Coordination Chemistry)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70941",
+   "title": "Fortgeschrittenenpraktikum (Koordinationschemie)",
+   "number": "FB1018.3096",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Rudolf Pietschnig, Dr. Martin Maurer, Denis Kargin",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rudolf Pietschnig",
+        "Dr. Martin Maurer",
+        "Denis Kargin"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70941&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Lab (Coordination Chemistry)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70287",
+   "title": "Fortgeschrittenenpraktikum (Metallorganik)",
+   "number": "FB1018.3090w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Ulrich Siemeling, Dr. Clemens Bruhn, Dr. Michael Leibold",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2027-01-11",
+       "endDate": "2027-01-11",
+       "cancelled": [],
+       "note": "Die Sicherheitsbelehrung zum Praktikum findet statt am Montag 11.01.27 9.00 Uhr im Raum 2131. Die pünktliche Teilnahme an der Sicherheitsbelehrung ist Zugangsvoraussetzung zum Praktikum Metallorganische Chemie. Es gibt keinen Nachtermin.",
+       "instructors": [
+        "Prof. Dr. Ulrich Siemeling",
+        "Dr. Clemens Bruhn",
+        "Dr. Michael Leibold"
+       ],
+       "room": "Raum 2131 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2027-01-11",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "diese Lehrveranstaltung findet nur für Studierende der PO 2006 im WiSe statt",
+       "instructors": [
+        "Prof. Dr. Ulrich Siemeling",
+        "Dr. Clemens Bruhn",
+        "Dr. Michael Leibold"
+       ],
+       "room": "Raum 2268 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70287&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Lab (Organometallic Chemistry)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70175",
+   "title": "Seminar zum Org.-chemischen Fortgeschrittenenpraktikum",
+   "number": "FB1018.3178w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Susanne Flock, Dr. Sven Fürmeier, Prof. Dr. Rüdiger Faust",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-09",
+       "endDate": "2026-10-09",
+       "cancelled": [],
+       "note": "per Zoom (Link in Moodle); Einwahl in den Moodle-Kurs bis spätestens 15.09.26",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-11-02",
+       "cancelled": [],
+       "note": "Beginn: 8:15 Uhr",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70175&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23516",
+    "key": false
+   },
+   "titleEn": "Seminar for the Advanced Organic Chemistry Lab",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70177",
+   "title": "Organisch-chemisches Fortgeschrittenenpraktikum",
+   "number": "FB1018.3190w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Rüdiger Faust, Dr. Susanne Flock, Dr. Sven Fürmeier",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-09",
+       "endDate": "2026-10-09",
+       "cancelled": [],
+       "note": "per Zoom (Link in Moodle); Einwahl in den Moodle-Kurs bis spätestens 15.09.26",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70177&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23516",
+    "key": false
+   },
+   "titleEn": "Advanced Organic Chemistry Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70211",
+   "title": "Seminar zu den Vertiefungspraktika Physikalische Chemie (L3/L4)",
+   "number": "FB1018.3270w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Backes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "13:00",
+       "end": "13:45",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "Vorbesprechung",
+       "instructors": [
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": "Raum 3106a (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2026-12-14",
+       "endDate": "2026-12-15",
+       "cancelled": [],
+       "note": "online",
+       "instructors": [
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70211&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "367",
+    "key": false
+   },
+   "titleEn": "Seminar for the Advanced Labs in Physical Chemistry (L3/L4)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70240",
+   "title": "Vertiefungspraktika Physikalische Chemie (L3/L4)",
+   "number": "FB1018.3271w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "13:00",
+       "end": "13:45",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "Vorbesprechung",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker"
+       ],
+       "room": "Raum 3106a (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-16",
+       "endDate": "2026-11-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker"
+       ],
+       "room": "Raum 3106a (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70240&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "367",
+    "key": false
+   },
+   "titleEn": "Advanced Labs in Physical Chemistry (L3/L4)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70244",
+   "title": "Programmierkurs Python in den Naturwissenschaften",
+   "number": "FB1018.3275w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-16",
+       "endDate": "2026-11-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker"
+       ],
+       "room": "Raum 3106a (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70244&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "8928",
+    "key": false
+   },
+   "titleEn": "Python Programming Course in the Natural Sciences",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

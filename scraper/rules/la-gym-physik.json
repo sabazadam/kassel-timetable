@@ -1,0 +1,34 @@
+{
+  "summary": "Modulprüfungsordnung Physik L3 of 30.01.2023, section 3: compulsory Physik I to VI, theoretical mechanics, quantum mechanics, advanced lab I and the practical semester, one 4-ECTS module from PhL3-11 to PhL3-13, plus 16 ECTS more from PhL3-11 to PhL3-20. The module chosen for that first elective does not count again toward the 16 ECTS. Aktuelle Themen der Physikdidaktik and Physikalisches Seminar are excluded from the 16 ECTS category so the same module cannot fill both slots; the PO would still allow the module from PhL3-11 to PhL3-13 that was not used for the first choice.",
+  "categories": [
+    {
+      "id": "Wahlpflicht 1",
+      "group": "area",
+      "name": "Elective: didactics, modern physics or seminar",
+      "nameDe": "Wahlpflicht 1 (ein Modul aus PhL3-11 bis -13)",
+      "short": "WP 1",
+      "count": 1,
+      "note": "One 4-ECTS module from PhL3-11 to PhL3-13: Aktuelle Themen der Physikdidaktik, Moderne Physik, or Physikalisches Seminar."
+    },
+    {
+      "id": "Wahlpflicht 2",
+      "group": "area",
+      "name": "Further physics electives",
+      "nameDe": "Wahlpflicht 2 (zusätzlich 16 CP aus PhL3-11 bis -20)",
+      "short": "WP 2",
+      "count": 1,
+      "ects": 16,
+      "exclude": [
+        "Modul 7 Aktuelle Themen der Physikdidaktik",
+        "Modul 9 Physikalisches Seminar"
+      ],
+      "note": "A further 16 ECTS from PhL3-11 to PhL3-20, not counting the module already used for Wahlpflicht 1. Aktuelle Themen der Physikdidaktik and Physikalisches Seminar are excluded so one module cannot fill both slots; the PO would still allow the one of PhL3-11 to PhL3-13 that was not chosen for Wahlpflicht 1."
+    }
+  ],
+  "pickOne": [],
+  "slug": "la-gym-physik",
+  "po": "Lehramt an Gymnasien Physik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20562&token=a1b852381b3309f77dd35ca14fb042b733b4ddc0"
+  ]
+}

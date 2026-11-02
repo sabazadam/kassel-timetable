@@ -1,0 +1,49 @@
+{
+  "slug": "bsc-kombi-germanistik-hauptfach",
+  "po": "Bachelor-Kombinationsprüfung Germanistik (2020) Hauptfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=11347&token=f331e0aaa3306b06dcb787df1bae068188bc777f"
+  ],
+  "categories": [
+    {
+      "id": "wp1",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Literatur und Medien"
+        },
+        {
+          "type": "module",
+          "id": "Text und Diskurs"
+        }
+      ],
+      "name": "Elective I: language and literature studies",
+      "nameDe": "Wahlpflichtbereich I: Modul 10 oder 11",
+      "short": "WP I",
+      "note": "One 10-ECTS module: Literatur und Medien or Text und Diskurs"
+    },
+    {
+      "id": "wp2",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Praxisorientierung IIA: Berufsfeldbezogene Projektarbeit in Sprach-/Literaturwissenschaft"
+        },
+        {
+          "type": "module",
+          "id": "Praxisorientierung IIB: Berufsfeldbezogene Projektarbeit in DaF/DaZ"
+        }
+      ],
+      "name": "Elective II: practice orientation",
+      "nameDe": "Wahlpflichtbereich II: Modul 12 oder 13",
+      "short": "WP II",
+      "note": "One 9-ECTS project module: Sprach-/Literaturwissenschaft or DaF/DaZ"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO of 08.07.2020, section 8(2a): major of 106 ECTS with compulsory basic modules 1 to 4, advanced modules 5 to 7 and focus modules 8 and 9, plus one of modules 10/11 and one of modules 12/13; further a 40-ECTS minor, 10 ECTS additive key competencies and a 12-ECTS internship."
+}

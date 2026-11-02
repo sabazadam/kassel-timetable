@@ -1,0 +1,94 @@
+{
+  "summary": "PO 2020, sections 8 and 9: compulsory Transformation und Planungsprozesse (6 ECTS), 24 ECTS of electives from study fields A to D (in LF, ULM and LB at least 12 ECTS from this program's own offer; at most one Studienarbeit), 6 ECTS of key competencies, two different elective projects (24 ECTS), 30 ECTS in one master specialization (ST, LF, ULM or LB: Profilprojekt 12 ECTS plus Vertiefungsmodule 18 ECTS), and the 30 ECTS thesis.",
+  "categories": [
+    {
+      "id": "Projekte",
+      "group": "area",
+      "name": "Elective projects",
+      "nameDe": "Wahlpflichtprojekte",
+      "short": "Projects",
+      "count": 2,
+      "ects": 24,
+      "note": "Two different elective project modules, 24 ECTS in total."
+    },
+    {
+      "id": "Studienfeld F",
+      "group": "area",
+      "name": "Key competencies (study achievements)",
+      "nameDe": "Studienleistungsmodule (Schlüsselkompetenzen)",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS of key-competency modules (Studienleistungsmodule) from the department or the university."
+    },
+    {
+      "id": "wp-fields",
+      "group": "anyOf",
+      "name": "Electives from study fields A to D",
+      "nameDe": "Wahlpflichtmodule in den Studienfeldern A bis D",
+      "short": "Electives A-D",
+      "count": 1,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflicht Allgemeine Wissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Instrumente, Verfahren und Technik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Planungsgegenstände und Planungsebenen"
+        }
+      ],
+      "note": "24 ECTS from study fields A to D, with at most one Studienarbeit. In LF, ULM and LB at least 12 of those ECTS must come from this program's own offer; ST has no such minimum."
+    },
+    {
+      "id": "master-spec",
+      "group": "oneOf",
+      "name": "One master specialization",
+      "nameDe": "Mastervertiefung (eine Wahl)",
+      "short": "Master spec.",
+      "count": 1,
+      "ects": 30,
+      "options": [
+        {
+          "type": "area",
+          "id": "Mastervertiefung Landschaftsarchitektur und Freiraumplanung"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Landschaftsbau und Pflanzenverwendung (LB)"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Städtebau"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Umweltplanung und Landschaftsmanagement"
+        }
+      ],
+      "note": "30 ECTS in one specialization (ST, LF, ULM or LB): the compulsory Profilprojekt (12 ECTS) plus the Vertiefungsmodule named in section 8 (18 ECTS)."
+    }
+  ],
+  "pickOne": [
+    "Interdisziplinäres Entwurf- und Planungsprojekt",
+    "Projekt aus L-Themenfeld: Elemente und Konzepte der Landschaftsplanung",
+    "Projekt aus L-Themenfeld: Entwurfsmethoden/ -techniken",
+    "Projekt aus L-Themenfeld: Freilandökologie",
+    "Projekt aus L-Themenfeld: Freiraum und Stadt",
+    "Projekt aus L-Themenfeld: Objektplanung"
+  ],
+  "slug": "msc-landschaftsarchitektur-und-landschaftsplanung",
+  "po": "Master Landschaftsarchitektur und Landschaftsplanung (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8897&token=024ddd90702035a527dfc3ce5295bf0c7af2d74d"
+  ]
+}

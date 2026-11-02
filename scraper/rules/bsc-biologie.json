@@ -1,0 +1,119 @@
+{
+  "summary": "PO 2023 section 6: 129 ECTS compulsory modules (including the internship 'Berufliche Orientierung I' and the thesis) and 51 ECTS electives: two profile modules (12 ECTS each), 6 ECTS interdisciplinary key competencies (W8, not offered this semester) and 21 ECTS of other electives. The profile-module slot accepts only these offered Profilmodul titles from V1 to V13: Profilmodul Biochemie, Profilmodul Botanik: Molekulare Methoden, Profilmodul Zoologie, Profilmodul Tierphysiologie/Neurophysiologie, Profilmodul Entwicklungsgenetik, Profilmodul Mikrobiologie, Profilmodul Zellbiologie, Profilmodul Humanbiologie. The 21 ECTS may be any mix of the remaining offered Wahlpflicht modules and further profile modules.",
+  "categories": [
+    {
+      "id": "profilmodule",
+      "group": "anyOf",
+      "name": "Profile modules",
+      "nameDe": "Profilmodule",
+      "short": "Profile modules",
+      "count": 2,
+      "ects": 24,
+      "note": "Two 12-ECTS profile modules from V1 to V13 are required (24 ECTS together). Electives total 51 ECTS, including these modules, 6 ECTS of interdisciplinary key competencies (W8), and 21 ECTS of other electives, which may include further profile modules.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Profilmodul Biochemie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Botanik: Molekulare Methoden"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Zoologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Tierphysiologie/Neurophysiologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Entwicklungsgenetik"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Mikrobiologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Zellbiologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Humanbiologie"
+        }
+      ]
+    },
+    {
+      "id": "weitere-wahlpflicht",
+      "group": "anyOf",
+      "name": "Further electives",
+      "nameDe": "Weitere Wahlpflichtmodule",
+      "short": "Further electives",
+      "count": 1,
+      "ects": 21,
+      "note": "21 ECTS (full PO section 6(6) requirement) from any combination of the remaining Wahlpflicht modules, including further Profilmodule. Separate from the two required profile modules and from W8 (6 ECTS of interdisciplinary key competencies), which is not offered this semester.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Grundmodul Humanbiologie"
+        },
+        {
+          "type": "module",
+          "id": "Einführung in die Biologiedidaktik"
+        },
+        {
+          "type": "module",
+          "id": "Pflanzliche Virologie"
+        },
+        {
+          "type": "module",
+          "id": "Grundlagen der Physikalischen Chemie"
+        },
+        {
+          "type": "module",
+          "id": "Literaturrecherche"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Biochemie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Botanik: Molekulare Methoden"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Zoologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Tierphysiologie/Neurophysiologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Entwicklungsgenetik"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Mikrobiologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Zellbiologie"
+        },
+        {
+          "type": "module",
+          "id": "Profilmodul Humanbiologie"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-biologie",
+  "po": "Bachelor Biologie (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21955&token=ceecfb612b1d3d45a7806ca6b00b08843ff2ae33"
+  ]
+}

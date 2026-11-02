@@ -1,0 +1,2488 @@
+{
+ "generatedAt": "2026-10-19T21:04:00.420Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt an Gymnasien Physik (2023)",
+ "programEn": "Teacher Training Gymnasium: Physics (2023)",
+ "slug": "la-gym-physik",
+ "degree": "lehramt",
+ "themes": [
+  {
+   "id": "observational-astrophysics",
+   "modules": [
+    "m18681",
+    "m18711",
+    "m18680"
+   ],
+   "text": {
+    "tr": [
+     "Gözlemsel Astrofizik",
+     "Öğrenciler gökyüzü gözlemini, yıldız sınıflandırmasını ve yörünge, ışınım ile uzaklık hesaplarını matematiksel ve mekanik yöntemlerle öğrenir."
+    ],
+    "en": [
+     "Observational Astrophysics",
+     "Students learn astronomical observation and stellar classification and treat orbits, radiation, and distances with mathematical and mechanical methods."
+    ],
+    "de": [
+     "Beobachtende Astrophysik",
+     "Studierende lernen astronomische Beobachtung und Sternklassifikation und bearbeiten Bahnen, Strahlung und Entfernungen mit mathematischen und mechanischen Methoden."
+    ]
+   }
+  },
+  {
+   "id": "solid-state-nanoscience",
+   "modules": [
+    "m18664",
+    "m27016",
+    "m18711"
+   ],
+   "text": {
+    "tr": [
+     "Katıhal ve Nanofizik",
+     "Öğrenciler kuantum ilkelerini katılara uygulamayı, kristal, fonon ve elektron modellerini, nano ölçek etkilerini ve bunlara eşlik eden hesap ile laboratuvar çalışmasını öğrenir."
+    ],
+    "en": [
+     "Solid State Nanoscience",
+     "Students apply quantum principles to solids and learn models and experimental methods for crystals, phonons, electrons, and nanoscale effects, with calculation and laboratory work."
+    ],
+    "de": [
+     "Festkörper und Nanophysik",
+     "Studierende wenden Quantenprinzipien auf Festkörper an und lernen Modelle sowie experimentelle Methoden zu Kristallstruktur, Phononen, Elektronen und nanoskaligen Effekten, gestützt durch Rechnung und Labor."
+    ]
+   }
+  },
+  {
+   "id": "physics-teaching",
+   "modules": [
+    "m18668",
+    "m27045",
+    "m18648"
+   ],
+   "text": {
+    "tr": [
+     "Öğretim ve Okul Pratiği",
+     "Öğrenciler güncel fizik didaktiği yaklaşımlarını derslere aktarmayı, fizik dersinde sürdürülebilirlik eğitimini ele almayı ve bunu staj dönemi ile fizik seminerine bağlamayı öğrenir."
+    ],
+    "en": [
+     "Teaching and School Practice",
+     "Students learn to bring current physics education approaches into lessons, including sustainability, and to connect that work with the school placement and the physics seminar."
+    ],
+    "de": [
+     "Didaktik und Schulpraxis",
+     "Studierende lernen, aktuelle fachdidaktische Ansätze in den Physikunterricht zu übertragen, darunter Nachhaltigkeit, und dies mit dem Praxissemester und dem physikalischen Seminar zu verbinden."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "Wahlpflicht 1",
+   "group": "area",
+   "name": "Elective: didactics, modern physics or seminar",
+   "nameDe": "Wahlpflicht 1 (ein Modul aus PhL3-11 bis -13)",
+   "short": "WP 1",
+   "count": 1,
+   "note": "One 4-ECTS module from PhL3-11 to PhL3-13: Aktuelle Themen der Physikdidaktik, Moderne Physik, or Physikalisches Seminar.",
+   "nameTr": "Seçmeli: didaktik, modern fizik veya seminer",
+   "noteTr": "PhL3-11 ile PhL3-13 arasından 4 ECTS tutarında bir modül: Aktuelle Themen der Physikdidaktik, Moderne Physik veya Physikalisches Seminar.",
+   "noteDe": "Ein Modul im Umfang von 4 ECTS aus PhL3-11 bis PhL3-13: Aktuelle Themen der Physikdidaktik, Moderne Physik oder Physikalisches Seminar."
+  },
+  {
+   "id": "Wahlpflicht 2",
+   "group": "area",
+   "name": "Further physics electives",
+   "nameDe": "Wahlpflicht 2 (zusätzlich 16 CP aus PhL3-11 bis -20)",
+   "short": "WP 2",
+   "count": 1,
+   "ects": 16,
+   "exclude": [
+    "Modul 7 Aktuelle Themen der Physikdidaktik",
+    "Modul 9 Physikalisches Seminar"
+   ],
+   "note": "A further 16 ECTS from PhL3-11 to PhL3-20, not counting the module already used for Wahlpflicht 1. Aktuelle Themen der Physikdidaktik and Physikalisches Seminar are excluded so one module cannot fill both slots; the PO would still allow the one of PhL3-11 to PhL3-13 that was not chosen for Wahlpflicht 1.",
+   "nameTr": "Ek fizik seçmelileri",
+   "noteTr": "PhL3-11 ile PhL3-20 arasından ek 16 ECTS; Wahlpflicht 1 için kullanılmış modül sayılmaz. Aynı modül her iki yeri birden dolduramasın diye Aktuelle Themen der Physikdidaktik ve Physikalisches Seminar çıkarılmıştır; PO, Wahlpflicht 1 için seçilmemiş olan PhL3-11 ile PhL3-13 arasındaki modüle yine izin verir.",
+   "noteDe": "Weitere 16 ECTS aus PhL3-11 bis PhL3-20; das bereits für Wahlpflicht 1 verwendete Modul zählt nicht mit. Aktuelle Themen der Physikdidaktik und Physikalisches Seminar sind ausgeschlossen, damit ein Modul nicht beide Plätze füllt; die PO ließe weiterhin dasjenige aus PhL3-11 bis PhL3-13 zu, das nicht für Wahlpflicht 1 gewählt wurde."
+  }
+ ],
+ "rulesSummary": {
+  "en": "Modulprüfungsordnung Physik L3 of 30.01.2023, section 3: compulsory Physik I to VI, theoretical mechanics, quantum mechanics, advanced lab I and the practical semester, one 4-ECTS module from PhL3-11 to PhL3-13, plus 16 ECTS more from PhL3-11 to PhL3-20. The module chosen for that first elective does not count again toward the 16 ECTS. Aktuelle Themen der Physikdidaktik and Physikalisches Seminar are excluded from the 16 ECTS category so the same module cannot fill both slots; the PO would still allow the module from PhL3-11 to PhL3-13 that was not used for the first choice.",
+  "tr": "30.01.2023 tarihli Modulprüfungsordnung Physik L3, madde 3: Physik I ile VI, Theoretische Mechanik, Quantenmechanik, Fortgeschrittenenpraktikum I ve Praxissemester zorunludur; PhL3-11 ile PhL3-13 arasından 4 ECTS tutarında bir modül ve PhL3-11 ile PhL3-20 arasından 16 ECTS daha. İlk seçmeli için seçilen modül 16 ECTS'ye yeniden sayılmaz. Aynı modül her iki yeri birden dolduramasın diye Aktuelle Themen der Physikdidaktik ve Physikalisches Seminar 16 ECTS kategorisinden çıkarılmıştır; PO, ilk seçimde kullanılmayan PhL3-11 ile PhL3-13 arasındaki modüle yine izin verir.",
+  "de": "Modulprüfungsordnung Physik L3 vom 30.01.2023, Abschnitt 3: Pflicht sind Physik I bis VI, Theoretische Mechanik, Quantenmechanik, Fortgeschrittenenpraktikum I und das Praxissemester, dazu ein Modul im Umfang von 4 ECTS aus PhL3-11 bis PhL3-13 sowie weitere 16 ECTS aus PhL3-11 bis PhL3-20. Das für diesen ersten Wahlpflichtbereich gewählte Modul zählt nicht erneut zu den 16 ECTS. Aktuelle Themen der Physikdidaktik und Physikalisches Seminar sind von der Kategorie der 16 ECTS ausgeschlossen, damit dasselbe Modul nicht beide Plätze füllt; die PO ließe weiterhin das Modul aus PhL3-11 bis PhL3-13 zu, das für die erste Wahl nicht verwendet wurde."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20562&token=a1b852381b3309f77dd35ca14fb042b733b4ddc0"
+ ],
+ "sections": [
+  {
+   "id": "Wahlpflicht 1",
+   "name": "Compulsory Elective 1",
+   "nameDe": "Wahlpflicht 1"
+  },
+  {
+   "id": "Wahlpflicht 2",
+   "name": "Compulsory Elective 2",
+   "nameDe": "Wahlpflicht 2"
+  },
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Beginn der Vorlesung: 09:00 Uhr; von 08-09 Uhr reserviert für Aufbau der Experimente": {
+   "en": "Start of the lecture: 09:00; from 08-09 reserved for setting up the experiments",
+   "tr": "Dersin başlangıcı: 09:00; 08-09 saatleri deneylerin kurulumu için ayrılmıştır"
+  },
+  "Start der Veranstaltung wird noch bekanntgegeben": {
+   "en": "The start of the course will be announced later.",
+   "tr": "Dersin başlangıcı daha sonra duyurulacaktır."
+  },
+  "Bitte beachten Sie die Aushänge am schwarzen Brett neben dem Raum 1104": {
+   "en": "Please note the notices on the bulletin board next to room 1104.",
+   "tr": "Lütfen 1104 numaralı odanın yanındaki duyuru panosundaki ilanlara dikkat ediniz."
+  },
+  "Blockveranstaltung in der vorlesungsfreien Zeit. Sie erhalten über den Experimentalphysik 1 Moodlekurs rechtzeitig eine Email mit Informationen zum Praktikum. Di 8:00-18:00 in Heinr.-Plett-Str. - Raum 1146": {
+   "en": "Block course during the lecture-free period. You will receive an email in good time via the Experimentalphysik 1 Moodle course with information on the practical course. Tue 8:00-18:00 in Heinr.-Plett-Str. - Room 1146",
+   "tr": "Derslerin olmadığı dönemde blok ders. Experimentalphysik 1 Moodle kursu aracılığıyla uygulama dersine ilişkin bilgileri içeren bir e-postayı zamanında alacaksınız. Salı 8:00-18:00, Heinr.-Plett-Str. - Oda 1146"
+  },
+  "Start in der ersten Semesterwoche KW 42": {
+   "en": "Start in the first week of the semester, calendar week 42",
+   "tr": "Başlangıç, dönemin ilk haftasında, takvim haftası 42"
+  },
+  "Die Veranstaltung findet in der ersten Semesterhälfte statt.": {
+   "en": "The course takes place in the first half of the semester.",
+   "tr": "Ders, dönemin ilk yarısında yapılır."
+  },
+  "Blockveranstaltung in der vorlesungsfreien Zeit. Sie erhalten über den Experimentalphysik 1 Moodlekurs rechtzeitig eine Email mit Informationen zum Praktikum. Veranstaltung findet statt in Raum 1146 Heinr.-Plett-.Str.": {
+   "en": "Block course during the lecture-free period. You will receive an email in good time via the Experimentalphysik 1 Moodle course with information on the practical course. The course takes place in Room 1146 Heinr.-Plett-.Str.",
+   "tr": "Derslerin olmadığı dönemde blok ders. Experimentalphysik 1 Moodle kursu aracılığıyla uygulama dersine ilişkin bilgileri içeren bir e-postayı zamanında alacaksınız. Ders, Oda 1146 Heinr.-Plett-.Str. adresinde yapılır."
+  },
+  "Verpflichtende Vorbesprechung mit Sicherheitsunterweisung.​Verbindliche Anmeldung bis zum 14.10.2026 an fprakt-anmeldung@uni-kassel.de unter Angabe von Matrikelnummer, Studiengang mit Jahr der Prüfungsordnung und Partner, wenn bekannt.": {
+   "en": "Mandatory kick-off meeting with safety instruction. Binding registration by 14.10.2026 to fprakt-anmeldung@uni-kassel.de, stating matriculation number, degree program with the year of the examination regulations, and partner if known.",
+   "tr": "Güvenlik eğitimini içeren zorunlu ön görüşme. Bağlayıcı kayıt 14.10.2026 tarihine kadar fprakt-anmeldung@uni-kassel.de adresine, öğrenci numarası, sınav yönetmeliğinin yılıyla birlikte öğrenim programı ve biliniyorsa partner belirtilerek yapılır."
+  },
+  "Infos und Anmeldung über die Homepage der Physikdidaktik bis zum 30.09.": {
+   "en": "Information and registration via the Physikdidaktik homepage by 30.09.",
+   "tr": "Bilgi ve kayıt, 30.09. tarihine kadar Physikdidaktik ana sayfası üzerinden."
+  },
+  "https://moodle.uni-kassel.de/course/view.php?id=23276": {
+   "en": "https://moodle.uni-kassel.de/course/view.php?id=23276",
+   "tr": "https://moodle.uni-kassel.de/course/view.php?id=23276"
+  },
+  "Moodle-Kurs:https://moodle.uni-kassel.de/course/view.php?id=23275": {
+   "en": "Moodle course:https://moodle.uni-kassel.de/course/view.php?id=23275",
+   "tr": "Moodle kursu:https://moodle.uni-kassel.de/course/view.php?id=23275"
+  },
+  "Moodle-Kurs: https://moodle.uni-kassel.de/course/view.php?id=23275": {
+   "en": "Moodle course: https://moodle.uni-kassel.de/course/view.php?id=23275",
+   "tr": "Moodle kursu: https://moodle.uni-kassel.de/course/view.php?id=23275"
+  },
+  "Raum: Heinr.-Plett-Str. - Raum 1293 Termin n.V., Anmeldung über die Homepage der Physikdidaktik": {
+   "en": "Room: Heinr.-Plett-Str. - Room 1293, appointment by arrangement, registration via the Physikdidaktik homepage",
+   "tr": "Oda: Heinr.-Plett-Str. - Oda 1293, tarih anlaşmaya göre, kayıt Physikdidaktik ana sayfası üzerinden"
+  },
+  "Anmeldung über den zugehörigen Moodle-Kurs": {
+   "en": "Registration via the corresponding Moodle course",
+   "tr": "Kayıt, ilgili Moodle kursu üzerinden"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General",
+  "Wahlpflicht 1": "Compulsory Elective 1",
+  "Wahlpflicht 2": "Compulsory Elective 2"
+ },
+ "modules": [
+  {
+   "id": "m27039",
+   "title": "Modul 1 Physik I für Lehramt L3",
+   "titleEn": "Module 1 Physics I for Teacher Training L3",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "70212",
+     "70226",
+     "70360",
+     "70361",
+     "70362",
+     "71011"
+    ]
+   },
+   "courseIds": [
+    "70212",
+    "54637",
+    "70226",
+    "70360",
+    "70361",
+    "70362",
+    "70359",
+    "71011"
+   ]
+  },
+  {
+   "id": "m18711",
+   "title": "Modul 10 Mathematische Methoden der Physik",
+   "titleEn": "Module 10 Mathematical Methods of Physics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht 2"
+   ],
+   "categories": [
+    "Wahlpflicht 2"
+   ],
+   "section": "Wahlpflicht 2",
+   "pickOne": false,
+   "courseIds": [
+    "70944",
+    "70945"
+   ]
+  },
+  {
+   "id": "m27045",
+   "title": "Modul 10 Praxissemester im Fach Physik",
+   "titleEn": "Module 10 Practical Semester in Physics",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "54735",
+    "66036",
+    "66037"
+   ]
+  },
+  {
+   "id": "m18681",
+   "title": "Modul 11 Astrophysik",
+   "titleEn": "Module 11 Astrophysics",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Wahlpflicht 2"
+   ],
+   "categories": [
+    "Wahlpflicht 2"
+   ],
+   "section": "Wahlpflicht 2",
+   "pickOne": false,
+   "courseIds": [
+    "70994",
+    "70995"
+   ]
+  },
+  {
+   "id": "m18640",
+   "title": "Modul 13 Fortgeschrittenenpraktikum I für Lehramt",
+   "titleEn": "Module 13 Advanced Lab I for Teacher Training",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70966"
+   ]
+  },
+  {
+   "id": "m18680",
+   "title": "Modul 15 Theoretische Mechanik für Lehramt",
+   "titleEn": "Module 15 Theoretical Mechanics for Teacher Training",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70961",
+    "70964"
+   ]
+  },
+  {
+   "id": "m27016",
+   "title": "Modul 17 Fortgeschrittenenpraktikum II für Lehramt",
+   "titleEn": "Module 17 Advanced Lab II for Teacher Training",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht 2"
+   ],
+   "categories": [
+    "Wahlpflicht 2"
+   ],
+   "section": "Wahlpflicht 2",
+   "pickOne": false,
+   "courseIds": [
+    "70996"
+   ]
+  },
+  {
+   "id": "m18664",
+   "title": "Modul 17 Festkörperphysik",
+   "titleEn": "Module 17 Solid State Physics",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Wahlpflicht 2"
+   ],
+   "categories": [
+    "Wahlpflicht 2"
+   ],
+   "section": "Wahlpflicht 2",
+   "pickOne": false,
+   "courseIds": [
+    "70983"
+   ]
+  },
+  {
+   "id": "m27023",
+   "title": "Modul 3 Physik III für Lehramt L3",
+   "titleEn": "Module 3 Physics III for Teacher Training L3",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "70459",
+     "70507",
+     "70460",
+     "70458"
+    ]
+   },
+   "courseIds": [
+    "70212",
+    "54637",
+    "70226",
+    "70459",
+    "70507",
+    "70460",
+    "70458"
+   ]
+  },
+  {
+   "id": "m18679",
+   "title": "Modul 5 Physik V für Lehramt",
+   "titleEn": "Module 5 Physics V for Teacher Training",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70509"
+   ]
+  },
+  {
+   "id": "m18668",
+   "title": "Modul 7 Aktuelle Themen der Physikdidaktik",
+   "titleEn": "Module 7 Current Topics in Physics Didactics",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Wahlpflicht 1",
+    "Wahlpflicht 2"
+   ],
+   "categories": [
+    "Wahlpflicht 1"
+   ],
+   "section": "Wahlpflicht 1",
+   "pickOne": false,
+   "courseIds": [
+    "54728"
+   ]
+  },
+  {
+   "id": "m18648",
+   "title": "Modul 9 Physikalisches Seminar",
+   "titleEn": "Module 9 Physics Seminar",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Wahlpflicht 1",
+    "Wahlpflicht 2"
+   ],
+   "categories": [
+    "Wahlpflicht 1"
+   ],
+   "section": "Wahlpflicht 1",
+   "pickOne": false,
+   "courseIds": [
+    "70969"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "70212",
+   "title": "Experimentalphysik I",
+   "number": "FB1018.4000w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. René Matzdorf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Beginn der Vorlesung: 09:00 Uhr; von 08-09 Uhr reserviert für Aufbau der Experimente",
+       "instructors": [
+        "Prof. Dr. René Matzdorf"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Beginn der Vorlesung: 09:00 Uhr; von 08-09 Uhr reserviert für Aufbau der Experimente",
+       "instructors": [
+        "Prof. Dr. René Matzdorf"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70212&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24784",
+    "key": true
+   },
+   "titleEn": "Experimental Physics I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54637",
+   "title": "Brückenkurs Physik (freiwilliges Zusatzangebot)",
+   "number": "FB1018.4105s",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Ulrike Kürpick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Ulrike Kürpick"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54637&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24724",
+    "key": true
+   },
+   "titleEn": "Physics Bridge Course (Voluntary Additional Offer)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70226",
+   "title": "Übungen zur Experimentalphysik I",
+   "number": "FB1018.4001w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. René Matzdorf, Dr. Ulrike Kürpick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. René Matzdorf",
+        "Dr. Ulrike Kürpick"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. René Matzdorf",
+        "Dr. Ulrike Kürpick"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. René Matzdorf",
+        "Dr. Ulrike Kürpick"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70226&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24784",
+    "key": true
+   },
+   "titleEn": "Exercises for Experimental Physics I",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70360",
+   "title": "Experimentieren im Unterricht Teil I",
+   "number": "FB1018.4526w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Julia Hädrich, Niklas Kempf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:30",
+       "end": "10:30",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Start der Veranstaltung wird noch bekanntgegeben",
+       "instructors": [],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70360&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23612",
+    "key": true
+   },
+   "titleEn": "Experimenting in the Classroom Part I",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70361",
+   "title": "Experimentelle Vorbereitung zum \"Experimentieren im Unterricht Teil I\"",
+   "number": "FB1018.4528w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Niklas Kempf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:30",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Start der Veranstaltung wird noch bekanntgegeben",
+       "instructors": [
+        "Niklas Kempf"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70361&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23612",
+    "key": true
+   },
+   "titleEn": "Experimental Preparation for \"Experimenting in the Classroom Part I\"",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70362",
+   "title": "Fachdidaktisches Seminar Teil I",
+   "number": "FB1018.4591",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Julia Hädrich, Niklas Kempf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "12:30",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Start der Veranstaltung wird noch bekanntgegeben",
+       "instructors": [],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70362&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23614",
+    "key": true
+   },
+   "titleEn": "Subject Didactics Seminar Part I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70359",
+   "title": "Vorbereitungskurs für das Praktikum Physik I",
+   "number": "FB1018.4104w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Ulrike Kürpick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "13:00",
+       "startDate": "2027-02-15",
+       "endDate": "2027-02-19",
+       "cancelled": [],
+       "note": "Bitte beachten Sie die Aushänge am schwarzen Brett neben dem Raum 1104",
+       "instructors": [],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70359&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Preparatory Course for the Physics I Lab",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71011",
+   "title": "Anfängerpraktikum für Lehramt zur Physik I",
+   "number": "FB1018.4121w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. René Matzdorf, Dr. Ulrike Kürpick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Blockveranstaltung in der vorlesungsfreien Zeit. Sie erhalten über den Experimentalphysik 1 Moodlekurs rechtzeitig eine Email mit Informationen zum Praktikum. Di 8:00-18:00 in Heinr.-Plett-Str. - Raum 1146",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71011&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Beginners' Lab for Teacher Training in Physics I",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70459",
+   "title": "Experimentieren im Unterricht Teil III",
+   "number": "FB1018.4510w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Julia Hädrich, Niklas Kempf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:30",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Start in der ersten Semesterwoche KW 42",
+       "instructors": [],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70459&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2727",
+    "key": true
+   },
+   "titleEn": "Experimenting in the Classroom Part III",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70507",
+   "title": "Experimentelle Vorbereitung zum \"Experimentieren im Unterricht Teil III\"",
+   "number": "FB1018.4520w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Julia Hädrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:30",
+       "end": "10:30",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Start in der ersten Semesterwoche KW 42",
+       "instructors": [
+        "Julia Hädrich"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70507&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Experimental Preparation for \"Experimenting in the Classroom Part III\"",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70460",
+   "title": "Fachdidaktisches Seminar Teil III",
+   "number": "FB1018.4545w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Julia Hädrich, Niklas Kempf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "12:30",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Veranstaltung findet in der ersten Semesterhälfte statt.",
+       "instructors": [],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70460&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar Part III",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70458",
+   "title": "Anfängerpraktikum für Lehramt zur Physik III",
+   "number": "FB1018.4123w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. René Matzdorf, Dr. Ulrike Kürpick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Blockveranstaltung in der vorlesungsfreien Zeit. Sie erhalten über den Experimentalphysik 1 Moodlekurs rechtzeitig eine Email mit Informationen zum Praktikum. Veranstaltung findet statt in Raum 1146 Heinr.-Plett-.Str.",
+       "instructors": [
+        "Prof. Dr. René Matzdorf"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70458&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Beginners' Lab for Teacher Training in Physics III",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70509",
+   "title": "Experimentalphysik III",
+   "number": "FB1018.4020w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Kilian Singer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "13:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kilian Singer"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70509&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Experimental Physics III",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70961",
+   "title": "Theoretische Mechanik",
+   "number": "FB1018.4310w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Stefan Yoshi Buhmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70961&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23162",
+    "key": false
+   },
+   "titleEn": "Theoretical Mechanics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70964",
+   "title": "Übungen zur Theoretischen Mechanik",
+   "number": "FB1018.4315w",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Stefan Yoshi Buhmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70964&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23162",
+    "key": false
+   },
+   "titleEn": "Exercises for Theoretical Mechanics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70966",
+   "title": "Physik-Fortgeschrittenenpraktikum I L2/L3",
+   "number": "FB1018.4141",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Dr. Arne Senftleben, Prof. Dr. Jochen Mikosch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-10-19",
+       "cancelled": [],
+       "note": "Verpflichtende Vorbesprechung mit Sicherheitsunterweisung.​Verbindliche Anmeldung bis zum 14.10.2026 an fprakt-anmeldung@uni-kassel.de unter Angabe von Matrikelnummer, Studiengang mit Jahr der Prüfungsordnung und Partner, wenn bekannt.",
+       "instructors": [
+        "Dr. Arne Senftleben",
+        "Prof. Dr. Jochen Mikosch"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70966&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "650",
+    "key": false
+   },
+   "titleEn": "Advanced Physics Lab I L2/L3",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54728",
+   "title": "Aktuelle Themen aus der Physikdidaktik - Eigenständige Projektarbeit am Beispiel des des SFN",
+   "number": "FB1018.4540",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Adrian Wolf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Infos und Anmeldung über die Homepage der Physikdidaktik bis zum 30.09.",
+       "instructors": [
+        "Adrian Wolf"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54728&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Current Topics from Physics Didactics - Independent Project Work Using the Example of the SFN",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70969",
+   "title": "Physikalisches Seminar BA",
+   "number": "FB1018.5500w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Marcel Mudrich, Prof. Dr. Mohamed Benyoucef, Prof. Dr. Philipp Demekhin, Prof. Dr. Arno Ehresmann, Prof. Dr. Martin E. Garcia, Prof. Dr. Thomas Giesen, Prof. Dr. René Matzdorf, Prof. Dr. Jochen Mikosch, Prof. Dr. Gustavo Miguel Pastor, Prof. Dr. Kilian Singer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "14:30",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "https://moodle.uni-kassel.de/course/view.php?id=23276",
+       "instructors": [],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70969&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23276",
+    "key": false
+   },
+   "titleEn": "Physics Seminar BA",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70944",
+   "title": "Mathematical Methods of Physics (Mathematische Methoden der Physik)",
+   "number": "FB1018.4075w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Philipp Demekhin",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Philipp Demekhin"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Philipp Demekhin"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70944&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24204",
+    "key": true
+   },
+   "titleEn": "Mathematical Methods of Physics (Mathematische Methoden der Physik)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70945",
+   "title": "Mathematical Methods of Physics - Exercises (Übungen zu Mathematischen Methoden der Physik)",
+   "number": "FB1018.4080w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Philipp Demekhin",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Philipp Demekhin"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70945&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24204",
+    "key": true
+   },
+   "titleEn": "Mathematical Methods of Physics - Exercises (Exercises for Mathematical Methods of Physics)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70994",
+   "title": "Astrophysik I",
+   "number": "FB1018.5520w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Guido Fuchs",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Guido Fuchs"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70994&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24697",
+    "key": false
+   },
+   "titleEn": "Astrophysics I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70995",
+   "title": "Übungen zur Astrophysik I",
+   "number": "FB1018.5521w",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Dr. Guido Fuchs",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Guido Fuchs"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70995&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24697",
+    "key": false
+   },
+   "titleEn": "Exercises in Astrophysics I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70996",
+   "title": "Physik-Fortgeschrittenenpraktikum II L3",
+   "number": "FB1018.4143",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Dr. Arne Senftleben, Prof. Dr. Jochen Mikosch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-10-19",
+       "cancelled": [],
+       "note": "Verpflichtende Vorbesprechung mit Sicherheitsunterweisung.​Verbindliche Anmeldung bis zum 14.10.2026 an fprakt-anmeldung@uni-kassel.de unter Angabe von Matrikelnummer, Studiengang mit Jahr der Prüfungsordnung und Partner, wenn bekannt.",
+       "instructors": [
+        "Dr. Arne Senftleben",
+        "Prof. Dr. Jochen Mikosch"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70996&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "650",
+    "key": false
+   },
+   "titleEn": "Advanced Physics Lab II L3",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70983",
+   "title": "Experimentalphysik V",
+   "number": "FB1018.4040w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Marcel Mudrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Moodle-Kurs:https://moodle.uni-kassel.de/course/view.php?id=23275",
+       "instructors": [
+        "Prof. Dr. Marcel Mudrich"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Moodle-Kurs: https://moodle.uni-kassel.de/course/view.php?id=23275",
+       "instructors": [
+        "Prof. Dr. Marcel Mudrich"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70983&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23275",
+    "key": false
+   },
+   "titleEn": "Experimental Physics V",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54735",
+   "title": "Schulpraktische Studien Physik II",
+   "number": "FB1018.4571",
+   "type": "Schulpraktische Studien",
+   "language": "deutsch",
+   "responsible": "Prof. Rita Wodzinski",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Raum: Heinr.-Plett-Str. - Raum 1293 Termin n.V., Anmeldung über die Homepage der Physikdidaktik",
+       "instructors": [
+        "Prof. Rita Wodzinski"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54735&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "School Practical Studies in Physics II",
+   "typeEn": "School Practical Studies"
+  },
+  {
+   "id": "66036",
+   "title": "Begleitseminar zum Praxissemester",
+   "number": "FB1018.4582w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Hagen Langhut",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "14:30",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Hagen Langhut"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66036&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24274",
+    "key": true
+   },
+   "titleEn": "Accompanying Seminar for the Practical Semester",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "66037",
+   "title": "Fachmethodik – Flankierendes Seminar zum Praxissemester",
+   "number": "FB1018.4583",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Rita Wodzinski",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Anmeldung über den zugehörigen Moodle-Kurs",
+       "instructors": [
+        "Prof. Rita Wodzinski"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66037&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "19235",
+    "key": true
+   },
+   "titleEn": "Subject Methodology – Flanking Seminar for the Practical Semester",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

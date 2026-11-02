@@ -1,0 +1,161 @@
+{
+  "summary": "PO 2023 section 7 (study-plan label PO-2024 in Mitteilungsblatt 4/2025): compulsory law modules R1 to R16, economics modules W1 to W4 plus two economics electives (W5, 12 ECTS), integration modules IB1 to IB4, key competencies, and Integrated Sustainability Studies B (30 ECTS: the two basic modules of 6 ECTS plus one sustainability specialization of 18 ECTS, per AB NaS section 8(2) and section 5(1)). Schwerpunkte 23 and 24 are not available.",
+  "categories": [
+    {
+      "id": "Integrierte Nachhaltigkeitsstudien B > Basismodule",
+      "group": "area",
+      "name": "Sustainability studies: basic modules",
+      "nameDe": "Integrierte Nachhaltigkeitsstudien: Basismodule",
+      "short": "NaS basic module",
+      "count": 1,
+      "ects": 12,
+      "note": "Both basic modules are required: Grundlagen und Theorien der Nachhaltigkeit (6 ECTS) and Erkenntnistheorie und Methoden der Nachhaltigkeit (6 ECTS). The checker count of 1 is only a semester cap because Erkenntnistheorie is not offered this winter.",
+      "compulsory": true
+    },
+    {
+      "id": "W5 - Wirtschaftswissenschaften Wahl",
+      "group": "module",
+      "name": "Economics electives I and II",
+      "nameDe": "Wirtschaftswissenschaften Wahl I und II",
+      "short": "Economics WP",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS: choose two of Finanzwirtschaft, Entscheidungsorientierte Unternehmensrechnung, Marketing, Personalmanagement, Nachhaltige Unternehmensfuehrung, and Einfuehrung in die Umweltökonomik. The handbook line of 6 cp on the W5 sheet conflicts with section 7; this rule follows section 7."
+    },
+    {
+      "id": "nas-spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Akteure und Praktiken sozial-ökologischer Transformationen"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Biologische Prinzipien der Nachhaltigkeit - Molekularbiologie"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Biologische Prinzipien der Nachhaltigkeit - Ökologie & Botanik"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Critical Sustainability in Art and Design"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Die grüne, klimagerechte Stadt"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Genese und Strukturen: Nachhaltigkeitskonzepte und Naturverhältnisse"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Humanwissenschaftliche Voraussetzungen nachhaltiger Entwicklung"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Informatik: Mensch und Gesellschaft"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Informatik: Sicherheit und Zuverlässigkeit"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Künstliche Intelligenz und Data Science"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Mathematische Grundlagen für SDG-Betrachtungen"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Mensch-Natur-Verhältnisse (Philosophie)"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Mobilität und Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltige Stoffkreisläufe und Produktlebenszyklen"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltige, energieeffiziente Gebäude"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeit in chemisch-physikalischen Anwendungen"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeitsdiskurse und Handlungsfelder"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeitskommunikation in Krisendiskursen"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeitskommunikation und gesellschaftliche Partizipation"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeitskommunikation zu kulturellen Normen und Werten"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeitsmanagement"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeitsstudien zur elektrischen Energietechnik"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Prozesse und Folgen: Diversität, Globalisierung und Solidarität"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Sozial gerechte Stadtentwicklung"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Transformatives Projektmanagement"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Umweltökonomik"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Wasserwirtschaft"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Ökologische Agrarsysteme"
+        },
+        {
+          "type": "area",
+          "id": "Integrierte Nachhaltigkeitsstudien B > Ökologische Landwirtschaft und Gesellschaft"
+        }
+      ],
+      "name": "One sustainability specialization",
+      "nameDe": "Nachhaltigkeitsstudien-Schwerpunkt (eine Wahl)",
+      "short": "NaS specialization",
+      "note": "18 ECTS as the full module bundle of one sustainability specialization (INS B is 30 ECTS: two basic modules of 6 ECTS plus one specialization of 18 ECTS). Take every module of the chosen specialization. That bundle is not always three modules: some specializations are two modules (8+10 or 9+9 ECTS), some are three modules of 6 ECTS, and some are four or five. In Genese und Strukturen (Schwerpunkt 6) and Wasserwirtschaft (Schwerpunkt 19), choose any three modules of 6 ECTS. In Critical Sustainability in Art and Design (Schwerpunkt 29), choose two modules of 9 ECTS. Where two modules are marked a/b, choose one. The checker count of 1 is only a shared semester cap, because some specializations offer a single module; it is not the regulation. If your specialization offers more than one module, take the whole bundle."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-wirtschaftsrecht-mit-integrierten-nachhaltigkeitsstudien",
+  "po": "Bachelor Wirtschaftsrecht mit Integrierten Nachhaltigkeitsstudien (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26795&token=3b0d6ba9a1823b6c3d5a9a1d9776136b5ec5a744",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26774&token=87abe3156b57122b02876153cd761a91bbbe6da6"
+  ]
+}

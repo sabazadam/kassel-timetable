@@ -1,0 +1,127 @@
+{
+  "summary": "The applicable text is the Fachprüfungsordnung of 25 September 2019 (BA 2019, Mitteilungsblatt 6/2020), in force from winter semester 2020/21. Section 7 requires 66 ECTS of compulsory theory, 12 ECTS of electives from study fields A to D including one 6-ECTS Studienarbeit, 6 ECTS of key competencies, the compulsory introductory studio, introductory project and 30-ECTS practice project, three different elective projects (36 ECTS, at least one Städtebau project and one Stadt- und Regionalentwicklung project), and the 6-ECTS thesis.",
+  "categories": [
+    {
+      "id": "Projekte",
+      "group": "area",
+      "name": "Elective projects",
+      "nameDe": "Projektmodule (Wahlpflicht)",
+      "short": "Projects",
+      "count": 3,
+      "note": "Three different 12-ECTS project modules over the program (36 ECTS), including at least one 'Projekt Städtebau' and one 'Projekt Stadt- und Regionalentwicklung'"
+    },
+    {
+      "id": "Studienfeld F",
+      "group": "area",
+      "name": "Key competencies (study achievements)",
+      "nameDe": "Studienleistungsmodule (Schlüsselkompetenzen)",
+      "short": "Key competencies",
+      "count": 2,
+      "note": "6 ECTS in total (3-ECTS modules)"
+    },
+    {
+      "id": "wp-fields",
+      "group": "anyOf",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflicht Allgemeine Wissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Instrumente, Verfahren und Technik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Planungsgegenstände und Planungsebenen"
+        }
+      ],
+      "name": "Electives from study fields A to D",
+      "nameDe": "Wahlpflichtmodule in den Studienfeldern A bis D",
+      "short": "Electives A-D",
+      "note": "12 ECTS from study fields A to D, including one compulsory 6-ECTS Studienarbeit (the other 6 ECTS may be one 6-ECTS module or two 3-ECTS modules). This semester's Städtebau offering is 3 ECTS and counts as 3 toward the 12, while the PO module description is 6 ECTS."
+    },
+    {
+      "id": "studienarbeit",
+      "group": "anyOf",
+      "count": 1,
+      "ects": 6,
+      "options": [
+        {
+          "type": "module",
+          "id": "Studienarbeit im Studienfeld A"
+        },
+        {
+          "type": "module",
+          "id": "Studienarbeit im Studienfeld B"
+        },
+        {
+          "type": "module",
+          "id": "Studienarbeit im Studienfeld C"
+        },
+        {
+          "type": "module",
+          "id": "Studienarbeit im Studienfeld D"
+        }
+      ],
+      "name": "Compulsory study paper",
+      "nameDe": "Studienarbeit in den Studienfeldern A bis D",
+      "short": "Studienarbeit",
+      "note": "One 6-ECTS Studienarbeit in study field A, B, C or D is compulsory and counts toward the 12 ECTS from fields A to D."
+    },
+    {
+      "id": "proj-staedtebau",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Projekt Städtebau I"
+        },
+        {
+          "type": "module",
+          "id": "Projekt Städtebau II"
+        }
+      ],
+      "name": "Urban design project",
+      "nameDe": "Projekt Städtebau I oder II",
+      "short": "Städtebau project",
+      "note": "At least one of the three elective projects must be a Städtebau project"
+    },
+    {
+      "id": "proj-sre",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Projekt Stadt- und Regionalentwicklung I"
+        },
+        {
+          "type": "module",
+          "id": "Projekt Stadt- und Regionalentwicklung II"
+        }
+      ],
+      "name": "Urban and regional development project",
+      "nameDe": "Projekt Stadt- und Regionalentwicklung I oder II",
+      "short": "SRE project",
+      "note": "At least one of the three elective projects must be a Stadt- und Regionalentwicklung project"
+    }
+  ],
+  "pickOne": [
+    "Interdisziplinäres Entwurfs- und Planungsprojekt",
+    "Projekt Stadt- und Regionalentwicklung I",
+    "Projekt Stadt- und Regionalentwicklung II"
+  ],
+  "slug": "bsc-stadt-und-regionalplanung",
+  "po": "Bachelor Stadt- und Regionalplanung (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8904&token=d7081868cd53757e4578645ba685f3c07ff309af"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "summary": "PO 2023 section 7: 39 ECTS compulsory modules (Allgemeine Mechatronik 6, Höhere Informatik 6, Höhere Mathematik 4 6, Höhere Regelungstechnik 6, Projekt Mechatronische Systeme 6, key competencies 9), then one specialization (Kraftfahrzeugtechnik und nachhaltige Mobilität, Optomechatronische Systeme, or Smart Mechatronic Systems) of 51 ECTS (18 ECTS basic modules and 33 ECTS advanced modules), and the 30 ECTS thesis. Allgemeine Mechatronik has no module in this semester's data. eCampus files the PO specialization Optomechatronische Systeme as the area Schwerpunkt Optoelektronische Systeme (5 modules, 28 ECTS this semester); the other two areas offer more than 5. The handbook does not mark which offered modules are basic or advanced.",
+  "categories": [
+    {
+      "id": "Höhere Mathematik 4",
+      "group": "area",
+      "name": "Advanced mathematics 4",
+      "nameDe": "Höhere Mathematik 4",
+      "short": "Mathematics 4",
+      "count": 1,
+      "ects": 6,
+      "note": "Compulsory Höhere Mathematik 4 area: 6 ECTS, one mathematics module.",
+      "compulsory": true
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (eine Wahl)",
+      "short": "Specialization",
+      "count": 1,
+      "ects": 51,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Kraftfahrzeugtechnik und nachhaltige Mobilität"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Optoelektronische Systeme"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Smart Mechatronic Systems"
+        }
+      ],
+      "note": "PO section 7 (3): 51 ECTS in the one chosen specialization, of which 18 ECTS are basic modules and 33 ECTS are advanced modules. eCampus files Optomechatronische Systeme as Schwerpunkt Optoelektronische Systeme, and the handbook does not mark which offered modules are basic or advanced."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-mechatronik",
+  "po": "Master Mechatronik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21969&token=2b10da534f52126b02867d0619b7656a74ae4645"
+  ]
+}

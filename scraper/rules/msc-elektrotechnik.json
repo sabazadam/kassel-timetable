@@ -1,0 +1,63 @@
+{
+  "summary": "PO 2023 section 8 (Mitteilungsblatt 18/2023): 30 ECTS basic modules, including compulsory Differentialgleichungen, 30 ECTS in one of six specializations, 30 ECTS electives, and the 30 ECTS thesis. E-Mobility is one specialization, so both of its eCampus sub-areas count toward the same 30 ECTS under the PO. Areas under Zulassung zum Master are admission conditions (section 6), outside the degree requirements in section 8.",
+  "categories": [
+    {
+      "id": "Basismodule",
+      "group": "area",
+      "name": "Basic modules",
+      "nameDe": "Basismodule",
+      "short": "Basic modules",
+      "count": 1,
+      "ects": 30,
+      "note": "The PO requires 30 ECTS of cross-specialization basic modules, including compulsory Differentialgleichungen (offered as Differentialgleichungen für Master Ingenieurwissenschaften, 6 ECTS). Each basic module is 6 ECTS; this semester offers four modules and 24 ECTS."
+    },
+    {
+      "id": "Wahlpflichtmodule",
+      "group": "area",
+      "name": "Elective modules",
+      "nameDe": "Wahlpflichtmodule",
+      "short": "Electives",
+      "count": 1,
+      "ects": 30,
+      "note": "The PO requires 30 ECTS from a cross-specialization catalogue of listed electives, unused basic modules, specialization modules not counted in your own specialization, and modules the examination board approves. This area lists the electives offered here (2-8 ECTS per the PO; this semester's eCampus list also contains Forschungspraxismodul at 10 ECTS, which is outside that range); the other catalogue parts still count when that rule is met."
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (eine Wahl)",
+      "short": "Specialization",
+      "count": 1,
+      "ects": 30,
+      "note": "The PO requires 30 ECTS in one of the six specializations, and each specialization module is worth 4-8 ECTS. E-Mobility is one specialization: modules from both eCampus sub-areas count toward the same 30 ECTS, and the regulations set no separate Pflicht quota; no single area path covers both sub-areas, so E-Mobility is not an option in this check.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule Automated Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule Electrical Energy Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule Electronics and Photonics"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule Information Technology"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule Smart Sensor Systems"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-elektrotechnik",
+  "po": "Master Elektrotechnik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21960&token=fe107d5d189fff4a78280b1b57067162f3f62e80"
+  ]
+}

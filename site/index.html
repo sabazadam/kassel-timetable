@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ders Programı</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27%3E%3Crect x=%271%27 y=%272%27 width=%2714%27 height=%2713%27 rx=%272%27 fill=%27%231b2436%27/%3E%3Crect x=%273%27 y=%276%27 width=%274%27 height=%275%27 fill=%27%23f3c94b%27/%3E%3Crect x=%279%27 y=%276%27 width=%274%27 height=%277%27 fill=%27white%27/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="fonts/fonts.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="title-block">
+      <!-- The title is the way home: the list of all programs. -->
+      <h1 class="brand"><a id="home-link" href="/"><span class="brand-back" aria-hidden="true"></span><svg class="brand-icon" viewBox="0 0 16 16" aria-hidden="true"><rect x="1" y="2" width="14" height="13" rx="2" fill="currentColor"/><rect x="3" y="6" width="4" height="5" fill="#f3c94b"/><rect x="9" y="6" width="4" height="7" fill="#fff"/></svg><span data-i18n="title">Ders Programı</span><span class="sr-only">: </span><span class="brand-hint" data-i18n="allPrograms">Tüm bölümler</span></a></h1>
+      <p id="subtitle" data-i18n="loading">Yükleniyor...</p>
+    </div>
+    <nav class="req-rail" aria-labelledby="req-title">
+      <h2 id="req-title" data-i18n="reqTitle">Gereklilikler</h2>
+      <p id="req-summary"></p>
+      <ul id="categories" class="req-strip"></ul>
+    </nav>
+    <div class="summary">
+      <div class="ects-meter">
+        <div class="ects-line">
+          <strong id="ects-sum">0</strong>
+          <span>/</span>
+          <input id="ects-target" type="number" min="1" max="60" step="1" value="30" data-i18n-aria="ectsTarget">
+          <span>ECTS</span>
+        </div>
+        <div class="bar" aria-hidden="true"><div id="ects-bar"></div></div>
+        <p id="ects-note"></p>
+      </div>
+      <p id="conflict-badge" class="badge ok"></p>
+      <div class="actions">
+        <button id="export-ics" type="button" class="primary" data-i18n="exportIcs">Takvime aktar</button>
+        <button id="clear" type="button" class="quiet" data-i18n="clear">Temizle</button>
+        <!-- What's new: a dot until news added since the last look has been read. -->
+        <button id="news" type="button" class="quiet news-button"><span data-i18n="news">Yenilikler</span><span id="news-dot" class="news-dot" hidden></span></button>
+        <label class="lang">
+          <span class="sr-only" data-i18n="language">Dil</span>
+          <select id="lang"></select>
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <main id="layout" class="layout">
+    <aside id="sidebar" class="sidebar">
+      <div class="controls">
+        <div class="search-row">
+          <input id="search" type="search" data-i18n-placeholder="search" data-i18n-aria="search">
+          <!-- Phones: the filters fold away behind this button so the list keeps the screen. -->
+          <button id="filters-toggle" type="button" class="filters-toggle" aria-controls="filters" aria-expanded="false"><span data-i18n="filters">Filtreler</span><span id="filters-count" class="filters-count" hidden></span></button>
+        </div>
+        <div id="filters" class="filters">
+        <!-- Optional: closed until someone wants a free day, so it does not read as a required step. -->
+        <details id="free-days-box" class="free-days">
+          <summary><span data-i18n="freeDaysLegend">Boş gün bırak</span><span id="free-days-chosen" class="free-days-chosen"></span></summary>
+          <p class="free-days-hint" data-i18n="freeDaysHint"></p>
+          <div id="free-days" class="day-toggles"></div>
+        </details>
+        <!-- Modules the module handbook places in the other semester (no dates this semester). -->
+        <label id="hide-later-row" class="check" hidden><input id="hide-later" type="checkbox"> <span id="hide-later-label"></span></label>
+        <details id="rules-box" class="rules-box" hidden></details>
+        </div>
+        <div id="compulsory-bar" class="compulsory-bar" hidden></div>
+        <p id="result-count" class="result-count"></p>
+        <p id="rule-note" class="rule-note" hidden></p>
+      </div>
+      <ul id="module-list" class="module-list"></ul>
+    </aside>
+
+    <section class="workspace">
+      <div class="workbar">
+      <button id="toggle-list" type="button" class="list-toggle" aria-controls="sidebar" aria-expanded="true"></button>
+      <div class="tabs" role="tablist">
+        <button id="tab-week" type="button" role="tab" aria-selected="true" aria-controls="view-week" data-i18n="tabWeek">Haftam</button>
+        <button id="tab-suggest" type="button" role="tab" aria-selected="false" aria-controls="view-suggest" data-i18n="tabSuggest">Hazır programlar</button>
+        <button id="tab-terms" type="button" role="tab" aria-selected="false" aria-controls="view-terms" data-i18n="tabTerms" hidden>Gelecek dönemler</button>
+        <button id="tab-friends" type="button" role="tab" aria-selected="false" aria-controls="view-friends" data-i18n="tabFriends">Arkadaşlar</button>
+      </div>
+      </div>
+
+      <div id="view-week" role="tabpanel" aria-labelledby="tab-week">
+        <div id="phase-nav" class="phase-nav" hidden></div>
+        <div id="calendar" class="calendar"></div>
+        <div id="other-dates" class="other-dates"></div>
+      </div>
+
+      <div id="view-suggest" role="tabpanel" aria-labelledby="tab-suggest" hidden>
+        <div class="suggest-bar">
+          <p id="suggest-intro" class="suggest-intro"></p>
+          <label class="check"><input id="keep-selected" type="checkbox" checked> <span data-i18n="keepSelected">Seçtiğim modülleri koru</span></label>
+        </div>
+        <p id="suggest-notice" class="notice" hidden></p>
+        <div id="suggestions" class="suggestions"></div>
+      </div>
+
+      <!-- Next semesters: which modules the module handbook plans for each term (data.offerings). -->
+      <div id="view-terms" role="tabpanel" aria-labelledby="tab-terms" hidden>
+        <div class="terms-bar">
+          <div id="term-picker" class="term-picker" role="group" data-i18n-aria="termPick"></div>
+          <input id="term-search" type="search" data-i18n-placeholder="termSearch" data-i18n-aria="termSearch">
+          <select id="term-area" data-i18n-aria="termArea"></select>
+        </div>
+        <p id="term-intro" class="term-intro"></p>
+        <p id="term-plan" class="term-plan" hidden></p>
+        <div id="term-list" class="term-list"></div>
+      </div>
+
+      <!-- Friends: the selection travels in a link (#share=...), friends are kept in this browser, and the
+           weeks are laid over each other to find the hours everyone is free. -->
+      <div id="view-friends" role="tabpanel" aria-labelledby="tab-friends" hidden>
+        <!-- Who is in the comparison; the week below shows their classes and, in green, when all of them are free. -->
+        <div class="compare-bar">
+          <ul id="people" class="people" data-i18n-aria="peopleTitle"></ul>
+          <div class="compare-tools">
+            <label class="free-min"><span data-i18n="freeMin">En kısa boşluk</span> <select id="free-min"></select></label>
+            <button id="share-open" type="button" class="primary share-open"><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="1" y="4" width="9" height="10" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="6" y="1.5" width="9" height="10" rx="1.5" fill="currentColor" opacity=".45"/></svg><span data-i18n="shareCopyShort">Linkini paylaş</span></button>
+          </div>
+        </div>
+        <div id="friends-calendar" class="calendar compare"></div>
+      </div>
+
+      <p id="footnote" class="footnote"></p>
+    </section>
+  </main>
+
+  <footer class="site-foot">
+    <p data-i18n="studentProject"></p>
+    <button id="feedback-foot" type="button" class="foot-link" data-i18n="fbFeedbackLink">Geri bildirim</button>
+    <a href="/impressum/" data-i18n="impressum">Impressum</a>
+    <a href="/datenschutz/" data-i18n="privacy">Datenschutz</a>
+  </footer>
+
+  <!-- Phones: one view at a time, switched from this dock, which also carries the live totals. -->
+  <nav id="mobile-nav" class="mobile-nav" data-i18n-aria="mobileViews">
+    <button type="button" data-mview="list"><span class="nav-label" data-i18n="navCourses">Dersler</span><span id="nav-list-stat" class="nav-stat"></span></button>
+    <button type="button" data-mview="week"><span class="nav-label" data-i18n="navWeek">Haftam</span><span id="nav-week-stat" class="nav-stat"></span></button>
+    <button type="button" data-mview="suggest"><span class="nav-label" data-i18n="navSuggest">Hazır</span><span class="nav-stat" data-i18n="navThemes">Program seç</span></button>
+    <button type="button" data-mview="friends"><span class="nav-label" data-i18n="navFriends">Arkadaşlar</span><span id="nav-friends-stat" class="nav-stat"></span></button>
+    <button type="button" data-mview="terms" hidden><span class="nav-label" data-i18n="navTerms">Dönemler</span><span id="nav-terms-stat" class="nav-stat"></span></button>
+  </nav>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+{
+  "summary": "PO 2020 (22 January 2020, in force from WS 2020/21) section 8: compulsory advanced seminar (MS 1, 6 ECTS); Software-Technik-Praktikum (8 ECTS) and 6 ECTS additive key competencies are compulsory but not chosen from this catalogue. Four mathematics electives (40 ECTS) must cover at least two of Analysis, Optimierung, Numerik and Stochastik, with 10 to 30 ECTS in each covered area; that area spread is not checked here. Exactly one computer science elective of at least 6 ECTS, one application specialization worth 24 ECTS, and the 30-ECTS thesis.",
+  "categories": [
+    {
+      "id": "Seminar",
+      "group": "module",
+      "name": "Advanced seminar",
+      "nameDe": "Vertiefungsseminar",
+      "short": "Seminar",
+      "count": 1,
+      "ects": 6,
+      "note": "Compulsory module MS 1, 6 ECTS. Several seminar topics may be offered; one is chosen.",
+      "compulsory": true
+    },
+    {
+      "id": "Wahlpflichtbereich > Informatik",
+      "group": "area",
+      "name": "Elective: Computer science",
+      "nameDe": "Wahlpflicht Informatik",
+      "short": "WP Informatik",
+      "count": 1,
+      "ects": 6,
+      "note": "Exactly one computer science module, and at least 6 ECTS (section 8 and Anlage 6). A module already taken in the bachelor cannot be chosen again."
+    },
+    {
+      "id": "wp-math",
+      "group": "anyOf",
+      "count": 4,
+      "ects": 40,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > Analysis"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > Numerik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > Optimierung"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > Stochastik"
+        }
+      ],
+      "name": "Four mathematics electives",
+      "nameDe": "Vier Wahlpflichtmodule Mathematik",
+      "short": "Math electives",
+      "note": "Four modules and 40 ECTS from Analysis, Optimierung, Numerik and Stochastik. At least two of those four areas must be covered, and each covered area may contribute 10 to 30 ECTS. Modules already taken in the bachelor cannot be chosen again. The area spread is not checked."
+    },
+    {
+      "id": "application-spec",
+      "group": "oneOf",
+      "count": 4,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Bauingenieurwesen"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Elektrotechnik"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Maschinenbau"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Umweltingenieurwesen"
+        }
+      ],
+      "name": "One application specialization",
+      "nameDe": "Anwendungsschwerpunkt (eine Wahl)",
+      "short": "Application spec.",
+      "note": "24 ECTS in one application specialization (section 3 and section 8). The study plan has four 6-ECTS slots, so the enforced count is 4. Modules offered this semester are 6 ECTS. Elektrotechnik offers 2 modules (12 ECTS) and Bauingenieurwesen 3 (18 ECTS), so those two specializations cannot be completed from this catalogue alone. A module listed under two specializations counts only for the specialization the student chose."
+    }
+  ],
+  "pickOne": [
+    "Seminar"
+  ],
+  "slug": "msc-technomathematik",
+  "po": "Master Technomathematik (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8900&token=a31a23104ecdc7a206800b8abe662bc0a18bb33c"
+  ]
+}

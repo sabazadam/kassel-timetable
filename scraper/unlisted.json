@@ -1,0 +1,4483 @@
+{
+ "period": 720,
+ "note": "Courses eCampus offers but attaches to no study program (eCampus course search, Veranstaltungen suchen). Placed from the moduldatenbank handbooks and course numbers with Grok, then checked by a second Grok pass; dropped placements are not listed. Entries with \"login\" were placed from pages that need a university login (eCampus Studienplaner); scrape with --public-only to leave them out.",
+ "programs": {
+  "bsc-architektur": [
+   {
+    "course": "68959",
+    "module": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "FB06.064",
+    "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "type": "Vorlesung/Übung",
+    "evidence": "The title names Architektur, Stadt und Landschaft, and position/theory courses sit in Wahlpflicht Allgemeine Wissenschaften."
+   },
+   {
+    "course": "69791",
+    "module": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "00ENarc210",
+    "title": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+    "type": "Sprachkurs",
+    "evidence": "Title offers the course for Architektur, Stadt- und Landschaftsplanung; UNIcert is an elective in Allgemeine Wissenschaften."
+   }
+  ],
+  "bsc-bauingenieurwesen": [
+   {
+    "course": "68949",
+    "module": "Mathematik II",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-1112-Ue",
+    "title": "Antizyklische Übungen zu Mathematik II",
+    "type": "Übung",
+    "evidence": "BauUmw-1112 is the off-cycle exercise for Mathematik II, the follow-up to Mathematik I in the Grundstudienphase."
+   },
+   {
+    "course": "68923",
+    "module": "Chemie",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-3105-T",
+    "title": "Chemie",
+    "type": "Tutorium",
+    "evidence": "BauUmw-3105 is a basic chemistry tutorium beside Naturwissenschaften in the shared Grundstudienphase."
+   },
+   {
+    "course": "68632",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-Ue",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Übung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers, matching the Schlüsselkompetenzen module filed under Allgemein."
+   },
+   {
+    "course": "68633",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-V",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers, matching the Schlüsselkompetenzen module filed under Allgemein."
+   },
+   {
+    "course": "70490",
+    "module": "Lean Construction- Grundlagen",
+    "areas": [
+     "Schwerpunkt Baubetrieb und Baumanagement"
+    ],
+    "ects": null,
+    "number": "BauUmw-2205-V",
+    "title": "Lean Construction- Grundlagen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-2205 Lean Construction is a construction-management elective in the Baubetrieb und Baumanagement specialization."
+   },
+   {
+    "course": "70493",
+    "module": "Prozessmodellierung im Bauwesen",
+    "areas": [
+     "Schwerpunkt Baubetrieb und Baumanagement"
+    ],
+    "ects": null,
+    "number": "BauUmw-2206-V",
+    "title": "Prozessmodellierung im Bauwesen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-2206 is the companion course to Lean Construction (BauUmw-2205) in the Baubetrieb und Baumanagement specialization."
+   },
+   {
+    "course": "57258",
+    "module": "Seminar Verkehrswesen",
+    "areas": [
+     "Schwerpunkt Verkehr"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Seminar Verkehrswesen",
+    "type": "Seminar",
+    "evidence": "Seminar Verkehrswesen is the transport seminar for programs whose curriculum has a Verkehr specialization."
+   }
+  ],
+  "bsc-berufliche-schulen-anglistik-nebenfach": [
+   {
+    "course": "68791",
+    "module": "Basismodul Fachdidaktik L4",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ang133T",
+    "title": "Tutorium: Introduction to EFL Learning and Teaching",
+    "type": "Tutorium",
+    "evidence": "Ang133T is the tutorial for Introduction to EFL Learning and Teaching, the L4 Basismodul Fachdidaktik."
+   }
+  ],
+  "bsc-berufliche-schulen-evangelische-religion-nebenfach": [
+   {
+    "course": "74282",
+    "module": "Orientierungstage der evangelischen Theologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ETh.040",
+    "title": "Orientierungstage der evangelischen Theologie",
+    "type": "Orientierungsveranstaltung",
+    "evidence": "Title names orientation days of evangelical theology for students entering this program."
+   },
+   {
+    "course": "68073",
+    "module": "Sprachkurs Griechisch",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ETh.009",
+    "title": "Sprachkurs Griechisch",
+    "type": "Sprachkurs",
+    "evidence": "ETh.009 from the Institute of Protestant Theology is the introductory Greek course for Evangelical Religion."
+   }
+  ],
+  "bsc-berufliche-schulen-franzoesisch-nebenfach": [
+   {
+    "course": "56403",
+    "module": "Französische Sprachwissenschaft Basismodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-1010",
+    "title": "PS SprachWi Frz 01",
+    "type": "Proseminar",
+    "evidence": "Proseminar Sprachwissenschaft Französisch is the introductory seminar of the French linguistics basis module."
+   },
+   {
+    "course": "69209",
+    "module": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0107-Einf.L.IfR",
+    "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Romanistik institute introduction for first-semester students; this program starts French studies with basis modules."
+   }
+  ],
+  "bsc-berufliche-schulen-germanistik-nebenfach": [
+   {
+    "course": "69282",
+    "module": "Theorien und Methoden der Didaktik der deutschen Sprache und Literatur (Basismodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 110",
+    "title": "Einführung in die Deutschdidaktik",
+    "type": "Vorlesung mit Tutorium",
+    "evidence": "Introductory German-didactics lecture; it matches this program's didactics Basismodul. Handbook also lists Deutsch L5, which is not on the site."
+   },
+   {
+    "course": "60044",
+    "module": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 077",
+    "title": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "type": "Seminar",
+    "evidence": "Germanistik seminar on the 20th-century literary canon; this program has a Neuere Literaturwissenschaft basis module."
+   },
+   {
+    "course": "56931",
+    "module": "Theorien und Methoden der Didaktik der deutschen Sprache und Literatur (Basismodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 042",
+    "title": "Rechtschreibung im Literaturunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "German didactic seminar; this is the program's only German-didactics module."
+   }
+  ],
+  "bsc-berufliche-schulen-katholische-religion-nebenfach": [
+   {
+    "course": "69168",
+    "module": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0105-Einf.L.IfKTh",
+    "title": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Title is the Catholic-theology institute introduction for first-semester students, and this program starts that subject."
+   },
+   {
+    "course": "74185",
+    "module": "Basismodul Religionspädagogik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "KTh-0000-T-051",
+    "title": "Religionspädagogisches Tutorium und Beratung",
+    "type": "Tutorium",
+    "evidence": "Religionspädagogik tutorial supports the program's Basismodul Religionspädagogik."
+   }
+  ],
+  "bsc-berufliche-schulen-spanisch-nebenfach": [
+   {
+    "course": "68885",
+    "module": "Sprachpraxis Spanisch Basismodul I",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8000",
+    "title": "Propädeutikum",
+    "type": "Übung",
+    "evidence": "First Spanish propaedeutic, taught by the Spanish language-exam staff, matches Sprachpraxis Basismodul I."
+   },
+   {
+    "course": "68886",
+    "module": "Sprachpraxis Spanisch Basismodul II",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8000a",
+    "title": "Propädeutikum II",
+    "type": "Übung",
+    "evidence": "Propädeutikum II, taught by the second Spanish language lecturer, matches Sprachpraxis Basismodul II."
+   },
+   {
+    "course": "69209",
+    "module": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0107-Einf.L.IfR",
+    "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Romanistik institute introduction for first-semester students; this program starts Spanish studies with basis modules."
+   }
+  ],
+  "bsc-berufliche-schulen-sport-nebenfach": [
+   {
+    "course": "63718",
+    "module": "Modul 8: Spielen 1 (Zielschussspiele)",
+    "areas": [
+     "Zweites Unterrichtsfach Sport"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.32",
+    "title": "Basketball / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Basketball is a Zielschussspiel, matching Modul 8: Spielen 1 (Zielschussspiele)."
+   },
+   {
+    "course": "63720",
+    "module": "Modul 8: Spielen 1 (Zielschussspiele)",
+    "areas": [
+     "Zweites Unterrichtsfach Sport"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.33",
+    "title": "Handball / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Handball is a Zielschussspiel, matching Modul 8: Spielen 1 (Zielschussspiele)."
+   },
+   {
+    "course": "63736",
+    "module": "Modul 11: Schwimmen und Leichtathletik",
+    "areas": [
+     "Zweites Unterrichtsfach Sport"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.41",
+    "title": "Leichtathletik - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "The module title explicitly includes Leichtathletik, and this is an athletics Aufbaukurs."
+   },
+   {
+    "course": "63728",
+    "module": "Modul 11: Schwimmen und Leichtathletik",
+    "areas": [
+     "Zweites Unterrichtsfach Sport"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.38",
+    "title": "Schwimmen / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "The module title explicitly includes Schwimmen, and this is a swimming Aufbaukurs."
+   }
+  ],
+  "bsc-berufliche-schulen-wirtschaftspaedagogik-hauptfach": [
+   {
+    "course": "56694",
+    "module": "Mathematik",
+    "areas": [
+     "Wirtschaftswissenschaftliche Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Mathematik für Wirtschaftswissenschaften I",
+    "type": "Vorlesung/Übung",
+    "evidence": "Wirtschaftspädagogik lists the same Mathematik module as a compulsory economics foundation."
+   },
+   {
+    "course": "56695",
+    "module": "Mathematik",
+    "areas": [
+     "Wirtschaftswissenschaftliche Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Mathematik für Wirtschaftswissenschaften II",
+    "type": "Vorlesung/Übung",
+    "evidence": "Part II belongs to the Mathematik module of Wirtschaftspädagogik."
+   },
+   {
+    "course": "66807",
+    "module": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "areas": [
+     "Wirtschaftswissenschaftliche Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "type": "Vorlesung",
+    "evidence": "Wirtschaftspädagogik takes the same FB 07 advanced accounting electives; its Wahl Finance, Accounting, Controlling and Taxation bundle sits in Wirtschaftswissenschaftliche Wahlpflichtmodule."
+   }
+  ],
+  "bsc-biologie": [
+   {
+    "course": "54393",
+    "module": "GIS-Anwendungen in der Vegetationsökologie",
+    "areas": [
+     "Wahlpflicht Profilmodule Biologie"
+    ],
+    "ects": null,
+    "number": "FB1018.0745",
+    "title": "GIS-Anwendungen in der Vegetationsökologie",
+    "type": "Vorlesung / Übung",
+    "evidence": "Vegetation-ecology method course from FB 10 Ökologie, beyond the Pflicht module Ökologie, so a biology profile elective."
+   }
+  ],
+  "bsc-elektrotechnik": [
+   {
+    "course": "60007",
+    "module": "Bachelorprojekt im Fachgebiet Anlagen und Hochspannungstechnik",
+    "areas": [
+     "Schwerpunkt Electrical Energy Systems"
+    ],
+    "ects": null,
+    "number": "ETechn-1210-V1",
+    "title": "Bachelorprojekt im Fachgebiet Anlagen und Hochspannungstechnik",
+    "type": "Projekt",
+    "evidence": "ETechn bachelor project of the chair that teaches Elektrische Anlagen und Hochspannungstechnik I in Electrical Energy Systems."
+   },
+   {
+    "course": "59795",
+    "module": "Bachelorprojekt im Fachgebiet Automation und Sensorik in vernetzten Systemen",
+    "areas": [
+     "Schwerpunkt Smart Sensor Systems"
+    ],
+    "ects": null,
+    "number": "ETechn-1460-V1",
+    "title": "Bachelorprojekt im Fachgebiet Automation und Sensorik in vernetzten Systemen",
+    "type": "Vorlesung/Übung",
+    "evidence": "Bachelor project of the sensorik-in-networked-systems chair; Intelligente Technische Systeme is in Smart Sensor Systems, distinct from the control-theory focus."
+   },
+   {
+    "course": "60029",
+    "module": "Bachelorprojekt im Fachgebiet Elektrische Maschinen und Antriebe",
+    "areas": [
+     "Schwerpunkt E-Mobility > Pflichtmodule E-Mobility"
+    ],
+    "ects": null,
+    "number": "ETechn-1960-V1",
+    "title": "Bachelorprojekt im Fachgebiet Elektrische Maschinen und Antriebe",
+    "type": "Projekt",
+    "evidence": "Elektrische Maschinen is a Pflicht module of the E-Mobility focus; Antriebe matches that focus."
+   },
+   {
+    "course": "60037",
+    "module": "Bachelorprojekt im Fachgebiet Fahrzeugsysteme und Grundlagen der Elektrotechnik",
+    "areas": [
+     "Schwerpunkt E-Mobility > Pflichtmodule E-Mobility"
+    ],
+    "ects": null,
+    "number": "ETechn-2210-V1",
+    "title": "Bachelorprojekt im Fachgebiet Fahrzeugsysteme und Grundlagen der Elektrotechnik",
+    "type": "Projekt",
+    "evidence": "Fahrzeugsysteme matches Elektrische und elektronische Systeme im Automobil 1 in the E-Mobility Pflicht area."
+   },
+   {
+    "course": "59987",
+    "module": "Bachelorprojekt im Fachgebiet Leistungselektronik",
+    "areas": [
+     "Schwerpunkt E-Mobility > Pflichtmodule E-Mobility",
+     "Schwerpunkt Electrical Energy Systems"
+    ],
+    "ects": null,
+    "number": "ETechn-2960-V1",
+    "title": "Bachelorprojekt im Fachgebiet Leistungselektronik",
+    "type": "Projekt",
+    "evidence": "Leistungselektronik (8 ECTS) is listed in the E-Mobility Pflicht area of the ET bachelor."
+   },
+   {
+    "course": "59913",
+    "module": "Bachelorprojekt im Fachgebiet Nachhaltige elektrische Energiesysteme",
+    "areas": [
+     "Schwerpunkt Electrical Energy Systems"
+    ],
+    "ects": null,
+    "number": "ETechn-3710-V1",
+    "title": "Bachelorprojekt im Fachgebiet Nachhaltige elektrische Energiesysteme",
+    "type": "Projekt",
+    "evidence": "Bachelor project of the sustainable electrical energy systems chair, whose subject is the Electrical Energy Systems focus."
+   }
+  ],
+  "bsc-erziehungswissenschaft-mit-integrierten-nachhaltigkeitsstudien": [
+   {
+    "course": "74891",
+    "module": "Adoleszenz und Schule im digitalen Wandel – Interaktionen mit der KI",
+    "areas": [
+     "Empirische Forschungszugänge"
+    ],
+    "ects": null,
+    "number": "ErWi-2230-Lehrforschungsprojekt10",
+    "title": "Adoleszenz und Schule im digitalen Wandel – Interaktionen mit der KI",
+    "type": "Lehrforschungsprojekt",
+    "evidence": "ErWi-2230 is an Erziehungswissenschaft module number in the same ErWi family the handbook assigns to this bachelor, and a Lehrforschungsprojekt fits the empirical-research area."
+   }
+  ],
+  "bsc-informatik": [
+   {
+    "course": "68884",
+    "module": "Grundlagen der Elektrotechnik 1 für Informatik",
+    "areas": [
+     "Wahlpflicht technische / praktische Informatik"
+    ],
+    "ects": null,
+    "number": "ETechn-2020-S1",
+    "title": "Grundlagen der Elektrotechnik 1 für Informatik",
+    "type": "Übung",
+    "evidence": "Title names the target group für Informatik; ETechn-2020 is the Elektrotechnik service module for informatics students."
+   },
+   {
+    "course": "68882",
+    "module": "Grundlagen der Elektrotechnik 1 für Informatik",
+    "areas": [
+     "Wahlpflicht technische / praktische Informatik"
+    ],
+    "ects": null,
+    "number": "ETechn-2020-V1",
+    "title": "Grundlagen der Elektrotechnik 1 für Informatik",
+    "type": "Vorlesung",
+    "evidence": "Lecture of the same für Informatik offering (ETechn-2020) as the exercise."
+   },
+   {
+    "course": "59376",
+    "module": "Mobile Internet Project Work",
+    "areas": [
+     "Wahlpflicht technische / praktische Informatik"
+    ],
+    "ects": null,
+    "number": "Inform-2090-V1",
+    "title": "Mobile Internet Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Inform- course in the Mobile Computing subject; that module is Wahlpflicht technische / praktische Informatik."
+   },
+   {
+    "course": "68914",
+    "module": "Digitale Logik",
+    "areas": [
+     "Grundbereich A"
+    ],
+    "ects": 5,
+    "number": "Inform-1250-V1",
+    "title": "Digitale Logik",
+    "type": "Vorlesung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 GBA-01 Digitale Logik (Pflicht, Inf-1252-M, jährlich im Wintersemester); eCampus attaches Inform-1250 only to the Elektrotechnik/Mathematik/Physik trees. Grok-verified 2026-10-20."
+   },
+   {
+    "course": "68918",
+    "module": "Digitale Logik",
+    "areas": [
+     "Grundbereich A"
+    ],
+    "ects": 5,
+    "number": "Inform-1250-S1",
+    "title": "Digitale Logik",
+    "type": "Übung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 GBA-01 Digitale Logik (Pflicht, Inf-1252-M, jährlich im Wintersemester); eCampus attaches Inform-1250 only to the Elektrotechnik/Mathematik/Physik trees. Grok-verified 2026-10-20."
+   },
+   {
+    "course": "70185",
+    "module": "Betriebssysteme und Systemprogrammierung",
+    "areas": [
+     "Hauptbereich"
+    ],
+    "ects": 8,
+    "number": "Inform-3750-V1",
+    "title": "Betriebssysteme und Systemprogrammierung",
+    "type": "Vorlesung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 HB-01 (Pflicht, Inf-3752-M, jährlich im Wintersemester); course number Inform-3750, same lecturer. Grok-verified 2026-10-20."
+   },
+   {
+    "course": "70186",
+    "module": "Betriebssysteme und Systemprogrammierung",
+    "areas": [
+     "Hauptbereich"
+    ],
+    "ects": 8,
+    "number": "Inform-3750-S1",
+    "title": "Betriebssysteme und Systemprogrammierung",
+    "type": "Übung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 HB-01 (Pflicht, Inf-3752-M, jährlich im Wintersemester); course number Inform-3750, same lecturer. Grok-verified 2026-10-20."
+   },
+   {
+    "course": "70187",
+    "module": "Betriebssysteme und Systemprogrammierung",
+    "areas": [
+     "Hauptbereich"
+    ],
+    "ects": 8,
+    "number": "Inform-3750-V2",
+    "title": "Betriebssysteme und Systemprogrammierung",
+    "type": "Praktikum",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 HB-01 (Pflicht, Inf-3752-M, jährlich im Wintersemester); course number Inform-3750, same lecturer. Grok-verified 2026-10-20."
+   },
+   {
+    "course": "70188",
+    "module": "Betriebssysteme und Systemprogrammierung",
+    "areas": [
+     "Hauptbereich"
+    ],
+    "ects": 8,
+    "number": "Inform-3750-S2",
+    "title": "Betriebssysteme und Systemprogrammierung",
+    "type": "Praktikum",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 HB-01 (Pflicht, Inf-3752-M, jährlich im Wintersemester); course number Inform-3750, same lecturer. Grok-verified 2026-10-20."
+   },
+   {
+    "course": "71013",
+    "module": "Computeralgebra I (Teil B)",
+    "areas": [
+     "Wahlpflicht theoretische Informatik / Mathematik"
+    ],
+    "ects": 6,
+    "number": "FB1017.2203",
+    "title": "Computeralgebra I (nur Teil B)",
+    "type": "Vorlesung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 WPTIM-03 Computeralgebra I (Teil B) (Mathe-8130-M, jährlich im Wintersemester); FB 10 course Computeralgebra I (nur Teil B). Grok-verified 2026-10-20."
+   },
+   {
+    "course": "71015",
+    "module": "Computeralgebra I (Teil B)",
+    "areas": [
+     "Wahlpflicht theoretische Informatik / Mathematik"
+    ],
+    "ects": 6,
+    "number": "FB1017.2204",
+    "title": "Übungen zu Computeralgebra I (Teil B)",
+    "type": "Übung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 WPTIM-03 Computeralgebra I (Teil B) (Mathe-8130-M, jährlich im Wintersemester); FB 10 course Computeralgebra I (nur Teil B). Grok-verified 2026-10-20."
+   },
+   {
+    "course": "54149",
+    "module": "Grundlagen der Algebra",
+    "areas": [
+     "Wahlpflicht theoretische Informatik / Mathematik"
+    ],
+    "ects": 6,
+    "number": "FB1017.2201w",
+    "title": "Grundlagen der Algebra",
+    "type": "Vorlesung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 WPTIM-08 Grundlagen der Algebra (Mathe-8070-M, jährlich im Wintersemester, Seiler); FB 10 lecture of the same title and lecturer, exercise shared with Computeralgebra."
+   },
+   {
+    "course": "70470",
+    "module": "Grundlagen der Algebra",
+    "areas": [
+     "Wahlpflicht theoretische Informatik / Mathematik"
+    ],
+    "ects": 6,
+    "number": "FB1017.2202w",
+    "title": "Übungen zu Grundlagen der Algebra und Computeralgebra",
+    "type": "Übung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 WPTIM-08 Grundlagen der Algebra (Mathe-8070-M, jährlich im Wintersemester, Seiler); FB 10 lecture of the same title and lecturer, exercise shared with Computeralgebra."
+   },
+   {
+    "course": "54291",
+    "module": "Formale Grundlagen der Informatik",
+    "areas": [
+     "Grundbereich A"
+    ],
+    "ects": null,
+    "number": "FB1017.7316w",
+    "title": "Übungen zu Formale Grundlagen der Informatik",
+    "type": "Übung",
+    "evidence": "Module handbook Informatik Bachelor PO-2026 GBA-03 lists VLmP (2 SWS) and Ü (2 SWS); eCampus attaches the exercise FB1017.7316w only to the Mathematik tree, the lecture FB1017.7315w is in the Informatik tree."
+   },
+   {
+    "course": "69040",
+    "module": "Stochastik",
+    "areas": [
+     "Hauptbereich"
+    ],
+    "ects": 6,
+    "number": "Inform-1750-V1",
+    "title": "Stochastik in der technischen Anwendung",
+    "type": "Vorlesung",
+    "evidence": "eCampus Module/Studiengänge tab of courses 69040 and 69041 (read 2026-10-21) assigns them to Inf-1751-M HB-10 Stochastik (Bachelor Informatik PO-2026, Pflicht, 6 cp, jährlich im Wintersemester, Prof. Sick); the PO-2026 tree lacks the module. Student feedback 2026-10-21: Stochastik fehlt."
+   },
+   {
+    "course": "69041",
+    "module": "Stochastik",
+    "areas": [
+     "Hauptbereich"
+    ],
+    "ects": 6,
+    "number": "Inform-1750-S1",
+    "title": "Stochastik in der technischen Anwendung",
+    "type": "Übung",
+    "evidence": "eCampus Module/Studiengänge tab of courses 69040 and 69041 (read 2026-10-21) assigns them to Inf-1751-M HB-10 Stochastik (Bachelor Informatik PO-2026, Pflicht, 6 cp, jährlich im Wintersemester, Prof. Sick); the PO-2026 tree lacks the module. Student feedback 2026-10-21: Stochastik fehlt."
+   }
+  ],
+  "bsc-kombi-germanistik-hauptfach": [
+   {
+    "course": "60044",
+    "module": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 077",
+    "title": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "type": "Seminar",
+    "evidence": "Germanistik seminar on the 20th-century literary canon, which belongs to Neuere Literaturwissenschaft in this program."
+   }
+  ],
+  "bsc-kombi-germanistik-nebenfach": [
+   {
+    "course": "60044",
+    "module": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 077",
+    "title": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "type": "Seminar",
+    "evidence": "Germanistik seminar on the 20th-century literary canon; the Nebenfach includes Neuere Literaturwissenschaft."
+   }
+  ],
+  "bsc-kombi-geschichte-epochen-menschen-raeume-hauptfach": [
+   {
+    "course": "65537",
+    "module": "Grundlagenmodul Neuzeit",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Gesch-1300-V2c",
+    "title": "Introduction to British and American History",
+    "type": "Orientierungskurs",
+    "evidence": "Handbook hit Geschichte: Epochen – Menschen – Räume Bachelor (PO-2024); Gesch-1300 introduces modern British and American history in Grundlagenmodul Neuzeit."
+   },
+   {
+    "course": "69068",
+    "module": "Orientierungstutorium des BA Geschichte",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Gesch-OT",
+    "title": "Orientierungstutorium des BA Geschichte",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Gesch-OT name the orientation tutorium of the BA Geschichte."
+   }
+  ],
+  "bsc-kombi-geschichte-epochen-menschen-raeume-nebenfach": [
+   {
+    "course": "65537",
+    "module": "Grundlagenmodul Neuzeit",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Gesch-1300-V2c",
+    "title": "Introduction to British and American History",
+    "type": "Orientierungskurs",
+    "evidence": "Handbook hit Geschichte: Epochen – Menschen – Räume Bachelor (PO-2024); Gesch-1300 introduces modern British and American history in Grundlagenmodul Neuzeit."
+   },
+   {
+    "course": "69068",
+    "module": "Orientierungstutorium des BA Geschichte",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Gesch-OT",
+    "title": "Orientierungstutorium des BA Geschichte",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Gesch-OT name the orientation tutorium of the BA Geschichte, including the Nebenfach."
+   }
+  ],
+  "bsc-kombi-geschichte-hauptfach": [
+   {
+    "course": "69068",
+    "module": "Orientierungstutorium des BA Geschichte",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Gesch-OT",
+    "title": "Orientierungstutorium des BA Geschichte",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Gesch-OT name the orientation tutorium of the BA Geschichte."
+   }
+  ],
+  "bsc-kombi-geschichte-nebenfach": [
+   {
+    "course": "69068",
+    "module": "Orientierungstutorium des BA Geschichte",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Gesch-OT",
+    "title": "Orientierungstutorium des BA Geschichte",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Gesch-OT name the orientation tutorium of the BA Geschichte, including the Nebenfach."
+   }
+  ],
+  "bsc-kombi-philosophie-hauptfach": [
+   {
+    "course": "69207",
+    "module": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0106-Einf.L.IfP",
+    "title": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Institute introduction for first-semester philosophy students, matching the philosophy Hauptfach."
+   }
+  ],
+  "bsc-kombi-philosophie-nebenfach": [
+   {
+    "course": "69207",
+    "module": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0106-Einf.L.IfP",
+    "title": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Institute introduction for first-semester philosophy students, matching the philosophy Nebenfach."
+   }
+  ],
+  "bsc-kombi-politikwissenschaft-hauptfach": [
+   {
+    "course": "69069",
+    "module": "Orientierungstutorium des BA Politikwissenschaft",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Pol-OT",
+    "title": "Orientierungstutorium des BA Politikwissenschaft",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Pol-OT name the orientation tutorium of the BA Politikwissenschaft."
+   }
+  ],
+  "bsc-kombi-politikwissenschaft-nebenfach": [
+   {
+    "course": "69069",
+    "module": "Orientierungstutorium des BA Politikwissenschaft",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Pol-OT",
+    "title": "Orientierungstutorium des BA Politikwissenschaft",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Pol-OT name the orientation tutorium of the BA Politikwissenschaft, including the Nebenfach."
+   }
+  ],
+  "bsc-kombi-soziologie-hauptfach": [
+   {
+    "course": "69070",
+    "module": "Orientierungstutorium des BA Soziologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Soz-OT",
+    "title": "Orientierungstutorium des BA Soziologie",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Soz-OT name the orientation tutorium of the BA Soziologie."
+   }
+  ],
+  "bsc-kombi-soziologie-nebenfach": [
+   {
+    "course": "69070",
+    "module": "Orientierungstutorium des BA Soziologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Soz-OT",
+    "title": "Orientierungstutorium des BA Soziologie",
+    "type": "Orientierungskurs",
+    "evidence": "Title and number Soz-OT name the orientation tutorium of the BA Soziologie, including the Nebenfach."
+   }
+  ],
+  "bsc-kombi-wirtschaftswissenschaften-nebenfach": [
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "The Nebenfach lists Mikroökonomik under Allgemein, matching this VWL I tutorium."
+   }
+  ],
+  "bsc-landschaftsarchitektur-und-landschaftsplanung": [
+   {
+    "course": "68959",
+    "module": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "FB06.064",
+    "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "type": "Vorlesung/Übung",
+    "evidence": "The title names Landschaft together with Architektur and Stadt, matching this program's elective Allgemeine Wissenschaften area."
+   },
+   {
+    "course": "60078",
+    "module": "Projekt aus L-Themenfeld Freiraum und Stadt",
+    "areas": [
+     "Projekte"
+    ],
+    "ects": null,
+    "number": "FB06.506",
+    "title": "Projekt aus L-Themenfeld: Freiraum und Stadt",
+    "type": "Projekt",
+    "evidence": "The course title is the existing L-Themenfeld project module Freiraum und Stadt."
+   },
+   {
+    "course": "69791",
+    "module": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "00ENarc210",
+    "title": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+    "type": "Sprachkurs",
+    "evidence": "Title offers the course for Architektur, Stadt- und Landschaftsplanung; UNIcert is an elective in Allgemeine Wissenschaften."
+   }
+  ],
+  "bsc-maschinenbau": [
+   {
+    "course": "70054",
+    "module": "Einführung in Python",
+    "areas": [
+     "Schwerpunkt Automatisierung und Digitale Transformation > Basis- und Vertiefungsmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführung in Python",
+    "type": "Blockseminar",
+    "evidence": "Handbook lists Einführung in Python for Maschinenbau Bachelor (PO-2023); programming modules sit in this focus."
+   },
+   {
+    "course": "74098",
+    "module": "Projektseminar Künstliche Intelligenz in der Mechanik",
+    "areas": [
+     "Schwerpunkt Modellierung und Simulation in der Angewandten Mechanik > Basis- und Vertiefungsmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Projektseminar Künstliche Intelligenz in der Mechanik",
+    "type": "Vorlesung/Übung",
+    "evidence": "Same IfM mechanics focus exists as the bachelor elective area for applied mechanics."
+   }
+  ],
+  "bsc-mathematik": [
+   {
+    "course": "54291",
+    "module": "Formale Grundlagen der Informatik",
+    "areas": [
+     "Anwendungsschwerpunkt > Informatik"
+    ],
+    "ects": null,
+    "number": "FB1017.7316w",
+    "title": "Übungen zu Formale Grundlagen der Informatik",
+    "type": "Übung",
+    "evidence": "Exercises for Formale Grundlagen der Informatik from the math institute (FB1017); theoretical CS electives sit in Anwendungsschwerpunkt Informatik."
+   }
+  ],
+  "bsc-mechatronik": [
+   {
+    "course": "70054",
+    "module": "Einführung in Python",
+    "areas": [
+     "Schwerpunkt Elektrotechnik / Informatik"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführung in Python",
+    "type": "Blockseminar",
+    "evidence": "Handbook lists Einführung in Python for Mechatronik Bachelor (PO-2023); the informatics focus is the programming elective area."
+   }
+  ],
+  "bsc-nachhaltige-et-systeme": [
+   {
+    "course": "60007",
+    "module": "Bachelorprojekt im Fachgebiet Anlagen und Hochspannungstechnik",
+    "areas": [
+     "Schwerpunkt > Schwerpunkt Electrical Energy Systems"
+    ],
+    "ects": null,
+    "number": "ETechn-1210-V1",
+    "title": "Bachelorprojekt im Fachgebiet Anlagen und Hochspannungstechnik",
+    "type": "Projekt",
+    "evidence": "Same chair's module Elektrische Anlagen und Hochspannungstechnik I sits in this program's Electrical Energy Systems focus."
+   },
+   {
+    "course": "59795",
+    "module": "Bachelorprojekt im Fachgebiet Automation und Sensorik in vernetzten Systemen",
+    "areas": [
+     "Schwerpunkt > Schwerpunkt Smart Sensor Systems"
+    ],
+    "ects": null,
+    "number": "ETechn-1460-V1",
+    "title": "Bachelorprojekt im Fachgebiet Automation und Sensorik in vernetzten Systemen",
+    "type": "Vorlesung/Übung",
+    "evidence": "Intelligente Technische Systeme [SP-24] is in this program's Smart Sensor Systems focus."
+   },
+   {
+    "course": "60029",
+    "module": "Bachelorprojekt im Fachgebiet Elektrische Maschinen und Antriebe",
+    "areas": [
+     "Schwerpunkt > Schwerpunkt E-Mobility"
+    ],
+    "ects": null,
+    "number": "ETechn-1960-V1",
+    "title": "Bachelorprojekt im Fachgebiet Elektrische Maschinen und Antriebe",
+    "type": "Projekt",
+    "evidence": "Elektrische Maschinen [SP-07] is listed in this program's E-Mobility focus."
+   },
+   {
+    "course": "60037",
+    "module": "Bachelorprojekt im Fachgebiet Fahrzeugsysteme und Grundlagen der Elektrotechnik",
+    "areas": [
+     "Schwerpunkt > Schwerpunkt E-Mobility"
+    ],
+    "ects": null,
+    "number": "ETechn-2210-V1",
+    "title": "Bachelorprojekt im Fachgebiet Fahrzeugsysteme und Grundlagen der Elektrotechnik",
+    "type": "Projekt",
+    "evidence": "Elektrische und elektronische Systeme im Automobil 1 [SP-08] is in this program's E-Mobility focus."
+   },
+   {
+    "course": "59987",
+    "module": "Bachelorprojekt im Fachgebiet Leistungselektronik",
+    "areas": [
+     "Schwerpunkt > Schwerpunkt E-Mobility",
+     "Schwerpunkt > Schwerpunkt Electrical Energy Systems"
+    ],
+    "ects": null,
+    "number": "ETechn-2960-V1",
+    "title": "Bachelorprojekt im Fachgebiet Leistungselektronik",
+    "type": "Projekt",
+    "evidence": "Leistungselektronik [SP-09] is in this program's E-Mobility focus."
+   },
+   {
+    "course": "60113",
+    "module": "Leistungselektronik",
+    "areas": [
+     "Schwerpunkt > Schwerpunkt E-Mobility",
+     "Schwerpunkt > Schwerpunkt Electrical Energy Systems"
+    ],
+    "ects": 8,
+    "number": "ETechn-2600-V8",
+    "title": "Energietechnisches Praktikum I (EnTP I)",
+    "type": "Praktikum",
+    "evidence": "Handbook gives 8 cp as VL 6 + Pr 2 in Schwerpunkt E-Mobility, which is exactly Leistungselektronik [SP-09] (8 ECTS)."
+   }
+  ],
+  "bsc-oekologische-landwirtschaft": [
+   {
+    "course": "69726",
+    "module": "Englisch für Agrarwissenschaften",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ENagrav",
+    "title": "(U) Englisch für Agrarwissenschaften (vorausgesetztes Sprachniveau: B2+) (ENagrav)",
+    "type": "Sprachkurs",
+    "evidence": "Title 'Englisch für Agrarwissenschaften' (ENagrav) targets the FB 11 Agrarwissenschaften programs; this program has no finer language area."
+   }
+  ],
+  "bsc-plusmint-bauingenieurwesen": [
+   {
+    "course": "68949",
+    "module": "Mathematik II",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-1112-Ue",
+    "title": "Antizyklische Übungen zu Mathematik II",
+    "type": "Übung",
+    "evidence": "BauUmw-1112 is the off-cycle exercise for Mathematik II, the follow-up to Mathematik I in the Grundstudienphase."
+   },
+   {
+    "course": "68923",
+    "module": "Chemie",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-3105-T",
+    "title": "Chemie",
+    "type": "Tutorium",
+    "evidence": "BauUmw-3105 is a basic chemistry tutorium beside Naturwissenschaften in the shared Grundstudienphase."
+   },
+   {
+    "course": "68632",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-Ue",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Übung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers, matching the Schlüsselkompetenzen module filed under Allgemein."
+   },
+   {
+    "course": "68633",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-V",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers, matching the Schlüsselkompetenzen module filed under Allgemein."
+   },
+   {
+    "course": "70490",
+    "module": "Lean Construction- Grundlagen",
+    "areas": [
+     "Schwerpunkt Baubetrieb und Baumanagement"
+    ],
+    "ects": null,
+    "number": "BauUmw-2205-V",
+    "title": "Lean Construction- Grundlagen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-2205 Lean Construction is a construction-management elective in the Baubetrieb und Baumanagement specialization."
+   },
+   {
+    "course": "70493",
+    "module": "Prozessmodellierung im Bauwesen",
+    "areas": [
+     "Schwerpunkt Baubetrieb und Baumanagement"
+    ],
+    "ects": null,
+    "number": "BauUmw-2206-V",
+    "title": "Prozessmodellierung im Bauwesen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-2206 is the companion course to Lean Construction (BauUmw-2205) in the Baubetrieb und Baumanagement specialization."
+   },
+   {
+    "course": "57258",
+    "module": "Seminar Verkehrswesen",
+    "areas": [
+     "Schwerpunkt Verkehr"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Seminar Verkehrswesen",
+    "type": "Seminar",
+    "evidence": "Seminar Verkehrswesen is the transport seminar for programs whose curriculum has a Verkehr specialization."
+   }
+  ],
+  "bsc-plusmint-maschinenbau": [
+   {
+    "course": "69257",
+    "module": "plusMINT Ringvorlesung",
+    "areas": [
+     "Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "plusMINT Ringvorlesung WiSe",
+    "type": "Ringvorlesung",
+    "evidence": "Title names plusMINT and the course is organised by FB 15 Maschinenbau."
+   },
+   {
+    "course": "69259",
+    "module": "plusMINT-Seminar/Mentoring",
+    "areas": [
+     "Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "plusMINT-Seminar/Mentoring WiSe",
+    "type": "Seminar / Tutorium",
+    "evidence": "Title names plusMINT mentoring and the course is organised by FB 15 Maschinenbau."
+   },
+   {
+    "course": "74098",
+    "module": "Projektseminar Künstliche Intelligenz in der Mechanik",
+    "areas": [
+     "Schwerpunkte > Schwerpunkt Modellierung und Simulation in der Angewandten Mechanik > Basis- und Vertiefungsmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Projektseminar Künstliche Intelligenz in der Mechanik",
+    "type": "Vorlesung/Übung",
+    "evidence": "plusMINT Maschinenbau has the same applied-mechanics elective focus."
+   }
+  ],
+  "bsc-plusmint-mechatronik": [
+   {
+    "course": "69257",
+    "module": "plusMINT Ringvorlesung",
+    "areas": [
+     "Grundstudienphase > Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "plusMINT Ringvorlesung WiSe",
+    "type": "Ringvorlesung",
+    "evidence": "Title names plusMINT; FB 15 also runs plusMINT Mechatronik, whose key-skills area is this one."
+   },
+   {
+    "course": "69259",
+    "module": "plusMINT-Seminar/Mentoring",
+    "areas": [
+     "Grundstudienphase > Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "plusMINT-Seminar/Mentoring WiSe",
+    "type": "Seminar / Tutorium",
+    "evidence": "Title names plusMINT mentoring; plusMINT Mechatronik places study-support courses in this key-skills area."
+   }
+  ],
+  "bsc-plusmint-umweltingenieurwesen": [
+   {
+    "course": "68949",
+    "module": "Mathematik II",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-1112-Ue",
+    "title": "Antizyklische Übungen zu Mathematik II",
+    "type": "Übung",
+    "evidence": "BauUmw-1112 is the off-cycle exercise for Mathematik II, the follow-up to Mathematik I in the Grundstudienphase."
+   },
+   {
+    "course": "68923",
+    "module": "Chemie",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-3105-T",
+    "title": "Chemie",
+    "type": "Tutorium",
+    "evidence": "BauUmw-3105 is a basic chemistry tutorium beside Naturwissenschaften in the shared Grundstudienphase."
+   },
+   {
+    "course": "68632",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-Ue",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Übung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers and fits the Schlüsselkompetenzen area."
+   },
+   {
+    "course": "68633",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-V",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers and fits the Schlüsselkompetenzen area."
+   }
+  ],
+  "bsc-soziale-arbeit": [
+   {
+    "course": "69879",
+    "module": "Einführungstutorien Soziale Arbeit",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführungstutorien Soziale Arbeit",
+    "type": "Einf. Veranstaltung",
+    "evidence": "The title is an introductory tutorial for Soziale Arbeit, offered by the Institut für Sozialwesen for the Bachelor Soziale Arbeit."
+   },
+   {
+    "course": "54103",
+    "module": "Verbundvorlesung: Beobachten, Beraten und Fördern aus der Perspektive psychoanalytischer Entwicklungspsychologie. Teil 1",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB01-IfE-010100-V-022",
+    "title": "Verbundvorlesung: Beobachten, Beraten und Fördern aus der Perspektive psychoanalytischer Entwicklungspsychologie. Teil 1",
+    "type": "Vorlesung",
+    "evidence": "Joint Erziehungswissenschaft and Sozialwesen lecture on observing, advising and supporting from psychoanalytic developmental psychology matches the social-work foundations module."
+   }
+  ],
+  "bsc-stadt-und-regionalplanung": [
+   {
+    "course": "68959",
+    "module": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "FB06.064",
+    "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "type": "Vorlesung/Übung",
+    "evidence": "The title names Stadt together with Architektur and Landschaft, matching this program's elective Allgemeine Wissenschaften area."
+   },
+   {
+    "course": "69791",
+    "module": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "00ENarc210",
+    "title": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+    "type": "Sprachkurs",
+    "evidence": "Title offers the course for Architektur, Stadt- und Landschaftsplanung; UNIcert is an elective in Allgemeine Wissenschaften."
+   }
+  ],
+  "bsc-umweltingenieurwesen": [
+   {
+    "course": "68949",
+    "module": "Mathematik II",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-1112-Ue",
+    "title": "Antizyklische Übungen zu Mathematik II",
+    "type": "Übung",
+    "evidence": "BauUmw-1112 is the off-cycle exercise for Mathematik II, the follow-up to Mathematik I in the Grundstudienphase."
+   },
+   {
+    "course": "68923",
+    "module": "Chemie",
+    "areas": [
+     "Grundstudienphase"
+    ],
+    "ects": null,
+    "number": "BauUmw-3105-T",
+    "title": "Chemie",
+    "type": "Tutorium",
+    "evidence": "BauUmw-3105 is a basic chemistry tutorium beside Naturwissenschaften in the shared Grundstudienphase."
+   },
+   {
+    "course": "68632",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-Ue",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Übung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers and fits the Schlüsselkompetenzen area."
+   },
+   {
+    "course": "68633",
+    "module": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "areas": [
+     "Schlüsselkompetenzen"
+    ],
+    "ects": null,
+    "number": "BauUmw-4105-V",
+    "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+    "type": "Vorlesung",
+    "evidence": "BauUmw-4105 is a cross-cutting psychology course for engineers and fits the Schlüsselkompetenzen area."
+   }
+  ],
+  "bsc-wirtschaftsinformatik": [
+   {
+    "course": "56694",
+    "module": "Mathematik",
+    "areas": [
+     "Pflichtmodule > Weitere Grundlagen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Mathematik für Wirtschaftswissenschaften I",
+    "type": "Vorlesung/Übung",
+    "evidence": "The same mathematics sequence is the Mathematik module of Wirtschaftsinformatik."
+   },
+   {
+    "course": "56695",
+    "module": "Mathematik",
+    "areas": [
+     "Pflichtmodule > Weitere Grundlagen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Mathematik für Wirtschaftswissenschaften II",
+    "type": "Vorlesung/Übung",
+    "evidence": "Part II belongs to the same Mathematik module in Wirtschaftsinformatik."
+   },
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "Wirtschaftsinformatik lists the same Mikroökonomik module as a Wirtschaftswissenschaften elective, so the tutorium belongs there."
+   }
+  ],
+  "bsc-wirtschaftsingenieurwesen-bauwesen": [
+   {
+    "course": "70079",
+    "module": "Einführungstage WiIng",
+    "areas": [
+     "Integrativer Studienbereich > Integrativer Studienbereich Pflicht"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführungstage WiIng",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Title is the orientation for the WiIng bachelor degrees; Bauwesen lists Projektmanagement 1 as the integrative Pflicht introduction."
+   },
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Grundlagen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "WiIng Bauwesen includes Mikroökonomik in the economics foundations, so the shared FB 07 tutorium belongs to that module."
+   }
+  ],
+  "bsc-wirtschaftsingenieurwesen-elektrotechnik": [
+   {
+    "course": "70079",
+    "module": "Einführungstage WiIng",
+    "areas": [
+     "Integrativer Studienbereich > Integrativer Studienbereich Pflicht"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführungstage WiIng",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Same WiIng orientation event for the Elektrotechnik track, whose integrative Pflicht area holds the introductory Pflicht modules."
+   },
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Grundlagen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "WiIng Elektrotechnik includes the same Mikroökonomik foundations module."
+   }
+  ],
+  "bsc-wirtschaftsingenieurwesen-maschinenbau": [
+   {
+    "course": "70079",
+    "module": "Einführungstage WiIng",
+    "areas": [
+     "Integrativer Studienbereich > Integrativer Studienbereich Pflicht"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführungstage WiIng",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Same WiIng orientation event for the Maschinenbau track, whose integrative Pflicht area holds the introductory Pflicht modules."
+   },
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Grundlagen"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "WiIng Maschinenbau includes the same Mikroökonomik foundations module."
+   }
+  ],
+  "bsc-wirtschaftsrecht": [
+   {
+    "course": "68173",
+    "module": "R1 - Studieneinführung und Grundlagen des Rechts",
+    "areas": [
+     "Rechtswissenschaften Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführungsveranstaltung Bachelorstudiengang Wirtschaftsrecht",
+    "type": "Einführung - Blockseminar",
+    "evidence": "Title is the bachelor Wirtschaftsrecht introduction and matches existing module R1 Studieneinführung und Grundlagen des Rechts."
+   },
+   {
+    "course": "68725",
+    "module": "IB1 - Ökonomische Analyse des Rechts",
+    "areas": [
+     "Integrationsbereich Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "IB3 - Ökonomische Analyse des Rechts (PO 18)",
+    "type": "Vorlesung/Übung",
+    "evidence": "Title matches the existing module IB1 - Ökonomische Analyse des Rechts; PO 18 marks the older examination regulation of the same subject."
+   },
+   {
+    "course": "57085",
+    "module": "R11 / R15 - KI-Regulierung - Vorlesung",
+    "areas": [
+     "Rechtswissenschaften Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "R11 / R15 - KI-Regulierung - Vorlesung",
+    "type": "Vorlesung",
+    "evidence": "Title R11 / R15 KI-Regulierung is the digital-society law lecture of Blocher and von Wangenheim, matching R12."
+   },
+   {
+    "course": "75274",
+    "module": "W4 - VWL II: Makroökonomik oder Wirtschaftspolitik",
+    "areas": [
+     "Wirtschaftswissenschaften Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL II Wiederholungstutorium",
+    "type": "Tutorium",
+    "evidence": "The tutorium repeats VWL II, which is the existing Pflicht module W4 - VWL II: Makroökonomik oder Wirtschaftspolitik in Bachelor Wirtschaftsrecht."
+   },
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Wirtschaftswissenschaften Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "Bachelor Wirtschaftsrecht has Mikroökonomik as a Pflicht module in the economics block."
+   }
+  ],
+  "bsc-wirtschaftsrecht-mit-integrierten-nachhaltigkeitsstudien": [
+   {
+    "course": "56489",
+    "module": "Einführung in die Umweltökonomik",
+    "areas": [
+     "Integrierte Nachhaltigkeitsstudien B > Umweltökonomik"
+    ],
+    "ects": 6,
+    "number": "FB07-3720-V-001",
+    "title": "Einführung in die Umweltökonomik",
+    "type": "Vorlesung",
+    "evidence": "Course number FB07-3720 matches the Umweltökonomik code family, and this program's Umweltökonomik area holds Ausgewählte Aspekte der Nachhaltigkeitsökonomik."
+   },
+   {
+    "course": "68725",
+    "module": "IB1 - Ökonomische Analyse des Rechts",
+    "areas": [
+     "Integrationsbereich Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "IB3 - Ökonomische Analyse des Rechts (PO 18)",
+    "type": "Vorlesung/Übung",
+    "evidence": "The same IB1 module exists in Wirtschaftsrecht mit Integrierten Nachhaltigkeitsstudien."
+   },
+   {
+    "course": "72007",
+    "module": "Nachhaltige Transformation in Europa, Deutschland und der Türkei - Klimaneutral, ökologisch und gerecht",
+    "areas": [
+     "Integrierte Nachhaltigkeitsstudien B > Nachhaltigkeitsdiskurse und Handlungsfelder"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Nachhaltige Transformation in Europa, Deutschland und der Türkei - Klimaneutral, ökologisch und gerecht",
+    "type": "Vorlesung/Übung",
+    "evidence": "Climate-neutral and just transformation matches the sustainability discourses area of the integrated program."
+   },
+   {
+    "course": "75274",
+    "module": "W4 - VWL II: Makroökonomik oder Wirtschaftspolitik",
+    "areas": [
+     "Wirtschaftswissenschaften Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL II Wiederholungstutorium",
+    "type": "Tutorium",
+    "evidence": "The same VWL II Pflicht module W4 exists in Wirtschaftsrecht mit integrierten Nachhaltigkeitsstudien, so the revision tutorium belongs to that module."
+   },
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Wirtschaftswissenschaften Pflichtmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "The sustainability variant of Wirtschaftsrecht also has Mikroökonomik as a Pflicht module."
+   }
+  ],
+  "bsc-wirtschaftswissenschaften": [
+   {
+    "course": "56489",
+    "module": "Einführung in die Umweltökonomik",
+    "areas": [
+     "Aufbaumodule > Nachhaltiges Wirtschaften"
+    ],
+    "ects": 6,
+    "number": "FB07-3720-V-001",
+    "title": "Einführung in die Umweltökonomik",
+    "type": "Vorlesung",
+    "evidence": "FB07-3720 environmental economics lecture fits the Nachhaltiges Wirtschaften Aufbau area; handbook hits name only programs that are not on the site."
+   },
+   {
+    "course": "59822",
+    "module": "International Strategy Simulation",
+    "areas": [
+     "Aufbaumodule > Management, Innovation und Marketing"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "International Strategy Simulation",
+    "type": "Vorlesung/Übung",
+    "evidence": "Strategy simulation with Eberl fits the management elective area of Wirtschaftswissenschaften."
+   },
+   {
+    "course": "56694",
+    "module": "Mathematik",
+    "areas": [
+     "Grundlagenmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Mathematik für Wirtschaftswissenschaften I",
+    "type": "Vorlesung/Übung",
+    "evidence": "Mathematik für Wirtschaftswissenschaften I is the lecture of the existing Mathematik foundation module."
+   },
+   {
+    "course": "56695",
+    "module": "Mathematik",
+    "areas": [
+     "Grundlagenmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Mathematik für Wirtschaftswissenschaften II",
+    "type": "Vorlesung/Übung",
+    "evidence": "Part II of Mathematik für Wirtschaftswissenschaften continues the existing Mathematik module."
+   },
+   {
+    "course": "66807",
+    "module": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "areas": [
+     "Aufbaumodule > Finance, Accounting, Controlling and Taxation"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "type": "Vorlesung",
+    "evidence": "Auditing and company valuation is an advanced accounting topic offered by FB 07 Wirtschaftswissenschaften and matches the FACT elective area; no handbook module of this title exists."
+   },
+   {
+    "course": "64975",
+    "module": "Mikroökonomik",
+    "areas": [
+     "Grundlagenmodule"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "VWL I - Mikroökonomik - Tutorium",
+    "type": "Tutorium",
+    "evidence": "The title names VWL I Mikroökonomik, which is the existing Grundlagen module Mikroökonomik."
+   }
+  ],
+  "la-foe-biologie": [
+   {
+    "course": "54337",
+    "module": "Themen und Konzepte des Biologieunterrichts",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB1018.0210",
+    "title": "Themen und Konzepte des Biologieunterrichts",
+    "type": "Seminar",
+    "evidence": "Same biology-teaching seminar; Förderpädagogik biology lists Einführung in die Biologiedidaktik and Fachdidaktische Vertiefung under Allgemein."
+   }
+  ],
+  "la-foe-foerder-und-inklusionspaedagogik": [
+   {
+    "course": "69277",
+    "module": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FIPäd-1130-V01",
+    "title": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+    "type": "Vorlesung",
+    "evidence": "handbook_hits name Förder- und Inklusionspädagogik, Staatsexamen (PO-2023), and the FIPäd-1130 / LER4 title continues that program’s LER sequence (listed LER1–LER3; LER4 itself is not a listed module)."
+   },
+   {
+    "course": "69278",
+    "module": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FIPäd-1130-V02",
+    "title": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+    "type": "Übung",
+    "evidence": "Same handbook hit and FIPäd-1130 / LER4 subject as the lecture; the Übung shares that module, which is not among the program’s listed modules."
+   },
+   {
+    "course": "69083",
+    "module": "Einführung in die Inklusionspädagogik für L5",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ErWi-1150-Tutorium1",
+    "title": "Einführung in die Inklusionspädagogik für L5",
+    "type": "Tutorium",
+    "evidence": "The title addresses Inklusionspädagogik for L5, the Lehramt für Förderpädagogik Förder- und Inklusionspädagogik program, and shares the course number ErWi-1150 with the lecture."
+   },
+   {
+    "course": "69082",
+    "module": "Einführung in die Inklusionspädagogik für L5",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ErWi-1150-Vorlesung1",
+    "title": "Einführung in die Inklusionspädagogik für L5",
+    "type": "Vorlesung",
+    "evidence": "The title addresses Inklusionspädagogik for L5, the Lehramt für Förderpädagogik Förder- und Inklusionspädagogik program."
+   },
+   {
+    "course": "68268",
+    "module": "Fallbasierte und Forschende Zugänge im Praxissemester - Schwerpunkt: Professionelles Handeln in inklusiven Kontexten, Kurs C",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ErWi-8100-Seminar3",
+    "title": "Fallbasierte und Forschende Zugänge im Praxissemester - Schwerpunkt: Professionelles Handeln in inklusiven Kontexten, Kurs C",
+    "type": "Seminar",
+    "evidence": "Title names professionelles Handeln in inklusiven Kontexten and the only on-site program with an inclusive-teaching module is Förder- und Inklusionspädagogik."
+   },
+   {
+    "course": "57255",
+    "module": "Zusatzleistungen FIPäd",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FIPäd-4400-V01",
+    "title": "Zusatzleistungen FIPäd",
+    "type": "Kolloquium",
+    "evidence": "FIPäd-4400 colloquium is explicitly additional work in Förder- und Inklusionspädagogik, the only FIPäd program on the site."
+   }
+  ],
+  "la-foe-katholische-religion": [
+   {
+    "course": "69168",
+    "module": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0105-Einf.L.IfKTh",
+    "title": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Title is the Catholic-theology institute introduction for first-semester students of the Lehramt programs in that subject."
+   },
+   {
+    "course": "74185",
+    "module": "M3 L5 Basismodul Religionspädagogik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "KTh-0000-T-051",
+    "title": "Religionspädagogisches Tutorium und Beratung",
+    "type": "Tutorium",
+    "evidence": "Religionspädagogik tutorial supports M3 L5 Basismodul Religionspädagogik."
+   }
+  ],
+  "la-foe-sport": [
+   {
+    "course": "63732",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.39",
+    "title": "Geräteturnen - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Geräteturnen is the apparatus part of Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "61780",
+    "module": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.8",
+    "title": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "type": "Seminar",
+    "evidence": "The title addresses inclusive sport at Förder- and Regelschulen, which includes Lehramt für Förderpädagogik Sport."
+   },
+   {
+    "course": "63733",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.40",
+    "title": "Gymnastik/Tanz Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Gymnastik and Tanz are the rhythmic-dance part of Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "63736",
+    "module": "Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.41",
+    "title": "Leichtathletik - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Laufen, Springen, Werfen is the Förderpädagogik sport module for Leichtathletik."
+   },
+   {
+    "course": "63728",
+    "module": "Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.38",
+    "title": "Schwimmen / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Bewegen im Wasser is the Förderpädagogik sport module for Schwimmen."
+   },
+   {
+    "course": "61785",
+    "module": "Sportmotorische Testung in der Schule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.15",
+    "title": "Sportmotorische Testung in der Schule",
+    "type": "Seminar",
+    "evidence": "Sport-motor testing in school matches the module Förder- und Entwicklungsdiagnostik im Sport."
+   },
+   {
+    "course": "64031",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.58",
+    "title": "Trampolin",
+    "type": "Seminar",
+    "evidence": "Trampolin is apparatus work and belongs to Bewegen an und mit Geräten."
+   }
+  ],
+  "la-gs-anglistik": [
+   {
+    "course": "68791",
+    "module": "Modul 2 Grundlagen der Fremdsprachenlehr - und -lernforschung und Interkulturellen Kommunikation (Basismodul Fachdidaktik)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ang133T",
+    "title": "Tutorium: Introduction to EFL Learning and Teaching",
+    "type": "Tutorium",
+    "evidence": "Ang133T is the tutorial for Introduction to EFL Learning and Teaching, the Grundschule Basismodul Fachdidaktik."
+   }
+  ],
+  "la-gs-evangelische-religion": [
+   {
+    "course": "74282",
+    "module": "Orientierungstage der evangelischen Theologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ETh.040",
+    "title": "Orientierungstage der evangelischen Theologie",
+    "type": "Orientierungsveranstaltung",
+    "evidence": "Title names orientation days of evangelical theology for Lehramt students in this subject."
+   }
+  ],
+  "la-gs-franzoesisch": [
+   {
+    "course": "56403",
+    "module": "Modul 4 Sprachwissenschaft Basismodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-1010",
+    "title": "PS SprachWi Frz 01",
+    "type": "Proseminar",
+    "evidence": "Proseminar Sprachwissenschaft Französisch is the introductory seminar of Modul 4 Sprachwissenschaft Basismodul."
+   },
+   {
+    "course": "69209",
+    "module": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0107-Einf.L.IfR",
+    "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Romanistik institute introduction for first-semester students of Lehramt Französisch."
+   }
+  ],
+  "la-gs-germanistik": [
+   {
+    "course": "56936",
+    "module": "Die Schriftstruktur entdecken - Orthographieunterricht in der Grundschule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 043",
+    "title": "Die Schriftstruktur entdecken - Orthographieunterricht in der Grundschule",
+    "type": "Seminar",
+    "evidence": "Title targets orthography teaching in the Grundschule, i.e. Lehramt an Grundschulen Germanistik."
+   },
+   {
+    "course": "56776",
+    "module": "Grammatikunterricht für die Grundschule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 032",
+    "title": "Grammatikunterricht für die Grundschule",
+    "type": "Seminar",
+    "evidence": "Seminar on grammar teaching for primary school; the named target is Lehramt an Grundschulen Germanistik."
+   },
+   {
+    "course": "56452",
+    "module": "L1 Flankierendes Seminar zum Praxissemester",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 008",
+    "title": "L1 Flankierendes Seminar zum Praxissemester",
+    "type": "Seminar",
+    "evidence": "Title names L1, which is Lehramt an Grundschulen, and the course is offered by the Germanistik institute."
+   },
+   {
+    "course": "56951",
+    "module": "Modul 4 Sprachliches Lernen II",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 044",
+    "title": "Literatur im Rechtschreibunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "Seminar on literature inside spelling instruction, matching primary-school German language teaching in Sprachliches Lernen."
+   },
+   {
+    "course": "56931",
+    "module": "Rechtschreibung im Literaturunterricht - Wie geht das zusammen?!",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 042",
+    "title": "Rechtschreibung im Literaturunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "Seminar on spelling inside literature class, matching primary-school literary teaching in Literarisches Lernen."
+   }
+  ],
+  "la-gs-musik": [
+   {
+    "course": "56618",
+    "module": "Getting together - Ensemblearbeit mit Gesang",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Musik-MF1",
+    "title": "Getting together - Ensemblearbeit mit Gesang",
+    "type": "Workshop",
+    "evidence": "Singing ensemble workshop from Institut für Musik fits the Grundschule music module on singing."
+   },
+   {
+    "course": "69609",
+    "module": "Kreative Bewegungserziehung in der Grundschule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ÄsthBildung-JB1",
+    "title": "Kreative Bewegungserziehung in der Grundschule",
+    "type": "Projektseminar",
+    "evidence": "Projektseminar Kreative Bewegungserziehung in der Grundschule from Institut für Musik is explicitly for primary school and matches the school-related Musikwerkstatt."
+   }
+  ],
+  "la-gs-sport": [
+   {
+    "course": "63816",
+    "module": "Modul 8 Spielen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.7",
+    "title": "Ballsportgruppen im Grundschulalter",
+    "type": "Seminar",
+    "evidence": "The title targets ball-sport groups at Grundschulalter, which is Modul 8 Spielen in Lehramt an Grundschulen Sport."
+   },
+   {
+    "course": "63306",
+    "module": "Fachdidaktische Lehrveranstaltung mit Unterrichtsbezug - Schulsport planen, gestalten und reflektieren in der Grundschule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.25",
+    "title": "Fachdidaktische Lehrveranstaltung mit Unterrichtsbezug - Schulsport planen, gestalten und reflektieren in der Grundschule",
+    "type": "Seminar",
+    "evidence": "The title is a subject-didactics course for Schulsport in the Grundschule, so it belongs to Lehramt an Grundschulen Sport."
+   },
+   {
+    "course": "63732",
+    "module": "Modul 10 Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.39",
+    "title": "Geräteturnen - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Geräteturnen is the apparatus part of Modul 10 Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "61780",
+    "module": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.8",
+    "title": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "type": "Seminar",
+    "evidence": "The title addresses inclusive sport at Regelschulen, which includes Lehramt an Grundschulen Sport."
+   },
+   {
+    "course": "63733",
+    "module": "Modul 10 Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.40",
+    "title": "Gymnastik/Tanz Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Gymnastik and Tanz are the rhythmic-dance part of Modul 10 Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "63736",
+    "module": "Modul 11c Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.41",
+    "title": "Leichtathletik - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Modul 11c is the Grundschule sport module for Leichtathletik (Laufen, Springen, Werfen)."
+   },
+   {
+    "course": "63728",
+    "module": "Modul 11c Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.38",
+    "title": "Schwimmen / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Modul 11c is the Grundschule sport module for Schwimmen (Bewegen im Wasser)."
+   },
+   {
+    "course": "61785",
+    "module": "Sportmotorische Testung in der Schule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.15",
+    "title": "Sportmotorische Testung in der Schule",
+    "type": "Seminar",
+    "evidence": "Sport-motor testing in school matches Modul 7 on diagnosing, supporting and advising."
+   },
+   {
+    "course": "64031",
+    "module": "Modul 10 Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.58",
+    "title": "Trampolin",
+    "type": "Seminar",
+    "evidence": "Trampolin is apparatus work and belongs to Modul 10, Bewegen an und mit Geräten."
+   }
+  ],
+  "la-gym-anglistik": [
+   {
+    "course": "68791",
+    "module": "Modul 2 Basismodul Fachdidaktik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ang133T",
+    "title": "Tutorium: Introduction to EFL Learning and Teaching",
+    "type": "Tutorium",
+    "evidence": "Ang133T is the tutorial for Introduction to EFL Learning and Teaching, the introductory Fachdidaktik module."
+   }
+  ],
+  "la-gym-biologie": [
+   {
+    "course": "54337",
+    "module": "Themen und Konzepte des Biologieunterrichts",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB1018.0210",
+    "title": "Themen und Konzepte des Biologieunterrichts",
+    "type": "Seminar",
+    "evidence": "Biology-teaching seminar from Didaktik der Biologie; Gymnasium biology keeps didactics (Modul 33, 35, 36) in Allgemein."
+   }
+  ],
+  "la-gym-evangelische-religion": [
+   {
+    "course": "74282",
+    "module": "Orientierungstage der evangelischen Theologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ETh.040",
+    "title": "Orientierungstage der evangelischen Theologie",
+    "type": "Orientierungsveranstaltung",
+    "evidence": "Title names orientation days of evangelical theology for Lehramt students in this subject."
+   }
+  ],
+  "la-gym-franzoesisch": [
+   {
+    "course": "56403",
+    "module": "Modul 4 Sprachwissenschaft Basismodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-1010",
+    "title": "PS SprachWi Frz 01",
+    "type": "Proseminar",
+    "evidence": "Proseminar Sprachwissenschaft Französisch is the introductory seminar of Modul 4 Sprachwissenschaft Basismodul."
+   },
+   {
+    "course": "69209",
+    "module": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0107-Einf.L.IfR",
+    "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Romanistik institute introduction for first-semester students of Lehramt Französisch."
+   }
+  ],
+  "la-gym-germanistik": [
+   {
+    "course": "56431",
+    "module": "Modul 9 Praxissemester im Fach Deutsch",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 007",
+    "title": "Begleitseminar Deutsch (Praxissemester)",
+    "type": "Seminar",
+    "evidence": "Accompanying seminar for the German Praxissemester; this program has Modul 9 Praxissemester im Fach Deutsch."
+   },
+   {
+    "course": "69282",
+    "module": "Modul 2 Theorien und Methoden der Didaktik der deutschen Sprache und Literatur",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 110",
+    "title": "Einführung in die Deutschdidaktik",
+    "type": "Vorlesung mit Tutorium",
+    "evidence": "Introductory German-didactics lecture; it is the basis course of this program's didactics module."
+   },
+   {
+    "course": "60044",
+    "module": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 077",
+    "title": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "type": "Seminar",
+    "evidence": "Germanistik seminar on the 20th-century literary canon for students in Gymnasium Germanistik literature modules."
+   },
+   {
+    "course": "56951",
+    "module": "Modul 8 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 044",
+    "title": "Literatur im Rechtschreibunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "German didactic seminar on spelling instruction, matching the Gymnasium didactics module."
+   },
+   {
+    "course": "56931",
+    "module": "Modul 8 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 042",
+    "title": "Rechtschreibung im Literaturunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "German didactic seminar on literature class, matching the Gymnasium didactics module."
+   },
+   {
+    "course": "57218",
+    "module": "Modul 8 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 052",
+    "title": "„Rico, Oskar und die Tieferschatten“ – Inklusion im Literaturunterricht der SEK I",
+    "type": "Seminar",
+    "evidence": "Title names inclusion in literature teaching of SEK I, which Gymnasium Germanistik also covers in its didactics module."
+   },
+   {
+    "course": "57219",
+    "module": "Modul 8 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 053",
+    "title": "„Vor uns das Meer“ – methodisch-didaktische Umsetzung des Jugendromans im Unterricht",
+    "type": "Seminar",
+    "evidence": "Ger: 053 is a Germanistik seminar on the didactic classroom use of a youth novel, matching the didactics Vertiefungsmodul."
+   }
+  ],
+  "la-gym-geschichte": [
+   {
+    "course": "74252",
+    "module": "Modul 4 Geschichtsdidaktik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Gesch-3550-SE4a",
+    "title": "Die Anti-Atom-Bewegung am Oberrhein und weitere umweltgeschichtliche Themen als deutsch-französische Themen im bilingualen Geschichtsunterricht Le mouvement anti-nucléaire en France et en Allemagne (ainsi que d’autres aspects de l’histoire environnementale)",
+    "type": "Seminar",
+    "evidence": "Handbook hit Geschichte L3 Staatsexamen (PO-2023) is Lehramt an Gymnasien Geschichte (2023); the bilingual history-teaching seminar fits Modul 4 Geschichtsdidaktik."
+   }
+  ],
+  "la-gym-katholische-religion": [
+   {
+    "course": "69168",
+    "module": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0105-Einf.L.IfKTh",
+    "title": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Title is the Catholic-theology institute introduction for first-semester students of the Lehramt programs in that subject."
+   },
+   {
+    "course": "74185",
+    "module": "Modul 3 L3 Basismodul Religionspädagogik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "KTh-0000-T-051",
+    "title": "Religionspädagogisches Tutorium und Beratung",
+    "type": "Tutorium",
+    "evidence": "Religionspädagogik tutorial supports Modul 3 L3 Basismodul Religionspädagogik."
+   }
+  ],
+  "la-gym-musik": [
+   {
+    "course": "56618",
+    "module": "Modul 10 Ensemblepraxis 1",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Musik-MF1",
+    "title": "Getting together - Ensemblearbeit mit Gesang",
+    "type": "Workshop",
+    "evidence": "Workshop Getting together - Ensemblearbeit mit Gesang from Institut für Musik matches ensemble practice in the Gymnasium music Lehramt."
+   },
+   {
+    "course": "63353",
+    "module": "Künstlerische Praxis",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ÄsthBildung-LSF1",
+    "title": "Künstlerische Praxis",
+    "type": "Projektseminar",
+    "evidence": "Projektseminar Künstlerische Praxis from Institut für Musik matches Künstlerische Praxis in the Gymnasium music Lehramt."
+   },
+   {
+    "course": "56450",
+    "module": "Mikrofontechnik für Sänger:innen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Musik-NJ1",
+    "title": "Mikrofontechnik für Sänger:innen",
+    "type": "Kleingruppenunterricht",
+    "evidence": "Kleingruppenunterricht Mikrofontechnik für Sänger:innen is artistic vocal practice at Institut für Musik, matching Künstlerische Praxis in Gymnasium music."
+   },
+   {
+    "course": "57125",
+    "module": "Musik, Bild, Text und Bewegung: Unterhaltung mit Erik Satie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ÄsthBildung-BW1",
+    "title": "Musik, Bild, Text und Bewegung: Unterhaltung mit Erik Satie",
+    "type": "Projektseminar",
+    "evidence": "Projektseminar Musik, Bild, Text und Bewegung from Institut für Musik matches musikalisch-szenische Projektarbeit."
+   },
+   {
+    "course": "70364",
+    "module": "Vorkurs Musiktheorie und Gehörbildung",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Musik-KN7",
+    "title": "Vorkurs Musiktheorie und Gehörbildung",
+    "type": "Seminar",
+    "evidence": "Vorkurs Musiktheorie und Gehörbildung is the preparatory course for the Gymnasium music module Musiktheorie und Gehörbildung 1."
+   }
+  ],
+  "la-gym-philosophie": [
+   {
+    "course": "74285",
+    "module": "Latein für Lehramt Philosophie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Phi-0000-S-63",
+    "title": "Latein für Lehramt Philosophie",
+    "type": "Seminar",
+    "evidence": "Title explicitly says Latin for Lehramt Philosophie, and Gymnasium is the only philosophy teaching-degree program on the site."
+   },
+   {
+    "course": "69207",
+    "module": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0106-Einf.L.IfP",
+    "title": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Institute introduction for first-semester philosophy students, matching Lehramt Gymnasium Philosophie."
+   },
+   {
+    "course": "59951",
+    "module": "Modul 12 Praxissemester im Fach Philosophie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Phi-0000-S-038",
+    "title": "SPS II",
+    "type": "Schulpraktische Studien",
+    "evidence": "Phi- course from the Philosophy Institute, type Schulpraktische Studien, matches the philosophy Praxissemester module."
+   }
+  ],
+  "la-gym-politik-und-wirtschaft": [
+   {
+    "course": "66831",
+    "module": "Modul 5 Politische Bildung: Grundlagen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Pol-3500-T",
+    "title": "Didaktik der Politischen Bildung",
+    "type": "Tutorium",
+    "evidence": "Handbook hit Politik und Wirtschaft L3 Staatsexamen (PO-2023) is Lehramt an Gymnasien Politik und Wirtschaft (2023); this didactics tutorial belongs to Modul 5 Politische Bildung: Grundlagen."
+   }
+  ],
+  "la-gym-spanisch": [
+   {
+    "course": "75319",
+    "module": "Modul 1 Sprachpraxis Spanisch Basismodul 1",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Modulabschlussprüfung Sprachpraxis Spanisch M1/M2",
+    "type": "Prüfung",
+    "evidence": "Module exam title Sprachpraxis Spanisch M1/M2 matches Modul 1, the first Spanish language-practice module."
+   },
+   {
+    "course": "75319",
+    "module": "Modul 2 Sprachpraxis Spanisch Basismodul 2",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Modulabschlussprüfung Sprachpraxis Spanisch M1/M2",
+    "type": "Prüfung",
+    "evidence": "Module exam title Sprachpraxis Spanisch M1/M2 matches Modul 2, the second Spanish language-practice module."
+   },
+   {
+    "course": "75318",
+    "module": "Modul 2 Sprachpraxis Spanisch Basismodul 2",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Modulabschlussprüfung Sprachpraxis Spanisch M2/M11-M4/M12-M2",
+    "type": "Prüfung",
+    "evidence": "Exam title lists Sprachpraxis code M2, which is Modul 2 Sprachpraxis Spanisch Basismodul 2."
+   },
+   {
+    "course": "75318",
+    "module": "Modul 11 Sprachpraxis Spanisch Aufbaumodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Modulabschlussprüfung Sprachpraxis Spanisch M2/M11-M4/M12-M2",
+    "type": "Prüfung",
+    "evidence": "Exam title lists Sprachpraxis code M11, which is Modul 11 Sprachpraxis Spanisch Aufbaumodul."
+   },
+   {
+    "course": "75318",
+    "module": "Modul 12 Sprachpraxis Vertiefungsmodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Modulabschlussprüfung Sprachpraxis Spanisch M2/M11-M4/M12-M2",
+    "type": "Prüfung",
+    "evidence": "Exam title lists Sprachpraxis code M12, which is Modul 12 Sprachpraxis Vertiefungsmodul."
+   },
+   {
+    "course": "56641",
+    "module": "Modul 12 Sprachpraxis Vertiefungsmodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8061",
+    "title": "Preparación a los exámenes nivel final",
+    "type": "Übung",
+    "evidence": "Spanish exam preparation at nivel final matches the highest Sprachpraxis module, the Vertiefungsmodul."
+   },
+   {
+    "course": "56642",
+    "module": "Modul 11 Sprachpraxis Spanisch Aufbaumodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8060",
+    "title": "Preparación a los exámenes nivel intermedio",
+    "type": "Übung",
+    "evidence": "Spanish exam preparation at nivel intermedio matches the Aufbaumodul, between basis and Vertiefung."
+   },
+   {
+    "course": "68885",
+    "module": "Modul 1 Sprachpraxis Spanisch Basismodul 1",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8000",
+    "title": "Propädeutikum",
+    "type": "Übung",
+    "evidence": "First Spanish propaedeutic, taught by the Spanish language-exam staff, matches the first basis Sprachpraxis module."
+   },
+   {
+    "course": "68886",
+    "module": "Modul 2 Sprachpraxis Spanisch Basismodul 2",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8000a",
+    "title": "Propädeutikum II",
+    "type": "Übung",
+    "evidence": "Propädeutikum II, taught by the second Spanish language lecturer, matches the second basis Sprachpraxis module."
+   },
+   {
+    "course": "69209",
+    "module": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0107-Einf.L.IfR",
+    "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Romanistik institute introduction for first-semester students of Lehramt Spanisch."
+   }
+  ],
+  "la-gym-sport": [
+   {
+    "course": "63718",
+    "module": "Spielen 1 (Zielschussspiele)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.32",
+    "title": "Basketball / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Basketball is a Zielschussspiel, so the Aufbaukurs belongs to Spielen 1 (Zielschussspiele)."
+   },
+   {
+    "course": "63732",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.39",
+    "title": "Geräteturnen - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Geräteturnen is the apparatus part of Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "61780",
+    "module": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.8",
+    "title": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "type": "Seminar",
+    "evidence": "The title addresses inclusive sport at Regelschulen, which includes Lehramt an Gymnasien Sport."
+   },
+   {
+    "course": "63733",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.40",
+    "title": "Gymnastik/Tanz Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Gymnastik and Tanz are the rhythmic-dance part of Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "63720",
+    "module": "Spielen 1 (Zielschussspiele)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.33",
+    "title": "Handball / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Handball is a Zielschussspiel, so the Aufbaukurs belongs to Spielen 1 (Zielschussspiele)."
+   },
+   {
+    "course": "63792",
+    "module": "Kleine Spiele in der Mittel- und Oberstufe",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.49",
+    "title": "Kleine Spiele in der Mittel- und Oberstufe",
+    "type": "Seminar",
+    "evidence": "The title names Mittel- und Oberstufe, the school levels of Lehramt an Gymnasien Sport."
+   },
+   {
+    "course": "63736",
+    "module": "Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.41",
+    "title": "Leichtathletik - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Laufen, Springen, Werfen is the Gymnasium sport module for Leichtathletik."
+   },
+   {
+    "course": "61812",
+    "module": "Praxissemester - Schulpraktische Studien für die Mittel- und Oberstufe",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.23",
+    "title": "Praxissemester - Schulpraktische Studien für die Mittel- und Oberstufe",
+    "type": "Schulpraktische Studien",
+    "evidence": "Mittel- und Oberstufe is the Gymnasium sport practical semester; that program lists no Praxissemester module."
+   },
+   {
+    "course": "63728",
+    "module": "Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.38",
+    "title": "Schwimmen / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Bewegen im Wasser is the Gymnasium sport module for Schwimmen."
+   },
+   {
+    "course": "61785",
+    "module": "Sportmotorische Testung in der Schule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.15",
+    "title": "Sportmotorische Testung in der Schule",
+    "type": "Seminar",
+    "evidence": "Taught by the training-science group (Lisa Maurer); motor testing is content of Training und Bewegung."
+   },
+   {
+    "course": "64031",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.58",
+    "title": "Trampolin",
+    "type": "Seminar",
+    "evidence": "Trampolin is apparatus work and belongs to Bewegen an und mit Geräten."
+   }
+  ],
+  "la-hr-anglistik": [
+   {
+    "course": "68791",
+    "module": "Modul 2 Basismodul Fachdidaktik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ang133T",
+    "title": "Tutorium: Introduction to EFL Learning and Teaching",
+    "type": "Tutorium",
+    "evidence": "Ang133T is the tutorial for Introduction to EFL Learning and Teaching, the introductory Fachdidaktik module."
+   }
+  ],
+  "la-hr-biologie": [
+   {
+    "course": "54337",
+    "module": "Themen und Konzepte des Biologieunterrichts",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB1018.0210",
+    "title": "Themen und Konzepte des Biologieunterrichts",
+    "type": "Seminar",
+    "evidence": "Unterricht didactics seminar; Haupt- und Realschule biology lists Biologiedidaktik modules under Allgemein."
+   }
+  ],
+  "la-hr-evangelische-religion": [
+   {
+    "course": "74282",
+    "module": "Orientierungstage der evangelischen Theologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ETh.040",
+    "title": "Orientierungstage der evangelischen Theologie",
+    "type": "Orientierungsveranstaltung",
+    "evidence": "Title names orientation days of evangelical theology for Lehramt students in this subject."
+   }
+  ],
+  "la-hr-franzoesisch": [
+   {
+    "course": "56403",
+    "module": "Modul 4 Sprachwissenschaft Basismodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-1010",
+    "title": "PS SprachWi Frz 01",
+    "type": "Proseminar",
+    "evidence": "Proseminar Sprachwissenschaft Französisch is the introductory seminar of Modul 4 Sprachwissenschaft Basismodul."
+   },
+   {
+    "course": "69209",
+    "module": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0107-Einf.L.IfR",
+    "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Romanistik institute introduction for first-semester students of Lehramt Französisch."
+   }
+  ],
+  "la-hr-germanistik": [
+   {
+    "course": "56431",
+    "module": "Modul 8 Praxissemester im Fach Deutsch",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 007",
+    "title": "Begleitseminar Deutsch (Praxissemester)",
+    "type": "Seminar",
+    "evidence": "Accompanying seminar for the German Praxissemester; this program has Modul 8 Praxissemester im Fach Deutsch."
+   },
+   {
+    "course": "69282",
+    "module": "Modul 2 Theorien und Methoden der Didaktik der deutschen Sprache und Literatur",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 110",
+    "title": "Einführung in die Deutschdidaktik",
+    "type": "Vorlesung mit Tutorium",
+    "evidence": "Introductory German-didactics lecture; it is the basis course of this program's didactics module."
+   },
+   {
+    "course": "60044",
+    "module": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 077",
+    "title": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+    "type": "Seminar",
+    "evidence": "Germanistik seminar on the 20th-century literary canon for students in Haupt- und Realschule Germanistik literature modules."
+   },
+   {
+    "course": "56951",
+    "module": "Modul 5 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 044",
+    "title": "Literatur im Rechtschreibunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "German didactic seminar on spelling instruction, matching the Haupt- und Realschule didactics module."
+   },
+   {
+    "course": "56931",
+    "module": "Modul 5 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 042",
+    "title": "Rechtschreibung im Literaturunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "German didactic seminar on literature class, matching the Haupt- und Realschule didactics module."
+   },
+   {
+    "course": "57218",
+    "module": "Modul 5 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 052",
+    "title": "„Rico, Oskar und die Tieferschatten“ – Inklusion im Literaturunterricht der SEK I",
+    "type": "Seminar",
+    "evidence": "Title names inclusion in literature teaching of SEK I, which Haupt- und Realschule Germanistik teaches in its didactics module."
+   },
+   {
+    "course": "57219",
+    "module": "Modul 5 Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 053",
+    "title": "„Vor uns das Meer“ – methodisch-didaktische Umsetzung des Jugendromans im Unterricht",
+    "type": "Seminar",
+    "evidence": "Ger: 053 is a Germanistik seminar on the didactic classroom use of a youth novel, matching the didactics Vertiefungsmodul."
+   }
+  ],
+  "la-hr-katholische-religion": [
+   {
+    "course": "69168",
+    "module": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Kultur-0105-Einf.L.IfKTh",
+    "title": "Katholische Theologie - Einführung für Erstsemester durch die Lehrenden",
+    "type": "Einf. Veranstaltung",
+    "evidence": "Title is the Catholic-theology institute introduction for first-semester students of the Lehramt programs in that subject."
+   },
+   {
+    "course": "74185",
+    "module": "Modul 3 L2 Basismodul Religionspädagogik",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "KTh-0000-T-051",
+    "title": "Religionspädagogisches Tutorium und Beratung",
+    "type": "Tutorium",
+    "evidence": "Religionspädagogik tutorial supports Modul 3 L2 Basismodul Religionspädagogik."
+   }
+  ],
+  "la-hr-mathematik": [
+   {
+    "course": "71931",
+    "module": "Modul 8 Vertiefende Veranstaltungen zu fachmathematischen und fachdidaktischen Themen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB1017.4222w",
+    "title": "L2 Fachwissenschaftliches Seminar II",
+    "type": "Seminar",
+    "evidence": "L2 is Lehramt Haupt- und Realschulen and FB1017 is mathematics; the fachwissenschaftliche seminar belongs to Modul 8 on advanced subject-matter courses."
+   }
+  ],
+  "la-hr-musik": [
+   {
+    "course": "56618",
+    "module": "Modul 2 Gruppenmusizieren 1",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Musik-MF1",
+    "title": "Getting together - Ensemblearbeit mit Gesang",
+    "type": "Workshop",
+    "evidence": "Ensemble singing workshop matches Gruppenmusizieren in the Haupt- und Realschule music Lehramt."
+   },
+   {
+    "course": "63353",
+    "module": "Künstlerische Praxis",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ÄsthBildung-LSF1",
+    "title": "Künstlerische Praxis",
+    "type": "Projektseminar",
+    "evidence": "Same Institut für Musik artistic-practice seminar matches Künstlerische Praxis in the Haupt- und Realschule music Lehramt."
+   },
+   {
+    "course": "56450",
+    "module": "Mikrofontechnik für Sänger:innen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Musik-NJ1",
+    "title": "Mikrofontechnik für Sänger:innen",
+    "type": "Kleingruppenunterricht",
+    "evidence": "Vocal technique class matches Künstlerische Praxis 1 in Haupt- und Realschule music."
+   },
+   {
+    "course": "70364",
+    "module": "Vorkurs Musiktheorie und Gehörbildung",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Musik-KN7",
+    "title": "Vorkurs Musiktheorie und Gehörbildung",
+    "type": "Seminar",
+    "evidence": "The same preparatory music-theory and aural-skills course serves the Haupt- und Realschule music program, which has no separate theory module, so it sits with the first artistic-practice module."
+   }
+  ],
+  "la-hr-sport": [
+   {
+    "course": "63718",
+    "module": "Spielen 1 (Zielschussspiele)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.32",
+    "title": "Basketball / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Basketball is a Zielschussspiel, so the Aufbaukurs belongs to Spielen 1 (Zielschussspiele)."
+   },
+   {
+    "course": "63732",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.39",
+    "title": "Geräteturnen - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Geräteturnen is the apparatus part of Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "61780",
+    "module": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.8",
+    "title": "Grundlagen des inklusiven Sports an Förder- und Regelschulen",
+    "type": "Seminar",
+    "evidence": "The title addresses inclusive sport at Regelschulen, which includes Lehramt an Haupt- und Realschulen Sport."
+   },
+   {
+    "course": "63733",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.40",
+    "title": "Gymnastik/Tanz Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Gymnastik and Tanz are the rhythmic-dance part of Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten."
+   },
+   {
+    "course": "63720",
+    "module": "Spielen 1 (Zielschussspiele)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.33",
+    "title": "Handball / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Handball is a Zielschussspiel, so the Aufbaukurs belongs to Spielen 1 (Zielschussspiele)."
+   },
+   {
+    "course": "63736",
+    "module": "Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.41",
+    "title": "Leichtathletik - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Laufen, Springen, Werfen is the Haupt- und Realschule sport module for Leichtathletik."
+   },
+   {
+    "course": "63728",
+    "module": "Bewegen im Wasser und Laufen, Springen, Werfen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.38",
+    "title": "Schwimmen / Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Bewegen im Wasser is the Haupt- und Realschule sport module for Schwimmen."
+   },
+   {
+    "course": "61785",
+    "module": "Sportmotorische Testung in der Schule",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.15",
+    "title": "Sportmotorische Testung in der Schule",
+    "type": "Seminar",
+    "evidence": "Taught by the training-science group (Lisa Maurer); motor testing is content of Training und Bewegung."
+   },
+   {
+    "course": "64031",
+    "module": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.58",
+    "title": "Trampolin",
+    "type": "Seminar",
+    "evidence": "Trampolin is apparatus work and belongs to Bewegen an und mit Geräten."
+   }
+  ],
+  "msc-agriculture-ecology-and-societies": [
+   {
+    "course": "69726",
+    "module": "Englisch für Agrarwissenschaften",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ENagrav",
+    "title": "(U) Englisch für Agrarwissenschaften (vorausgesetztes Sprachniveau: B2+) (ENagrav)",
+    "type": "Sprachkurs",
+    "evidence": "Title 'Englisch für Agrarwissenschaften' (ENagrav) targets the FB 11 Agrarwissenschaften programs; this program has no finer language area."
+   }
+  ],
+  "msc-architektur": [
+   {
+    "course": "68959",
+    "module": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "FB06.064",
+    "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "type": "Vorlesung/Übung",
+    "evidence": "The title names Architektur, Stadt und Landschaft, and the same theory area exists in the master as in the bachelor."
+   },
+   {
+    "course": "56442",
+    "module": "Recherchestudio UPB",
+    "areas": [
+     "Mastervertiefung Umweltbewusstes Planen und Bauen"
+    ],
+    "ects": null,
+    "number": "FB06.058",
+    "title": "Recherchestudio UPB",
+    "type": "Seminar",
+    "evidence": "UPB is the M.Sc. Architektur specialization Umweltbewusstes Planen und Bauen, and sibling tracks already have Recherchestudio modules."
+   },
+   {
+    "course": "69791",
+    "module": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "00ENarc210",
+    "title": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+    "type": "Sprachkurs",
+    "evidence": "Title offers the course for Architektur, Stadt- und Landschaftsplanung; UNIcert is an elective in Allgemeine Wissenschaften."
+   }
+  ],
+  "msc-bauingenieurwesen": [
+   {
+    "course": "57258",
+    "module": "Seminar Verkehrswesen",
+    "areas": [
+     "Vertiefung Verkehr"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Seminar Verkehrswesen",
+    "type": "Seminar",
+    "evidence": "Seminar Verkehrswesen is the transport seminar for programs whose curriculum has a Verkehr specialization."
+   },
+   {
+    "course": "73617",
+    "module": "Verkehrsdienstleistungsmarketing",
+    "areas": [
+     "Ergänzung Verkehr"
+    ],
+    "ects": null,
+    "number": "BauUmw-4219-V",
+    "title": "Verkehrsdienstleistungsmarketing",
+    "type": "Vorlesung / Exkursion",
+    "evidence": "BauUmw-4219 is transport-service marketing, alongside Wirtschaft im ÖPNV in the Verkehr electives."
+   }
+  ],
+  "msc-berufliche-schulen-evangelische-religion-nebenfach": [
+   {
+    "course": "74282",
+    "module": "Orientierungstage der evangelischen Theologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ETh.040",
+    "title": "Orientierungstage der evangelischen Theologie",
+    "type": "Orientierungsveranstaltung",
+    "evidence": "Title names orientation days of evangelical theology; this master starts students in that subject."
+   }
+  ],
+  "msc-berufliche-schulen-franzoesisch-nebenfach": [
+   {
+    "course": "56403",
+    "module": "Französische Sprachwissenschaft Basismodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-1010",
+    "title": "PS SprachWi Frz 01",
+    "type": "Proseminar",
+    "evidence": "Proseminar Sprachwissenschaft Französisch matches the French linguistics basis module included in this master."
+   }
+  ],
+  "msc-berufliche-schulen-germanistik-nebenfach": [
+   {
+    "course": "70999",
+    "module": "Schulpraktische Studien",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 154",
+    "title": "Betreuung Studierende SPS Ausland",
+    "type": "Begleitseminar",
+    "evidence": "Germanistik Begleitseminar for students in Schulpraktische Studien abroad; this is the program with a Schulpraktische Studien module."
+   },
+   {
+    "course": "56931",
+    "module": "Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 042",
+    "title": "Rechtschreibung im Literaturunterricht - Wie geht das zusammen?!",
+    "type": "Seminar",
+    "evidence": "German didactic seminar on literature class, matching the master didactics module."
+   },
+   {
+    "course": "57219",
+    "module": "Didaktik der deutschen Sprache und Literatur (Vertiefungsmodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Ger: 053",
+    "title": "„Vor uns das Meer“ – methodisch-didaktische Umsetzung des Jugendromans im Unterricht",
+    "type": "Seminar",
+    "evidence": "Ger: 053 is a Germanistik seminar on the didactic classroom use of a youth novel, matching the didactics Vertiefungsmodul."
+   }
+  ],
+  "msc-berufliche-schulen-physik-nebenfach": [
+   {
+    "course": "71680",
+    "module": "Modul 13 Fortgeschrittenenpraktikum I für Lehramt",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Physik-Fortgeschrittenenpraktikum L4",
+    "type": "Praktikum",
+    "evidence": "L4 is Lehramt an beruflichen Schulen; this master is the L4 physics program that contains Fortgeschrittenenpraktikum I für Lehramt."
+   },
+   {
+    "course": "54654",
+    "module": "Modul 13 Fortgeschrittenenpraktikum I für Lehramt",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB1018.4144",
+    "title": "Physik-Fortgeschrittenenpraktikum L4 - Prüfung",
+    "type": "Prüfung",
+    "evidence": "Exam for Physik-Fortgeschrittenenpraktikum L4, the same Lehramt module as the practical in the vocational-school physics master."
+   }
+  ],
+  "msc-berufliche-schulen-spanisch-nebenfach": [
+   {
+    "course": "56641",
+    "module": "Sprachpraxis Spanisch Vertiefungsmodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8061",
+    "title": "Preparación a los exámenes nivel final",
+    "type": "Übung",
+    "evidence": "Spanish exam preparation at nivel final matches this program's Sprachpraxis Vertiefungsmodul, above the Aufbaumodul."
+   },
+   {
+    "course": "56642",
+    "module": "Sprachpraxis Spanisch Aufbaumodul",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB02-Rom-8060",
+    "title": "Preparación a los exámenes nivel intermedio",
+    "type": "Übung",
+    "evidence": "Spanish exam preparation at nivel intermedio matches this program's Sprachpraxis Aufbaumodul."
+   }
+  ],
+  "msc-berufliche-schulen-sport-nebenfach": [
+   {
+    "course": "63732",
+    "module": "Modul 10 Turnen und Gestalten",
+    "areas": [
+     "Zweites Unterrichtsfach Sport"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.39",
+    "title": "Geräteturnen - Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Geräteturnen is the Turnen part of Modul 10 Turnen und Gestalten."
+   },
+   {
+    "course": "63733",
+    "module": "Modul 10 Turnen und Gestalten",
+    "areas": [
+     "Zweites Unterrichtsfach Sport"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.40",
+    "title": "Gymnastik/Tanz Aufbaukurs",
+    "type": "Seminar",
+    "evidence": "Gymnastik and Tanz are the Gestalten part of Modul 10 Turnen und Gestalten."
+   },
+   {
+    "course": "64031",
+    "module": "Modul 10 Turnen und Gestalten",
+    "areas": [
+     "Zweites Unterrichtsfach Sport"
+    ],
+    "ects": null,
+    "number": "FB05.SPO.58",
+    "title": "Trampolin",
+    "type": "Seminar",
+    "evidence": "Trampolin is Turnen and belongs to Modul 10 Turnen und Gestalten."
+   }
+  ],
+  "msc-berufliche-schulen-wirtschaftspaedagogik-hauptfach": [
+   {
+    "course": "68159",
+    "module": "Urbane Mythen und fragwürdige Überzeugungen: Ein evidenzbasierter Blick auf (berufliche) Lern- und Bildungsprozesse",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "BeWiPd-6560-V1",
+    "title": "Urbane Mythen und fragwürdige Überzeugungen: Ein evidenzbasierter Blick auf (berufliche) Lern- und Bildungsprozesse",
+    "type": "Seminar",
+    "evidence": "Advanced BeWiPd-6560 seminar on vocational learning processes is offered by the same Fachgebiet to the master Wirtschaftspädagogik."
+   }
+  ],
+  "msc-biologie": [
+   {
+    "course": "54448",
+    "module": "Forschungsmodul Neurobiologie",
+    "areas": [
+     "Wahlpflichtmodule > Schwerpunkt 1 Molekularbiologie der Zelle"
+    ],
+    "ects": null,
+    "number": "FB1018.1006",
+    "title": "Forschungspraktikum Molekulare Aspekte der Tierphysiologie (Advanced research in Neurobiology)",
+    "type": "Praktikum",
+    "evidence": "Research practical titled Advanced research in Neurobiology matches Forschungsmodul Neurobiologie in Schwerpunkt 1."
+   },
+   {
+    "course": "70183",
+    "module": "Forum Naturschutz und Biologische Vielfalt",
+    "areas": [
+     "Wahlpflichtmodule > Schwerpunkt 2 Biodiversität und Evolutionsbiologie"
+    ],
+    "ects": null,
+    "number": "FB1018.0980w",
+    "title": "Forum Naturschutz und Biologische Vielfalt",
+    "type": "Seminar",
+    "evidence": "Seminar on nature conservation and biological diversity matches Schwerpunkt 2 Biodiversität und Evolutionsbiologie."
+   },
+   {
+    "course": "54393",
+    "module": "GIS-Anwendungen in der Vegetationsökologie",
+    "areas": [
+     "Wahlpflichtmodule > Schwerpunkt 2 Biodiversität und Evolutionsbiologie"
+    ],
+    "ects": null,
+    "number": "FB1018.0745",
+    "title": "GIS-Anwendungen in der Vegetationsökologie",
+    "type": "Vorlesung / Übung",
+    "evidence": "Vegetation ecology aligns with Forschungsmodul Ökologie/Mykologie and Forschungsmodul Botanik in Schwerpunkt 2."
+   }
+  ],
+  "msc-business-studies": [
+   {
+    "course": "59822",
+    "module": "International Strategy Simulation",
+    "areas": [
+     "Wahlmodule > MuM-Masterprofil"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "International Strategy Simulation",
+    "type": "Vorlesung/Übung",
+    "evidence": "International strategy content matches the Management und Marketing profile of Business Studies."
+   },
+   {
+    "course": "66807",
+    "module": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "areas": [
+     "Wahlmodule > FACT-Masterprofil"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "type": "Vorlesung",
+    "evidence": "The lecture is an advanced Wirtschaftsprüfung topic and the Business Studies FACT profile is the master's accounting and auditing elective area."
+   }
+  ],
+  "msc-computer-science": [
+   {
+    "course": "71821",
+    "module": "Advanced Machine Learning Techniques",
+    "areas": [
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Advanced Courses",
+     "Wahlpflicht Technische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-1790-V1",
+    "title": "Advanced Machine Learning Techniques",
+    "type": "Vorlesung",
+    "evidence": "Handbook hit for Computer Science, Master (PO-2026) lists Advanced Courses (6 cp), the CIDA advanced area."
+   },
+   {
+    "course": "71822",
+    "module": "Advanced Machine Learning Techniques",
+    "areas": [
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Advanced Courses",
+     "Wahlpflicht Technische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-1790-V2",
+    "title": "Advanced Machine Learning Techniques",
+    "type": "Übung",
+    "evidence": "Same handbook hit as the lecture: Computer Science Master lists Advanced Courses (6 cp)."
+   },
+   {
+    "course": "59376",
+    "module": "Mobile Internet Project Work",
+    "areas": [
+     "Wahlpflicht Praktische Informatik"
+    ],
+    "ects": null,
+    "number": "Inform-2090-V1",
+    "title": "Mobile Internet Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Informatics project work (Inform-2090) in mobile internet, i.e. practical computer science."
+   },
+   {
+    "course": "57543",
+    "module": "Reinforcement Learning",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-3020-S1",
+    "title": "Reinforcement Learning",
+    "type": "Übung",
+    "evidence": "Handbook hit for Computer Science, Master (PO-2026) lists Wahlpflicht Praktische Informatik (6 cp)."
+   },
+   {
+    "course": "57547",
+    "module": "Reinforcement Learning",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-3020-V1",
+    "title": "Reinforcement Learning",
+    "type": "Vorlesung",
+    "evidence": "Handbook 120 lists Reinforcement Learning for Computer Science, Master (PO-2026) under Wahlpflicht Praktische Informatik (6 cp)."
+   },
+   {
+    "course": "59367",
+    "module": "Seminar in Communication Technologies",
+    "areas": [
+     "Seminar"
+    ],
+    "ects": null,
+    "number": "Inform-2080-V1",
+    "title": "Seminar in Communication Technologies",
+    "type": "Seminar",
+    "evidence": "Inform-2080 is an Informatik course, and the title matches the Communication Technologies module family in Master Computer Science, which has a Seminar area."
+   },
+   {
+    "course": "59220",
+    "module": "Experimentation and Evaluation in Machine Learning",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Foundational Courses",
+     "Schwerpunkt Energieinfomatik (EInf) > Wahlpflichtmodule Informatik",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Grundlegende Kurse (IDG) > Bereich A: Daten, intelligente Systeme, Kontexte",
+     "Schwerpunkt Umweltinformatik (UW) > Wahlpflichtmodule Informatik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-1820-V1",
+    "title": "Experimentation and Evaluation in Machine Learning",
+    "type": "Vorlesung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13360 (Experimentation and Evaluation in Machine Learning); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59221",
+    "module": "Experimentation and Evaluation in Machine Learning",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Foundational Courses",
+     "Schwerpunkt Energieinfomatik (EInf) > Wahlpflichtmodule Informatik",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Grundlegende Kurse (IDG) > Bereich A: Daten, intelligente Systeme, Kontexte",
+     "Schwerpunkt Umweltinformatik (UW) > Wahlpflichtmodule Informatik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-1820-S1",
+    "title": "Experimentation and Evaluation in Machine Learning",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13360 (Experimentation and Evaluation in Machine Learning); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57450",
+    "module": "Labor Grand Challenges of Machine Learning",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Lab Courses",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-4080-V1",
+    "title": "Labor Grand Challenges of Machine Learning",
+    "type": "Praktikum",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13237 (Labor Grand Challenges of Machine Learning); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57522",
+    "module": "Labor Netzwerke",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Lab Courses",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Fortgeschrittene Kurse > Bereich A: Daten, intelligente Systeme, Kontexte",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-4100-V1",
+    "title": "Labor Netzwerke",
+    "type": "Praktikum",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 51041 (Labor Netzwerke); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "56516",
+    "module": "Mensch-Maschine-Systeme 2 (mit Seminarteil)",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Energieinfomatik (EInf) > Wahlpflichtmodule Informatik",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Grundlegende Kurse (IDG) > Bereich B: Design, Interaktion und Gesellschaft",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": null,
+    "title": "Mensch-Maschine-Systeme 2",
+    "type": "Vorlesung / Seminar",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 11840 (Mensch-Maschine-Systeme 2 (mit Seminarteil)); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59215",
+    "module": "Pattern Recognition and Machine Learning II",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Foundational Courses",
+     "Schwerpunkt Energieinfomatik (EInf) > Wahlpflichtmodule Informatik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-1780-V1",
+    "title": "Pattern Recognition and Machine Learning 2",
+    "type": "Vorlesung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13099 (Pattern Recognition and Machine Learning II); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59216",
+    "module": "Pattern Recognition and Machine Learning II",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Foundational Courses",
+     "Schwerpunkt Energieinfomatik (EInf) > Wahlpflichtmodule Informatik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-1780-S1",
+    "title": "Pattern Recognition and Machine Learning 2",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13099 (Pattern Recognition and Machine Learning II); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57443",
+    "module": "Social Network Analysis",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Foundational Courses",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Grundlegende Kurse (IDG) > Bereich A: Daten, intelligente Systeme, Kontexte",
+     "Schwerpunkt Umweltinformatik (UW) > Wahlpflichtmodule Informatik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-4040-V1",
+    "title": "Soziale Netzwerkanalyse",
+    "type": "Vorlesung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13097 (Social Network Analysis); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57447",
+    "module": "Social Network Analysis",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Foundational Courses",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Grundlegende Kurse (IDG) > Bereich A: Daten, intelligente Systeme, Kontexte",
+     "Schwerpunkt Umweltinformatik (UW) > Wahlpflichtmodule Informatik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-4040-V2",
+    "title": "Soziale Netzwerkanalyse",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13097 (Social Network Analysis); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57538",
+    "module": "Software-Verifikation",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Softwareentwicklung (SW) > Pflichtmodule (SW)",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-3290-V1",
+    "title": "Software-Verifikation",
+    "type": "Vorlesung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13346 (Software-Verifikation); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57541",
+    "module": "Software-Verifikation",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Softwareentwicklung (SW) > Pflichtmodule (SW)",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-3290-S1",
+    "title": "Software-Verifikation",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 13346 (Software-Verifikation); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59988",
+    "module": "Introduction to Agent-Based Modelling",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Advanced Courses",
+     "Schwerpunkt Energieinfomatik (EInf) > Wahlpflichtmodule Informatik",
+     "Schwerpunkt Umweltinformatik (UW) > Wahlpflichtmodule Umwelt",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "ETechn-2310-V1",
+    "title": "Introduction to Agent-Based Modelling",
+    "type": "Vorlesung/Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 51001 (IBM); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59334",
+    "module": "Computing & Society",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Grundlegende Kurse (IDG) > Bereich B: Design, Interaktion und Gesellschaft",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-2280-V1",
+    "title": "Computing & Society",
+    "type": "Vorlesung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 51008 (Computing & Society); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59338",
+    "module": "Computing & Society",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Informatik für die digitale Gesellschaft (IDG) > Grundlegende Kurse (IDG) > Bereich B: Design, Interaktion und Gesellschaft",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-2280-S1",
+    "title": "Computing & Society",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 51008 (Computing & Society); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57378",
+    "module": "Natural Language Processing",
+    "areas": [
+     "Wahlpflicht Praktische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Schwerpunkt Computational Intelligence & Data Analytics (CIDA) > Foundational Courses",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-1010-S1",
+    "title": "Natural Language Processing",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 50917 (Natural Language Processing); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57573",
+    "module": "Quantum Computing",
+    "areas": [
+     "Wahlpflicht Technische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik"
+    ],
+    "ects": 6,
+    "number": "Inform-1530-S1",
+    "title": "Quantum Computing",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 51044 (Quantum Computing); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "57572",
+    "module": "Quantum Computing",
+    "areas": [
+     "Wahlpflicht Technische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik"
+    ],
+    "ects": 6,
+    "number": "Inform-1530-V1",
+    "title": "Quantum Computing",
+    "type": "Vorlesung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 51044 (Quantum Computing); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59245",
+    "module": "Process Computing",
+    "areas": [
+     "Wahlpflicht Technische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-2860-V1",
+    "title": "Prozessrechner",
+    "type": "Vorlesung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 50963 (Process Computing); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   },
+   {
+    "course": "59246",
+    "module": "Process Computing",
+    "areas": [
+     "Wahlpflicht Technische Informatik",
+     "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik",
+     "Freier Schwerpunkt"
+    ],
+    "ects": 6,
+    "number": "Inform-2860-V2",
+    "title": "Prozessrechner",
+    "type": "Übung",
+    "evidence": "eCampus Studienplaner Master Computer Science (2026): course of module 50963 (Process Computing); no dates in WiSe 2026/27 yet.",
+    "login": "studienplaner"
+   }
+  ],
+  "msc-deutsch-als-fremd-und-zweitsprache": [
+   {
+    "course": "68846",
+    "module": "Vertiefungsmodul 1 (VM1): Planungsgrundlagen für den DaFZ-Unterricht",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "DaFZ-417",
+    "title": "Unterricht planen und reflektieren I",
+    "type": "Seminar",
+    "evidence": "DaFZ-417 on planning and reflecting lessons matches VM1 Planungsgrundlagen für den DaFZ-Unterricht."
+   },
+   {
+    "course": "68786",
+    "module": "Anwendungsmodul 1 (AM1): Unterrichtspraktikum",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "DaFZ-416",
+    "title": "Unterrichtsplanung und -auswertung: Unterrichtsversuche II",
+    "type": "Seminar",
+    "evidence": "DaFZ-416 Unterrichtsversuche matches the DaFZ master's Unterrichtspraktikum (AM1)."
+   }
+  ],
+  "msc-ece": [
+   {
+    "course": "60024",
+    "module": "Current Topics in Electromagnetic Field Theory",
+    "areas": [
+     "Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-1620-V1",
+    "title": "Current Topics in Electromagnetic Field Theory",
+    "type": "Seminar",
+    "evidence": "Seminar of the electromagnetics chair; ECE offers Electromagnetic Theory for Microwaves and Antennas as a Wahlpflicht module."
+   },
+   {
+    "course": "59847",
+    "module": "Digital Communications Project Work",
+    "areas": [
+     "Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-3930-V1",
+    "title": "Digital Communications Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Project work in digital communications, the subject of the ECE program, alongside its wireless communications electives."
+   },
+   {
+    "course": "60025",
+    "module": "Electromagnetics Project Work",
+    "areas": [
+     "Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-1630-V1",
+    "title": "Electromagnetics Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Project of the same electromagnetics chair (ETechn-1630 next to the field-theory seminar); ECE lists Electromagnetic Theory for Microwaves and Antennas under Wahlpflichtmodule."
+   },
+   {
+    "course": "59865",
+    "module": "Introduction to Digital Communications",
+    "areas": [
+     "Pflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-3840-V1",
+    "title": "Introduction to Digital Communications",
+    "type": "Vorlesung/Übung",
+    "evidence": "Introductory digital communications course; ECE's Pflicht module Fundamentals of Digital Communications is this subject."
+   },
+   {
+    "course": "59922",
+    "module": "Microwaves Project Work",
+    "areas": [
+     "Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-3390-V1",
+    "title": "Microwaves Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Microwave project; ECE lists Microwave Engineering under Wahlpflichtmodule."
+   },
+   {
+    "course": "59846",
+    "module": "Wireless Communications Project Work",
+    "areas": [
+     "Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-3940-V1",
+    "title": "Wireless Communications Project Work",
+    "type": "Projektarbeit",
+    "evidence": "ETechn-3940 is an Elektrotechnik course, and Wireless Communications is an existing Wahlpflicht module of Master Electrical Communication Engineering."
+   }
+  ],
+  "msc-economic-behavior-and-governance": [
+   {
+    "course": "54883",
+    "module": "EBGo Welcome Session",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "EBGo Welcome Session",
+    "type": "Event",
+    "evidence": "Title names the EBGo cohort of Master Economic Behavior and Governance, whose only area is Allgemein."
+   },
+   {
+    "course": "56135",
+    "module": "IVWL Research Seminar Economic Behavior and Governance",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "IVWL Research Seminar Economic Behavior and Governance",
+    "type": "Seminar",
+    "evidence": "Title names the Economic Behavior and Governance research seminar of the IVWL institute."
+   }
+  ],
+  "msc-elektromobilitaet": [
+   {
+    "course": "69915",
+    "module": "Ringvorlesung Nachhaltige Elektromobilität und Praxisprojekt #1 - Anforderungen und Spezifikationen",
+    "areas": [
+     "Basisbereiche > Basisbereich Ringvorlesung & Praxisprojekt"
+    ],
+    "ects": null,
+    "number": "ETechn-2520-S1",
+    "title": "Praxisprojekt #1 - Anforderungen und Spezifikationen",
+    "type": "Praxisprojekt",
+    "evidence": "Course title is the Praxisprojekt #1 half of module BRP-01 in Basisbereich Ringvorlesung & Praxisprojekt."
+   }
+  ],
+  "msc-elektrotechnik": [
+   {
+    "course": "60024",
+    "module": "Current Topics in Electromagnetic Field Theory",
+    "areas": [
+     "Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-1620-V1",
+    "title": "Current Topics in Electromagnetic Field Theory",
+    "type": "Seminar",
+    "evidence": "Same subject family as Elektromagnetische Theorie der Mikrowellen und Antennen in the ET master Wahlpflichtmodule."
+   },
+   {
+    "course": "59847",
+    "module": "Digital Communications Project Work",
+    "areas": [
+     "Schwerpunktmodule Information Technology"
+    ],
+    "ects": null,
+    "number": "ETechn-3930-V1",
+    "title": "Digital Communications Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Digital communications belongs to the ET master Information Technology focus (Introduction to Information Theory & Coding, Digital Communication Over Fading Channels)."
+   },
+   {
+    "course": "60025",
+    "module": "Electromagnetics Project Work",
+    "areas": [
+     "Wahlpflichtmodule"
+    ],
+    "ects": null,
+    "number": "ETechn-1630-V1",
+    "title": "Electromagnetics Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Matches the ET master Wahlpflicht module Elektromagnetische Theorie der Mikrowellen und Antennen."
+   },
+   {
+    "course": "59865",
+    "module": "Introduction to Digital Communications",
+    "areas": [
+     "Schwerpunktmodule Information Technology"
+    ],
+    "ects": null,
+    "number": "ETechn-3840-V1",
+    "title": "Introduction to Digital Communications",
+    "type": "Vorlesung/Übung",
+    "evidence": "Same Dahlhaus communications chair; the ET master places digital communications in Schwerpunktmodule Information Technology."
+   },
+   {
+    "course": "59922",
+    "module": "Microwaves Project Work",
+    "areas": [
+     "Schwerpunktmodule Information Technology"
+    ],
+    "ects": null,
+    "number": "ETechn-3390-V1",
+    "title": "Microwaves Project Work",
+    "type": "Projektarbeit",
+    "evidence": "Microwaves and Millimeter Waves II is in the ET master Information Technology focus."
+   }
+  ],
+  "msc-empirische-bildungsforschung": [
+   {
+    "course": "70290",
+    "module": "Grundlagen der Empirischen Bildungsforschung",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ErWi-2100-Forschungsseminar1",
+    "title": "Einsemestriger Verbund: Einführung in die Empirische Bildungsforschung (Ringvorlesung und theoretische Grundlagen)",
+    "type": "Forschungsseminar",
+    "evidence": "Title is the introductory lecture of empirical educational research and the number ErWi-2100 matches the Erziehungswissenschaft research-seminar family taught by the same institute that owns this master."
+   },
+   {
+    "course": "69286",
+    "module": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil I",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ErWi-2230-Lehrforschungsprojekt6",
+    "title": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil I",
+    "type": "Lehrforschungsprojekt",
+    "evidence": "ErWi-2230 two-semester ethnography teaching-research project on family, school and instruction matches the empirical education research practicum."
+   },
+   {
+    "course": "69292",
+    "module": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil II",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ErWi-2230-Lehrforschungsprojekt7",
+    "title": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil II",
+    "type": "Lehrforschungsprojekt",
+    "evidence": "Part II of the same ErWi-2230 ethnography teaching-research project continues the empirical education research practicum."
+   }
+  ],
+  "msc-geschichte-und-oeffentlichkeit": [
+   {
+    "course": "70087",
+    "module": "Begrüßung des MA Geschichte und Öffentlichkeit",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.EF GÖff",
+    "title": "Begrüßung des MA Geschichte und Öffentlichkeit",
+    "type": "interne Veranstaltung",
+    "evidence": "The title is the welcome for the MA Geschichte und Öffentlichkeit, and no listed module is that welcome."
+   }
+  ],
+  "msc-international-food-business-and-consumer-studies": [
+   {
+    "course": "71804",
+    "module": "Innovative product development",
+    "areas": [
+     "Business modules"
+    ],
+    "ects": 6,
+    "number": "F64",
+    "title": "Innovative product development",
+    "type": "Seminar",
+    "evidence": "Handbook lists the course in International Food Business and Consumer Studies, area 3b, 6 cp."
+   },
+   {
+    "course": "71777",
+    "module": "Principles of organic agriculture",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": 6,
+    "number": "F17",
+    "title": "Principles of organic agriculture",
+    "type": "Seminar",
+    "evidence": "Handbook lists it as a Bridging Module (6 cp) in International Food Business and Consumer Studies; that program has no bridging area."
+   }
+  ],
+  "msc-klinische-psychologie-und-psychotherapie": [
+   {
+    "course": "69709",
+    "module": "Einführungsveranstaltung in den Studiengang M.Sc. Klinische Psychologie und Psychotherapie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB01.IfPKliPsyPT",
+    "title": "Einführungsveranstaltung in den Studiengang M.Sc. Klinische Psychologie und Psychotherapie",
+    "type": "Einf. Veranstaltung",
+    "evidence": "The course title names the degree M.Sc. Klinische Psychologie und Psychotherapie."
+   }
+  ],
+  "msc-landschaftsarchitektur-und-landschaftsplanung": [
+   {
+    "course": "68959",
+    "module": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "FB06.064",
+    "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "type": "Vorlesung/Übung",
+    "evidence": "The title names Landschaft together with Architektur and Stadt, matching this master's elective Allgemeine Wissenschaften area."
+   },
+   {
+    "course": "60078",
+    "module": "Projekt aus L-Themenfeld: Freiraum und Stadt",
+    "areas": [
+     "Projekte"
+    ],
+    "ects": null,
+    "number": "FB06.506",
+    "title": "Projekt aus L-Themenfeld: Freiraum und Stadt",
+    "type": "Projekt",
+    "evidence": "The course title matches the existing master module Projekt aus L-Themenfeld: Freiraum und Stadt."
+   },
+   {
+    "course": "69791",
+    "module": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "00ENarc210",
+    "title": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+    "type": "Sprachkurs",
+    "evidence": "Title offers the course for Architektur, Stadt- und Landschaftsplanung; UNIcert is an elective in Allgemeine Wissenschaften."
+   }
+  ],
+  "msc-maschinenbau": [
+   {
+    "course": "70054",
+    "module": "Einführung in Python",
+    "areas": [
+     "Schwerpunkt Automatisierung und Digitale Transformation"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführung in Python",
+    "type": "Blockseminar",
+    "evidence": "Handbook lists Einführung in Python for Maschinenbau Master (PO-2023)."
+   },
+   {
+    "course": "69300",
+    "module": "Fügetechnische Fertigungsverfahren",
+    "areas": [
+     "Schwerpunkt Nachhaltige Werkstoffe und Fertigungsverfahren"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Fügetechnische Fertigungsverfahren",
+    "type": "Vorlesung",
+    "evidence": "Handbook lists Fügetechnische Fertigungsverfahren for Maschinenbau Master (PO-2023); joining processes match the materials and manufacturing focus."
+   },
+   {
+    "course": "57265",
+    "module": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+    "areas": [
+     "Schwerpunkt Energie-Umwelt-Technik"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+    "type": "Seminar",
+    "evidence": "Research seminar of Vajen's solar group; Praktikum Solarthermische Komponenten und Systeme is in this focus."
+   },
+   {
+    "course": "67049",
+    "module": "Projekt Digitale Transformation",
+    "areas": [
+     "Schwerpunkt Automatisierung und Digitale Transformation"
+    ],
+    "ects": 6,
+    "number": null,
+    "title": "Projekt Digitale Transformation",
+    "type": "Projekt",
+    "evidence": "Handbook lists this project for Maschinenbau Master (PO-2023); the title matches that focus, taught by Kroll (Mess- und Automatisierungstechnik)."
+   },
+   {
+    "course": "74098",
+    "module": "Projektseminar Künstliche Intelligenz in der Mechanik",
+    "areas": [
+     "Schwerpunkt Modellierung und Simulation in der Angewandten Mechanik"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Projektseminar Künstliche Intelligenz in der Mechanik",
+    "type": "Vorlesung/Übung",
+    "evidence": "Heider (IfM) on AI in mechanics; this focus already contains Pattern Recognition and Machine Learning and continuum mechanics."
+   },
+   {
+    "course": "69254",
+    "module": "Tensoranalysis",
+    "areas": [
+     "Mathematik IV"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Tensoranalysis",
+    "type": "Vorlesung/Übung",
+    "evidence": "Handbook lists Tensoranalysis for Maschinenbau Master (PO-2023); Wallenta also teaches the engineering mathematics service, and Mathematik IV is the master's math area."
+   },
+   {
+    "course": "68772",
+    "module": "Wärme- und Stoffübertragung mit Phasenwechsel",
+    "areas": [
+     "Schwerpunkt Energie-Umwelt-Technik"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Wärme- und Stoffübertragung mit Phasenwechsel: Praktikum",
+    "type": "Praktikum",
+    "evidence": "Handbook lists this practical for Maschinenbau Master (PO-2023); thermal practicals of FG Technische Thermodynamik are in this focus."
+   }
+  ],
+  "msc-mechatronik": [
+   {
+    "course": "70054",
+    "module": "Einführung in Python",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Einführung in Python",
+    "type": "Blockseminar",
+    "evidence": "Handbook lists Einführung in Python for Mechatronik Master (PO-2023); Höhere Informatik and Schlüsselkompetenzen are in Allgemein."
+   },
+   {
+    "course": "67049",
+    "module": "Projekt Digitale Transformation",
+    "areas": [
+     "Schwerpunkt Smart Mechatronic Systems"
+    ],
+    "ects": 6,
+    "number": null,
+    "title": "Projekt Digitale Transformation",
+    "type": "Projekt",
+    "evidence": "Handbook lists this project for Mechatronik Master (PO-2023); Kroll's automation project module is in Smart Mechatronic Systems."
+   }
+  ],
+  "msc-mobilitaet-verkehr-und-infrastruktur": [
+   {
+    "course": "57258",
+    "module": "Seminar Verkehrswesen",
+    "areas": [
+     "Wahlpflicht > Verkehr Ergänzung"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Seminar Verkehrswesen",
+    "type": "Seminar",
+    "evidence": "Seminar Verkehrswesen is a general transport seminar and fits the program's general Verkehr elective area."
+   },
+   {
+    "course": "73617",
+    "module": "Verkehrsdienstleistungsmarketing",
+    "areas": [
+     "Schwerpunktmodule > Schwerpunkt Öffentlicher Verkehr"
+    ],
+    "ects": null,
+    "number": "BauUmw-4219-V",
+    "title": "Verkehrsdienstleistungsmarketing",
+    "type": "Vorlesung / Exkursion",
+    "evidence": "BauUmw-4219 is transport-service marketing, alongside Wirtschaft im ÖPNV in the Öffentlicher Verkehr specialization."
+   }
+  ],
+  "msc-oekologische-landwirtschaft": [
+   {
+    "course": "69726",
+    "module": "Englisch für Agrarwissenschaften",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ENagrav",
+    "title": "(U) Englisch für Agrarwissenschaften (vorausgesetztes Sprachniveau: B2+) (ENagrav)",
+    "type": "Sprachkurs",
+    "evidence": "Title 'Englisch für Agrarwissenschaften' (ENagrav) targets the FB 11 Agrarwissenschaften programs; this program has no finer language area."
+   }
+  ],
+  "msc-politik-und-wirtschaft-l4": [
+   {
+    "course": "66831",
+    "module": "Modul 5 Politische Bildung: Grundlagen",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "Pol-3500-T",
+    "title": "Didaktik der Politischen Bildung",
+    "type": "Tutorium",
+    "evidence": "Handbook hit Politik und Wirtschaft L4 Master (PO-2026) is this program; the tutorial belongs to Modul 5 Politische Bildung: Grundlagen."
+   }
+  ],
+  "msc-politikwissenschaft": [
+   {
+    "course": "69295",
+    "module": "Master Politik-Einführung",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Master Politik-Einführung",
+    "type": "Einf. Veranstaltung",
+    "evidence": "The title is an introduction event for Master Politik, and this is the Master Politikwissenschaft program."
+   }
+  ],
+  "msc-politikwissenschaft-kritik-herrschaft-transformation": [
+   {
+    "course": "69295",
+    "module": "Master Politik-Einführung",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Master Politik-Einführung",
+    "type": "Einf. Veranstaltung",
+    "evidence": "The title is an introduction event for Master Politik, and this is the current Master Politikwissenschaft program."
+   }
+  ],
+  "msc-psychologie": [
+   {
+    "course": "71773",
+    "module": "Einführungsveranstaltung in den Studiengang M.Sc. Psychologie",
+    "areas": [
+     "Pflichtmodule"
+    ],
+    "ects": null,
+    "number": "FB01.IfPM.Sc.",
+    "title": "Einführungsveranstaltung in den Studiengang M.Sc. Psychologie",
+    "type": "Einf. Veranstaltung",
+    "evidence": "The course title names the degree M.Sc. Psychologie."
+   }
+  ],
+  "msc-regenerative-energien-und-energieeffizienz": [
+   {
+    "course": "57265",
+    "module": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+    "areas": [
+     "Technische Wahlpflichtbereich"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+    "type": "Seminar",
+    "evidence": "REE lists this chair's solar and energy-technology courses among its technical electives and labs."
+   },
+   {
+    "course": "68772",
+    "module": "Wärme- und Stoffübertragung mit Phasenwechsel",
+    "areas": [
+     "Laborpraktikum"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Wärme- und Stoffübertragung mit Phasenwechsel: Praktikum",
+    "type": "Praktikum",
+    "evidence": "Handbook lists this practical for Regenerative Energien und Energieeffizienz; REE places thermal lab courses in Laborpraktikum."
+   }
+  ],
+  "msc-sozialpaedagogik-in-aus-fort-und-weiterbildung": [
+   {
+    "course": "54103",
+    "module": "Modul 5 Beobachten, Beraten und Fördern im pädagogischen Feld (Basismodul)",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB01-IfE-010100-V-022",
+    "title": "Verbundvorlesung: Beobachten, Beraten und Fördern aus der Perspektive psychoanalytischer Entwicklungspsychologie. Teil 1",
+    "type": "Vorlesung",
+    "evidence": "The lecture title repeats the master's Modul 5 title on observing, advising and supporting in the pedagogical field."
+   }
+  ],
+  "msc-soziologie": [
+   {
+    "course": "70498",
+    "module": "Begrüßung des MA Soziologie",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "FB05.EF MASoz",
+    "title": "Begrüßung des MA Soziologie",
+    "type": "Einf. Veranstaltung",
+    "evidence": "The title is the welcome for the MA Soziologie, and no listed module is that welcome."
+   }
+  ],
+  "msc-stadt-und-regionalplanung": [
+   {
+    "course": "68959",
+    "module": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "FB06.064",
+    "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+    "type": "Vorlesung/Übung",
+    "evidence": "The title names Stadt together with Architektur and Landschaft, matching this master's elective Allgemeine Wissenschaften area."
+   },
+   {
+    "course": "69791",
+    "module": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+    "areas": [
+     "Wahlpflicht Allgemeine Wissenschaften"
+    ],
+    "ects": null,
+    "number": "00ENarc210",
+    "title": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+    "type": "Sprachkurs",
+    "evidence": "Title offers the course for Architektur, Stadt- und Landschaftsplanung; UNIcert is an elective in Allgemeine Wissenschaften."
+   }
+  ],
+  "msc-sustainable-international-agriculture": [
+   {
+    "course": "71777",
+    "module": "Principles of organic agriculture",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": 6,
+    "number": "F17",
+    "title": "Principles of organic agriculture",
+    "type": "Seminar",
+    "evidence": "Handbook hit names Sustainable International Agriculture, with no area or credits given; Allgemein is that program's only area."
+   },
+   {
+    "course": "69726",
+    "module": "Englisch für Agrarwissenschaften",
+    "areas": [
+     "Allgemein"
+    ],
+    "ects": null,
+    "number": "ENagrav",
+    "title": "(U) Englisch für Agrarwissenschaften (vorausgesetztes Sprachniveau: B2+) (ENagrav)",
+    "type": "Sprachkurs",
+    "evidence": "Title 'Englisch für Agrarwissenschaften' (ENagrav) targets the FB 11 Agrarwissenschaften programs; this program has no finer language area."
+   }
+  ],
+  "msc-umweltingenieurwesen": [
+   {
+    "course": "57258",
+    "module": "Seminar Verkehrswesen",
+    "areas": [
+     "Schwerpunkt Umwelttechnik A > Umwelt und Verkehr"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Seminar Verkehrswesen",
+    "type": "Seminar",
+    "evidence": "Seminar Verkehrswesen matches the named Umwelt und Verkehr specialization, where Verkehrstechnik and ÖPNV modules sit."
+   },
+   {
+    "course": "73617",
+    "module": "Verkehrsdienstleistungsmarketing",
+    "areas": [
+     "Schwerpunkt Umwelttechnik A > Umwelt und Verkehr"
+    ],
+    "ects": null,
+    "number": "BauUmw-4219-V",
+    "title": "Verkehrsdienstleistungsmarketing",
+    "type": "Vorlesung / Exkursion",
+    "evidence": "BauUmw-4219 is transport-service marketing, alongside Wirtschaft im ÖPNV in Umwelt und Verkehr."
+   }
+  ],
+  "msc-wirtschaft-psychologie-und-management": [
+   {
+    "course": "56770",
+    "module": "Personal - Vertiefungsmodul - Wahl",
+    "areas": [
+     "Personal - Vertiefungsmodul"
+    ],
+    "ects": null,
+    "number": "WPM-4120-P1",
+    "title": "Personal Wahl 1",
+    "type": "Seminar",
+    "evidence": "Course number WPM-4120-P1 and title Personal Wahl 1 match the personnel elective of Wirtschaft, Psychologie und Management."
+   }
+  ],
+  "msc-wirtschaftsingenieurwesen": [
+   {
+    "course": "59822",
+    "module": "International Strategy Simulation",
+    "areas": [
+     "Wirtschaftswissenschaftliche Vertiefungsrichtung > Management und Marketing"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "International Strategy Simulation",
+    "type": "Vorlesung/Übung",
+    "evidence": "Strategy simulation fits the Management und Marketing specialization of Wirtschaftsingenieurwesen."
+   }
+  ],
+  "msc-wirtschaftsrecht": [
+   {
+    "course": "66807",
+    "module": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "areas": [
+     "Wirtschaftswissenschaften Wahlpflicht"
+    ],
+    "ects": null,
+    "number": null,
+    "title": "Unternehmensbewertung (Ausgewählte Fragen der Wirtschaftsprüfung)",
+    "type": "Vorlesung",
+    "evidence": "Company valuation and auditing is a business elective that fits the master's open Wirtschaftswissenschaften Wahlpflicht (W2/W3), not a named law module."
+   }
+  ]
+ },
+ "detach": {
+  "bsc-informatik": [
+   {
+    "module": "Einführung in die Informatik",
+    "course": "69208",
+    "evidence": "eCampus PO-2026 tree lists Übungen zu Lineare Algebra under Einführung in die Informatik_VG too; handbook GBA-02 has only the Einführung course (Lineare Algebra is GBA-04). Grok-verified 2026-10-20."
+   },
+   {
+    "module": "Einführung in die Informatik",
+    "course": "54284",
+    "evidence": "Same as 69208: Lineare Algebra Hörsaalübungen belongs to GBA-04 Lineare Algebra."
+   }
+  ]
+ }
+}

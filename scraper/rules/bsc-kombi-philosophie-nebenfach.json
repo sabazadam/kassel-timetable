@@ -1,0 +1,61 @@
+{
+  "slug": "bsc-kombi-philosophie-nebenfach",
+  "po": "Bachelor-Kombinationsprüfung Philosophie (2021) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12651&token=ee81779fbff0e57e772daa8dbeba458311a6a6f3"
+  ],
+  "categories": [
+    {
+      "id": "grundlagen",
+      "group": "anyOf",
+      "count": 2,
+      "options": [
+        {
+          "type": "module",
+          "id": "Praktische Philosophie"
+        },
+        {
+          "type": "module",
+          "id": "Theoretische Philosophie"
+        }
+      ],
+      "name": "Two basic modules",
+      "nameDe": "Zwei Wahlpflichtmodule aus BA02 bis BA04",
+      "short": "Basic modules",
+      "note": "Two 10-ECTS modules from Praktische, Theoretische Philosophie and Geschichte der Philosophie"
+    },
+    {
+      "id": "vertiefung",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Geschichte der Philosophie (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Praktische Philosophie (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Theoretische Philosophie (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Ästhetik und Sprachphilosophie"
+        },
+        {
+          "type": "module",
+          "id": "Umwelt-Kritik-Gesellschaft"
+        }
+      ],
+      "name": "One advanced module",
+      "nameDe": "Ein Wahlpflichtmodul aus BA06 bis BA10",
+      "short": "Advanced module",
+      "note": "One 12-ECTS module"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO of 09.06.2021, section 11: the minor requires the propaedeutics module BA01, two of the basic modules BA02 to BA04 and one advanced module from BA06 to BA10."
+}

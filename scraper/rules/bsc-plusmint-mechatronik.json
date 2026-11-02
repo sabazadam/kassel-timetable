@@ -1,0 +1,32 @@
+{
+  "summary": "plusMINT PO: after a 30-ECTS orientation phase the specialization follows the PO of the analogous bachelor program (Mechatronik). The app label still says 2019; the applicable texts are the plusMINT FPO of 9 November 2020 (Mitteilungsblatt 5/2021, in force from WS 2021/22) and, for every Schwerpunkt examination rule, the Mechatronik FPO of 5 July 2023 (Mitteilungsblatt 18/2023, PO-2023). PO 2023 section 7: compulsory basic phase and main phase modules, one of the two specializations (Maschinenbau or Elektrotechnik/Informatik) with 22 ECTS of advanced modules (at least 6 ECTS practical competencies) and an approved study plan. Section 8 sets the thesis module at 15 ECTS. Specialization exams require 77 ECTS from the basic phase, including 2 ECTS of freely chosen key qualifications.",
+  "categories": [
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 22,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Elektrotechnik / Informatik"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Maschinenbau"
+        }
+      ],
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt Maschinenbau oder Elektrotechnik/Informatik",
+      "short": "Specialization",
+      "note": "Mechatronik PO 2023 section 7(6): choose one specialization and take 22 ECTS of advanced modules from that specialization alone, including at least 6 ECTS of practical competencies. An approved study plan is required; the 6 ECTS practical share is not checked as its own slot."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-plusmint-mechatronik",
+  "po": "Bachelor plusMINT Mechatronik (2019)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=10648&token=eb9a75fefec8172659bdfaf1d24e002460a9f9f6",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21967&token=d2f215cef41952ed81a56b34d1d10a0bc4371d65"
+  ]
+}

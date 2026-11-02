@@ -1,0 +1,69 @@
+{
+  "summary": "PO of 09.06.2021, section 8(3): 69 ECTS compulsory area (language practice plus basic and advanced modules in cultural studies, linguistics and literature, including one foundation seminar per sub-discipline under section 8(4)), 37 ECTS electives in two of three sub-disciplines (focus 1: qualification module 13 ECTS plus specialization module 11 ECTS in the same sub-discipline; focus 2: qualification module 13 ECTS), the 12-ECTS thesis module, the 40-ECTS minor, 11 ECTS compulsory additive key competencies and 11 ECTS study abroad. The choice rules require the two qualification modules and one specialization module. The same-sub-discipline pairing cannot be encoded in the choice fields and remains a condition in the specialization note.",
+  "categories": [
+    {
+      "id": "Wahlpflichtbereich",
+      "group": "anyOf",
+      "name": "Qualification modules in two sub-disciplines",
+      "nameDe": "Qualifikationsmodule (2 von 3 Teilfächern)",
+      "short": "Qualifications",
+      "count": 2,
+      "ects": 26,
+      "note": "Section 8(3): choose two of the three sub-disciplines and take both qualification modules (13 ECTS each, 26 ECTS). Focus 1 is the sub-discipline whose specialization module (11 ECTS) you also take; focus 2 is the remaining qualification module, for 37 ECTS in the elective area.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Qualifikationsmodul Landes- und Kulturwissenschaften"
+        },
+        {
+          "type": "module",
+          "id": "Qualifikationsmodul Sprachwissenschaft"
+        },
+        {
+          "type": "module",
+          "id": "Qualifikationsmodul Literaturwissenschaft"
+        }
+      ],
+      "exclude": [
+        "Spezialisierung Landes- und Kulturwissenschaften",
+        "Spezialisierungsmodul Sprachwissenschaft",
+        "Spezialisierungsmodul Literaturwissenschaft"
+      ]
+    },
+    {
+      "id": "Spezialisierung Landes- und Kulturwissenschaften",
+      "group": "oneOf",
+      "name": "Specialization module in focus 1",
+      "nameDe": "Spezialisierungsmodul (Schwerpunkt 1)",
+      "short": "Specialization",
+      "count": 1,
+      "ects": 11,
+      "note": "Section 8(3): take the specialization module (11 ECTS) of focus 1 in the same sub-discipline as one of the two chosen qualification modules (that pair is 24 ECTS; the other qualification module is focus 2). The third sub-discipline stays outside the elective area, so its specialization module does not count for this choice.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Spezialisierung Landes- und Kulturwissenschaften"
+        },
+        {
+          "type": "module",
+          "id": "Spezialisierungsmodul Sprachwissenschaft"
+        },
+        {
+          "type": "module",
+          "id": "Spezialisierungsmodul Literaturwissenschaft"
+        }
+      ],
+      "exclude": [
+        "Qualifikationsmodul Landes- und Kulturwissenschaften",
+        "Qualifikationsmodul Sprachwissenschaft",
+        "Qualifikationsmodul Literaturwissenschaft"
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-kombi-english-and-american-studies-hauptfach",
+  "po": "Bachelor-Kombinationsprüfung English and American Studies (2021) Hauptfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12643&token=5cc86a237513d4d2a6001f17467a1cbff9d6146c"
+  ]
+}

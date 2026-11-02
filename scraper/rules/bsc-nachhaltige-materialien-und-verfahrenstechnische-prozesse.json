@@ -1,0 +1,69 @@
+{
+  "summary": "PO 2024 section 7: 122 ECTS compulsory basic phase, 29 ECTS compulsory main phase modules (including three lab projects), 8 ECTS additive key competencies, and one specialization (Effiziente Prozesstechnik für Energie und Stoffe, Werkstoffdesign und Kreislaufwirtschaft or Nachhaltige Industrietransformationen) with 18 ECTS foundation and 18 ECTS specialization modules, plus the 15-ECTS thesis. The checklist cannot link the two specialization rules to the same specialization.",
+  "categories": [
+    {
+      "id": "Additive Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Additive key competencies",
+      "nameDe": "Additive Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 8,
+      "note": "PO section 7 requires 8 ECTS of additive key competencies (SQ)."
+    },
+    {
+      "id": "spec-foundations",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "area",
+          "id": "Grundlagen - Effiziente Prozesstechnik für Energie und Stoffe"
+        },
+        {
+          "type": "area",
+          "id": "Grundlagen - Nachhaltige Industrietransformation"
+        },
+        {
+          "type": "area",
+          "id": "Grundlagen - Werkstoffdesign und Kreislaufwirtschaft"
+        }
+      ],
+      "name": "Foundation modules of one specialization",
+      "nameDe": "Grundlagenmodule des Schwerpunkts",
+      "short": "Spec. foundations",
+      "note": "PO section 7(5): 18 ECTS of foundation modules from one specialization. Specialization modules must come from that same specialization."
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "area",
+          "id": "Spezialisierung - Effiziente Prozesstechnik für Energie und Stoffe"
+        },
+        {
+          "type": "area",
+          "id": "Spezialisierung - Nachhaltige Industrietransformation"
+        },
+        {
+          "type": "area",
+          "id": "Spezialisierung - Werkstoffdesign und Kreislaufwirtschaft"
+        }
+      ],
+      "name": "Specialization modules of one specialization",
+      "nameDe": "Spezialisierungsmodule des Schwerpunkts",
+      "short": "Specialization",
+      "note": "PO section 7(5): 18 ECTS of specialization modules from the same specialization as the foundation modules."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-nachhaltige-materialien-und-verfahrenstechnische-prozesse",
+  "po": "Bachelor Nachhaltige Materialien und verfahrenstechnische Prozesse (2024)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28714&token=ee3cb30d70097e66a1c05c44f79cc7869cef8303"
+  ]
+}

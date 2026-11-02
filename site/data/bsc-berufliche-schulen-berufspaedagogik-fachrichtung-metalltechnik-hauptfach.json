@@ -1,0 +1,2772 @@
+{
+ "generatedAt": "2026-10-21T18:02:40.941Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor Berufliche Schulen Berufspädagogik - Fachrichtung Metalltechnik (2022) Hauptfach",
+ "programEn": "Bachelor Vocational Schools: Vocational Education - Specialization Metal Technology (Major) (2022)",
+ "slug": "bsc-berufliche-schulen-berufspaedagogik-fachrichtung-metalltechnik-hauptfach",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "lightweight-casting",
+   "modules": [
+    "m11641",
+    "m12810",
+    "m34712"
+   ],
+   "text": {
+    "tr": [
+     "Hafif döküm tasarımı",
+     "Öğrenci araç dökümünde hafif konstrüksiyon, döküme uygun tasarım ve sanal ürün geliştirme öğrenir."
+    ],
+    "en": [
+     "Lightweight Cast Design",
+     "The student learns lightweight vehicle casting, casting compatible design, and virtual product development."
+    ],
+    "de": [
+     "Leichtbau im Guss",
+     "Die Studierenden lernen Leichtbau im Fahrzeugguss, gussgerechtes Konstruieren und virtuelle Produktentwicklung."
+    ]
+   }
+  },
+  {
+   "id": "gear-drive-design",
+   "modules": [
+    "m13652",
+    "m29021",
+    "m28976",
+    "m28950"
+   ],
+   "text": {
+    "tr": [
+     "Dişli tahrik tasarımı",
+     "Öğrenci dişli kutusu tasarımını, tahrik elemanlarının boyutlandırılmasını ve konstrüksiyon ilkelerini öğrenir."
+    ],
+    "en": [
+     "Gear Drive Design",
+     "The student learns gearbox layout, dimensioning of drive elements, and their design principles."
+    ],
+    "de": [
+     "Getriebe und Antriebe",
+     "Die Studierenden lernen Getriebeentwürfe, die Dimensionierung von Antriebselementen und deren Gestaltungsprinzipien."
+    ]
+   }
+  },
+  {
+   "id": "welding-production",
+   "modules": [
+    "m11796",
+    "m34712",
+    "m34673"
+   ],
+   "text": {
+    "tr": [
+     "Kaynak ve imalat",
+     "Öğrenci kaynağın malzeme durumu, iç gerilmeler ve çarpılma üzerindeki etkilerini metal imalatında değerlendirmeyi öğrenir."
+    ],
+    "en": [
+     "Welding and Production",
+     "The student learns how welding affects material condition, residual stress, and distortion in metal production."
+    ],
+    "de": [
+     "Schweißen und Fertigung",
+     "Die Studierenden lernen, die Wirkung des Schweißens auf Werkstoffzustand, Eigenspannungen und Verzug in der Metallfertigung einzuschätzen."
+    ]
+   }
+  },
+  {
+   "id": "quality-ergonomics",
+   "modules": [
+    "m13634",
+    "m12841",
+    "m34673"
+   ],
+   "text": {
+    "tr": [
+     "Kalite ve ergonomi",
+     "Öğrenci işletmedeki kalite stratejilerini, ergonomiyi ve üretim organizasyonunu öğrenir."
+    ],
+    "en": [
+     "Quality and Ergonomics",
+     "The student learns quality strategies, ergonomics, and production organization in manufacturing firms."
+    ],
+    "de": [
+     "Qualität und Ergonomie",
+     "Die Studierenden lernen Qualitätsstrategien, Arbeitswissenschaft und die Organisation der Produktion im Betrieb."
+    ]
+   }
+  }
+ ],
+ "categories": [],
+ "rulesSummary": null,
+ "rulesSources": [],
+ "sections": [
+  {
+   "id": "Metalltechnik Pflichtmodule",
+   "name": "Metal Technology Compulsory Modules",
+   "nameDe": "Metalltechnik Pflichtmodule"
+  },
+  {
+   "id": "Metalltechnik Wahlpflichtmodule",
+   "name": "Metal Technology Compulsory Elective Modules",
+   "nameDe": "Metalltechnik Wahlpflichtmodule"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Für den Einschreibeschlüssel kontaktieren Sie bitte den Kursdozenten: Alexander Dedekind: alexander.dedekind@uni-kassel.de": {
+   "en": "For the enrolment key, please contact the course instructor: Alexander Dedekind: alexander.dedekind@uni-kassel.de",
+   "tr": "Kayıt anahtarı için lütfen dersin öğretim elemanıyla iletişime geçin: Alexander Dedekind: alexander.dedekind@uni-kassel.de"
+  },
+  "Falls Sie bei der Belegung der Lehrveranstaltung die Fehlermeldung “Keine Belegung zu dem gewünschten Termin möglich” erhalten, melden Sie sich bitte per Email oder in der ersten Veranstaltung bei uns, damit die Veranstaltung im eCampus noch Ihrem Studiengang entsprechend hinzugefügt wird und wir Sie in den Moodle-Kurs aufnehmen können.": {
+   "en": "If you get the error \"Keine Belegung zu dem gewünschten Termin möglich\" (no registration possible for this date) when registering, write to us by email or tell us in the first session, so the course can be added to your study program in eCampus and we can add you to the Moodle course.",
+   "tr": "Derse kayıt olurken \"Keine Belegung zu dem gewünschten Termin möglich\" (bu tarihe kayıt mümkün değil) hatasını alırsan, e-postayla ya da ilk derste bize haber ver. Böylece ders eCampus'ta senin programına eklenir ve seni Moodle kursuna alırız."
+  },
+  "Für den Einschreibeschlüssel kontaktieren Sie bitte den Kursdozenten: Alexander Dedekind / alexander.dedekind@uni-kassel.de": {
+   "en": "For the enrolment key, please contact the course instructor: Alexander Dedekind / alexander.dedekind@uni-kassel.de",
+   "tr": "Kayıt anahtarı için lütfen dersin hocasına ulaş: Alexander Dedekind / alexander.dedekind@uni-kassel.de"
+  },
+  "Veranstaltung findet statt imCEC - Raum 2402/2403": {
+   "en": "The course takes place in the CEC - room 2402/2403",
+   "tr": "Etkinlik CEC'de yapılır - oda 2402/2403"
+  },
+  "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=1071": {
+   "en": "The introductory event for the Bachelor's and Master's programs in the specialization Energie-Umwelt-Technik takes place on Monday, 19.10.2026 in Room 1120 in KW3. Registration in the Moodle course by email to ttk-lehre@uni-kassel.de https://moodle.uni-kassel.de/course/view.php?id=1071",
+   "tr": "Energie-Umwelt-Technik uzmanlık alanındaki lisans ve yüksek lisans programları için tanıtım etkinliği, 19.10.2026 Pazartesi günü KW3 içindeki 1120 numaralı odada yapılır. Moodle kursuna kayıt ttk-lehre@uni-kassel.de adresine e-posta ile yapılır. https://moodle.uni-kassel.de/course/view.php?id=1071"
+  },
+  "https://moodle.uni-kassel.de/course/view.php?id=2998": {
+   "en": "https://moodle.uni-kassel.de/course/view.php?id=2998",
+   "tr": "https://moodle.uni-kassel.de/course/view.php?id=2998"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Metalltechnik Pflichtmodule": "Metal Technology Compulsory Modules",
+  "Metalltechnik Wahlpflichtmodule": "Metal Technology Compulsory Elective Modules",
+  "Schwerpunkt Werkstoffe und Konstruktion": "Specialization Materials and Engineering Design",
+  "Schwerpunkt Übergreifend": "Cross-Cutting Specialization"
+ },
+ "modules": [
+  {
+   "id": "m29021",
+   "title": "CAD-Computer Aided Design",
+   "titleEn": "CAD-Computer Aided Design",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69164"
+   ]
+  },
+  {
+   "id": "m12810",
+   "title": "Gussgerechtes Konstruieren u. virtuelle Produkt- und Prozessentwicklung",
+   "titleEn": "Casting-Compatible Design and Virtual Product and Process Development",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Wahlpflichtmodule > Schwerpunkt Werkstoffe und Konstruktion"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68083"
+   ]
+  },
+  {
+   "id": "m12784",
+   "title": "Informatik: Grundlagen der Programmierung",
+   "titleEn": "Computer Science: Fundamentals of Programming",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69212",
+    "69211"
+   ]
+  },
+  {
+   "id": "m28983",
+   "title": "Elektrotechnik und Elektronik für Maschinenbauer",
+   "titleEn": "Electrical Engineering and Electronics for Mechanical Engineers",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69218"
+   ]
+  },
+  {
+   "id": "m13652",
+   "title": "Konstruktionstechnik 2",
+   "titleEn": "Engineering Design 2",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Wahlpflichtmodule > Schwerpunkt Werkstoffe und Konstruktion"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68938"
+   ]
+  },
+  {
+   "id": "m28950",
+   "title": "Technische Mechanik 2",
+   "titleEn": "Engineering Mechanics 2",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68665",
+    "74596"
+   ]
+  },
+  {
+   "id": "m28976",
+   "title": "Technische Mechanik I",
+   "titleEn": "Engineering Mechanics I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68664"
+   ]
+  },
+  {
+   "id": "m11641",
+   "title": "Gießereitechnik I: Automobil- und Fahrzeugguss (Gussleichtbau)",
+   "titleEn": "Foundry Technology I: Automobile and Vehicle Casting (Lightweight Cast Construction)",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Wahlpflichtmodule > Schwerpunkt Werkstoffe und Konstruktion"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68081"
+   ]
+  },
+  {
+   "id": "m34712",
+   "title": "Werkstofftechnik",
+   "titleEn": "Materials Technology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68835"
+   ]
+  },
+  {
+   "id": "m28968",
+   "title": "Mathematik I",
+   "titleEn": "Mathematics I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69197",
+    "69198",
+    "69237",
+    "69238",
+    "54262"
+   ]
+  },
+  {
+   "id": "m29031",
+   "title": "Mathematik II",
+   "titleEn": "Mathematics II",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69248"
+   ]
+  },
+  {
+   "id": "m34673",
+   "title": "Produktionstechnik für Wirtschaftsingenieure",
+   "titleEn": "Production Engineering for Industrial Engineers",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69301"
+   ]
+  },
+  {
+   "id": "m13634",
+   "title": "Qualitätsmanagement I",
+   "titleEn": "Quality Management I",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Metalltechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68904"
+   ]
+  },
+  {
+   "id": "m12803",
+   "title": "Technische Thermodynamik 2",
+   "titleEn": "Technical Thermodynamics 2",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Metalltechnik Wahlpflichtmodule > Schwerpunkt Werkstoffe und Konstruktion"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68770",
+    "69487"
+   ]
+  },
+  {
+   "id": "m11796",
+   "title": "Schweißtechnik 2",
+   "titleEn": "Welding Technology 2",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Metalltechnik Wahlpflichtmodule > Schwerpunkt Werkstoffe und Konstruktion"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68072"
+   ]
+  },
+  {
+   "id": "m12841",
+   "title": "Arbeitswissenschaft",
+   "titleEn": "Work Science (Ergonomics)",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Metalltechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Metalltechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68760"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "69197",
+   "title": "Hörsaalanleitung zur Höheren Mathematik I (Maschinenbau, Mechatronik, BePäd Metalltechnik)",
+   "number": "FB1017.7208w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sigrun Ortleb"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69197&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24015",
+    "key": false
+   },
+   "titleEn": "Lecture Hall Tutorial for Higher Mathematics I (Mechanical Engineering, Mechatronics, BePäd Metal Technology)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69198",
+   "title": "Übungen zur Höheren Mathematik I (Maschinenbau, Mechatronik, BePäd Metalltechnik)",
+   "number": "FB1017.7207w",
+   "type": "Übung",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Stefan Kopecz"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sigrun Ortleb"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sigrun Ortleb"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69198&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24015",
+    "key": false
+   },
+   "titleEn": "Exercises for Higher Mathematics I (Mechanical Engineering, Mechatronics, BePäd Metal Technology)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69237",
+   "title": "Aufbaukurs Mathematik Teil 1",
+   "number": "FB10PM.410",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Stefan Kopecz"
+       ],
+       "room": "Hörsaal 3 (Raum 0504) (Diagonale 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69237&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24018",
+    "key": false
+   },
+   "titleEn": "Intermediate Mathematics Course Part 1",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69238",
+   "title": "Übung Aufbaukurs Mathematik Teil 1",
+   "number": "FB10PM.411",
+   "type": "Übung",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Stefan Kopecz"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Daniel Wallenta"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69238&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24018",
+    "key": false
+   },
+   "titleEn": "Exercise for Intermediate Mathematics Course Part 1",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54262",
+   "title": "Höhere Mathematik I (Maschinenbau, Mechatronik und BePäd Metalltechnik)",
+   "number": "FB1017.7205w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Sigrun Ortleb",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sigrun Ortleb"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sigrun Ortleb"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54262&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24015",
+    "key": false
+   },
+   "titleEn": "Higher Mathematics I (Mechanical Engineering, Mechatronics and BePäd Metal Technology)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69248",
+   "title": "Mathematik 2 - Antizyklische Übung",
+   "number": null,
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Daniel Wallenta",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Daniel Wallenta"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69248&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24501",
+    "key": false
+   },
+   "titleEn": "Mathematics 2 - Off-Cycle Exercise",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68664",
+   "title": "Technische Mechanik 1: Antizyklische Übung",
+   "number": null,
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andreas Ricoeur",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Stephan Lange"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68664&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24691",
+    "key": true
+   },
+   "titleEn": "Engineering Mechanics 1: Off-Cycle Exercise",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68665",
+   "title": "Technische Mechanik 2",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andreas Ricoeur",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andreas Ricoeur"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andreas Ricoeur"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68665&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24060",
+    "key": true
+   },
+   "titleEn": "Engineering Mechanics 2",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "74596",
+   "title": "Technische Mechanik 2 - Tutorien",
+   "number": null,
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. habil. Andreas Ricoeur, Stephan Lange",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-12-07",
+       "endDate": "2026-12-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-12-14",
+       "endDate": "2026-12-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3012 (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-11-25",
+        "2026-12-09",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-25",
+       "endDate": "2026-11-25",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-12-09",
+       "endDate": "2026-12-09",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1211 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74596&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24060",
+    "key": true
+   },
+   "titleEn": "Engineering Mechanics 2 - Tutorials",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "69164",
+   "title": "CAD",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Adrian Rienäcker, Dr. Sascha Umbach",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Für den Einschreibeschlüssel kontaktieren Sie bitte den Kursdozenten: Alexander Dedekind: alexander.dedekind@uni-kassel.de",
+       "instructors": [
+        "Dr. Sascha Umbach"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sascha Umbach"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Christian Skaley",
+        "Dipl.-Ing. Alexander Dedekind"
+       ],
+       "room": "Raum 2400 (Möncheberg 7)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Christian Skaley",
+        "Dipl.-Ing. Alexander Dedekind"
+       ],
+       "room": "Raum 2403 (Möncheberg 7)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Für den Einschreibeschlüssel kontaktieren Sie bitte den Kursdozenten: Alexander Dedekind: alexander.dedekind@uni-kassel.de",
+       "instructors": [
+        "Dr. Sascha Umbach"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sascha Umbach"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Christian Skaley",
+        "Dipl.-Ing. Alexander Dedekind"
+       ],
+       "room": "Raum 2400 (Möncheberg 7)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Christian Skaley",
+        "Dipl.-Ing. Alexander Dedekind"
+       ],
+       "room": "Raum 2403 (Möncheberg 7)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69164&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23189",
+    "key": true
+   },
+   "titleEn": "CAD",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69301",
+   "title": "Produktionstechnik für Wirtschaftsingenieure - Teil 1",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Stefan Böhm",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stefan Böhm",
+        "Dr.-Ing. Martin Kahlmeyer",
+        "Beatrix Hülsmann"
+       ],
+       "room": "Raum 0607 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69301&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Production Engineering for Industrial Engineers - Part 1",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68835",
+   "title": "Werkstofftechnik 1",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Thomas Niendorf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Benoit Merle",
+        "Prof. Dr.-Ing. Thomas Niendorf"
+       ],
+       "room": "Hörsaal 6 (Raum 0504) (Arnold-Bode 12)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Benoit Merle",
+        "Prof. Dr.-Ing. Thomas Niendorf"
+       ],
+       "room": "Hörsaal 3 (Raum 0504) (Diagonale 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68835&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23221",
+    "key": true
+   },
+   "titleEn": "Materials Technology 1",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69218",
+   "title": "Elektrotechnik und Elektronik 1+2 (PO2023)",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Marcus Ziegler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "17:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "M.Sc. Bünyamin Tekir",
+        "Prof. Dr.-Ing. Marcus Ziegler"
+       ],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:30",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Marcus Ziegler",
+        "M.Sc. Bünyamin Tekir"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69218&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24071",
+    "key": true
+   },
+   "titleEn": "Electrical Engineering and Electronics 1+2 (PO2023)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69212",
+   "title": "Informatik: Grundlagen der Programmierung Tutorien",
+   "number": null,
+   "type": "Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Sigrid Wenzel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69212&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24222",
+    "key": true
+   },
+   "titleEn": "Computer Science: Fundamentals of Programming Tutorials",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "69211",
+   "title": "Informatik: Grundlagen der Programmierung",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Sigrid Wenzel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Sigrid Wenzel",
+        "Felix Özkul",
+        "Robin Sutherland"
+       ],
+       "room": "Hörsaal 5 (Raum 1101) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69211&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24222",
+    "key": true
+   },
+   "titleEn": "Computer Science: Fundamentals of Programming",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68760",
+   "title": "Arbeitswissenschaft",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Ludger Schmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Falls Sie bei der Belegung der Lehrveranstaltung die Fehlermeldung “Keine Belegung zu dem gewünschten Termin möglich” erhalten, melden Sie sich bitte per Email oder in der ersten Veranstaltung bei uns, damit die Veranstaltung im eCampus noch Ihrem Studiengang entsprechend hinzugefügt wird und wir Sie in den Moodle-Kurs aufnehmen können.",
+       "instructors": [
+        "Prof. Dr.-Ing. Ludger Schmidt"
+       ],
+       "room": "Hörsaal 0400 (Möncheberg 7)"
+      }
+     ],
+     "lang": "de"
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68760&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23786",
+    "key": true
+   },
+   "titleEn": "Work Science (Ergonomics)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68938",
+   "title": "Konstruktionstechnik 2",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Adrian Rienäcker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Für den Einschreibeschlüssel kontaktieren Sie bitte den Kursdozenten: Alexander Dedekind / alexander.dedekind@uni-kassel.de",
+       "instructors": [
+        "Prof. Dr.-Ing. Adrian Rienäcker"
+       ],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Adrian Rienäcker"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68938&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23190",
+    "key": true
+   },
+   "titleEn": "Engineering Design 2",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68081",
+   "title": "Gießereitechnik I: Automobil- und Fahrzeugguss (Gussleichtbau)",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Martin Fehlbier, Daniel Termer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Martin Fehlbier",
+        "Daniel Termer"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Martin Fehlbier",
+        "Daniel Termer"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68081&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24646",
+    "key": true
+   },
+   "titleEn": "Foundry Technology I: Automobile and Vehicle Casting (Lightweight Cast Construction)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68072",
+   "title": "Schweißtechnik 2",
+   "number": null,
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Django Baunack",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-20",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Django Baunack",
+        "Heike Hammann"
+       ],
+       "room": "Raum 2120 (Möncheberg 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68072&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23471",
+    "key": false
+   },
+   "titleEn": "Welding Technology 2",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68083",
+   "title": "Gussgerechtes Konstruieren u. virtuelle Produkt- und Prozessentwicklung",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Martin Fehlbier, Jonas Erbuth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Veranstaltung findet statt imCEC - Raum 2402/2403",
+       "instructors": [
+        "Prof. Dr.-Ing. Martin Fehlbier",
+        "Jonas Erbuth"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68083&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "20286",
+    "key": true
+   },
+   "titleEn": "Casting-Compatible Design and Virtual Product and Process Development",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68770",
+   "title": "Höhere Thermodynamik",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=1071",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke",
+        "Fatih Meral"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68770&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1071",
+    "key": false
+   },
+   "titleEn": "Advanced Thermodynamics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69487",
+   "title": "Technische Thermodynamik - Repetitorium",
+   "number": null,
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "08:00",
+       "end": "16:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-18",
+       "cancelled": [],
+       "note": "https://moodle.uni-kassel.de/course/view.php?id=2998",
+       "instructors": [
+        "Fatih Meral",
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69487&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2998",
+    "key": false
+   },
+   "titleEn": "Technical Thermodynamics - Revision Course",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68904",
+   "title": "Qualitätsmanagement I - Grundlagen und Strategien",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Robert Refflinghaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Robert Refflinghaus"
+       ],
+       "room": "Hörsaal 5 (Raum 0506) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68904&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23416",
+    "key": false
+   },
+   "titleEn": "Quality Management I - Foundations and Strategies",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

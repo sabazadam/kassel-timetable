@@ -1,0 +1,128 @@
+{
+  "summary": "PO 2020 (FPO 4.17.06/013 MA 2020) sections 9 and 10: compulsory Transformation und Planungsprozesse and Architekturtheorie (6 ECTS each, not selectable), 18 ECTS of electives from study fields A to D with at most one Studienarbeit, 6 ECTS of key-competency study achievements, two different 12-ECTS design projects (24 ECTS), 30 ECTS in one Mastervertiefung (four named modules), and the 30-ECTS thesis. This winter no specialization is complete: Design Research lacks Spezielle Tragkonstruktionen (Geschossbauten), Baukonstruktion also lacks its Vertiefungsseminar, Städtebau lacks ST-A, UPB lacks its Recherchestudio, and Bauwirtschaft lacks its Profilprojekt.",
+  "categories": [
+    {
+      "id": "Projekte",
+      "group": "area",
+      "name": "Elective projects",
+      "nameDe": "Wahlpflichtprojekte",
+      "short": "Projects",
+      "count": 2,
+      "ects": 24,
+      "note": "Two different project modules, 12 ECTS each (24 ECTS), from the five elective design projects in section 10."
+    },
+    {
+      "id": "Studienfeld F",
+      "group": "area",
+      "name": "Key competencies (study achievements)",
+      "nameDe": "Studienleistungsmodule (Schlüsselkompetenzen)",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS of ungraded Studienleistungsmodule (Schlüsselkompetenzen). Each module offered this semester is 3 ECTS, so two are needed to reach the 6 ECTS total."
+    },
+    {
+      "id": "wp-fields",
+      "group": "anyOf",
+      "name": "Electives from study fields A to D",
+      "nameDe": "Wahlpflichtmodule in den Studienfeldern A bis D",
+      "short": "Electives A-D",
+      "count": 1,
+      "ects": 18,
+      "exclude": [
+        "Vertiefungsseminar Design Research (DR), Schwerpunkt Architekturtheorie",
+        "Vertiefungsseminar Design Research (DR), Schwerpunkt Bau Kunst Erfinden",
+        "Vertiefungsseminar Design Research (DR), Schwerpunkt Gebäudelehre",
+        "Vertiefungsseminar Design Research (DR), Schwerpunkt Digitale und Experimentelle Entwurfstechniken",
+        "Energiedesign und Architektur",
+        "Parameter der Nachhaltigkeit",
+        "Recherchestudio Design Research (DR), Schwerpunkt Architekturtheorie",
+        "Recherchestudio Design Research (DR), Schwerpunkt Bau Kunst Erfinden",
+        "Recherchestudio Design Research (DR), Schwerpunkt Baukonstruktion",
+        "Recherchestudio Design Research (DR), Schwerpunkt Gebäudelehre",
+        "Recherchestudio Design Research (DR), Schwerpunkt Digitale und Experimentelle Entwurfstechniken",
+        "Termine, Kosten, Qualitäten",
+        "ST-L Städtebau und Landschaft",
+        "ST-S Städtebauliches Entwerfen und Stadtplanung"
+      ],
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflicht Allgemeine Wissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Instrumente, Verfahren und Technik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Planungsgegenstände und Planungsebenen"
+        }
+      ],
+      "note": "18 ECTS from study fields A to D, at most one Studienarbeit (6 ECTS). Named specialization modules also filed under A to D are excluded so one module cannot fill both slots; the exclusion cannot depend on the chosen track, and Sonderbauten stays eligible here."
+    },
+    {
+      "id": "master-spec",
+      "group": "oneOf",
+      "name": "One master specialization",
+      "nameDe": "Mastervertiefung (eine Wahl)",
+      "short": "Master spec.",
+      "count": 4,
+      "ects": 30,
+      "exclude": [
+        "Spezielle Tragkonstruktionen, Sonderbauten"
+      ],
+      "options": [
+        {
+          "type": "area",
+          "id": "Mastervertiefung Bauwirtschaft / Projektentwicklung"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Design Research, Schwerpunkt Architekturtheorie"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Design Research, Schwerpunkt Bau Kunst Erfinden"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Design Research, Schwerpunkt Baukonstruktion"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Design Research, Schwerpunkt Digitale und experimentelle Entwurfstechniken"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Design Research, Schwerpunkt Gebäudelehre"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Städtebau"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Umweltbewusstes Planen und Bauen"
+        }
+      ],
+      "note": "30 ECTS and four named modules in one specialization: Design Research is that Schwerpunkt's Profilprojekt, Vertiefungsseminar, and Recherchestudio plus Spezielle Tragkonstruktionen (Geschossbauten, 6 ECTS); Städtebau is Profilprojekt plus ST-A, ST-S, and ST-L; UPB is Profilprojekt plus Parameter der Nachhaltigkeit, Energiedesign und Architektur, and Recherchestudio UPB; Bauwirtschaft is Profilprojekt BW plus Parameter der Nachhaltigkeit, Termine, Kosten, Qualitäten, and Recherchestudio BW. This winter Geschossbauten, the Baukonstruktion Vertiefungsseminar, ST-A, Recherchestudio UPB, and the Bauwirtschaft Profilprojekt are not offered, Sonderbauten and ST-ASL are not substitutes, and the 30 ECTS are still due."
+    }
+  ],
+  "pickOne": [
+    "Entwurfsprojekt mit Schwerpunkt digitale und/oder experimentelle und/oder künstlerische Entwurfsmethoden",
+    "Interdisziplinäres Entwurf- und Planungsprojekt",
+    "Konstruktions- und technologieorientiertes Entwurfsprojekt",
+    "Nutzungs- und gebrauchsorientiertes Entwurfsprojekt",
+    "Städtebauliches Entwurfsprojekt"
+  ],
+  "slug": "msc-architektur",
+  "po": "Master Architektur (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8858&token=2b04c06f9315ec310f748a0830fef54c2ddf3ace"
+  ]
+}

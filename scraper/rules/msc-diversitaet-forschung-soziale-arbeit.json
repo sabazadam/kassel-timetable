@@ -1,0 +1,30 @@
+{
+  "slug": "msc-diversitaet-forschung-soziale-arbeit",
+  "po": "Master Diversität - Forschung- Soziale Arbeit (2018)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=5826&token=99ea3d4d4a64b9ff97a4995748ab6d7fc05cde15"
+  ],
+  "categories": [
+    {
+      "id": "research-or-abroad",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Forschungspraxis"
+        },
+        {
+          "type": "module",
+          "id": "Studien- und Forschungsaufenthalt im Ausland"
+        }
+      ],
+      "name": "Research practice or stay abroad",
+      "nameDe": "Forschungspraxis (Modul 4 und 5) oder Studien- und Forschungsaufenthalt im Ausland",
+      "short": "Research/abroad",
+      "note": "Either modules 4 Forschungspraxis (19 ECTS) and 5 Comparative Social Work and Social Policy (12 ECTS), or a 31-ECTS study and research stay abroad"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO of 24.10.2018, section 8: compulsory modules 1 to 3, then either modules 4 and 5 or a study and research stay abroad (31 ECTS), and the 30-ECTS thesis module. Module 5 has no module in this semester's data."
+}

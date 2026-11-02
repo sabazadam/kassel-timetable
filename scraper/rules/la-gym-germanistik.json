@@ -1,0 +1,49 @@
+{
+  "slug": "la-gym-germanistik",
+  "po": "Lehramt an Gymnasien Germanistik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20537&token=a5da4b68f439dd16cfb79a8fc68ad6f23cdbf662"
+  ],
+  "categories": [
+    {
+      "id": "choice-10-11",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 10 Literatur, Medien, Digitalität (Schwerpunktmodul)"
+        },
+        {
+          "type": "module",
+          "id": "Modul 11 Text, Diskurs, Interkulturalität (Schwerpunktmodul)"
+        }
+      ],
+      "name": "Literature-media or text-discourse module",
+      "nameDe": "Modul 10 oder 11",
+      "short": "Modul 10/11",
+      "note": "One 8-ECTS module"
+    },
+    {
+      "id": "choice-12-13",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 12 Schwerpunktbildung Sprachwissenschaft (Schwerpunktmodul)"
+        },
+        {
+          "type": "module",
+          "id": "Modul 13 Schwerpunktbildung Ältere und Neuere Literaturwissenschaft (Schwerpunktmodul)"
+        }
+      ],
+      "name": "Focus linguistics or literature",
+      "nameDe": "Modul 12 oder 13 (Schwerpunktbildung)",
+      "short": "Modul 12/13",
+      "note": "One 8-ECTS module"
+    }
+  ],
+  "pickOne": [],
+  "summary": "Modulprüfungsordnung Deutsch L3 of 30.01.2023, section 3: modules 1 to 9 are compulsory; choose Literatur - Medien - Digitalität or Text - Diskurs - Interkulturalität, and Schwerpunktbildung Sprachwissenschaft or Schwerpunktbildung Ältere und Neuere Literaturwissenschaft."
+}

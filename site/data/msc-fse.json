@@ -1,0 +1,2207 @@
+{
+ "generatedAt": "2026-11-02T13:04:35.749Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Functional Safety Engineering (2023)",
+ "programEn": "Master Functional Safety Engineering (2023)",
+ "slug": "msc-fse",
+ "degree": "master",
+ "themes": [
+  {
+   "id": "machine-learning-recognition",
+   "modules": [
+    "m13154",
+    "m9154",
+    "m52792"
+   ],
+   "text": {
+    "tr": [
+     "Örüntü tanıma ve öğrenme",
+     "Sizi örüntü tanıma, makine öğrenmesi ve matematiksel problemleri sayısal yazılımda çözmeye hazırlar."
+    ],
+    "en": [
+     "Machine Learning and Recognition",
+     "Prepares you to apply pattern recognition and machine learning and to implement mathematical problems in numerical software."
+    ],
+    "de": [
+     "Mustererkennung und Lernen",
+     "Bereitet darauf vor, Mustererkennung und maschinelles Lernen anzuwenden und mathematische Aufgaben in numerischer Software umzusetzen."
+    ]
+   }
+  },
+  {
+   "id": "sensor-communication",
+   "modules": [
+    "m9986",
+    "m9279",
+    "m9193",
+    "m52792"
+   ],
+   "text": {
+    "tr": [
+     "Sensörler ve iletişim",
+     "Sizi radyo frekanslı sensörlere, yarı iletken lazerlere ve iletişim için bilgi kuramına hazırlar."
+    ],
+    "en": [
+     "Sensors and Communication",
+     "Prepares you for radio frequency sensors, semiconductor lasers, and information theory in sensing and communication."
+    ],
+    "de": [
+     "Sensorik und Kommunikation",
+     "Bereitet auf Hochfrequenzsensorik, Halbleiterlaser und Informationstheorie für Sensorik und Kommunikation vor."
+    ]
+   }
+  },
+  {
+   "id": "digital-control-automation",
+   "modules": [
+    "m52794",
+    "m51014",
+    "m52848"
+   ],
+   "text": {
+    "tr": [
+     "Sayısal kontrol ve otomasyon",
+     "Sizi işlevsel güvenlik sistemlerinde sayısal kontrol ve otomasyon tasarımına hazırlar."
+    ],
+    "en": [
+     "Digital Control and Automation",
+     "Prepares you to design digital control and automation for functional safety systems."
+    ],
+    "de": [
+     "Digitale Regelung und Automatisierung",
+     "Bereitet darauf vor, digitale Regelung und Automatisierung für funktionale Sicherheitssysteme zu entwerfen."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "spec-choice",
+   "group": "oneOf",
+   "name": "One specialization of your choice",
+   "nameDe": "Schwerpunkt (eine Wahl)",
+   "short": "Specialization",
+   "count": 3,
+   "ects": 18,
+   "note": "Three modules (W1 to W3, 18 ECTS) from one specialization; the specialization may be changed once. Credits from specialization modules beyond those 18 ECTS count only as additional credits, up to a further 18 ECTS.",
+   "options": [
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule Mathematical moduls and Software technology"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule Sensor und Communication"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule System and Control"
+    },
+    {
+     "type": "area",
+     "id": "Main Subject Modules Safety structures for Vehicles"
+    }
+   ],
+   "nameTr": "Seçeceğiniz bir uzmanlık alanı",
+   "noteTr": "Bir uzmanlık alanından üç modül (W1-W3, 18 ECTS); uzmanlık alanı bir kez değiştirilebilir. Bu 18 ECTS'in üzerindeki uzmanlık modüllerinden gelen krediler yalnızca ek kredi sayılır, en fazla 18 ECTS daha.",
+   "noteDe": "Drei Module (W1 bis W3, 18 ECTS) aus einem Schwerpunkt; der Schwerpunkt kann einmal gewechselt werden. Leistungspunkte aus Schwerpunktmodulen über diese 18 ECTS hinaus zählen nur als zusätzliche Leistungspunkte, bis zu weiteren 18 ECTS."
+  }
+ ],
+ "rulesSummary": {
+  "en": "PO 2023 section 8: all compulsory modules B1 to B5 and S1 to S7 (including Project and Seminar), plus 18 ECTS (three modules W1 to W3) from one chosen specialization (System and Control, Mathematical Models and Software Technology, Sensor and Communication, Safety Structures for Vehicles), and the thesis. The specialization may be changed once. A student who already has the Social Communication content at admission takes 6 ECTS from the elective area instead of that module.",
+  "tr": "PO 2023 madde 8: B1-B5 ve S1-S7 arasındaki tüm zorunlu modüller (Project ve Seminar dahil), seçilen bir uzmanlık alanından 18 ECTS (W1-W3 arası üç modül: System and Control, Mathematical Models and Software Technology, Sensor and Communication, Safety Structures for Vehicles) ve tez. Uzmanlık alanı bir kez değiştirilebilir. Kabulde Social Communication içeriğine zaten sahip olan öğrenci, bu modülün yerine seçmeli alandan 6 ECTS alır.",
+  "de": "PO 2023, § 8: alle Pflichtmodule B1 bis B5 und S1 bis S7 (einschließlich Project und Seminar), dazu 18 ECTS (drei Module W1 bis W3) aus einem gewählten Schwerpunkt (System and Control, Mathematical Models and Software Technology, Sensor and Communication, Safety Structures for Vehicles) sowie die Masterarbeit. Der Schwerpunkt kann einmal gewechselt werden. Wer die Inhalte von Social Communication bereits bei der Zulassung hat, belegt statt dieses Moduls 6 ECTS aus dem Wahlpflichtbereich."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21975&token=7dfd6a031b76f9498c9ceb2b0b9ea7f91544bd59"
+ ],
+ "sections": [
+  {
+   "id": "Pflichtmodule",
+   "name": "Compulsory Modules",
+   "nameDe": "Pflichtmodule"
+  },
+  {
+   "id": "Schwerpunktmodule System and Control",
+   "name": "Specialization Modules System and Control",
+   "nameDe": "Schwerpunktmodule System and Control"
+  },
+  {
+   "id": "Schwerpunktmodule Mathematical moduls and Software technology",
+   "name": "Specialization Modules Mathematical Modules and Software Technology",
+   "nameDe": "Schwerpunktmodule Mathematical moduls and Software technology"
+  },
+  {
+   "id": "Schwerpunktmodule Sensor und Communication",
+   "name": "Specialization Modules Sensor and Communication",
+   "nameDe": "Schwerpunktmodule Sensor und Communication"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Bootcamps für ECE- und FUSE-Studierende": {
+   "en": "Bootcamps for ECE and FUSE students",
+   "tr": "ECE ve FUSE öğrencileri için bootcamp'ler"
+  },
+  "Raum 2315 im Fachgebiet ComLab": {
+   "en": "Room 2315 in the ComLab department",
+   "tr": "ComLab bölümünde oda 2315"
+  },
+  "Vorlesung": {
+   "en": "Lecture",
+   "tr": "Ders"
+  },
+  "Raum 2107, Labor im Fachgebiet Rechnerarchitektur und SystemprogrammierungThis lecture is for FUSE-Students only. Students, who are interested can register via email: sps_plc_prog@uni-kassel.de.": {
+   "en": "Room 2107, lab of the Computer Architecture and System Programming department. This lecture is for FUSE students only. Interested students can register by email: sps_plc_prog@uni-kassel.de.",
+   "tr": "Oda 2107, Bilgisayar Mimarisi ve Sistem Programlama bölümünün laboratuvarı. Bu ders yalnızca FUSE öğrencileri içindir. İlgilenenler e-posta ile kayıt olabilir: sps_plc_prog@uni-kassel.de."
+  },
+  "Raum 2107, Labor im Fachgebiet Rechnerarchitektur und Systemprogrammierung This lecture is or Fuse-Students only. Students, who are interested, can register via email: sps_plc_prog@uni-kassel.de": {
+   "en": "Room 2107, lab of the Computer Architecture and System Programming department. This lecture is for FUSE students only. Interested students can register by email: sps_plc_prog@uni-kassel.de.",
+   "tr": "Oda 2107, Bilgisayar Mimarisi ve Sistem Programlama bölümünün laboratuvarı. Bu ders yalnızca FUSE öğrencileri içindir. İlgilenenler e-posta ile kayıt olabilir: sps_plc_prog@uni-kassel.de."
+  },
+  "Interessierte wenden sich bitte an Herrn Dr. Schwarz unter m.schwarz@uni-kassel.de": {
+   "en": "If interested, contact Dr. Schwarz at m.schwarz@uni-kassel.de.",
+   "tr": "İlgilenenler Dr. Schwarz'a yazsın: m.schwarz@uni-kassel.de."
+  },
+  "Interessierte wenden sich bitte an Herrn Dr. Schwarz unter m.schwarz@uni-kassel.deThis lecture is for Fuse-Students only. Students, who are interested, can register via email: sps_plc_prog@uni-kassel.de": {
+   "en": "Those interested please contact Dr. Schwarz at m.schwarz@uni-kassel.de. This lecture is for Fuse-Students only. Students, who are interested, can register via email: sps_plc_prog@uni-kassel.de",
+   "tr": "İlgilenenler lütfen Dr. Schwarz'a m.schwarz@uni-kassel.de adresinden ulaşsın. Bu ders yalnızca Fuse öğrencileri içindir. İlgilenen öğrenciler e-posta ile kayıt olabilir: sps_plc_prog@uni-kassel.de"
+  },
+  "Interessierte wenden sich bitte an Herrn Dr. Schwarz unter m.schwarz@uni-kassel.deThis lecture is or Fuse-Students only. Students, who are interested, can register via email: sps_plc_prog@uni-kassel.de": {
+   "en": "Those interested please contact Dr. Schwarz at m.schwarz@uni-kassel.de. This lecture is for FUSE students only. Interested students can register by email: sps_plc_prog@uni-kassel.de",
+   "tr": "İlgilenenler lütfen Dr. Schwarz'a m.schwarz@uni-kassel.de adresinden ulaşsın. Bu ders yalnızca FUSE öğrencileri içindir. İlgilenen öğrenciler e-posta ile kayıt olabilir: sps_plc_prog@uni-kassel.de"
+  },
+  "Die Studierenden müssen sich bitte im entsprechenden Moodle-Kurs eintragen. Teilnehmerzahl kann begrenzt werden.": {
+   "en": "Students must please register in the corresponding Moodle course. The number of participants may be limited.",
+   "tr": "Öğrencilerin lütfen ilgili Moodle kursuna kayıt olmaları gerekmektedir. Katılımcı sayısı sınırlandırılabilir."
+  },
+  "1. Gruppe, Raum 0303c im Fachgebiet": {
+   "en": "1st group, Room 0303c in the department",
+   "tr": "1. grup, anabilim dalında Oda 0303c"
+  },
+  "2. Gruppe, Raum 0303c im Fachgebiet": {
+   "en": "2nd group, Room 0303c in the department",
+   "tr": "2. grup, anabilim dalında Oda 0303c"
+  },
+  "Block im Februar 2027": {
+   "en": "Block course in February 2027",
+   "tr": "Şubat 2027'de blok ders"
+  },
+  "Die Übung findet an folgenden Terminen statt: 27.10.2026; 10.11.2026; 17.11.2026; 24.11.2026; 08.12.2026; 12.01.2027; 26.01.2027; 09.02.2027": {
+   "en": "The exercise takes place on the following dates: 27.10.2026; 10.11.2026; 17.11.2026; 24.11.2026; 08.12.2026; 12.01.2027; 26.01.2027; 09.02.2027",
+   "tr": "Alıştırma şu tarihlerde yapılır: 27.10.2026; 10.11.2026; 17.11.2026; 24.11.2026; 08.12.2026; 12.01.2027; 26.01.2027; 09.02.2027"
+  },
+  "Kick-off-Meeting am Mittwoch, den 04.11.2026 um 09.00 Uhr in Hörsaal 0315 während der Vorlesung. Eine fristgerechte Anmeldung zur zugehörigen Prüfungsleistung ist verpflichtend für die Teilnahme an der Veranstaltung.": {
+   "en": "Kick-off meeting on Wednesday, 04.11.2026 at 09:00 in lecture hall 0315 during the lecture. Timely registration for the associated examination is mandatory for participation in the course.",
+   "tr": "Ön görüşme 04.11.2026 Çarşamba günü saat 09:00'da, ders sırasında 0315 amfisinde yapılır. İlgili sınava zamanında kayıt olmak, etkinliğe katılmak için zorunludur."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Pflichtmodule": "Compulsory Modules",
+  "Schwerpunktmodule System and Control": "Specialization Modules System and Control",
+  "Schwerpunktmodule Mathematical moduls and Software technology": "Specialization Modules Mathematical Modules and Software Technology",
+  "Main Subject Modules Safety structures for Vehicles": "Main Subject Modules Safety Structures for Vehicles",
+  "Schwerpunktmodule Sensor und Communication": "Specialization Modules Sensor and Communication"
+ },
+ "modules": [
+  {
+   "id": "m52794",
+   "title": "Advanced Digital Control",
+   "titleEn": "Advanced Digital Control",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule System and Control"
+   ],
+   "categories": [
+    "spec-choice"
+   ],
+   "section": "Schwerpunktmodule System and Control",
+   "pickOne": false,
+   "courseIds": [
+    "59187",
+    "59188"
+   ]
+  },
+  {
+   "id": "m9154",
+   "title": "Communication Technologies II",
+   "titleEn": "Communication Technologies II",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule Mathematical moduls and Software technology"
+   ],
+   "categories": [
+    "spec-choice"
+   ],
+   "section": "Schwerpunktmodule Mathematical moduls and Software technology",
+   "pickOne": false,
+   "courseIds": [
+    "70067",
+    "70068"
+   ]
+  },
+  {
+   "id": "m52835",
+   "title": "Engineering Mathematics",
+   "titleEn": "Engineering Mathematics",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "59869"
+   ]
+  },
+  {
+   "id": "m52848",
+   "title": "Introduction to Functional Safety",
+   "titleEn": "Introduction to Functional Safety",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71738",
+    "71739"
+   ]
+  },
+  {
+   "id": "m9193",
+   "title": "Introduction to Information Theory & Coding",
+   "titleEn": "Introduction to Information Theory & Coding",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70093"
+   ]
+  },
+  {
+   "id": "m52792",
+   "title": "Introduction to MATLAB",
+   "titleEn": "Introduction to MATLAB",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "59870"
+   ]
+  },
+  {
+   "id": "m51014",
+   "title": "Methods for Automation for safety related Systems",
+   "titleEn": "Methods for Automation for safety related Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69672",
+    "69673"
+   ]
+  },
+  {
+   "id": "m13154",
+   "title": "Pattern Recognition and Machine Learning I",
+   "titleEn": "Pattern Recognition and Machine Learning I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Main Subject Modules Safety structures for Vehicles",
+    "Schwerpunktmodule Mathematical moduls and Software technology",
+    "Schwerpunktmodule Sensor und Communication"
+   ],
+   "categories": [
+    "spec-choice"
+   ],
+   "section": "Schwerpunktmodule Mathematical moduls and Software technology",
+   "pickOne": false,
+   "courseIds": [
+    "71815",
+    "71816"
+   ]
+  },
+  {
+   "id": "m52796",
+   "title": "Project",
+   "titleEn": "Project",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71032"
+   ]
+  },
+  {
+   "id": "m9986",
+   "title": "RF Sensor Systems",
+   "titleEn": "RF Sensor Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule Sensor und Communication"
+   ],
+   "categories": [
+    "spec-choice"
+   ],
+   "section": "Schwerpunktmodule Sensor und Communication",
+   "pickOne": false,
+   "courseIds": [
+    "71701",
+    "71702"
+   ]
+  },
+  {
+   "id": "m9279",
+   "title": "Halbleiterlaser",
+   "titleEn": "Semiconductor Lasers",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule Sensor und Communication"
+   ],
+   "categories": [
+    "spec-choice"
+   ],
+   "section": "Schwerpunktmodule Sensor und Communication",
+   "pickOne": false,
+   "courseIds": [
+    "71913"
+   ]
+  },
+  {
+   "id": "m52840",
+   "title": "Seminar",
+   "titleEn": "Seminar",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71033"
+   ]
+  },
+  {
+   "id": "m52825",
+   "title": "Social Communication",
+   "titleEn": "Social Communication",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "61816"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "59869",
+   "title": "Engineering Mathematics",
+   "number": "ETechn-3770-V1",
+   "type": "Vorlesung/Übung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:30",
+       "end": "18:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-01-12",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Nour Mansour"
+       ],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-01-13",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Nour Mansour"
+       ],
+       "room": "Hörsaal 1114 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-01-14",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Nour Mansour"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-11-06",
+       "endDate": "2027-01-15",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Bootcamps für ECE- und FUSE-Studierende",
+       "instructors": [
+        "Dr.-Ing. Nour Mansour"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59869&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Engineering Mathematics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "61816",
+   "title": "Deutschkurs Level A1",
+   "number": "ETechn-3950-V1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Andreas Mohr"
+       ],
+       "room": "Raum -1605 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Andreas Mohr"
+       ],
+       "room": "Raum -1605 (WA-Neubau (Emilien)) Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Mohammad Kabiri"
+       ],
+       "room": "Hörsaal 1114 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Mohammad Kabiri"
+       ],
+       "room": "Hörsaal 1114 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61816&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "German Course Level A1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "59870",
+   "title": "Introduction to MATLAB",
+   "number": "ETechn-3760-V2",
+   "type": "Praktikum",
+   "language": "englisch",
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus, Dr.-Ing. Marc Selig",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Raum 2315 im Fachgebiet ComLab",
+       "instructors": [
+        "Dr.-Ing. Marc Selig"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59870&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24715",
+    "key": true
+   },
+   "titleEn": "Introduction to MATLAB",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70093",
+   "title": "Introduction to Information Theory & Coding",
+   "number": "ETechn-3850-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "09:45",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Nour Mansour"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Nour Mansour"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70093&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24435",
+    "key": true
+   },
+   "titleEn": "Introduction to Information Theory & Coding",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71738",
+   "title": "Introduction to Functional Safety",
+   "number": "Inform-2880-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Vorlesung",
+       "instructors": [
+        "Dipl.-Ing. Ahmed Alsuleiman"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71738&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introduction to Functional Safety",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71739",
+   "title": "Introduction to Functional Safety",
+   "number": "Inform-2880-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dipl.-Ing. Ahmed Alsuleiman"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71739&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introduction to Functional Safety",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69672",
+   "title": "Ausgewählte Kapitel der Automatisierung",
+   "number": "Inform-2760-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:30",
+       "end": "13:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Raum 2107, Labor im Fachgebiet Rechnerarchitektur und SystemprogrammierungThis lecture is for FUSE-Students only. Students, who are interested can register via email: sps_plc_prog@uni-kassel.de.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69672&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Selected Topics in Automation",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69673",
+   "title": "Ausgewählte Kapitel der Automatisierung",
+   "number": "Inform-2760-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:30",
+       "end": "15:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Raum 2107, Labor im Fachgebiet Rechnerarchitektur und Systemprogrammierung This lecture is or Fuse-Students only. Students, who are interested, can register via email: sps_plc_prog@uni-kassel.de",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69673&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Selected Topics in Automation",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71032",
+   "title": "Masterprojekt im Fachgebiet Rechnerarchitektur und Systemprogrammierung",
+   "number": "Inform-2980-V1",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus, Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Interessierte wenden sich bitte an Herrn Dr. Schwarz unter m.schwarz@uni-kassel.de",
+       "instructors": [
+        "Dr. Michael Schwarz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71032&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Master Project: Computer Architecture and System Programming",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71033",
+   "title": "Masterseminar im Fachgebiet Rechnerarchitektur und Systemprogrammierung",
+   "number": "Inform-2990-V1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus, Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Interessierte wenden sich bitte an Herrn Dr. Schwarz unter m.schwarz@uni-kassel.de",
+       "instructors": [
+        "Dr. Michael Schwarz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71033&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Master Seminar: Computer Architecture and System Programming",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "59187",
+   "title": "Advanced Digital Control",
+   "number": "Inform-2810-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Interessierte wenden sich bitte an Herrn Dr. Schwarz unter m.schwarz@uni-kassel.deThis lecture is for Fuse-Students only. Students, who are interested, can register via email: sps_plc_prog@uni-kassel.de",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59187&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23598",
+    "key": true
+   },
+   "titleEn": "Advanced Digital Control",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "59188",
+   "title": "Advanced Digital Control",
+   "number": "Inform-2810-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Interessierte wenden sich bitte an Herrn Dr. Schwarz unter m.schwarz@uni-kassel.deThis lecture is or Fuse-Students only. Students, who are interested, can register via email: sps_plc_prog@uni-kassel.de",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59188&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23598",
+    "key": true
+   },
+   "titleEn": "Advanced Digital Control",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70067",
+   "title": "Communication Technologies 2 - Maschinelles Lernen und Kontexterkennung 2",
+   "number": "Inform-2050-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Klaus David",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "12:30",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70067&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23806",
+    "key": false
+   },
+   "titleEn": "Communication Technologies 2 - Machine Learning and Context Recognition 2",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70068",
+   "title": "Communication Technologies 2 - Maschinelles Lernen und Kontexterkennung 2",
+   "number": "Inform-2050-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Klaus David",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:30",
+       "end": "13:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dipl.-Ing. Alexander Bolz",
+        "Dr. Judith Heinisch"
+       ],
+       "room": "Raum -1605 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70068&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23806",
+    "key": false
+   },
+   "titleEn": "Communication Technologies 2 - Machine Learning and Context Recognition 2",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71815",
+   "title": "Pattern Recognition and Machine Learning I",
+   "number": "Inform-1770-V1",
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. rer. nat. Bernhard Sick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-19",
+       "endDate": "2026-10-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-26",
+       "endDate": "2026-10-26",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-11-02",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Studierenden müssen sich bitte im entsprechenden Moodle-Kurs eintragen. Teilnehmerzahl kann begrenzt werden.",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71815&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23482",
+    "key": false
+   },
+   "titleEn": "Pattern Recognition and Machine Learning I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71816",
+   "title": "Pattern Recognition and Machine Learning I",
+   "number": "Inform-1770-S1",
+   "type": "Übung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. rer. nat. Bernhard Sick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-11-04",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "1. Gruppe, Raum 0303c im Fachgebiet",
+       "instructors": [
+        "M.Sc. Denis Huseljic"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-11-04",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "2. Gruppe, Raum 0303c im Fachgebiet",
+       "instructors": [
+        "Marek Herde"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71816&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23482",
+    "key": false
+   },
+   "titleEn": "Pattern Recognition and Machine Learning I",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71913",
+   "title": "Semiconductor Lasers",
+   "number": "ETechn-4350-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. habil. Hartmut Hillmer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Block im Februar 2027",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71913&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1711",
+    "key": true
+   },
+   "titleEn": "Semiconductor Lasers",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71701",
+   "title": "RF Sensor Systems",
+   "number": "ETechn-3350-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Axel Bangert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Axel Bangert"
+       ],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Übung findet an folgenden Terminen statt: 27.10.2026; 10.11.2026; 17.11.2026; 24.11.2026; 08.12.2026; 12.01.2027; 26.01.2027; 09.02.2027",
+       "instructors": [
+        "Clemens Weber"
+       ],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71701&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24761",
+    "key": true
+   },
+   "titleEn": "RF Sensor Systems",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71702",
+   "title": "RF Sensor Systems Practical Training",
+   "number": "ETechn-3350-V2",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Axel Bangert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Kick-off-Meeting am Mittwoch, den 04.11.2026 um 09.00 Uhr in Hörsaal 0315 während der Vorlesung. Eine fristgerechte Anmeldung zur zugehörigen Prüfungsleistung ist verpflichtend für die Teilnahme an der Veranstaltung.",
+       "instructors": [
+        "Clemens Weber"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71702&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24761",
+    "key": true
+   },
+   "titleEn": "RF Sensor Systems Practical Training",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

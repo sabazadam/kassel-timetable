@@ -1,0 +1,112 @@
+{
+  "slug": "bsc-informatik",
+  "po": "Bachelor Informatik (2026)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=29848&token=944536f5884d0c10d8ed7effe1b17b7cc16edeb8",
+    "https://moduldatenbank.uni-kassel.de/showListAreas.php?id=119"
+  ],
+  "summary": "The Bachelor in Computer Science (PO 2026) awards 180 CP over six semesters, including a 15 CP bachelor thesis. Compulsory blocks are Grundbereich A (25 CP), Grundbereich B (24 CP), the Hauptbereich (60 CP), Projektarbeit (12 CP), and two named seminars of 3 CP each. Elective rules cover 12 CP in technical and practical computer science, 6 CP in theoretical computer science or mathematics, 6 CP in a technical and practical lab, 6 CP in a theoretical computer science or mathematics lab, and 8 CP of key competencies, of which Lernen und Organisation (2 CP) is compulsory and 6 CP are chosen from the interdisciplinary offerings. Faculty-council Ergänzungen may add further modules to those elective areas.",
+  "pickOne": [
+    "Projektarbeit",
+    "Seminar technische/praktische Informatik",
+    "Seminar theoretische Informatik/Mathematik"
+  ],
+  "categories": [
+    {
+      "id": "wp-technische-praktische",
+      "group": "anyOf",
+      "name": "Technical and practical electives",
+      "nameDe": "Wahlpflicht technische / praktische Informatik",
+      "short": "Practical CS electives",
+      "count": 2,
+      "note": "Section 7 requires 12 CP in Wahlpflicht technische / praktische Informatik. Every module of this pool in the handbook is 6 CP, so the area is two modules. Symbolische künstliche Intelligenz und diskrete Datenanalyse is part of this pool and is offered under the Ergänzungen area path.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflicht technische / praktische Informatik"
+        },
+        {
+          "type": "area",
+          "id": "Ergänzungen > Wahlpflicht Technische/Praktische Informatik"
+        }
+      ],
+      "ects": 12
+    },
+    {
+      "id": "Wahlpflicht theoretische Informatik / Mathematik",
+      "group": "area",
+      "name": "Theory and mathematics electives",
+      "nameDe": "Wahlpflicht theoretische Informatik / Mathematik",
+      "short": "Theory/math electives",
+      "count": 1,
+      "note": "Section 7 requires 6 CP in Wahlpflicht theoretische Informatik / Mathematik. Handbook modules in this pool are 6 CP each, so one module fills the area.",
+      "ects": 6
+    },
+    {
+      "id": "Labor technische / praktische Informatik",
+      "group": "area",
+      "name": "Technical and practical lab",
+      "nameDe": "Labor technische / praktische Informatik",
+      "short": "Tech/practical lab",
+      "count": 1,
+      "note": "Section 7 requires 6 CP in Labor technische / praktische Informatik. Labs in the handbook carry 3 CP, 4 CP, or 6 CP, and HackerLab may be credited with 3 CP or 6 CP, so the area is complete when the chosen labs reach 6 CP.",
+      "ects": 6
+    },
+    {
+      "id": "Labor theoretische Informatik / Mathematik",
+      "group": "area",
+      "name": "Theory and mathematics lab",
+      "nameDe": "Labor theoretische Informatik / Mathematik",
+      "short": "Theory/math lab",
+      "count": 1,
+      "note": "Section 7 requires 6 CP in Labor theoretische Informatik / Mathematik. Handbook labs in this pool are 6 CP each, so one lab fills the area.",
+      "ects": 6
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "area",
+      "name": "Key competency electives",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key skill electives",
+      "count": 1,
+      "note": "Section 7 gives key competencies 8 CP in total. Lernen und Organisation (2 CP) is compulsory under section 7 (5), and the other 6 CP come from the Wahlpflicht module Schlüsselkompetenzen aus dem fachübergreifenden Lehrangebot.",
+      "ects": 6,
+      "exclude": [
+        "Lernen und Organisation"
+      ]
+    },
+    {
+      "id": "Seminar technische/praktische Informatik",
+      "group": "module",
+      "name": "Seminar Technical/Practical Computer Science",
+      "nameDe": "Seminar technische/praktische Informatik",
+      "short": "Seminar Tech/Pract",
+      "count": 1,
+      "ects": 3,
+      "note": "3 ECTS.",
+      "compulsory": true
+    },
+    {
+      "id": "Seminar theoretische Informatik/Mathematik",
+      "group": "module",
+      "name": "Seminar Theoretical Computer Science/Mathematics",
+      "nameDe": "Seminar theoretische Informatik/Mathematik",
+      "short": "Seminar Theory",
+      "count": 1,
+      "ects": 3,
+      "note": "3 ECTS.",
+      "compulsory": true
+    },
+    {
+      "id": "Projektarbeit",
+      "group": "module",
+      "name": "Project work",
+      "nameDe": "Projektarbeit",
+      "short": "Project",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS; requires Grundbereich A and B.",
+      "compulsory": true
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "msc-stadt-und-regionalplanung",
+  "po": "Master Stadt- und Regionalplanung (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8905&token=5ca8745655a11759a97cd122850c8c6c0e39614d"
+  ],
+  "categories": [
+    {
+      "id": "Transformation und Planungsprozesse",
+      "group": "module",
+      "name": "Transformation and planning processes",
+      "nameDe": "Transformation und Planungsprozesse",
+      "short": "Transformation",
+      "count": 1,
+      "note": "Compulsory, 6 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "Projekte",
+      "group": "area",
+      "name": "Elective projects",
+      "nameDe": "Wahlpflichtprojekte",
+      "short": "Projects",
+      "count": 2,
+      "note": "Two different 12-ECTS project modules over the program (24 ECTS)"
+    },
+    {
+      "id": "Studienfeld F",
+      "group": "area",
+      "name": "Key competencies (study achievements)",
+      "nameDe": "Studienleistungsmodule (Schlüsselkompetenzen)",
+      "short": "Key competencies",
+      "count": 2,
+      "note": "6 ECTS in total (3-ECTS modules)"
+    },
+    {
+      "id": "wp-fields",
+      "group": "anyOf",
+      "count": 4,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflicht Allgemeine Wissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Instrumente, Verfahren und Technik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Planungsgegenstände und Planungsebenen"
+        }
+      ],
+      "name": "Electives from study fields A to D",
+      "nameDe": "Wahlpflichtmodule in den Studienfeldern A bis D",
+      "short": "Electives A-D",
+      "note": "24 ECTS from study fields A to D, at most one Studienarbeit"
+    },
+    {
+      "id": "master-spec",
+      "group": "oneOf",
+      "count": 3,
+      "options": [
+        {
+          "type": "area",
+          "id": "Mastervertiefung Bestandsentwicklung und Stadtmanagement"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Nachhaltige Raumentwicklung"
+        },
+        {
+          "type": "area",
+          "id": "Mastervertiefung Städtebau"
+        }
+      ],
+      "name": "One master specialization",
+      "nameDe": "Mastervertiefung (eine Wahl)",
+      "short": "Master spec.",
+      "note": "30 ECTS in one master specialization (ST, NRE or BSM); count limited to 3 because only that many modules are offered this semester (PO requires 4)"
+    }
+  ],
+  "pickOne": [
+    "Interdisziplinäres Entwurf- und Planungsprojekt",
+    "Masterprojekt ST/NRE/BSM",
+    "Vertiefendes Masterprojekt ST/NRE/BSM"
+  ],
+  "summary": "PO 2020 section 9: compulsory 'Transformation und Planungsprozesse' (6 ECTS), 24 ECTS electives from study fields A to D (at most one Studienarbeit), 6 ECTS key competencies, two different elective projects (24 ECTS), 30 ECTS in one chosen master specialization (ST, NRE or BSM) and the 30-ECTS thesis."
+}

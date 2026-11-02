@@ -1,0 +1,72 @@
+{
+  "slug": "bsc-bauingenieurwesen",
+  "po": "Bachelor Bauingenieurwesen (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=4498&token=f0c92db3a593de1bfc8c974e76412eb13fdadffe",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8860&token=01b3ba522092b19a544872372e9999cb422b9205"
+  ],
+  "categories": [
+    {
+      "id": "Ergänzung Grundlagen",
+      "group": "area",
+      "name": "Supplementary foundations",
+      "nameDe": "Ergänzung Grundlagen",
+      "short": "Suppl. found.",
+      "count": 1,
+      "ects": 6,
+      "note": "One elective module of 6 ECTS in Ergänzung Grundlagen."
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 15,
+      "note": "15 ECTS of additive key competencies."
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "module",
+          "id": "Steuerung der Projektabwicklung und Privates Baurecht"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Konstruktiver Ingenieurbau"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Numerische Methoden der Tragwerksanalyse"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Straßenbau"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Wasser"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Werkstoffe"
+        }
+      ],
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (SP I bis SP III)",
+      "short": "Specialization",
+      "note": "Three specialization modules SP I to SP III (18 ECTS) from one specialization. This semester only one module is offered in each specialization (PO requires 3); for Baubetrieb und Baumanagement that module is Steuerung der Projektabwicklung und Privates Baurecht, since Grundlagen Bauwirtschaft und Baubetrieb II belongs only to Ergänzung Grundlagen."
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO 2014 as amended in 2020 (section 7): 87 ECTS compulsory basic phase, 57 ECTS compulsory main phase, three modules (SP I to SP III, 18 ECTS) from one chosen specialization, 6 ECTS 'Ergänzung Grundlagen', a 16-ECTS engineering internship, 15 ECTS key competencies and the 11-ECTS thesis."
+}

@@ -1,0 +1,82 @@
+{
+  "summary": "PO 2020 section 6: 42 ECTS economics foundations, the two compulsory modules of one of five economics specializations (12 ECTS), 12 ECTS integrative foundations, 18 ECTS integrative electives (12 ECTS Wahlpflicht Integration plus 6 ECTS key competencies), 24 ECTS mathematics, 48 ECTS technical foundations, 12 ECTS technical electives from one technical specialization, and the 12-ECTS thesis.",
+  "categories": [
+    {
+      "id": "Integrativer Studienbereich > Integrativer Studienbereich Wahl",
+      "group": "area",
+      "name": "Integrative electives",
+      "nameDe": "Integrativer Studienbereich Wahl",
+      "short": "Integrative WP",
+      "count": 3,
+      "note": "18 ECTS: 'Wahlpflicht Integration' (12 ECTS from the listed FB15/FB07 fields) plus 'Schlüsselkompetenzen' (6 ECTS)"
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "note": "Module I7, 6 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "tech-spec",
+      "group": "oneOf",
+      "name": "Technical specialization",
+      "nameDe": "Technische Vertiefungsrichtung",
+      "short": "Technical WP",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "module",
+          "id": "Werkstoffe und Konstruktion"
+        },
+        {
+          "type": "module",
+          "id": "Produktionstechnik und Arbeitswissenschaft"
+        },
+        {
+          "type": "module",
+          "id": "Energietechnik"
+        }
+      ],
+      "note": "The PO requires 12 ECTS from exactly one Maschinenbau specialization: Werkstoffe und Konstruktion, Produktionstechnik und Arbeitswissenschaft, or Energietechnik."
+    },
+    {
+      "id": "econ-spec",
+      "group": "oneOf",
+      "name": "One economics specialization",
+      "nameDe": "Wirtschaftswissenschaftliche Vertiefungsrichtung",
+      "short": "Econ. specialization",
+      "count": 2,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Digital Business"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Economic Behavior and Governance"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Finance, Accounting, Controlling and Taxation"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Management, Innovation und Marketing"
+        }
+      ],
+      "note": "The PO requires the two 6-ECTS compulsory modules (12 ECTS) of one economics specialization. Digital Business, Finance, Accounting, Controlling and Taxation, and Management, Innovation und Marketing currently offer only one of the two modules."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-wirtschaftsingenieurwesen-maschinenbau",
+  "po": "Bachelor Wirtschaftsingenieurwesen - Maschinenbau (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=11351&token=db7946775dc0474aaf954edbf7ac6ce6addc7619"
+  ]
+}

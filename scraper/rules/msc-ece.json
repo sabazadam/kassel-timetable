@@ -1,0 +1,33 @@
+{
+  "summary": "PO 2023 section 8: 30 ECTS compulsory modules, 60 ECTS electives and the 30-ECTS thesis. The electives must include at least one project module and one Masterabschlussmodul, plus a seminar partial examination (Modulteilprüfung); these are not identifiable as separate modules in eCampus. Elective exams require all compulsory modules to be passed first.",
+  "categories": [
+    {
+      "id": "Pflichtmodule",
+      "group": "area",
+      "name": "Compulsory modules",
+      "nameDe": "Pflichtmodule",
+      "short": "Compulsory",
+      "count": 5,
+      "ects": 30,
+      "note": "All compulsory modules, 30 ECTS in total; if Social Communication is already proven at enrolment, 6 extra elective ECTS are required instead",
+      "compulsory": true,
+      "semester": 1
+    },
+    {
+      "id": "Wahlpflichtmodule",
+      "group": "area",
+      "name": "Elective modules",
+      "nameDe": "Wahlpflichtmodule",
+      "short": "Electives",
+      "count": 1,
+      "ects": 60,
+      "note": "60 ECTS in total, and elective exams require all compulsory modules to be passed first. At least one project module and one Masterabschlussmodul are required, plus a seminar partial examination (Modulteilprüfung); eCampus does not list these as separate modules."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-ece",
+  "po": "Master Electrical Communication Engineering (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21970&token=6f309282c5ca83c136a3b392cf85ee3b7113fede"
+  ]
+}

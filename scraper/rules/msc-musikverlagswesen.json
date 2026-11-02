@@ -1,0 +1,26 @@
+{
+  "slug": "msc-musikverlagswesen",
+  "po": "Master Musikverlagswesen (2022)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/files/Studium/Alle-Studiengaenge/Master/Musikverlagswesen/H12_MA_Musikverlagswesen_20221201.pdf"
+  ],
+  "categories": [
+    {
+      "id": "praxis",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Praxispartner: in III"
+        }
+      ],
+      "name": "Practice modules (three of four)",
+      "nameDe": "Praxismodule (Wahlpflicht 3 von 4)",
+      "short": "Practice modules",
+      "note": "Three of the four 6-ECTS practice partner modules P1 to P4; count limited to 1 because only that many modules are offered this semester (PO requires 3)"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO of 21.12.2022, section 9: compulsory modules M1 to M8, three of four practice partner modules (P1 to P4) and the thesis module."
+}

@@ -1,0 +1,60 @@
+{
+  "summary": "Section 7 of the Fachprüfungsordnung of 22 January 2025 (study plan header PO-2025, in force from winter semester 2025/26; eCampus labels the same regulations 2024): 117 ECTS compulsory modules including the thesis, one of two 9-ECTS modules in Chemie und Nachhaltigkeit, 25 ECTS in chemistry specializations, one of two 8-ECTS practical modules (Berufspraktikum or Grundpraktikum Forschung, not offered this semester), 12 ECTS interdisciplinary extensions, and 9 ECTS additive key competencies of which at least 6 are in sustainability and 0 to 3 are in the other key-competency area.",
+  "categories": [
+    {
+      "id": "Chemie und Nachhaltigkeit",
+      "group": "area",
+      "name": "Chemistry and sustainability",
+      "nameDe": "Chemie & Nachhaltigkeit",
+      "short": "Chem. & Sustain.",
+      "count": 1,
+      "note": "Choose one of the two modules in this area (9 ECTS).",
+      "ects": 9
+    },
+    {
+      "id": "Chemie Vertiefungen",
+      "group": "area",
+      "name": "Chemistry specializations",
+      "nameDe": "Chemie Vertiefungen",
+      "short": "Chem. electives",
+      "count": 1,
+      "note": "Take modules from this area totaling 25 ECTS.",
+      "ects": 25
+    },
+    {
+      "id": "Fachübergreifende Erweiterungen",
+      "group": "area",
+      "name": "Interdisciplinary extensions",
+      "nameDe": "Fachübergreifende Erweiterungen",
+      "short": "Interdisciplinary",
+      "count": 1,
+      "note": "Take modules from this area totaling 12 ECTS.",
+      "ects": 12
+    },
+    {
+      "id": "additive Schlüsselkompetenzen im Bereich Nachhaltigkeit",
+      "group": "area",
+      "name": "Key competencies: sustainability",
+      "nameDe": "Additive Schlüsselkompetenzen im Bereich Nachhaltigkeit",
+      "short": "Key comp. sustain.",
+      "count": 1,
+      "note": "Take 6 to 9 ECTS in sustainability. Additive key competencies total 9 ECTS, at least 6 of them in this area.",
+      "ects": 6
+    },
+    {
+      "id": "additive Schlüsselkompetenzen",
+      "group": "area",
+      "name": "Additive key competencies",
+      "nameDe": "Additive Schlüsselkompetenzen",
+      "short": "Add. key comp.",
+      "count": 1,
+      "note": "Take 0 to 3 ECTS here so additive key competencies total 9 ECTS. Skip this area when a 9-ECTS sustainability module already fills the 9."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-chemie-fuer-nachhaltigkeit",
+  "po": "Bachelor Chemie für Nachhaltigkeit (2024)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26779&token=006f3e33c09c03332fb02b1fdd3410d5ad1c9200"
+  ]
+}

@@ -1,0 +1,28 @@
+node_modules/
+scraper/.cache/
+.DS_Store
+dist/
+.wrangler/
+
+# Secrets (local wrangler dev vars)
+.dev.vars
+.env
+.env.*
+
+# Internal working notes and screenshots (not part of the project)
+HANDOFF-context.md
+PROGRESS-phases.md
+REPORT-phases.md
+REPORT-phases-shots/
+TASK-*.md
+blocks-*.png
+tba.png
+*.log
+
+# Maintainer-only / retired hosting (kept locally, not in the repo)
+MAINTAINER-notes.md
+deploy/server.js
+deploy/net.spacedevelopers.dersprogrami.plist
+deploy/notice/
+test/server.test.js
+deploy/net.spacedevelopers.dersprogrami-scrape.plist

@@ -1,0 +1,47 @@
+{
+  "summary": "Under the 2022 examination regulations, the vocational subject Electrical Engineering totals 39 credits: 21 compulsory credits in Technikdidaktik, including the school practicum, and at least 18 elective credits. Electives may be combined across Elektrische Energiesysteme (both catalogues), Mess-, Steuerungs- und Regelungstechnik, Informations- und Kommunikationstechnik, Elektronik und Photonik, and Übergreifend. Only the two best elective grades count; further elective work is ungraded. The second teaching subject and the Kernstudium are outside this Hauptfach file.",
+  "categories": [
+    {
+      "id": "wp-elektrotechnik",
+      "group": "anyOf",
+      "name": "Electrical engineering electives",
+      "nameDe": "Wahlpflichtbereich Elektrotechnik",
+      "short": "EE electives 18 ECTS",
+      "count": 1,
+      "ects": 18,
+      "note": "In the vocational subject Electrical Engineering, at least 18 credits must be chosen from the specialisations (Elektrische Energiesysteme, Mess-, Steuerungs- und Regelungstechnik, Informations- und Kommunikationstechnik, Elektronik und Photonik, and Übergreifend). Modules may be combined across specialisations. Only the two best grades count; further work is ungraded. The 21 credits of Technikdidaktik, including the school practicum, are compulsory and do not fill this slot.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Fachrichtung Elektrotechnik > Schwerpunkt: Elektrische Energiesysteme"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Elektrotechnik > Schwerpunkt: Elektrische Energiesysteme 2"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Elektrotechnik > Schwerpunkt: Mess-, Steuerungs- und Regelungstechnik"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Elektrotechnik > Schwerpunkt: Informations- und Kommunikationstechnik"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Elektrotechnik > Schwerpunkt: Elektronik und Photonik"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Elektrotechnik > Schwerpunkt: Übergreifend"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-berufliche-schulen-berufspaedagogik-fachrichtung-elektrotechnik-hauptfach",
+  "po": "Master Berufliche Schulen Berufspädagogik - Fachrichtung Elektrotechnik (2022) Hauptfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=14959&token=9fef563ca2ae57a35650b5b52e00647cc72357c9"
+  ]
+}

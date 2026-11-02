@@ -1,0 +1,51 @@
+{
+  "summary": "eCampus names the program as the 2014 PO, but neither source is a 2014 regulation. The texts are the 2020 consolidated Fachprüfungsordnung (7 December 2016 FPO, amended 27 May 2020, section 6) and the 7 February 2024 Fachprüfungsordnung (PO-2024, section 8). In the 2020 text, module examinations are 60 to at most 65 ECTS and the thesis is 30 ECTS; the compulsory sum is 33 ECTS, including biomass at 3 ECTS. In the 2024 text, module examinations are 60 ECTS and the thesis is 30 ECTS; the compulsory sum is 32 ECTS, including biomass at 2 ECTS under the shortened title. This semester's list still offers the 3-ECTS biomass module. Foundation electives, non-technical electives of 9 to 13 ECTS including credits inside compulsory modules, technical electives, 3 to 6 ECTS of lab courses, and up to 6 ECTS of project studies are set in an individual study plan agreed with the examination board. The 2020 study plan also caps the technical block, including labs and project studies, at 3 to 12 ECTS; the 2024 PO does not.",
+  "categories": [
+    {
+      "id": "Grundlagenorientierter Wahlpflichtbereich",
+      "group": "area",
+      "name": "Foundation electives",
+      "nameDe": "Grundlagenorientierter Wahlpflichtbereich",
+      "short": "WP foundations",
+      "count": 1,
+      "note": "Mathematics, science and engineering foundations. The 2020 PO sets an inclusive minimum of 15 ECTS, already met by the 17 foundation credits inside compulsory modules unless the examination board replaces those modules; the 2024 PO states no separate 15-ECTS minimum."
+    },
+    {
+      "id": "Nichttechnischer Wahlpflichtbereich",
+      "group": "area",
+      "name": "Non-technical electives",
+      "nameDe": "Nicht-technischer Wahlpflichtbereich",
+      "short": "WP non-technical",
+      "count": 1,
+      "note": "9 to 13 ECTS including credits already earned inside compulsory modules (and any replacement under the individual study plan)."
+    },
+    {
+      "id": "Technische Wahlpflichtbereich",
+      "group": "area",
+      "name": "Technical electives",
+      "nameDe": "Technischer Wahlpflichtbereich",
+      "short": "WP technical",
+      "count": 1,
+      "note": "Energy-related modules, 3 to 12 ECTS in total under the 2020 study plan, including lab courses and project studies. The 2024 PO states no 3-to-12 total; project studies are still capped at 6 ECTS and are not lab courses."
+    },
+    {
+      "id": "Laborpraktikum",
+      "group": "area",
+      "name": "Lab courses",
+      "nameDe": "Laborpraktika",
+      "short": "Labs",
+      "count": 1,
+      "exclude": [
+        "Solarcampus - Projektstudium zur Energieeffizienz"
+      ],
+      "note": "3 to 6 ECTS must be lab courses within the technical electives. Project study does not count: Solarcampus is filed under this area in eCampus but is capped separately at 6 ECTS."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-regenerative-energien-und-energieeffizienz",
+  "po": "Master Regenerative Energien und Energieeffizienz (2014)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8968&token=97841d69d3a200c7601f0149b5efb23dc387b525",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28715&token=b8b4e4cba1f7595dc49528e31f25266eb7641984"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "msc-berufliche-schulen-germanistik-nebenfach",
+  "po": "Master Berufliche Schulen Germanistik (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26931&token=688b2fa590c728b3876918d4c06c16a34d6a6304"
+  ],
+  "summary": "The Zweitfach Deutsch (PO 2024) for the Master's programmes in Berufspädagogik and Wirtschaftspädagogik requires four compulsory modules worth 30 ECTS: Wort/Satz/Text/Gespräch/Bedeutung (8), Vertiefung Ältere und Neuere Literaturwissenschaft (8), Didaktik der deutschen Sprache und Literatur (8), and Schulpraktische Studien (6). Section 5 then requires two separate elective choices, each one Schwerpunktmodul of 8 ECTS. In the Wahlbereich the student completes either Literatur, Medien, Digitalität (module 10) or Text, Diskurs, Interkulturalität (module 11). For Schwerpunktbildung the student completes either Schwerpunktbildung Sprachwissenschaft (module 12) or Schwerpunktbildung Ältere und Neuere Literaturwissenschaft (module 13).",
+  "pickOne": [],
+  "categories": [
+    {
+      "id": "wahlbereich",
+      "group": "oneOf",
+      "name": "Elective area",
+      "nameDe": "Wahlbereich",
+      "short": "Elective area",
+      "count": 1,
+      "note": "In the Wahlbereich, students complete exactly one of module 10, Literatur, Medien, Digitalität (Schwerpunktmodul), or module 11, Text, Diskurs, Interkulturalität (Schwerpunktmodul). Each of these modules is worth 8 ECTS.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Literatur, Medien, Digitalität (Schwerpunktmodul)"
+        },
+        {
+          "type": "module",
+          "id": "Text, Diskurs, Interkulturalität (Schwerpunktmodul)"
+        }
+      ],
+      "ects": 8
+    },
+    {
+      "id": "schwerpunktbildung",
+      "group": "oneOf",
+      "name": "Specialisation",
+      "nameDe": "Schwerpunktbildung",
+      "short": "Specialisation",
+      "count": 1,
+      "note": "For Schwerpunktbildung, students complete exactly one of module 12, Schwerpunktbildung Sprachwissenschaft (Schwerpunktmodul), or module 13, Schwerpunktbildung Ältere und Neuere Literaturwissenschaft (Schwerpunktmodul). Each of these modules is worth 8 ECTS.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Schwerpunktbildung Sprachwissenschaft (Schwerpunktmodul)"
+        },
+        {
+          "type": "module",
+          "id": "Schwerpunktbildung Ältere und Neuere Literaturwissenschaft (Schwerpunktmodul)"
+        }
+      ],
+      "ects": 8
+    }
+  ]
+}

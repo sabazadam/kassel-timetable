@@ -1,0 +1,3987 @@
+{
+ "generatedAt": "2026-10-21T14:50:16.096Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt für Förderpädagogik Politik und Wirtschaft (2024)",
+ "programEn": "Teacher Training Special Education: Politics and Economics (2024)",
+ "slug": "la-foe-politik-und-wirtschaft",
+ "degree": "lehramt",
+ "themes": [
+  {
+   "id": "political-science",
+   "modules": [
+    "m23973",
+    "m23976",
+    "m23990",
+    "m23996"
+   ],
+   "text": {
+    "tr": [
+     "Siyaset Bilimi Temelleri",
+     "Öğrenciler siyaset biliminin temel kavramlarını, çalışma yöntemlerini ve disiplinin çerçevesini öğrenir."
+    ],
+    "en": [
+     "Political Science Foundations",
+     "Students learn core concepts, scholarly methods, and how political science understands itself as a discipline."
+    ],
+    "de": [
+     "Grundlagen der Politikwissenschaft",
+     "Studierende lernen zentrale Begriffe, Arbeitsmethoden und das fachliche Selbstverständnis der Politikwissenschaft."
+    ]
+   }
+  },
+  {
+   "id": "political-education",
+   "modules": [
+    "m23985",
+    "m23981",
+    "m23995"
+   ],
+   "text": {
+    "tr": [
+     "Siyaset Eğitimi Didaktiği",
+     "Öğrenciler ilkokul veya ortaöğretim düzeyinde siyaset eğitimi dersleri tasarlamayı ve uygulamayı öğrenir."
+    ],
+    "en": [
+     "Political Education Didactics",
+     "Students learn to design and teach political education lessons for primary level or secondary level."
+    ],
+    "de": [
+     "Didaktik der politischen Bildung",
+     "Studierende lernen, Lernarrangements der politischen Bildung für die Primarstufe oder die Sekundarstufe zu planen und im Unterricht umzusetzen."
+    ]
+   }
+  },
+  {
+   "id": "sociology-and-society",
+   "modules": [
+    "m23977",
+    "m23990",
+    "m23985",
+    "m23981"
+   ],
+   "text": {
+    "tr": [
+     "Sosyoloji ve Toplum",
+     "Öğrenciler toplumsal yapıları ve siyasal sosyolojiyi çözümleyip sosyal bilim derslerine aktarmayı öğrenir."
+    ],
+    "en": [
+     "Sociology and Society",
+     "Students learn to analyze social structures and political sociology and to carry that analysis into social science lessons."
+    ],
+    "de": [
+     "Soziologie und Gesellschaft",
+     "Studierende lernen, gesellschaftliche Zusammenhänge und politische Soziologie zu analysieren und für den Unterricht zu nutzen."
+    ]
+   }
+  },
+  {
+   "id": "economics-and-economic-life",
+   "modules": [
+    "m23971",
+    "m23985",
+    "m23981"
+   ],
+   "text": {
+    "tr": [
+     "İktisat ve Ekonomik Yaşam",
+     "Öğrenciler temel iktisadı ve ekonomik yaşam koşullarının sosyal bilim derslerine nasıl bağlanacağını öğrenir."
+    ],
+    "en": [
+     "Economics and Economic Life",
+     "Students learn basic economics and how economic conditions of everyday life connect to social science teaching."
+    ],
+    "de": [
+     "Ökonomik und Wirtschaftsleben",
+     "Studierende erwerben ökonomische Grundlagen und lernen, wirtschaftliche Lebensbedingungen in den sozialwissenschaftlichen Unterricht einzubeziehen."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "modul-5",
+   "group": "anyOf",
+   "count": 1,
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 5a Politische Bildung: Grundlagen Primarstufe"
+    },
+    {
+     "type": "module",
+     "id": "Modul 5b Politische Bildung: Grundlagen Sekundarstufe"
+    }
+   ],
+   "name": "Political education basics (primary or secondary)",
+   "nameDe": "Modul 5a oder 5b",
+   "short": "Modul 5a/5b",
+   "note": "7 ECTS",
+   "nameTr": "Politische Bildung: Grundlagen (ilkokul veya ortaöğretim)",
+   "noteTr": "7 ECTS",
+   "noteDe": "7 ECTS"
+  }
+ ],
+ "rulesSummary": {
+  "en": "Modulprüfungsordnung Politik und Wirtschaft L5 of 09.01.2024, section 3: all modules are compulsory except the choice between Politische Bildung: Grundlagen for primary (5a) or secondary level (5b).",
+  "tr": "09.01.2024 tarihli Modulprüfungsordnung Politik und Wirtschaft L5, madde 3: Politische Bildung: Grundlagen için ilkokul (5a) veya ortaöğretim (5b) seçimi dışında tüm modüller zorunludur.",
+  "de": "Modulprüfungsordnung Politik und Wirtschaft L5 vom 09.01.2024, § 3: alle Module sind Pflicht, mit Ausnahme der Wahl zwischen Politische Bildung: Grundlagen für die Primarstufe (5a) oder die Sekundarstufe (5b)."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=25166&token=f77044399f0ebc0b5d75f1d2df599683955d5eec"
+ ],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Einführung: digital": {
+   "en": "Introduction: digital",
+   "tr": "Giriş: dijital"
+  },
+  "Vorbesprechung online": {
+   "en": "Kick-off meeting online",
+   "tr": "Ön görüşme online"
+  },
+  "findet in Gießen statt": {
+   "en": "takes place in Gießen",
+   "tr": "Gießen'de gerçekleşir"
+  },
+  "Raumbuchung in Soz-1700-SE": {
+   "en": "Room booking in Soz-1700-SE",
+   "tr": "Oda rezervasyonu Soz-1700-SE'de"
+  },
+  "Raum 0408 (Arnold-Bode 2)": {
+   "en": "Room 0408 (Arnold-Bode 2)",
+   "tr": "Oda 0408 (Arnold-Bode 2)"
+  },
+  "Die Einführung findet digital statt.": {
+   "en": "The introduction takes place digitally.",
+   "tr": "Giriş dijital olarak yapılıyor."
+  },
+  "Raum 2044 (Kurt-Wolters 5)": {
+   "en": "Room 2044 (Kurt-Wolters 5)",
+   "tr": "Oda 2044 (Kurt-Wolters 5)"
+  },
+  "Raum 0409 (Arnold-Bode 2)": {
+   "en": "Room 0409 (Arnold-Bode 2)",
+   "tr": "Oda 0409 (Arnold-Bode 2)"
+  },
+  "Raum 1121 (Kurt-Wolters 3)": {
+   "en": "Room 1121 (Kurt-Wolters 3)",
+   "tr": "Oda 1121 (Kurt-Wolters 3)"
+  },
+  "Raum 2004 (G.-Forster-Str. 4)": {
+   "en": "Room 2004 (G.-Forster-Str. 4)",
+   "tr": "Oda 2004 (G.-Forster-Str. 4)"
+  },
+  "Raum 1214 (Arnold-Bode 10)": {
+   "en": "Room 1214 (Arnold-Bode 10)",
+   "tr": "Oda 1214 (Arnold-Bode 10)"
+  },
+  "Raum 0419 (Nora-Platiel 8)": {
+   "en": "Room 0419 (Nora-Platiel 8)",
+   "tr": "Oda 0419 (Nora-Platiel 8)"
+  },
+  "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)": {
+   "en": "Room 1112, Seminar Room 3 (Moritzstr. 18 Campus Center)",
+   "tr": "Oda 1112, Seminer Odası 3 (Moritzstr. 18 Campus Center)"
+  },
+  "Raum 0401 (Arnold-Bode 2)": {
+   "en": "Room 0401 (Arnold-Bode 2)",
+   "tr": "Oda 0401 (Arnold-Bode 2)"
+  },
+  "Raum 1217 (Arnold-Bode 10)": {
+   "en": "Room 1217 (Arnold-Bode 10)",
+   "tr": "Oda 1217 (Arnold-Bode 10)"
+  },
+  "Anmeldung zur Veranstaltung über Moodle https://moodle.uni-kassel.de/course/view.php?id=23583": {
+   "en": "Registration for the course via Moodle https://moodle.uni-kassel.de/course/view.php?id=23583",
+   "tr": "Derse kayıt Moodle üzerinden https://moodle.uni-kassel.de/course/view.php?id=23583"
+  },
+  "(Start 15 Uhr) bis zum 24.01.27 (Ende 15 Uhr). Das Seminar findet statt in der: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V. in Zülpich (bei Köln).": {
+   "en": "(Start 15 Uhr) until 24.01.27 (end 15 Uhr). The seminar takes place at: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V. in Zülpich (near Köln).",
+   "tr": "(Başlangıç 15 Uhr) 24.01.27 tarihine kadar (bitiş 15 Uhr). Seminer şu yerde gerçekleşir: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V., Zülpich (Köln yakınında)."
+  },
+  "Raum 0225 (Arnold-Bode 10)": {
+   "en": "Room 0225 (Arnold-Bode 10)",
+   "tr": "Oda 0225 (Arnold-Bode 10)"
+  },
+  "Einführungsveranstaltung online": {
+   "en": "Introductory session online",
+   "tr": "Giriş oturumu çevrimiçi"
+  },
+  "GSG Göttingen": {
+   "en": "GSG Göttingen",
+   "tr": "GSG Göttingen"
+  },
+  "Raum 1004, GF 3": {
+   "en": "Room 1004, GF 3",
+   "tr": "Oda 1004, GF 3"
+  },
+  "Raum 1112, Campus Center": {
+   "en": "Room 1112, Campus Center",
+   "tr": "Oda 1112, Campus Center"
+  },
+  "Raum 0422 (Schreibbretter) (Nora-Platiel 8)": {
+   "en": "Room 0422 (writing boards) (Nora-Platiel 8)",
+   "tr": "Oda 0422 (yazı tahtaları) (Nora-Platiel 8)"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m23973",
+   "title": "Modul 1 Politikwissenschaft: Einführung",
+   "titleEn": "Module 1 Political Science: Introduction",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57367",
+    "68695",
+    "57249"
+   ]
+  },
+  {
+   "id": "m23976",
+   "title": "Modul 2 Politikwissenschaft: Grundlagen",
+   "titleEn": "Module 2 Political Science: Fundamentals",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "68697"
+   ]
+  },
+  {
+   "id": "m23990",
+   "title": "Modul 3 Politikwissenschaft: Aufbau; Politische Soziologie",
+   "titleEn": "Module 3 Political Science: Intermediate; Political Sociology",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "57254",
+    "57256",
+    "57257",
+    "57253",
+    "68688"
+   ]
+  },
+  {
+   "id": "m23977",
+   "title": "Modul 4 Soziologie: Grundlagen und Aufbau",
+   "titleEn": "Module 4 Sociology: Fundamentals and Intermediate",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "68728"
+    ]
+   },
+   "courseIds": [
+    "68728",
+    "56053",
+    "56412",
+    "66905"
+   ]
+  },
+  {
+   "id": "m23985",
+   "title": "Modul 5a Politische Bildung: Grundlagen Primarstufe",
+   "titleEn": "Module 5a Political Education: Fundamentals Primary Level",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "modul-5"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "64258",
+    "75060"
+   ]
+  },
+  {
+   "id": "m23981",
+   "title": "Modul 5b Politische Bildung: Grundlagen Sekundarstufe",
+   "titleEn": "Module 5b Political Education: Fundamentals Secondary Level",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "modul-5"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57246",
+    "67120"
+   ]
+  },
+  {
+   "id": "m23996",
+   "title": "Modul 6 Politische Bildung: Aufbau",
+   "titleEn": "Module 6 Political Education: Intermediate",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57585",
+    "66891"
+   ]
+  },
+  {
+   "id": "m23971",
+   "title": "Modul 7 Ökonomik: Grundlagen und Aufbau",
+   "titleEn": "Module 7 Economics: Fundamentals and Intermediate",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70106",
+    "68702",
+    "75264"
+   ]
+  },
+  {
+   "id": "m23995",
+   "title": "Praxissemester im Fach Politik und Wirtschaft",
+   "titleEn": "Practical Semester in Politics and Economics",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57586",
+    "68876"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "57367",
+   "title": "Einführung in das politikwissenschaftliche Arbeiten - Tutorium",
+   "number": "Pol-1100-T",
+   "type": "Tutorium",
+   "language": "deutsch",
+   "responsible": "Johanna Lilli Hubweber, Elisabeth Weniger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Johanna Lilli Hubweber"
+       ],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Tarik Gabriel Englmann",
+        "Jasper Karschnia"
+       ],
+       "room": "Raum 0402 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Tarik Gabriel Englmann",
+        "Jasper Karschnia"
+       ],
+       "room": "Hörsaal 6 (Raum 0504) (Arnold-Bode 12)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Nihat Dincel"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0402 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0419 (Nora-Platiel 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57367&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introduction to Academic Work in Political Science - Tutorial",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68695",
+   "title": "Was ist Politikwissenschaft?",
+   "number": "Pol-1100-V",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Carolina Alves Vestena",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Carolina Alves Vestena"
+       ],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68695&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23524",
+    "key": true
+   },
+   "titleEn": "What Is Political Science?",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57249",
+   "title": "Einführung in das politikwissenschaftliche Arbeiten",
+   "number": "Pol-1100-SE",
+   "type": "Propädeutikum",
+   "language": "deutsch",
+   "responsible": "Elisabeth Weniger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Elisabeth Weniger"
+       ],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Tarik Gabriel Englmann"
+       ],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Tarik Gabriel Englmann"
+       ],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Inga Nüthen"
+       ],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Meike Strehl"
+       ],
+       "room": "Raum 0402 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Vertr-Prof Dr. Jenny Simon"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57249&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23508",
+    "key": true
+   },
+   "titleEn": "Introduction to Academic Work in Political Science",
+   "typeEn": "Propaedeutic Course"
+  },
+  {
+   "id": "68697",
+   "title": "Politisches System der BRD",
+   "number": "Pol-1200-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Wolfgang Schroeder, Martin John",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Wolfgang Schroeder"
+       ],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68697&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23678",
+    "key": false
+   },
+   "titleEn": "Political System of the Federal Republic of Germany",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57254",
+   "title": "Politikwissenschaftliche Arbeitsfelder II: Aufbau (Pol. System)",
+   "number": "Pol-1300-SE1a",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Wolfgang Gieler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:15",
+       "end": "20:00",
+       "startDate": "2026-11-05",
+       "endDate": "2026-11-05",
+       "cancelled": [],
+       "note": "Einführung: digital",
+       "instructors": [
+        "Dr. Wolfgang Gieler"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Wolfgang Gieler"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-21",
+       "endDate": "2026-11-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Wolfgang Gieler"
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "20:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Wolfgang Gieler"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Wolfgang Gieler"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Wolfgang Schroeder"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0210 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Vorbesprechung online",
+       "instructors": [
+        "M.A. Thomas Kralinski"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "M.A. Thomas Kralinski"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "M.A. Thomas Kralinski"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Saal (Möncheberg 29, ESG)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57254&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fields of Political Science II: Intermediate (Political System)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57256",
+   "title": "Politikwissenschaftliche Arbeitsfelder II: Aufbau (Pol. Theorie)",
+   "number": "Pol-1300-SE2a",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Carolina Alves Vestena",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-27",
+       "endDate": "2026-10-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Carolina Alves Vestena"
+       ],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Inga Nüthen"
+       ],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "20:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Inga Nüthen"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "11:00",
+       "end": "20:00",
+       "startDate": "2027-02-05",
+       "endDate": "2027-02-05",
+       "cancelled": [],
+       "note": "findet in Gießen statt",
+       "instructors": [
+        "Dr. Inga Nüthen"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Robin Lenz"
+       ],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57256&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23510",
+    "key": true
+   },
+   "titleEn": "Fields of Political Science II: Intermediate (Political Theory)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57257",
+   "title": "Politikwissenschaftliche Arbeitsfelder II: Aufbau (IB/Globalisierung)",
+   "number": "Pol-1300-SE3a",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Vertr.-Prof. Dr. Julian Germann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Vertr.-Prof. Dr. Julian Germann"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Felix Buchwald"
+       ],
+       "room": "Raum 1311 (Nora-Platiel 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57257&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fields of Political Science II: Intermediate (IR/Globalization)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57253",
+   "title": "Politikwissenschaftliche Arbeitsfelder II: Aufbau (Aufbauvorlesung/Seminar Vergl.)",
+   "number": "Pol-1300-V",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Jan-Lukas Gruhler, Dr. Nele Austermann, Julian Sehmer, Christin Reiß, Jan-Lukas Jänicke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Jan-Lukas Gruhler",
+        "Jan-Lukas Jänicke"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57253&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fields of Political Science II: Intermediate (Intermediate Lecture/Comparative Seminar)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68688",
+   "title": "Politikwissenschaft: Aufbau; Politische Soziologie",
+   "number": "Pol-2300-SE",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Elisabeth Tuider",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "Raumbuchung in Soz-1700-SE",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "Raum 0408 (Arnold-Bode 2)",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "Raum 0408 (Arnold-Bode 2)",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68688&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Political Science: Intermediate; Political Sociology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68728",
+   "title": "Der soziologische Blick",
+   "number": "Soz-1100-V",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Sonja Fehr",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sonja Fehr"
+       ],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68728&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24822",
+    "key": false
+   },
+   "titleEn": "The Sociological Gaze",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "56053",
+   "title": "Thematische Schwerpunkte",
+   "number": "Soz-1700-SE",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jörn Lamla",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-12",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörn Lamla"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": "Raum 1214 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": "Raum 1214 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Lidia Bär"
+       ],
+       "room": "Raum 0419 (Nora-Platiel 8)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Otto Hüther"
+       ],
+       "room": "Raum 1214 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Die Einführung findet digital statt.",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": "Raum 0401 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-05",
+       "endDate": "2026-12-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Matthias Hausdörfer"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "M.A. Maria Fernanda Cordova Suxo"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56053&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Thematic Focus Areas",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56412",
+   "title": "Thematische Schwerpunkte Vorlesung",
+   "number": "Soz-1700-V",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jenny Preunkert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jenny Preunkert"
+       ],
+       "room": "Hörsaal 5 (Raum 1101) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Otto Hüther"
+       ],
+       "room": "Hörsaal 3 (Raum 0504) (Diagonale 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56412&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Thematic Focus Areas Lecture",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "66905",
+   "title": "Thematische Schwerpunkte Seminar 2",
+   "number": "Soz-1700-SE2",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jörn Lamla",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Raum 2044 (Kurt-Wolters 5)",
+       "instructors": [
+        "Prof. Dr. Jörn Lamla"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "Raum 0409 (Arnold-Bode 2)",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "Raum 0409 (Arnold-Bode 2)",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-30",
+       "cancelled": [],
+       "note": "Raum 1121 (Kurt-Wolters 3)",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "Raum 2004 (G.-Forster-Str. 4)",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "Raum 1214 (Arnold-Bode 10)",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "Raum 0408 (Arnold-Bode 2)",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "Raum 1214 (Arnold-Bode 10)",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "Raum 0408 (Arnold-Bode 2)",
+       "instructors": [
+        "Prof. Dr. Elisabeth Tuider"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Raum 0419 (Nora-Platiel 8)",
+       "instructors": [
+        "Lidia Bär"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Raum 1214 (Arnold-Bode 10)",
+       "instructors": [
+        "Otto Hüther"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Die Einführung findet digital statt.",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-14",
+       "cancelled": [],
+       "note": "Raum 0401 (Arnold-Bode 2)",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "Raum 2004 (G.-Forster-Str. 4)",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-05",
+       "endDate": "2026-12-05",
+       "cancelled": [],
+       "note": "Raum 0409 (Arnold-Bode 2)",
+       "instructors": [
+        "Tom Fixemer"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Raum 1217 (Arnold-Bode 10)",
+       "instructors": [
+        "Matthias Hausdörfer"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Raum 0408 (Arnold-Bode 2)",
+       "instructors": [
+        "M.A. Maria Fernanda Cordova Suxo"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66905&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Thematic Focus Areas Seminar 2",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "64258",
+   "title": "Lehren, lernen und forschen im Sachunterricht",
+   "number": "Sach-2500-SE1",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Dr. Gesine Bade",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "Anmeldung zur Veranstaltung über Moodle https://moodle.uni-kassel.de/course/view.php?id=23583",
+       "instructors": [
+        "Dr. Gesine Bade"
+       ],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "15:00",
+       "end": "15:15",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-24",
+       "cancelled": [],
+       "note": "(Start 15 Uhr) bis zum 24.01.27 (Ende 15 Uhr). Das Seminar findet statt in der: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V. in Zülpich (bei Köln).",
+       "instructors": [
+        "Dr. Gesine Bade"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64258&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23583",
+    "key": false
+   },
+   "titleEn": "Teaching, Learning and Research in General Studies",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "75060",
+   "title": "Einführung in die Politische Bildung im Schunterricht",
+   "number": "Pol-5500-SE",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Gesine Bade",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Raum 1217 (Arnold-Bode 10)",
+       "instructors": [
+        "Dr. Gesine Bade"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75060&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23917",
+    "key": false
+   },
+   "titleEn": "Introduction to Political Education in General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57246",
+   "title": "Politikwissenschaft und politische Bildung",
+   "number": "Pol-3500-SE",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Nilda Inkermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Raum 0225 (Arnold-Bode 10)",
+       "instructors": [
+        "Prof. Dr. Andreas Eis"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57246&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24810",
+    "key": false
+   },
+   "titleEn": "Political Science and Civic Education",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "67120",
+   "title": "Didaktik der Politischen Bildung",
+   "number": "Pol-3500-SE2",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Andreas Eis",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Eis"
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67120&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24811",
+    "key": false
+   },
+   "titleEn": "Didactics of Political Education",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57585",
+   "title": "Inklusion politischer Bildung in und für Schule gestalten",
+   "number": "Pol-3600-SE1",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Malte Suhr",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Einführungsveranstaltung online",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2026-12-05",
+       "endDate": "2026-12-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-29",
+       "endDate": "2026-10-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-11-05",
+       "endDate": "2026-11-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "08:30",
+       "end": "14:30",
+       "startDate": "2026-11-12",
+       "endDate": "2026-11-12",
+       "cancelled": [],
+       "note": "GSG Göttingen",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "08:30",
+       "end": "14:30",
+       "startDate": "2026-12-17",
+       "endDate": "2026-12-17",
+       "cancelled": [],
+       "note": "GSG Göttingen",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57585&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Shaping Inclusion of Civic Education in and for Schools",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "66891",
+   "title": "Demokratie in der Schule",
+   "number": "Pol-3600-SE2",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Malte Suhr",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Einführungsveranstaltung online",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "Raum 2044 (Kurt-Wolters 5)",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2026-12-05",
+       "endDate": "2026-12-05",
+       "cancelled": [],
+       "note": "Raum 2044 (Kurt-Wolters 5)",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "Raum 2044 (Kurt-Wolters 5)",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "Raum 2044 (Kurt-Wolters 5)",
+       "instructors": [
+        "Malte Suhr"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-29",
+       "endDate": "2026-10-29",
+       "cancelled": [],
+       "note": "Raum 1004, GF 3",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-05",
+       "endDate": "2026-11-05",
+       "cancelled": [],
+       "note": "Raum 1112, Campus Center",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "08:30",
+       "end": "14:30",
+       "startDate": "2026-11-12",
+       "endDate": "2026-11-12",
+       "cancelled": [],
+       "note": "GSG Göttingen",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "08:30",
+       "end": "14:30",
+       "startDate": "2026-12-17",
+       "endDate": "2026-12-17",
+       "cancelled": [],
+       "note": "GSG Göttingen",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)",
+       "instructors": [
+        "Lisa-Sophie Steinmann"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Raum 0408 (Arnold-Bode 2)",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66891&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Democracy in School",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70106",
+   "title": "Seminar mit Curriculumsbezug zu Wirtschaft",
+   "number": "Pol-3800-SE",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Nilda Inkermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70106&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar with Curriculum Reference to Economics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68702",
+   "title": "Ökonomie in der Sekundarstufe I",
+   "number": "Pol-3800-V",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Nilda Inkermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-02-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 0109/0110 (Schreibbretter) (Nora-Platiel 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Nilda Inkermann"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68702&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23254",
+    "key": true
+   },
+   "titleEn": "Economics in Secondary Level I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "75264",
+   "title": "Ökonomie in der Sekundarstufe I Tutorium",
+   "number": "Pol-3800-T1",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Dr. Nilda Inkermann, Jacqueline Rieß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0109/0110 (Schreibbretter) (Nora-Platiel 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75264&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24404",
+    "key": true
+   },
+   "titleEn": "Economics in Secondary Level I Tutorial",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "57586",
+   "title": "Begleitseminar PoWi",
+   "number": "Pol-3950-BS1",
+   "type": "Begleitseminar",
+   "language": "deutsch",
+   "responsible": "Martin Gertenbach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Martin Gertenbach"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Marcel Studt"
+       ],
+       "room": "Raum 3206 (Nora-Platiel 1)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Susanne Rosenkranz"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57586&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Accompanying Seminar PoWi",
+   "typeEn": "Accompanying Seminar"
+  },
+  {
+   "id": "68876",
+   "title": "Praxissemester - Flankierende Seminare",
+   "number": "Pol-3950-FS",
+   "type": "Flankierende Veranstaltung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Andreas Eis",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-01-27",
+       "cancelled": [
+        "2026-12-30"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Eis"
+       ],
+       "room": "Raum 1311 (Nora-Platiel 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68876&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24812",
+    "key": false
+   },
+   "titleEn": "Practical Semester - Flanking Seminars",
+   "typeEn": "Accompanying Event"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

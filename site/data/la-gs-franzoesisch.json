@@ -1,0 +1,1891 @@
+{
+ "generatedAt": "2026-10-19T21:03:46.759Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt an Grundschulen Französisch (2021)",
+ "programEn": "Teacher Training Primary Schools: French (2021)",
+ "slug": "la-gs-franzoesisch",
+ "degree": "lehramt",
+ "themes": [
+  {
+   "id": "french-language-and-literature",
+   "modules": [
+    "m18030",
+    "m18027",
+    "m18028",
+    "m18029"
+   ],
+   "text": {
+    "tr": [
+     "Fransız dili ve edebiyatı",
+     "Fransızcanın yapısını ve Fransız edebiyatını öğrenirken uygulamalı dil becerinizi geliştirirsiniz."
+    ],
+    "en": [
+     "French language and literature",
+     "Learn how French is structured and how to read French literature while you build practical language skill."
+    ],
+    "de": [
+     "Französische Sprache und Literatur",
+     "Lernen Sie den Aufbau des Französischen und den Umgang mit französischer Literatur und bauen Sie dabei Ihre Sprachpraxis aus."
+    ]
+   }
+  },
+  {
+   "id": "french-language-and-cultures",
+   "modules": [
+    "m18030",
+    "m18032",
+    "m18028",
+    "m18029"
+   ],
+   "text": {
+    "tr": [
+     "Fransız dili ve kültürleri",
+     "Fransız dilbilimini bölge ve kültür çalışmalarıyla birlikte öğrenir ve dili uygularsınız."
+    ],
+    "en": [
+     "French language and cultures",
+     "Learn French linguistics together with area and cultural studies while you practise the language."
+    ],
+    "de": [
+     "Französische Sprache und Kulturen",
+     "Lernen Sie französische Sprachwissenschaft zusammen mit den Landes- und Kulturwissenschaften und üben Sie die Sprache."
+    ]
+   }
+  },
+  {
+   "id": "french-literature-and-cultures",
+   "modules": [
+    "m18027",
+    "m18032",
+    "m18028",
+    "m18029"
+   ],
+   "text": {
+    "tr": [
+     "Fransız edebiyatı ve kültürü",
+     "Fransız edebiyatını kültürel bağlamında okumayı öğrenir ve buna yönelik dil pratiği yaparsınız."
+    ],
+    "en": [
+     "French literature and cultures",
+     "Learn to read French literature in its cultural context while you practise the language."
+    ],
+    "de": [
+     "Französische Literatur und Kulturen",
+     "Lernen Sie, französische Literatur im kulturellen Zusammenhang zu lesen und die Sprache dafür zu üben."
+    ]
+   }
+  },
+  {
+   "id": "primary-french-teaching",
+   "modules": [
+    "m18020",
+    "m18034",
+    "m18028",
+    "m18029"
+   ],
+   "text": {
+    "tr": [
+     "İlkokul Fransızca öğretimi",
+     "Alan didaktiği ve dil pratiğiyle ilkokulda Fransızca öğretmeye hazırlanırsınız."
+    ],
+    "en": [
+     "Primary French teaching",
+     "Prepare to teach French in primary school through subject didactics and language practice."
+    ],
+    "de": [
+     "Französisch für die Grundschule",
+     "Bereiten Sie sich mit Fachdidaktik und Sprachpraxis auf den Französischunterricht in der Grundschule vor."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "basismodule",
+   "group": "anyOf",
+   "count": 2,
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 4 Sprachwissenschaft Basismodul"
+    },
+    {
+     "type": "module",
+     "id": "Modul 5 Literaturwissenschaft Basismodul"
+    },
+    {
+     "type": "module",
+     "id": "Modul 6 Landeswissenschaft Basismodul"
+    }
+   ],
+   "name": "Two of three subject basic modules",
+   "nameDe": "2 Wahlpflichtmodule aus Modul 4, 5 und 6",
+   "short": "Basic modules",
+   "note": "Two 6-ECTS modules from linguistics, literature and cultural studies",
+   "nameTr": "Üç temel alan modülünden ikisi",
+   "noteTr": "Dilbilim, edebiyat ve kültür bilimlerinden 6'şar ECTS'lik iki modül",
+   "noteDe": "Zwei Module zu je 6 ECTS aus Sprachwissenschaft, Literaturwissenschaft und Kulturwissenschaft"
+  }
+ ],
+ "rulesSummary": {
+  "en": "Modulprüfungsordnung Französisch L1 (new version of 17.02.2021), section 15: compulsory language practice, didactics modules, plus two of the three 6-ECTS basic modules in linguistics, literature and cultural studies.",
+  "tr": "Modulprüfungsordnung Französisch L1 (17.02.2021 tarihli yeni düzenleme), madde 15: zorunlu dil uygulaması, didaktik modülleri ve dilbilim, edebiyat ile kültür bilimlerindeki 6 ECTS'lik üç temel modülden ikisi.",
+  "de": "Modulprüfungsordnung Französisch L1 (Neufassung vom 17.02.2021), § 15: verpflichtende Sprachpraxis, Didaktikmodule sowie zwei der drei Basismodule zu je 6 ECTS in Sprachwissenschaft, Literaturwissenschaft und Kulturwissenschaft."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12667&token=7dd1ee436f7af7057bfc74d715ceaf62285887d8"
+ ],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Raum 0017 (Kurt-Wolters 5)": {
+   "en": "Room 0017 (Kurt-Wolters 5)",
+   "tr": "Oda 0017 (Kurt-Wolters 5)"
+  },
+  "Exkursion": {
+   "en": "Excursion",
+   "tr": "Gezi"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m18028",
+   "title": "Modul 1 Sprachpraxis Basismodul 1",
+   "titleEn": "Module 1 Language Practice Foundation Module 1",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57122"
+   ]
+  },
+  {
+   "id": "m18034",
+   "title": "Modul 10a Fachdidaktik Aufbaumodul",
+   "titleEn": "Module 10a Subject Didactics Intermediate Module",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "73612",
+    "73601"
+   ]
+  },
+  {
+   "id": "m18029",
+   "title": "Modul 2 Sprachpraxis Basismodul 2",
+   "titleEn": "Module 2 Language Practice Foundation Module 2",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57201",
+    "57200"
+   ]
+  },
+  {
+   "id": "m18020",
+   "title": "Modul 3 Fachdidaktik Basismodul",
+   "titleEn": "Module 3 Subject Didactics Foundation Module",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "68763"
+   ]
+  },
+  {
+   "id": "m18030",
+   "title": "Modul 4 Sprachwissenschaft Basismodul",
+   "titleEn": "Module 4 Linguistics Foundation Module",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "basismodule"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69055",
+    "56403"
+   ]
+  },
+  {
+   "id": "m18027",
+   "title": "Modul 5 Literaturwissenschaft Basismodul",
+   "titleEn": "Module 5 Literary Studies Foundation Module",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "basismodule"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "68764",
+    "56422",
+    "56423"
+   ]
+  },
+  {
+   "id": "m18032",
+   "title": "Modul 6 Landeswissenschaft Basismodul",
+   "titleEn": "Module 6 Area Studies Foundation Module",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "basismodule"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "71865"
+   ]
+  },
+  {
+   "id": "t:Romanistik - Einführung für Erstsemester durch die Lehrenden",
+   "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+   "titleEn": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "69209"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "57122",
+   "title": "Écrit 1/Oral 1",
+   "number": "FB02-Rom-7011",
+   "type": "Übung",
+   "language": "französisch",
+   "responsible": "Ophélie Périquet",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "französisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Ophélie Périquet"
+       ],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57122&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "5827",
+    "key": true
+   },
+   "titleEn": "Written 1/Oral 1",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57201",
+   "title": "Grammaire",
+   "number": "FB02-Rom-7002",
+   "type": "Übung",
+   "language": "französisch",
+   "responsible": "Ophélie Périquet",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "französisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Ophélie Périquet"
+       ],
+       "room": "Raum 1221 (Nora-Platiel 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57201&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "3545",
+    "key": true
+   },
+   "titleEn": "Grammar",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57200",
+   "title": "Médiation/Traduction 1",
+   "number": "FB02-Rom-7031",
+   "type": "Übung",
+   "language": "französisch",
+   "responsible": "Jacopo Romei, Ophélie Périquet",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "französisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Jacopo Romei"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57200&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24843",
+    "key": false
+   },
+   "titleEn": "Mediation/Translation 1",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68763",
+   "title": "OK Didaktik",
+   "number": "FB02-Rom-5001",
+   "type": "Orientierungskurs",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Claudia Schlaak",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Schlaak"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68763&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "OK Didactics",
+   "typeEn": "Orientation Course"
+  },
+  {
+   "id": "69055",
+   "title": "OK SprachWi Frz",
+   "number": "FB02-Rom-1001",
+   "type": "Orientierungskurs",
+   "language": "deutsch",
+   "responsible": "Valentina Luise Roether",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Valentina Luise Roether"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69055&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23453",
+    "key": false
+   },
+   "titleEn": "Orientation Course Linguistics French",
+   "typeEn": "Orientation Course"
+  },
+  {
+   "id": "56403",
+   "title": "PS SprachWi Frz 01",
+   "number": "FB02-Rom-1010",
+   "type": "Proseminar",
+   "language": "bilingual",
+   "responsible": "Prof. Dr. Angela Schrott",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "bilingual",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Angela Schrott"
+       ],
+       "room": "Raum 4004 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56403&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "PS SprachWi Frz 01",
+   "typeEn": "Proseminar"
+  },
+  {
+   "id": "68764",
+   "title": "OK LitWi Frz",
+   "number": "FB02-Rom-3001",
+   "type": "Orientierungskurs",
+   "language": "bilingual",
+   "responsible": "Prof. Dr. Agnieszka Komorowska",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "bilingual",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Agnieszka Komorowska"
+       ],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68764&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Orientation Course Literary Studies French",
+   "typeEn": "Orientation Course"
+  },
+  {
+   "id": "56422",
+   "title": "PS LitWi Frz 01",
+   "number": "FB02-Rom-3010",
+   "type": "Proseminar",
+   "language": "bilingual",
+   "responsible": "Jacopo Romei",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "bilingual",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Jacopo Romei"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "17:00",
+       "end": "20:00",
+       "startDate": "2027-02-03",
+       "endDate": "2027-02-03",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56422&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Proseminar Literary Studies French 01",
+   "typeEn": "Proseminar"
+  },
+  {
+   "id": "56423",
+   "title": "PS LitWi Frz 02",
+   "number": "FB02-Rom-3011",
+   "type": "Proseminar",
+   "language": null,
+   "responsible": "Dr. Lisa Brunke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Lisa Brunke"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56423&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Proseminar Literary Studies French 02",
+   "typeEn": "Proseminar"
+  },
+  {
+   "id": "71865",
+   "title": "Die langen 68er-Jahre?! Die BRD und Frankreich in den 1970er und 1980er Jahren",
+   "number": "Gesch-1400-SEb",
+   "type": "Proseminar",
+   "language": null,
+   "responsible": "Marlen Wernecke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Raum 0017 (Kurt-Wolters 5)",
+       "instructors": [
+        "Marlen Wernecke"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71865&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23739",
+    "key": true
+   },
+   "titleEn": "The Long 1968 Years?! The FRG and France in the 1970s and 1980s",
+   "typeEn": "Proseminar"
+  },
+  {
+   "id": "73612",
+   "title": "HS Did Frz LA M10/M12 SK4",
+   "number": "FB02-Rom-5024",
+   "type": "Hauptseminar",
+   "language": "bilingual",
+   "responsible": "Wiebke Sophie Ost",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "bilingual",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Wiebke Sophie Ost"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73612&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Seminar Didactics of French Teacher Training M10/M12 SK4",
+   "typeEn": "Advanced Seminar"
+  },
+  {
+   "id": "73601",
+   "title": "HS Did Frz LA M14/ISK5",
+   "number": "FB02-Rom-5023",
+   "type": "Hauptseminar",
+   "language": "bilingual",
+   "responsible": "Prof. Dr. Claudia Schlaak",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "bilingual",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-27",
+       "endDate": "2026-10-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Schlaak"
+       ],
+       "room": "Raum 4004 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Schlaak"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "20:00",
+       "end": "22:00",
+       "startDate": "2026-12-17",
+       "endDate": "2026-12-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Schlaak"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "08:00",
+       "end": "14:00",
+       "startDate": "2027-01-11",
+       "endDate": "2027-01-15",
+       "cancelled": [
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10"
+       ],
+       "note": "Exkursion",
+       "instructors": [
+        "Prof. Dr. Claudia Schlaak"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73601&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Seminar Didactics French Teacher Training M14/ISK5",
+   "typeEn": "Advanced Seminar"
+  },
+  {
+   "id": "69209",
+   "title": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+   "number": "Kultur-0107-Einf.L.IfR",
+   "type": "Einf. Veranstaltung",
+   "language": null,
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dolores León Munoz"
+       ],
+       "room": "Raum 4004 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Wiebke Sophie Ost"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dolores León Munoz"
+       ],
+       "room": "Raum 4004 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dolores León Munoz"
+       ],
+       "room": "Raum 4004 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-13",
+       "endDate": "2026-10-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Kirsten Behr"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Karolin Elisa Schäfer"
+       ],
+       "room": "Raum 4004 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dolores León Munoz"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-13",
+       "endDate": "2026-10-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Kirsten Behr"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "9. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Wiebke Sophie Ost"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69209&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Romanistik - Einführung für Erstsemester durch die Lehrenden",
+   "typeEn": "Einf. Veranstaltung"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

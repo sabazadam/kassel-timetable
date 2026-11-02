@@ -1,0 +1,35 @@
+{
+  "slug": "bsc-berufliche-schulen-anglistik-nebenfach",
+  "po": "Bachelor Berufliche Schulen Anglistik (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26932&token=4c0557a411b2fed4fb1fd20074e25b367c3788bc"
+  ],
+  "summary": "This second subject (Zweitfach Englisch) for the Bachelor programmes Berufspädagogik and Wirtschaftspädagogik totals 34 credits under section 6. Four modules are compulsory: Basismodul Sprachpraxis (6 credits), Basismodul Fachdidaktik L4 (9 credits), Basismodul Fachwissenschaften L4 (8 credits), and Aufbaumodul Sprachpraxis (6 credits). Students additionally choose exactly one advanced subject module worth 5 credits from area studies (module 6a), linguistics (module 7a), or literary studies (module 8a). All three elective modules are offered in winter 2026/27.",
+  "pickOne": [],
+  "categories": [
+    {
+      "id": "aufbaumodul-wahlpflicht",
+      "group": "anyOf",
+      "name": "One advanced subject module",
+      "nameDe": "Ein Aufbaumodul aus Landes-, Sprach- oder Literaturwissenschaft",
+      "short": "1 subject module",
+      "count": 1,
+      "note": "Students complete exactly one module chosen from module 6a (Aufbaumodul Landeswissenschaften L2, L4), module 7a (Aufbaumodul Sprachwissenschaft L2, L4), or module 8a (Aufbaumodul Literaturwissenschaft L2, L4). The chosen module counts for 5 credits.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Aufbaumodul Landeswissenschaften L2, L4"
+        },
+        {
+          "type": "module",
+          "id": "Aufbaumodul Sprachwissenschaft L2, L4"
+        },
+        {
+          "type": "module",
+          "id": "Aufbaumodul Literaturwissenschaft L2, L4"
+        }
+      ],
+      "ects": 5
+    }
+  ]
+}

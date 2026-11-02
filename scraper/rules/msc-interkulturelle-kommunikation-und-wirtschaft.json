@@ -1,0 +1,75 @@
+{
+  "summary": "PO 2023 section 8: language practice in the chosen language area (modules 1 and 2 for French or for Spanish, 12 ECTS), compulsory module 3 (14 ECTS), module 4a or 4b by profile (12 ECTS), a 16-ECTS research or practice project, five 6-ECTS economics modules (30 ECTS), 7 ECTS key competencies (3 additive plus 4 integrated in the project module; Modul 6 lists the 3-ECTS methods seminar and the 3 additive ECTS) and the 30-ECTS thesis.",
+  "categories": [
+    {
+      "id": "sprache-kultur-profile",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "module",
+          "id": "Sprache und Kultur Romanistik, Literatur, Kultur und Transformation"
+        },
+        {
+          "type": "module",
+          "id": "Sprache und Kultur Romanistik, Sprache, Kultur und Kommunikation"
+        }
+      ],
+      "name": "Language and culture profile",
+      "nameDe": "Profil Sprache und Kultur Romanistik",
+      "short": "Profile 4a/4b",
+      "note": "Choose one profile and complete only that module (12 ECTS): 4a Literatur, Kultur und Transformation, or 4b Sprache, Kultur und Kommunikation. The two profiles must not be mixed."
+    },
+    {
+      "id": "Kultur und Sprache > Projekte",
+      "group": "area",
+      "name": "Project",
+      "nameDe": "Forschungsprojekt oder Praxisprojekt",
+      "short": "Project",
+      "count": 1,
+      "note": "Research project (F5) or practice project (P5), 16 ECTS"
+    },
+    {
+      "id": "language-area",
+      "group": "oneOf",
+      "count": 2,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Kultur und Sprache > Frankophoner Sprach- und Kulturraum"
+        },
+        {
+          "type": "area",
+          "id": "Kultur und Sprache > Hispanophoner Sprach- und Kulturraum"
+        }
+      ],
+      "name": "Language area (French or Spanish)",
+      "nameDe": "Schwerpunkt frankophoner oder hispanophoner Sprach- und Kulturraum",
+      "short": "Language area",
+      "note": "The PO requires both modules of the chosen language area (1Fr and 2Fr, or 1Sp and 2Sp, 12 ECTS). Both Spanish modules are offered this semester; only Vertiefung I Französisch is offered, so the French option cannot be completed from this semester's list."
+    },
+    {
+      "id": "economics",
+      "group": "anyOf",
+      "count": 2,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaft > FACT, Finance, Accounting, Controlling and Taxation"
+        }
+      ],
+      "name": "Economics modules",
+      "nameDe": "Wirtschaftswissenschaftliche Wahlpflichtmodule",
+      "short": "Economics",
+      "note": "The PO requires five modules of 6 ECTS each (30 ECTS) from the economics Wahlpflicht range. Profiles are recommended, not exclusive; this semester only FACT-Wahl 1 and FACT-Wahl 2 are offered, and BWL basis, VWL, MuM, DiB and FACT P-modules remain valid PO options when offered."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-interkulturelle-kommunikation-und-wirtschaft",
+  "po": "Master Interkulturelle Kommunikation und Wirtschaft (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21976&token=f9eb154a550f791036181bfc457f50530f404a3a"
+  ]
+}

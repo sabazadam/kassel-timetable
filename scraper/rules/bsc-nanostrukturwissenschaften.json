@@ -1,0 +1,48 @@
+{
+  "summary": "PO 2023 section 7: 135 ECTS compulsory modules, two of the three specializations Nanochemie (Molekulare Synthesechemie, 12 ECTS), Nanophysik (Struktur der Materie, 12 ECTS) and Nanobiologie (Mikrobiologie und Zellbiologie, 7 ECTS, plus Tierphysiologie/Neurobiologie, 5 ECTS), 24 ECTS in total, and at least 21 ECTS further electives. Seminar Nanostrukturwissenschaften and Vorbereitungspraktikum Forschungsphase are compulsory and are not elective slots. eCampus also lists the specialization modules under Wahlmodule, under the titles Mikrobiologie und Zellbiology and P12 Physiologie der Tiere for Nanobiologie. Under section 7(3) the unchosen Schwerpunkt counts toward the 21 ECTS. A module already used for one of the two chosen specializations must not fill that elective slot as well.",
+  "categories": [
+    {
+      "id": "Wahlmodule",
+      "group": "area",
+      "name": "Electives",
+      "nameDe": "Weitere Wahlpflichtmodule",
+      "short": "Electives",
+      "count": 1,
+      "ects": 21,
+      "exclude": [],
+      "note": "At least 21 ECTS of further electives besides the two chosen specializations. Section 7(3) lets the unchosen Schwerpunkt count toward these 21 ECTS; a module that already fills one of the two chosen specializations must not fill this slot as well."
+    },
+    {
+      "id": "two-specs",
+      "group": "anyOf",
+      "name": "Two of three specializations",
+      "nameDe": "Zwei von drei Schwerpunkten",
+      "short": "Specializations",
+      "count": 1,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodule > Schwerpunkt Nanochemie"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodule > Schwerpunkt Nanophysik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodule > Schwerpunkt Nanobiologie"
+        }
+      ],
+      "note": "Choose two of the three specializations in full: Nanochemie (Molekulare Synthesechemie, 12 ECTS), Nanophysik (Struktur der Materie, 12 ECTS), and Nanobiologie (Mikrobiologie und Zellbiologie 7 ECTS plus Tierphysiologie/Neurobiologie 5 ECTS), 24 ECTS in total. With the modules offered, 24 ECTS from the three Schwerpunkt areas is reached only by two complete specializations."
+    }
+  ],
+  "pickOne": [
+    "Vorbereitungspraktikum Forschungsphase"
+  ],
+  "slug": "bsc-nanostrukturwissenschaften",
+  "po": "Bachelor Nanostrukturwissenschaften (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21972&token=fcf5d860368e7d7ffd604b7a9c6b5b5ed8121da3"
+  ]
+}

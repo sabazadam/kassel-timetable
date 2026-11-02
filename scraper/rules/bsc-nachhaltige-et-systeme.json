@@ -1,0 +1,240 @@
+{
+  "summary": "PO 2025 section 7: compulsory modules, one EE specialization (30 ECTS) plus at least 6 ECTS electives from the cross-specialization catalogue (36 ECTS together), a 12-ECTS project in FB16, and Integrated Sustainability Studies B (30 ECTS: the two basic modules plus one 18-ECTS sustainability specialization not offered by FB16, per AB NaS section 8(2)).",
+  "categories": [
+    {
+      "id": "Wahlpficht",
+      "group": "anyOf",
+      "name": "Elective modules",
+      "nameDe": "Wahlpflichtmodule",
+      "short": "Electives",
+      "count": 1,
+      "ects": 6,
+      "note": "At least 6 ECTS from the cross-specialization catalogue: listed electives, or specialization modules of a specialization other than your own (§ 7 Abs. 4). A module that fills the chosen EE specialization does not also fill this slot. Two small 3-4 ECTS labs may be needed. Individually approved modules are outside this check.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpficht"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Automated Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt E-Mobility"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Electrical Energy Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Electronics and Photonics"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Information Technology"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Smart Sensor Systems"
+        }
+      ]
+    },
+    {
+      "id": "Lernen und Organisation",
+      "group": "module",
+      "name": "Learning and organization",
+      "nameDe": "Lernen und Organisation",
+      "short": "Learning & Org.",
+      "count": 1,
+      "note": "Compulsory 2-ECTS part of the 7-ECTS key competencies from the interdisciplinary offering (§ 7 Abs. 9).",
+      "compulsory": true
+    },
+    {
+      "id": "Schlüsselkompetenzen Wahlpflicht",
+      "group": "module",
+      "name": "Key competencies (electives)",
+      "nameDe": "Schlüsselkompetenzen Wahlpflicht",
+      "short": "Key competencies",
+      "count": 1,
+      "note": "Remaining 5 ECTS of the interdisciplinary key competencies (§ 7 Abs. 9)."
+    },
+    {
+      "id": "integrierte Nachhaltigkeitsstudien > Basismodule",
+      "group": "area",
+      "name": "Sustainability studies: basic modules",
+      "nameDe": "Integrierte Nachhaltigkeitsstudien: Basismodule",
+      "short": "NaS basic module",
+      "count": 1,
+      "ects": 12,
+      "note": "Both basic modules are required: Grundlagen und Theorien der Nachhaltigkeit (6 ECTS) and Erkenntnistheorie und Methoden der Nachhaltigkeit (6 ECTS). Only the first is offered this semester.",
+      "compulsory": true
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 30,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Automated Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt E-Mobility"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Electrical Energy Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Electronics and Photonics"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Information Technology"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Smart Sensor Systems"
+        }
+      ],
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (eine Wahl)",
+      "short": "Specialization",
+      "note": "30 ECTS in the one chosen EE specialization (§ 7 Abs. 3). The study plan assigns the modules; this semester every specialization is still short of 30 ECTS."
+    },
+    {
+      "id": "nas-spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Akteure und Praktiken sozial-ökologischer Transformationen"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Biologische Prinzipien der Nachhaltigkeit - Molekularbiologie"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Biologische Prinzipien der Nachhaltigkeit - Ökologie & Botanik"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Critical Sustainability in Art and Design"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Die grüne, klimagerechte Stadt"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Genese und Strukturen: Nachhaltigkeitskonzepte und Naturverhältnisse"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Humanwissenschaftliche Voraussetzungen nachhaltiger Entwicklung"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Mathematische Grundlagen für SDG-Betrachtungen"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Mensch-Natur-Verhältnisse (Philosophie)"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Mobilität und Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltige Stoffkreisläufe und Produktlebenszyklen"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltige, energieeffiziente Gebäude"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltigkeit in chemisch-physikalischen Anwendungen"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltigkeitsdiskurse und Handlungsfelder"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltigkeitskommunikation in Krisendiskursen"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltigkeitskommunikation und gesellschaftliche Partizipation"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltigkeitskommunikation zu kulturellen Normen und Werten"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Nachhaltigkeitsmanagement"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Prozesse und Folgen: Diversität, Globalisierung und Solidarität"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Recht der sozialen Nachhaltigkeit"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Recht der ökologischen Nachhaltigkeit"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Sozial gerechte Stadtentwicklung"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Transformatives Projektmanagement"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Umweltökonomik"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Wasserwirtschaft"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Ökologische Agrarsysteme"
+        },
+        {
+          "type": "area",
+          "id": "integrierte Nachhaltigkeitsstudien > Ökologische Landwirtschaft und Gesellschaft"
+        }
+      ],
+      "name": "One sustainability specialization",
+      "nameDe": "Nachhaltigkeitsstudien-Schwerpunkt (eine Wahl)",
+      "short": "NaS specialization",
+      "note": "18 ECTS as one AB NaS specialization bundle (30 ECTS INS B minus the two 6-ECTS basic modules), not a free mix and not three modules in every specialization. Schwerpunkte 6 and 19: choose three 6-credit modules. Schwerpunkt 29: choose two 9-credit modules. a/b modules: take one of the pair. Where this semester offers less than 18 ECTS, take every offered module of that bundle."
+    }
+  ],
+  "pickOne": [
+    "Schlüsselkompetenzen Wahlpflicht"
+  ],
+  "slug": "bsc-nachhaltige-et-systeme",
+  "po": "Bachelor Nachhaltige elektrotechnische Systeme (2025)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28717&token=27f51ca4ec0d81034f222aa39350e8ca29dfdf32",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26774&token=87abe3156b57122b02876153cd761a91bbbe6da6"
+  ]
+}

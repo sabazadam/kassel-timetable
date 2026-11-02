@@ -1,0 +1,85 @@
+{
+  "summary": "Fachprüfungsordnung of 18 October 2023 (Mitteilungsblatt 6/2024, in force 1 October 2025), section 7: foundations M1 to M3 (6 ECTS each), with M2 also requiring one further 3-ECTS winter elective beside its compulsory lecture; M4 (12 ECTS of free foundation courses); advanced modules Personal, Organisation, and Markt und Wettbewerb (12 ECTS each); M8 as exactly one of Marketing, Digitale Transformation, or Arbeit und Gesundheit (12 ECTS), with the first examination locking that specialisation (section 6 (9)); M9, a 12-ECTS elective (internship, research internship, or additive key competencies), which has no offering in the winter list; and the 30-ECTS thesis.",
+  "categories": [
+    {
+      "id": "m2-wahl",
+      "group": "anyOf",
+      "name": "Psychology foundations elective",
+      "nameDe": "M2: Wahlveranstaltung Psychologie Grundlagen",
+      "short": "M2 elective",
+      "count": 1,
+      "ects": 3,
+      "options": [
+        {
+          "type": "module",
+          "id": "Psychodynamische Modelle und Therapien"
+        },
+        {
+          "type": "module",
+          "id": "Arbeits- und Organisationspsychologie 2"
+        }
+      ],
+      "note": "M2 Psychologie Grundlagen remains a compulsory 6-ECTS module and still requires at least one further winter course of 3 ECTS, such as Psychodynamische Modelle und Therapien or Arbeits- und Organisationspsychologie 2. The separate 6-ECTS Psychologie Grundlagen row is the compulsory block, not this elective, and a course counted here cannot also fill M4."
+    },
+    {
+      "id": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+      "group": "area",
+      "name": "Foundation electives",
+      "nameDe": "M4: Beliebige LV aus den Grundlagenbereichen",
+      "short": "Foundation WP",
+      "count": 2,
+      "ects": 12,
+      "note": "M4 requires 12 ECTS of elective courses from the economics, psychology, or methods foundations. Winter offerings are 3 or 6 ECTS each, so at least two courses are needed, and a course assigned to the M2 elective does not also count here."
+    },
+    {
+      "id": "Personal - Vertiefungsmodul",
+      "group": "area",
+      "name": "Advanced module: Human resources",
+      "nameDe": "M5: Personal",
+      "short": "Personnel",
+      "count": 1,
+      "ects": 12,
+      "note": "M5 Personal is a compulsory module of 12 ECTS over two semesters. This winter offers the elective part only; Personalauswahl und Beurteilung runs in the summer semester."
+    },
+    {
+      "id": "Organisation - Vertiefungsmodul",
+      "group": "area",
+      "name": "Advanced module: Organization",
+      "nameDe": "M6: Organisation",
+      "short": "Organization",
+      "count": 2,
+      "ects": 12,
+      "note": "M6 Organisation is a compulsory module of 12 ECTS over two semesters. Winter courses are electives within that total; Projektseminar Evidenzbasiertes Management is the compulsory summer course and is outside this list, and the handbook does not assign that seminar a separate credit value."
+    },
+    {
+      "id": "m8-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "module",
+          "id": "Marketing"
+        },
+        {
+          "type": "module",
+          "id": "Digitale Transformation"
+        },
+        {
+          "type": "area",
+          "id": "Arbeit und Gesundheit"
+        }
+      ],
+      "name": "Advanced module M8 (choice)",
+      "nameDe": "M8: Marketing oder Digitale Transformation oder Arbeit und Gesundheit",
+      "short": "M8 choice",
+      "note": "Choose exactly one of Marketing, Digitale Transformation, or Arbeit und Gesundheit and complete 12 ECTS in that specialisation. The first examination in a specialisation locks the choice."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-wirtschaft-psychologie-und-management",
+  "po": "Master Wirtschaft, Psychologie und Management (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=27963&token=567e1e1f919b1b01f02dc31ef1b4ea59997b8a24"
+  ]
+}

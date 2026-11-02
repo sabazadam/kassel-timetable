@@ -1,0 +1,59 @@
+{
+  "slug": "msc-berufliche-schulen-anglistik-nebenfach",
+  "po": "Master Berufliche Schulen Anglistik (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26933&token=7ff8c83a50df8ca93c564d0e9c49e33313f4c697"
+  ],
+  "summary": null,
+  "pickOne": [],
+  "categories": [
+    {
+      "count": 1,
+      "ects": 5,
+      "group": "anyOf",
+      "id": "aufbaumodul-6-7-8",
+      "name": "One advanced module",
+      "nameDe": "Ein Aufbaumodul",
+      "note": "§ 6 requires exactly one module from Modul 6, 7, or 8 (Aufbaumodul Landes- und Kulturwissenschaften, Aufbaumodul Sprachwissenschaft, or Aufbaumodul Literaturwissenschaft), worth 5 credits.",
+      "options": [
+        {
+          "id": "Aufbaumodul Landes- und Kulturwissenschaften",
+          "type": "module"
+        },
+        {
+          "id": "Aufbaumodul Sprachwissenschaft",
+          "type": "module"
+        },
+        {
+          "id": "Aufbaumodul Literaturwissenschaft",
+          "type": "module"
+        }
+      ],
+      "short": "Aufbau module"
+    },
+    {
+      "count": 1,
+      "ects": 11,
+      "group": "anyOf",
+      "id": "qualifikationsmodul-12-13-14",
+      "name": "One subject qualification module",
+      "nameDe": "Ein fachwissenschaftliches Qualifikationsmodul",
+      "note": "§ 6 requires exactly one module from Modul 12, 13, or 14 (Qualifikationsmodul Landes- und Kulturwissenschaften I, Qualifikationsmodul Sprachwissenschaft I, or Qualifikationsmodul Literaturwissenschaften I), worth 11 credits.",
+      "options": [
+        {
+          "id": "Qualifikationsmodul Landes- und Kulturwissenschaften I",
+          "type": "module"
+        },
+        {
+          "id": "Qualifikationsmodul Sprachwissenschaft I",
+          "type": "module"
+        },
+        {
+          "id": "Qualifikationsmodul Literaturwissenschaften I",
+          "type": "module"
+        }
+      ],
+      "short": "Subject QM"
+    }
+  ]
+}

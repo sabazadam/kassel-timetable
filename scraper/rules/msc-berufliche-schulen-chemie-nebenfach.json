@@ -1,0 +1,79 @@
+{
+  "summary": "Under § 5 of the Fachprüfungsordnung of 12 December 2024, the chemistry Zweitfach electives are one of KC A or KC B (5 credits) and two modules of 5 credits each from OC IV, MC, PC IV B and PC IV C, with at least one of those two being OC IV or MC. DC I, DC II, DC SPS, DC IV and PC II are required by § 5 and are not choice categories. For DC II, § 5 and the module description state 11 credits with no alternative, while Anhang 2 (concordance with the Fachprüfungsordnung of 7 May 2014) lists 10 CP and the winter 2026/27 offer lists Modul 18 Praktikum Chemiedidaktik at 10 ECTS, so this file sets no ECTS value for DC II. PC II (5 credits) is not in the winter 2026/27 offer.",
+  "categories": [
+    {
+      "id": "kc-a-or-kc-b",
+      "group": "oneOf",
+      "name": "Complex or coordination chemistry",
+      "nameDe": "Komplexchemie oder Koordinationschemie",
+      "short": "KC A or KC B",
+      "count": 1,
+      "ects": 5,
+      "note": "Section 5 requires exactly one of Modul KC A Komplexchemie or Modul KC B Koordinationschemie, worth 5 credits. The two modules are alternatives and are not both taken.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 9 Komplexchemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 11 Koordinationschemie"
+        }
+      ]
+    },
+    {
+      "id": "at-least-one-oc-iv-or-mc",
+      "group": "anyOf",
+      "name": "At least one of OC IV or MC",
+      "nameDe": "Mindestens OC IV oder MC",
+      "short": "OC IV or MC",
+      "count": 1,
+      "ects": 5,
+      "note": "Section 5 requires two modules of 5 credits each (10 in total) from OC IV, MC, PC IV B and PC IV C, including at least one of OC IV or MC. This category is that OC IV or MC module.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 12 Fortgeschrittenenpraktikum Organische Chemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 13 Metallorganische Chemie"
+        }
+      ]
+    },
+    {
+      "id": "one-further-advanced",
+      "group": "anyOf",
+      "name": "One further advanced module",
+      "nameDe": "Ein weiteres Modul aus OC IV, MC, PC IV B oder PC IV C",
+      "short": "One further module",
+      "count": 1,
+      "ects": 5,
+      "note": "The other module may be OC IV, MC, PC IV B or PC IV C, so OC IV and MC together complete both categories. One module cannot fill both categories.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 12 Fortgeschrittenenpraktikum Organische Chemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 13 Metallorganische Chemie"
+        },
+        {
+          "type": "module",
+          "id": "Vertiefung Physikalische Chemie - Elektrochemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 16 Vertiefung Polymere und nachhaltige Materialien"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-berufliche-schulen-chemie-nebenfach",
+  "po": "Master Berufliche Schulen Chemie (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26968&token=5adaca6935e67eb31485e1e77d4506b5f5f7bfe9"
+  ]
+}

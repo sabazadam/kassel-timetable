@@ -1,0 +1,30 @@
+{
+  "slug": "bsc-kombi-statistik-nebenfach",
+  "po": "Bachelor-Kombinationsprüfung Statistik (2020) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8898&token=d9f0fe49c07a48e146772331a9fde7980135fbcc"
+  ],
+  "categories": [
+    {
+      "id": "wp-master",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Angewandte Statistik"
+        },
+        {
+          "type": "module",
+          "id": "Stochastische Modellierung und Simulation"
+        }
+      ],
+      "name": "One master elective",
+      "nameDe": "Ein Wahlpflichtmodul des Masterstudiengangs Mathematik",
+      "short": "Master elective",
+      "note": "Angewandte Statistik or Stochastische Modellierung und Simulation, 10 ECTS"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO 2020 (Bachelor Mathematik) section 14: the 40-ECTS minor requires Einführung in die Analysis I, Elementare Lineare Algebra, Grundlagen der Mathematik and Einführung in die Stochastik (30 ECTS) plus one of two 10-ECTS master modules."
+}

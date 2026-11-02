@@ -1,0 +1,42 @@
+{
+  "slug": "bsc-kombi-philosophie-hauptfach",
+  "po": "Bachelor-Kombinationsprüfung Philosophie (2021) Hauptfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12651&token=ee81779fbff0e57e772daa8dbeba458311a6a6f3"
+  ],
+  "categories": [
+    {
+      "id": "vertiefung",
+      "group": "anyOf",
+      "count": 3,
+      "options": [
+        {
+          "type": "module",
+          "id": "Geschichte der Philosophie (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Praktische Philosophie (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Theoretische Philosophie (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Ästhetik und Sprachphilosophie"
+        },
+        {
+          "type": "module",
+          "id": "Umwelt-Kritik-Gesellschaft"
+        }
+      ],
+      "name": "Three advanced modules",
+      "nameDe": "Drei Wahlpflichtmodule aus BA06 bis BA10",
+      "short": "Advanced modules",
+      "note": "Three 12-ECTS modules from BA06 to BA10"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO of 09.06.2021, section 6: five basic modules (BA01 to BA05, BA05 freely composed), three of the five advanced modules BA06 to BA10 plus the compulsory specialization module BA11, 20 ECTS key competencies, a 40-ECTS minor, a 12-ECTS internship and the thesis."
+}

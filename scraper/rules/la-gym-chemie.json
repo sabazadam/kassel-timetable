@@ -1,0 +1,73 @@
+{
+  "summary": "Modulprüfungsordnung Chemie L3 of 30.01.2023, section 3: compulsory general, inorganic, organic, physical chemistry and didactics modules plus the practical semester, one of Komplexchemie/Koordinationschemie, and two of five advanced modules (at least one of OC IV or MC).",
+  "categories": [
+    {
+      "id": "Wahlpflicht 1",
+      "group": "area",
+      "name": "Elective: complex or coordination chemistry",
+      "nameDe": "Wahlpflicht Komplexchemie oder Koordinationschemie",
+      "short": "WP 1",
+      "count": 1,
+      "ects": 5,
+      "note": "One 5-ECTS module (KC A or KC B)."
+    },
+    {
+      "id": "Wahlpflicht 2",
+      "group": "anyOf",
+      "name": "Electives: advanced organic, organometallic or physical chemistry",
+      "nameDe": "Wahlpflicht (zwei aus fünf)",
+      "short": "WP 2",
+      "count": 2,
+      "ects": 10,
+      "note": "Two of five 5-ECTS modules, at least one of them Fortgeschrittenenpraktikum Organische Chemie or Metallorganische Chemie.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 12 Fortgeschrittenenpraktikum Organische Chemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 13 Metallorganische Chemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 14 Vertiefung Computational Chemistry"
+        },
+        {
+          "type": "module",
+          "id": "Modul 15 Vertiefung Elektrochemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 16 Vertiefung Polymere und nachhaltige Materialien"
+        }
+      ]
+    },
+    {
+      "id": "Wahlpflicht 2 OC oder MC",
+      "group": "anyOf",
+      "name": "At least one advanced organic or organometallic module",
+      "nameDe": "Mindestens Fortgeschrittenenpraktikum Organische Chemie oder Metallorganische Chemie",
+      "short": "OC/MC",
+      "count": 1,
+      "ects": 5,
+      "note": "Of the two Wahlpflicht modules (5 ECTS each), at least one must be Fortgeschrittenenpraktikum Organische Chemie or Metallorganische Chemie. The same module also counts toward the two-of-five choice, and taking both is allowed.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 12 Fortgeschrittenenpraktikum Organische Chemie"
+        },
+        {
+          "type": "module",
+          "id": "Modul 13 Metallorganische Chemie"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "la-gym-chemie",
+  "po": "Lehramt an Gymnasien Chemie (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20515&token=77874ed7866a40f71815dc7d2c8e29651e208894"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "kassel-timetable",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/scrape.js",
+    "test": "node --test",
+    "serve": "npx --yes serve@14.2.4 site",
+    "feedback": "node deploy/feedback.js",
+    "map-scrape": "node scraper/campus-map.js",
+    "map-rooms": "node scraper/map-rooms.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "4.145.0"
+  }
+}

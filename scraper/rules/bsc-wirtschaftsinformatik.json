@@ -1,0 +1,57 @@
+{
+  "summary": "Section 7 of the current PO (dated 23.04.2025, the only one published for the program; eCampus labels it 2024): 126 ECTS compulsory section including the 12 ECTS thesis (114 ECTS other compulsory modules + Bachelorarbeit), and electives: 6 ECTS computer science, 18 ECTS business informatics specialization, 6 ECTS economics, a 12-ECTS project seminar and 12 ECTS key competencies.",
+  "categories": [
+    {
+      "id": "Wahlmodule > Informatik Wahlpflicht",
+      "group": "area",
+      "name": "Computer science elective",
+      "nameDe": "Informatik Wahlpflicht",
+      "short": "WP Informatik",
+      "count": 1,
+      "note": "6 ECTS"
+    },
+    {
+      "id": "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik",
+      "group": "area",
+      "name": "Business informatics specialization electives",
+      "nameDe": "Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik",
+      "short": "WP WI focus",
+      "count": 3,
+      "note": "18 ECTS (three 6-ECTS modules)"
+    },
+    {
+      "id": "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht",
+      "group": "area",
+      "name": "Economics elective",
+      "nameDe": "Wirtschaftswissenschaften Wahlpflicht",
+      "short": "WP Economics",
+      "count": 1,
+      "note": "6 ECTS"
+    },
+    {
+      "id": "Projektseminar",
+      "group": "module",
+      "name": "Project seminar",
+      "nameDe": "Projektseminar",
+      "short": "Project seminar",
+      "count": 1,
+      "note": "12 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "note": "12 ECTS; language courses, student engagement and non-business-informatics courses can count"
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-wirtschaftsinformatik",
+  "po": "Bachelor Wirtschaftsinformatik (2024)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28695&token=45bc97bd5264498646fc364a4e8ef752b96e3f19"
+  ]
+}

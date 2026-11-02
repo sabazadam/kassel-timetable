@@ -1,0 +1,3833 @@
+{
+ "generatedAt": "2026-10-19T21:04:05.242Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Regenerative Energien und Energieeffizienz (2014)",
+ "programEn": "Master Renewable Energies and Energy Efficiency (2014)",
+ "slug": "msc-regenerative-energien-und-energieeffizienz",
+ "degree": "master",
+ "themes": false,
+ "categories": [
+  {
+   "id": "Grundlagenorientierter Wahlpflichtbereich",
+   "group": "area",
+   "name": "Foundation electives",
+   "nameDe": "Grundlagenorientierter Wahlpflichtbereich",
+   "short": "WP foundations",
+   "count": 1,
+   "note": "Mathematics, science and engineering foundations. The 2020 PO sets an inclusive minimum of 15 ECTS, already met by the 17 foundation credits inside compulsory modules unless the examination board replaces those modules; the 2024 PO states no separate 15-ECTS minimum.",
+   "nameTr": "Temel seçmeliler",
+   "noteTr": "Matematik, fen ve mühendislik temelleri. 2020 PO, 15 ECTS'lik kapsayıcı bir asgari koyar. Sınav kurulu bu modülleri değiştirmedikçe zorunlu modüller içindeki 17 temel kredi bu asgariyi zaten karşılar. 2024 PO ayrı bir 15 ECTS asgarisi belirtmez.",
+   "noteDe": "Mathematische, naturwissenschaftliche und ingenieurwissenschaftliche Grundlagen. Die PO 2020 setzt ein einschließendes Minimum von 15 ECTS. Die 17 Grundlagen-Leistungspunkte innerhalb der Pflichtmodule erfüllen es bereits, sofern der Prüfungsausschuss diese Module nicht ersetzt. Die PO 2024 nennt kein gesondertes Minimum von 15 ECTS."
+  },
+  {
+   "id": "Nichttechnischer Wahlpflichtbereich",
+   "group": "area",
+   "name": "Non-technical electives",
+   "nameDe": "Nicht-technischer Wahlpflichtbereich",
+   "short": "WP non-technical",
+   "count": 1,
+   "note": "9 to 13 ECTS including credits already earned inside compulsory modules (and any replacement under the individual study plan).",
+   "nameTr": "Teknik olmayan seçmeliler",
+   "noteTr": "Zorunlu modüller içinde önceden kazanılmış krediler (ve bireysel öğrenim planındaki her değiştirme) dahil 9 ile 13 ECTS.",
+   "noteDe": "9 bis 13 ECTS einschließlich der bereits innerhalb der Pflichtmodule erbrachten Leistungspunkte und jedes Ersatzes nach dem individuellen Studienplan."
+  },
+  {
+   "id": "Technische Wahlpflichtbereich",
+   "group": "area",
+   "name": "Technical electives",
+   "nameDe": "Technischer Wahlpflichtbereich",
+   "short": "WP technical",
+   "count": 1,
+   "note": "Energy-related modules, 3 to 12 ECTS in total under the 2020 study plan, including lab courses and project studies. The 2024 PO states no 3-to-12 total; project studies are still capped at 6 ECTS and are not lab courses.",
+   "nameTr": "Teknik seçmeliler",
+   "noteTr": "Enerjiyle ilgili modüller: 2020 öğrenim planına göre laboratuvar dersleri ve proje çalışmaları dahil toplam 3 ile 12 ECTS. 2024 PO 3 ile 12'lik bir toplam belirtmez. Proje çalışmaları yine en fazla 6 ECTS ile sınırlıdır ve laboratuvar dersi sayılmaz.",
+   "noteDe": "Energiebezogene Module, nach dem Studienplan 2020 insgesamt 3 bis 12 ECTS einschließlich Laborveranstaltungen und Projektstudien. Die PO 2024 nennt keine Gesamtsumme von 3 bis 12. Projektstudien bleiben auf höchstens 6 ECTS begrenzt und sind keine Laborveranstaltungen."
+  },
+  {
+   "id": "Laborpraktikum",
+   "group": "area",
+   "name": "Lab courses",
+   "nameDe": "Laborpraktika",
+   "short": "Labs",
+   "count": 1,
+   "exclude": [
+    "Solarcampus - Projektstudium zur Energieeffizienz"
+   ],
+   "note": "3 to 6 ECTS must be lab courses within the technical electives. Project study does not count: Solarcampus is filed under this area in eCampus but is capped separately at 6 ECTS.",
+   "nameTr": "Laboratuvar dersleri",
+   "noteTr": "Teknik seçmeliler içinde 3 ile 6 ECTS laboratuvar dersi olmalıdır. Proje çalışması sayılmaz. Solarcampus eCampus'ta bu alan altında yer alır, ancak ayrı olarak 6 ECTS ile sınırlıdır.",
+   "noteDe": "3 bis 6 ECTS müssen Laborveranstaltungen innerhalb der technischen Wahlmodule sein. Eine Projektstudie zählt nicht mit. Solarcampus ist in eCampus diesem Bereich zugeordnet, ist jedoch gesondert auf 6 ECTS begrenzt."
+  }
+ ],
+ "rulesSummary": {
+  "en": "eCampus names the program as the 2014 PO, but neither source is a 2014 regulation. The texts are the 2020 consolidated Fachprüfungsordnung (7 December 2016 FPO, amended 27 May 2020, section 6) and the 7 February 2024 Fachprüfungsordnung (PO-2024, section 8). In the 2020 text, module examinations are 60 to at most 65 ECTS and the thesis is 30 ECTS; the compulsory sum is 33 ECTS, including biomass at 3 ECTS. In the 2024 text, module examinations are 60 ECTS and the thesis is 30 ECTS; the compulsory sum is 32 ECTS, including biomass at 2 ECTS under the shortened title. This semester's list still offers the 3-ECTS biomass module. Foundation electives, non-technical electives of 9 to 13 ECTS including credits inside compulsory modules, technical electives, 3 to 6 ECTS of lab courses, and up to 6 ECTS of project studies are set in an individual study plan agreed with the examination board. The 2020 study plan also caps the technical block, including labs and project studies, at 3 to 12 ECTS; the 2024 PO does not.",
+  "tr": "eCampus programı 2014 PO'su olarak adlandırır; kaynakların ikisi de 2014 yönetmeliği değildir. Metinler, 2020 konsolide Fachprüfungsordnung (7 Aralık 2016 tarihli FPO, 27 Mayıs 2020 değişikliği, madde 6) ve 7 Şubat 2024 tarihli Fachprüfungsordnung'dur (PO-2024, madde 8). 2020 metninde modül sınavları 60 ile en fazla 65 ECTS, tez 30 ECTS'tir; zorunlu toplam, 3 ECTS biyokütle dahil 33 ECTS'tir. 2024 metninde modül sınavları 60 ECTS, tez 30 ECTS'tir; zorunlu toplam, kısaltılmış başlık altında 2 ECTS biyokütle dahil 32 ECTS'tir. Bu dönemin listesi 3 ECTS'lik biyokütle modülünü sunmaya devam eder. Temel alan seçmelileri, zorunlu modüller içindeki krediler dahil 9 ile 13 ECTS teknik olmayan seçmeliler, teknik seçmeliler, 3 ile 6 ECTS laboratuvar dersi ve en fazla 6 ECTS proje çalışması, sınav kuruluyla kararlaştırılan bireysel öğrenim planında belirlenir. 2020 öğrenim planı, laboratuvarlar ve proje çalışmaları dahil teknik bloğu da 3 ile 12 ECTS aralığıyla sınırlar. 2024 PO bu sınırı koymaz.",
+  "de": "eCampus bezeichnet das Programm als PO 2014; keine der beiden Quellen ist eine Ordnung von 2014. Die Texte sind die konsolidierte Fachprüfungsordnung 2020 (FPO vom 7. Dezember 2016, geändert am 27. Mai 2020, § 6) und die Fachprüfungsordnung vom 7. Februar 2024 (PO-2024, § 8). Im Text von 2020 umfassen die Modulprüfungen 60 bis höchstens 65 ECTS und die Masterarbeit 30 ECTS; der Pflichtumfang beträgt 33 ECTS, einschließlich Biomasse mit 3 ECTS. Im Text von 2024 umfassen die Modulprüfungen 60 ECTS und die Masterarbeit 30 ECTS; der Pflichtumfang beträgt 32 ECTS, einschließlich Biomasse mit 2 ECTS unter dem gekürzten Titel. Die Liste dieses Semesters bietet weiterhin das Biomasse-Modul mit 3 ECTS an. Grundlagen-Wahlmodule, nichttechnische Wahlmodule im Umfang von 9 bis 13 ECTS einschließlich der Leistungspunkte innerhalb der Pflichtmodule, technische Wahlmodule, Laborveranstaltungen im Umfang von 3 bis 6 ECTS und Projektstudien bis zu 6 ECTS werden in einem mit dem Prüfungsausschuss abgestimmten individuellen Studienplan festgelegt. Der Studienplan 2020 begrenzt zudem den technischen Block einschließlich Laboren und Projektstudien auf 3 bis 12 ECTS. Die PO 2024 setzt diese Grenze nicht."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8968&token=97841d69d3a200c7601f0149b5efb23dc387b525",
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28715&token=b8b4e4cba1f7595dc49528e31f25266eb7641984"
+ ],
+ "sections": [
+  {
+   "id": "Pflichtbereich",
+   "name": "Compulsory Area",
+   "nameDe": "Pflichtbereich"
+  },
+  {
+   "id": "Grundlagenorientierter Wahlpflichtbereich",
+   "name": "Fundamentals-Oriented Compulsory Elective Area",
+   "nameDe": "Grundlagenorientierter Wahlpflichtbereich"
+  },
+  {
+   "id": "Technische Wahlpflichtbereich",
+   "name": "Technical Compulsory Elective Area",
+   "nameDe": "Technische Wahlpflichtbereich"
+  },
+  {
+   "id": "Nichttechnischer Wahlpflichtbereich",
+   "name": "Non-Technical Compulsory Elective Area",
+   "nameDe": "Nichttechnischer Wahlpflichtbereich"
+  },
+  {
+   "id": "Laborpraktikum",
+   "name": "Laboratory Practical",
+   "nameDe": "Laborpraktikum"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Die Anmeldung zur Lehrveranstaltung im eCampus ist erforderlich bis zum 12.10.2026.": {
+   "en": "Registration for this course in eCampus is required by 12.10.2026.",
+   "tr": "Bu derse eCampus üzerinden 12.10.2026 tarihine kadar kayıt olmak gerekiyor."
+  },
+  "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=1071": {
+   "en": "The introductory event for the Bachelor's and Master's programs in the specialization Energie-Umwelt-Technik takes place on Monday, 19.10.2026 in Room 1120 in KW3. Registration in the Moodle course by email to ttk-lehre@uni-kassel.de https://moodle.uni-kassel.de/course/view.php?id=1071",
+   "tr": "Energie-Umwelt-Technik uzmanlık alanındaki lisans ve yüksek lisans programları için tanıtım etkinliği, 19.10.2026 Pazartesi günü KW3 içindeki 1120 numaralı odada yapılır. Moodle kursuna kayıt ttk-lehre@uni-kassel.de adresine e-posta ile yapılır. https://moodle.uni-kassel.de/course/view.php?id=1071"
+  },
+  "https://moodle.uni-kassel.de/course/view.php?id=2998": {
+   "en": "https://moodle.uni-kassel.de/course/view.php?id=2998",
+   "tr": "https://moodle.uni-kassel.de/course/view.php?id=2998"
+  },
+  "Übung Seminarraum 0505 im Fachgebiet.Die Vorlesung wird als Video-Vorlesung durchgeführt, verfügbar im Moodle-Kurs. Der Link wird später mitgeteilt.": {
+   "en": "Exercise, seminar room 0505 in the department. The lecture is held as a video lecture, available in the Moodle course. The link will be announced later.",
+   "tr": "Alıştırma, bölümdeki 0505 seminer odası. Ders video ders olarak yapılır, Moodle kursunda bulunur. Bağlantı daha sonra bildirilecek."
+  },
+  "Die Veranstaltung findet in Präsenz statt. (Inverted Classroom)": {
+   "en": "The course is held in person (inverted classroom).",
+   "tr": "Ders yüz yüze yapılır (ters yüz sınıf)."
+  },
+  "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​​https://moodle.uni-kassel.de/course/view.php?id=1070": {
+   "en": "The introductory event for Bachelor and Master students in the specialization Energie-Umwelt-Technik takes place on Monday, 19.10.2026 in Room 1120 in KW3. Registration for the Moodle course by e-mail to ttk-lehre@uni-kassel.de https://moodle.uni-kassel.de/course/view.php?id=1070",
+   "tr": "Energie-Umwelt-Technik uzmanlık alanındaki lisans ve yüksek lisans öğrencileri için tanıtım etkinliği 19.10.2026 Pazartesi günü KW3'te Oda 1120'de gerçekleşir. Moodle kursuna kayıt, ttk-lehre@uni-kassel.de adresine e-posta ile yapılır. https://moodle.uni-kassel.de/course/view.php?id=1070"
+  },
+  "Kickoff Termin. Findet im Science Park statt, Termin wird noch bekannt gegeben.": {
+   "en": "Kick-off meeting. Takes place at the Science Park; the date will be announced.",
+   "tr": "Ön görüşme. Science Park'ta gerçekleşir, tarih daha sonra duyurulacaktır."
+  },
+  "Findet im Science Park statt, der genaue Raum wird noch bekannt gegeben.": {
+   "en": "Takes place at the Science Park; the exact room will be announced.",
+   "tr": "Science Park'ta gerçekleşir, kesin oda daha sonra duyurulacaktır."
+  },
+  "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 8-10 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=1069": {
+   "en": "The introductory event for Bachelor and Master students in the specialization Energy-Environment-Technology takes place on Monday, 19.10.2026, 8-10 in Room 1120 in KW3. Registration for the Moodle course by e-mail to ttk-lehre@uni-kassel.de https://moodle.uni-kassel.de/course/view.php?id=1069",
+   "tr": "Enerji-Çevre-Teknik uzmanlık dalındaki lisans ve yüksek lisans öğrencileri için tanıtım etkinliği 19.10.2026 Pazartesi günü saat 8-10 arasında KW3'teki 1120 numaralı odada gerçekleşir. Moodle kursuna kayıt ttk-lehre@uni-kassel.de adresine e-posta ile yapılır. https://moodle.uni-kassel.de/course/view.php?id=1069"
+  },
+  "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 8-10 im Raum 1120 in der KW3 statt.https://moodle.uni-kassel.de/course/view.php?id=2997Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de": {
+   "en": "The introductory event for Bachelor and Master in the specialisation Energy-Environment-Technology takes place on Monday, 19.10.2026, 08:00-10:00 in room 1120 in KW3. https://moodle.uni-kassel.de/course/view.php?id=2997 Registration for the Moodle course by email to ttk-lehre@uni-kassel.de",
+   "tr": "Enerji-Çevre-Teknik uzmanlık dalındaki lisans ve yüksek lisans için giriş etkinliği 19.10.2026 Pazartesi günü saat 08:00-10:00 arasında KW3'teki 1120 numaralı odada yapılır. https://moodle.uni-kassel.de/course/view.php?id=2997 Moodle kursuna kayıt, ttk-lehre@uni-kassel.de adresine e-posta ile yapılır."
+  },
+  "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.": {
+   "en": "Registration for this course in EXA is required by 12.10.2026.",
+   "tr": "Bu derse EXA üzerinden 12.10.2026 tarihine kadar kayıt olmak gerekiyor."
+  },
+  "Für die Teilnahme ist keine Anmeldung notwendig.": {
+   "en": "No registration is needed to take part.",
+   "tr": "Katılmak için kayıt gerekmiyor."
+  },
+  "Die Veranstaltung findet in Präsenz im Raum 1147 des Fachgebiets EVS statt.": {
+   "en": "The course takes place in person in room 1147 of the department EVS.",
+   "tr": "Etkinlik, EVS bölümünün 1147 numaralı odasında yüz yüze yapılır."
+  },
+  "Die Vorbesprechung findet 26. Oktober, 10:30 - 11:00 Uhr in Raum 1624, Wilhelmshöher Allee 73 statt.": {
+   "en": "The kick-off meeting is on 26 October, 10:30 to 11:00, in room 1624, Wilhelmshöher Allee 73.",
+   "tr": "Ön görüşme 26 Ekim, 10:30-11:00, oda 1624, Wilhelmshöher Allee 73."
+  },
+  "https://moodle.uni-kassel.de/enrol/index.php?id=23427": {
+   "en": "https://moodle.uni-kassel.de/enrol/index.php?id=23427",
+   "tr": "https://moodle.uni-kassel.de/enrol/index.php?id=23427"
+  },
+  "Dozenten: Dr. Stefan Thomas Oliver Wagner Dr. Claus Barthel": {
+   "en": "Instructors: Dr. Stefan Thomas, Oliver Wagner, Dr. Claus Barthel",
+   "tr": "Öğretim üyeleri: Dr. Stefan Thomas, Oliver Wagner, Dr. Claus Barthel"
+  },
+  "Findet in Mö7, R. 4223 statt": {
+   "en": "Takes place in Mö7, room 4223",
+   "tr": "Mö7, oda 4223'te yapılıyor"
+  },
+  "Auf Anfrage. Bitte vorher bei Anna Schomberg unter anna.schomberg@uni-kassel.de melden.": {
+   "en": "On request. Please contact Anna Schomberg in advance at anna.schomberg@uni-kassel.de.",
+   "tr": "Talep üzerine. Lütfen önceden Anna Schomberg ile anna.schomberg@uni-kassel.de adresinden iletişime geçin."
+  },
+  "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 8-10 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=2996": {
+   "en": "The introductory event for Bachelor and Master students in the Energie-Umwelt-Technik specialization takes place on Monday, 19.10.2026, 8-10 in Room 1120 in KW3. Registration for the Moodle course by e-mail to ttk-lehre@uni-kassel.de https://moodle.uni-kassel.de/course/view.php?id=2996",
+   "tr": "Enerji-Umwelt-Technik uzmanlık alanındaki Bachelor ve Master öğrencileri için tanıtım etkinliği 19.10.2026 Pazartesi günü saat 8-10'da KW3'teki 1120 numaralı odada gerçekleşir. Moodle kursu için ttk-lehre@uni-kassel.de adresine e-posta ile kayıt. https://moodle.uni-kassel.de/course/view.php?id=2996"
+  },
+  "Das Praktikum findet als 3tägige Blockveranstaltung statt (SoSe: September, WiSe: März). Genauer Termin, Anmeldeformalitäten und weitere Infos finden Sie im Moodle-Kurs. Bei Fragen zum Praktikum: christian.sauer@uni-kassel.de": {
+   "en": "The practical takes place as a 3-day block course (summer semester: September, winter semester: March). You will find the exact date, the registration formalities and further information in the Moodle course. For questions about the practical: christian.sauer@uni-kassel.de",
+   "tr": "Uygulama, 3 günlük blok ders olarak yapılır (yaz dönemi: Eylül, kış dönemi: Mart). Kesin tarihi, kayıt formalitelerini ve diğer bilgileri Moodle dersinde bulabilirsiniz. Uygulamayla ilgili sorular için: christian.sauer@uni-kassel.de"
+  },
+  "Block, Vorbesprechung am 26. Oktober, 10:00 - 10:30 Uhr, Raum 1624, Wilhelmshöher Allee 73.": {
+   "en": "Block course. Kick-off meeting on 26 October, 10:00 to 10:30, room 1624, Wilhelmshöher Allee 73.",
+   "tr": "Blok ders. Ön görüşme 26 Ekim, 10:00-10:30, oda 1624, Wilhelmshöher Allee 73."
+  },
+  "Nach Vereinbarung.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.dehttps://moodle.uni-kassel.de/course/view.php?id=1068Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.": {
+   "en": "By arrangement. Registration for the Moodle course by email to ttk-lehre@uni-kassel.de https://moodle.uni-kassel.de/course/view.php?id=1068 The introductory event for Bachelor and Master in the specialization Energie-Umwelt-Technik takes place on Monday, 19.10.2026 in room 1120 in KW3.",
+   "tr": "Anlaşmaya göre. Moodle kursuna ttk-lehre@uni-kassel.de adresine e-posta ile kayıt https://moodle.uni-kassel.de/course/view.php?id=1068 Energie-Umwelt-Technik uzmanlık yönündeki lisans ve yüksek lisans için tanıtım etkinliği Pazartesi, 19.10.2026 tarihinde KW3 içindeki 1120 numaralı odada gerçekleşir."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Pflichtbereich": "Compulsory Area",
+  "Grundlagenorientierter Wahlpflichtbereich": "Fundamentals-Oriented Compulsory Elective Area",
+  "Technische Wahlpflichtbereich": "Technical Compulsory Elective Area",
+  "Nichttechnischer Wahlpflichtbereich": "Non-Technical Compulsory Elective Area",
+  "Laborpraktikum": "Laboratory Practical"
+ },
+ "modules": [
+  {
+   "id": "m5465",
+   "title": "Vertiefung Raumordnungs- und Bauplanungsrecht",
+   "titleEn": "Advanced Spatial Planning and Building Planning Law",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "section": "Nichttechnischer Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69139"
+   ]
+  },
+  {
+   "id": "m4860",
+   "title": "Bauphysik - Bauschäden und energetische Sanierung",
+   "titleEn": "Building Physics - Building Damage and Energy-Efficient Renovation",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68974"
+   ]
+  },
+  {
+   "id": "m42023",
+   "title": "Unternehmensgründung - Seminar",
+   "titleEn": "Business Start-Up - Seminar",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "75069"
+   ]
+  },
+  {
+   "id": "m42016",
+   "title": "Pflichtmodul Elektrotechnik",
+   "titleEn": "Compulsory Module Electrical Engineering",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtbereich"
+   ],
+   "categories": [],
+   "section": "Pflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69913",
+    "69945"
+   ]
+  },
+  {
+   "id": "m42107",
+   "title": "Pflichtmodul Strömungsmaschinen",
+   "titleEn": "Compulsory Module Turbomachinery",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtbereich"
+   ],
+   "categories": [],
+   "section": "Pflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69234"
+   ]
+  },
+  {
+   "id": "m9581",
+   "title": "Differentialgleichungen für Master Ingenieurwissenschaften",
+   "titleEn": "Differential Equations for the Master's in Engineering Sciences",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "54293"
+   ]
+  },
+  {
+   "id": "m9323",
+   "title": "Elektrische Anlagen und Hochspannungstechnik I",
+   "titleEn": "Electrical Installations and High-Voltage Engineering I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundlagenorientierter Wahlpflichtbereich",
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Grundlagenorientierter Wahlpflichtbereich",
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Grundlagenorientierter Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69861"
+   ]
+  },
+  {
+   "id": "m11734",
+   "title": "Energieeffizienz in der Anwendung",
+   "titleEn": "Energy Efficiency in Application",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "section": "Nichttechnischer Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "75022"
+   ]
+  },
+  {
+   "id": "m30000",
+   "title": "Technische Mechanik 2",
+   "titleEn": "Engineering Mechanics 2",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "section": "Grundlagenorientierter Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68665"
+   ]
+  },
+  {
+   "id": "m28709",
+   "title": "Umweltwissenschaftliche Grundlagen für Ingenieure",
+   "titleEn": "Environmental Science Fundamentals for Engineers",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "section": "Nichttechnischer Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69896"
+   ]
+  },
+  {
+   "id": "m11875",
+   "title": "Strömungsmesstechnik",
+   "titleEn": "Flow Measurement Technology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69224"
+   ]
+  },
+  {
+   "id": "m28346",
+   "title": "Strömungsmechanik 2",
+   "titleEn": "Fluid Mechanics 2",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69227"
+   ]
+  },
+  {
+   "id": "m11866",
+   "title": "Formula Student Competition",
+   "titleEn": "Formula Student Competition",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "56585"
+   ]
+  },
+  {
+   "id": "m11889",
+   "title": "Brennstoffzellentechnik in der Energieversorgung",
+   "titleEn": "Fuel Cell Technology in Energy Supply",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "59978"
+   ]
+  },
+  {
+   "id": "m13926",
+   "title": "Grundlagen der Energietechnik",
+   "titleEn": "Fundamentals of Power Engineering",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69909"
+   ]
+  },
+  {
+   "id": "m28827",
+   "title": "Grundlagen der Kälte- und Wärmepumpentechnik - Praktikum",
+   "titleEn": "Fundamentals of Refrigeration and Heat Pump Technology - Lab",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Laborpraktikum"
+   ],
+   "categories": [
+    "Laborpraktikum"
+   ],
+   "section": "Laborpraktikum",
+   "pickOne": false,
+   "courseIds": [
+    "57326"
+   ]
+  },
+  {
+   "id": "m41940",
+   "title": "Grundlagen der Bereitstellung und energetischen Nutzung von Biomasse",
+   "titleEn": "Fundamentals of the Provision and Energetic Use of Biomass",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Pflichtbereich"
+   ],
+   "categories": [],
+   "section": "Pflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68292"
+   ]
+  },
+  {
+   "id": "t:Wärme- und Stoffübertragung mit Phasenwechsel",
+   "title": "Wärme- und Stoffübertragung mit Phasenwechsel",
+   "titleEn": "Heat and Mass Transfer with Phase Change",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Laborpraktikum"
+   ],
+   "categories": [
+    "Laborpraktikum"
+   ],
+   "section": "Laborpraktikum",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "68772"
+   ]
+  },
+  {
+   "id": "m28524",
+   "title": "Wärmeübertragung 1 - Praktikum",
+   "titleEn": "Heat Transfer 1 - Lab",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "57320"
+   ]
+  },
+  {
+   "id": "m9376",
+   "title": "Höhere Mathematik 4 - Stochastik für Ingenieure",
+   "titleEn": "Higher Mathematics 4 - Stochastics for Engineers",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "section": "Grundlagenorientierter Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69201",
+    "69202"
+   ]
+  },
+  {
+   "id": "m16482",
+   "title": "Wasserbauwerke und Strömungsverhalten von Fließgewässern",
+   "titleEn": "Hydraulic Structures and Flow Behavior of Watercourses",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68634"
+   ]
+  },
+  {
+   "id": "m37290",
+   "title": "Wasserkraftanlagen",
+   "titleEn": "Hydropower Plants",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68651"
+   ]
+  },
+  {
+   "id": "m31063",
+   "title": "Matlab Fundamentals",
+   "titleEn": "Matlab Fundamentals",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69955",
+    "69956"
+   ]
+  },
+  {
+   "id": "m42145",
+   "title": "Methoden der Technikbewertung",
+   "titleEn": "Methods of Technology Assessment",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "section": "Nichttechnischer Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69017"
+   ]
+  },
+  {
+   "id": "m41927",
+   "title": "Naturnahe Gewässer - Gewässerentwicklung",
+   "titleEn": "Near-Natural Waters - Watercourse Development",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68854"
+   ]
+  },
+  {
+   "id": "t:Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+   "title": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+   "titleEn": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "57265"
+   ]
+  },
+  {
+   "id": "m11617",
+   "title": "Numerische Berechnung von Strömungen",
+   "titleEn": "Numerical Calculation of Flows",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "section": "Grundlagenorientierter Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69229"
+   ]
+  },
+  {
+   "id": "m9976",
+   "title": "Optimierungsverfahren",
+   "titleEn": "Optimization Methods",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "section": "Grundlagenorientierter Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69919",
+    "69920"
+   ]
+  },
+  {
+   "id": "m16722",
+   "title": "Projektmanagement 1: Einführung und Grundlagen",
+   "titleEn": "Project Management 1: Introduction and Fundamentals",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "section": "Nichttechnischer Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68077",
+    "69848"
+   ]
+  },
+  {
+   "id": "m42013",
+   "title": "Intelligente Stromnetze",
+   "titleEn": "Smart Grids",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68927"
+   ]
+  },
+  {
+   "id": "m42125",
+   "title": "Softwarepraktikum pandapower",
+   "titleEn": "Software Lab: pandapower",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "59877"
+   ]
+  },
+  {
+   "id": "m30942",
+   "title": "Softwarepraktikum Netzsimulation",
+   "titleEn": "Software Lab: Power Grid Simulation",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Laborpraktikum"
+   ],
+   "categories": [
+    "Laborpraktikum"
+   ],
+   "section": "Laborpraktikum",
+   "pickOne": false,
+   "courseIds": [
+    "59878"
+   ]
+  },
+  {
+   "id": "m11688",
+   "title": "Solarcampus - Projektstudium zur Energieeffizienz",
+   "titleEn": "Solar Campus - Project-Based Study on Energy Efficiency",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Laborpraktikum"
+   ],
+   "categories": [],
+   "section": "Laborpraktikum",
+   "pickOne": false,
+   "courseIds": [
+    "69173"
+   ]
+  },
+  {
+   "id": "m9623",
+   "title": "Praktikum Solarthermische Komponenten und Systeme",
+   "titleEn": "Solar Thermal Components and Systems Lab",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Laborpraktikum"
+   ],
+   "categories": [
+    "Laborpraktikum"
+   ],
+   "section": "Laborpraktikum",
+   "pickOne": false,
+   "courseIds": [
+    "57275"
+   ]
+  },
+  {
+   "id": "m42118",
+   "title": "Praktikum Solarthermische Komponenten und Systeme",
+   "titleEn": "Solar Thermal Components and Systems Lab",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Laborpraktikum"
+   ],
+   "categories": [
+    "Laborpraktikum"
+   ],
+   "section": "Laborpraktikum",
+   "pickOne": false,
+   "courseIds": [
+    "57275"
+   ]
+  },
+  {
+   "id": "m11756",
+   "title": "Technische Anwendung der Kälte- und Wärmepumpentechnik",
+   "titleEn": "Technical Application of Refrigeration and Heat Pump Technology",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68800"
+   ]
+  },
+  {
+   "id": "m12803",
+   "title": "Technische Thermodynamik 2",
+   "titleEn": "Technical Thermodynamics 2",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Grundlagenorientierter Wahlpflichtbereich"
+   ],
+   "section": "Grundlagenorientierter Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68770",
+    "69487"
+   ]
+  },
+  {
+   "id": "m30609",
+   "title": "Praktikum Thermische Messtechnik",
+   "titleEn": "Thermal Measurement Technology Lab",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Laborpraktikum"
+   ],
+   "categories": [
+    "Laborpraktikum"
+   ],
+   "section": "Laborpraktikum",
+   "pickOne": false,
+   "courseIds": [
+    "57274"
+   ]
+  },
+  {
+   "id": "m11683",
+   "title": "Thermodynamik der Gemische",
+   "titleEn": "Thermodynamics of Mixtures",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68684"
+   ]
+  },
+  {
+   "id": "m16485",
+   "title": "Siedlungswasserwirtschaft Grundlagen",
+   "titleEn": "Urban Water Management Fundamentals",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68631",
+    "68921"
+   ]
+  },
+  {
+   "id": "m11743",
+   "title": "Gewässerentwicklung, Flussgebiets- und Hochwassermanagement",
+   "titleEn": "Watercourse Development, River Basin and Flood Management",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Technische Wahlpflichtbereich"
+   ],
+   "section": "Technische Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "68854"
+   ]
+  },
+  {
+   "id": "m28787",
+   "title": "Arbeits- und Organisationspsychologie 2",
+   "titleEn": "Work and Organizational Psychology 2",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "categories": [
+    "Nichttechnischer Wahlpflichtbereich"
+   ],
+   "section": "Nichttechnischer Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "69124"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "68292",
+   "title": "Grundlagen der Bereitstellung und energetischen Nutzung von Biomasse",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr.-Ing. Bernd Krautkremer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-12",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Bernd Krautkremer"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68292&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fundamentals of the Provision and Energetic Use of Biomass",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69913",
+   "title": "Grundlagen der Elektro- und Messtechnik",
+   "number": "ETechn-2510-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jens Friebe",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "M.Sc. Pierre Küster"
+       ],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69913&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24386",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Electrical Engineering and Measurement Technology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69945",
+   "title": "Regelungstechnik",
+   "number": "ETechn-4020-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Olaf Stursberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung im eCampus ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Prof. Dr.-Ing. Olaf Stursberg",
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69945&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24579",
+    "key": true
+   },
+   "titleEn": "Control Engineering",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69234",
+   "title": "Strömungsmaschinen – Fluiddynamik",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Olaf Wünsch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-12-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Markus Rütten",
+        "Adriana Michalke"
+       ],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69234&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Turbomachinery – Fluid Dynamics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69201",
+   "title": "Höhere Mathematik IV: Stochastik für Ingenieur*innen",
+   "number": "FB1017.7241w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Petru Cioica-Licht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Petru Cioica-Licht"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69201&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23792",
+    "key": false
+   },
+   "titleEn": "Higher Mathematics IV: Stochastics for Engineers",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69202",
+   "title": "Übungen zur Höheren Mathematik IV: Stochastik für Ingenieur*innen",
+   "number": "FB1017.7243w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Petru Cioica-Licht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Petru Cioica-Licht"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69202&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23792",
+    "key": false
+   },
+   "titleEn": "Exercises for Higher Mathematics IV: Stochastics for Engineers",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68665",
+   "title": "Technische Mechanik 2",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andreas Ricoeur",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andreas Ricoeur"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andreas Ricoeur"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68665&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24060",
+    "key": true
+   },
+   "titleEn": "Engineering Mechanics 2",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69229",
+   "title": "Numerische Berechnungen von Strömungen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Olaf Wünsch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69229&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24650",
+    "key": true
+   },
+   "titleEn": "Numerical Calculations of Flows",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68770",
+   "title": "Höhere Thermodynamik",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=1071",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke",
+        "Fatih Meral"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68770&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1071",
+    "key": false
+   },
+   "titleEn": "Advanced Thermodynamics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69487",
+   "title": "Technische Thermodynamik - Repetitorium",
+   "number": null,
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "08:00",
+       "end": "16:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-18",
+       "cancelled": [],
+       "note": "https://moodle.uni-kassel.de/course/view.php?id=2998",
+       "instructors": [
+        "Fatih Meral",
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69487&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2998",
+    "key": false
+   },
+   "titleEn": "Technical Thermodynamics - Revision Course",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69861",
+   "title": "Elektrische Anlagen und Hochspannungstechnik 1",
+   "number": "ETechn-1060-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Sebastian Wels",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "14:30",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Übung Seminarraum 0505 im Fachgebiet.Die Vorlesung wird als Video-Vorlesung durchgeführt, verfügbar im Moodle-Kurs. Der Link wird später mitgeteilt.",
+       "instructors": [
+        "M.Sc. Felix Fehmer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69861&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23732",
+    "key": false
+   },
+   "titleEn": "Electrical Installations and High-Voltage Engineering 1",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69919",
+   "title": "Optimization Methods",
+   "number": "ETechn-4120-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Olaf Stursberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:15",
+       "end": "09:45",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung im eCampus ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Prof. Dr.-Ing. Olaf Stursberg"
+       ],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "16:45",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69919&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24577",
+    "key": true
+   },
+   "titleEn": "Optimization Methods",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69920",
+   "title": "Optimization Methods",
+   "number": "ETechn-4120-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Olaf Stursberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:45",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Veranstaltung findet in Präsenz statt. (Inverted Classroom)",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69920&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24577",
+    "key": true
+   },
+   "titleEn": "Optimization Methods",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68974",
+   "title": "Bauphysik - Bauschäden und energetische Sanierung",
+   "number": "FB06.057",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peggy Freudenberg, Dr.-Ing. Swen Klauß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0105 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68974&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "670",
+    "key": true
+   },
+   "titleEn": "Building Physics - Building Damage and Energy-Efficient Renovation",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54293",
+   "title": "Differentialgleichungen für Master Ingenieurwissenschaften",
+   "number": "FB1017.7319w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Werner M. Seiler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Werner M. Seiler"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54293&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23283",
+    "key": false
+   },
+   "titleEn": "Differential Equations for the Master's in Engineering Sciences",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68634",
+   "title": "Wasserbauwerke und Strömungsverhalten von Fließgewässern",
+   "number": "BauUmw-5112-V",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Stephan Theobald",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stephan Theobald"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stephan Theobald"
+       ],
+       "room": "Raum 0112 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68634&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24167",
+    "key": true
+   },
+   "titleEn": "Hydraulic Structures and Flow Behavior of Watercourses",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68631",
+   "title": "Siedlungswasserwirtschaft Grundlagen",
+   "number": "BauUmw-5110-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Tobias Morck",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Tobias Morck",
+        "Malte Thormann"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Tobias Morck",
+        "Malte Thormann"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68631&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24516",
+    "key": false
+   },
+   "titleEn": "Urban Water Management Fundamentals",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68921",
+   "title": "Siedlungswasserwirtschaft Grundlagen",
+   "number": "BauUmw-5110-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Tobias Morck",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Tobias Morck"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68921&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24516",
+    "key": false
+   },
+   "titleEn": "Urban Water Management Fundamentals",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68651",
+   "title": "Wasserkraftanlagen",
+   "number": "BauUmw-5208-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Stephan Theobald",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stephan Theobald"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68651&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23367",
+    "key": true
+   },
+   "titleEn": "Hydropower Plants",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68854",
+   "title": "Naturnaher Wasserbau, Flussgebiets- und Hochwassermanagement",
+   "number": "BauUmw-5202-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Stephan Theobald",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stephan Theobald",
+        "Dr.-Ing. Klaus Träbing"
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stephan Theobald",
+        "Dr.-Ing. Klaus Träbing"
+       ],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68854&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Near-Natural Hydraulic Engineering, River Basin and Flood Management",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68684",
+   "title": "Thermodynamik der Gemische",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-12",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​​https://moodle.uni-kassel.de/course/view.php?id=1070",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68684&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1070",
+    "key": false
+   },
+   "titleEn": "Thermodynamics of Mixtures",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69224",
+   "title": "Strömungsmesstechnik",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Olaf Wünsch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 4313 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69224&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24652",
+    "key": true
+   },
+   "titleEn": "Flow Measurement Technology",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "75069",
+   "title": "Unternehmensgründung - ClimaTec!",
+   "number": null,
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Mark Junge",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "17:00",
+       "end": "20:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "Kickoff Termin. Findet im Science Park statt, Termin wird noch bekannt gegeben.",
+       "instructors": [
+        "Mark Junge"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "17:00",
+       "end": "20:00",
+       "startDate": "2026-11-02",
+       "endDate": "2026-11-06",
+       "cancelled": [],
+       "note": "Findet im Science Park statt, der genaue Raum wird noch bekannt gegeben.",
+       "instructors": [
+        "Mark Junge"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75069&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Business Start-up - ClimaTec!",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68800",
+   "title": "Technische Anwendung der Kälte- und Wärmepumpentechnik",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch/englisch",
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 8-10 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=1069",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68800&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1069",
+    "key": false
+   },
+   "titleEn": "Technical Application of Refrigeration and Heat Pump Technology",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56585",
+   "title": "Formula Student Competition",
+   "number": null,
+   "type": "Projektseminar",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Hartmut Hetzler, Dr. Daniel Wallenta",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56585&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Formula Student Competition",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "69227",
+   "title": "Strömungsmechanik 2",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Olaf Wünsch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 0607 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 4314 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69227&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24651",
+    "key": true
+   },
+   "titleEn": "Fluid Mechanics 2",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "57320",
+   "title": "Wärme- und Stoffübertragung: Praktikum",
+   "number": null,
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 8-10 im Raum 1120 in der KW3 statt.https://moodle.uni-kassel.de/course/view.php?id=2997Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57320&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2997",
+    "key": false
+   },
+   "titleEn": "Heat and Mass Transfer: Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "69955",
+   "title": "Matlab Fundamentals",
+   "number": "ETechn-4110-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69955&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24715",
+    "key": true
+   },
+   "titleEn": "Matlab Fundamentals",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69956",
+   "title": "Matlab Fundamentals",
+   "number": "ETchn-4110-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 1,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-28"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69956&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24715",
+    "key": true
+   },
+   "titleEn": "Matlab Fundamentals",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69909",
+   "title": "Grundlagen der Energietechnik",
+   "number": "ETechn-2500-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jens Friebe",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Für die Teilnahme ist keine Anmeldung notwendig.",
+       "instructors": [
+        "Prof. Dr.-Ing. Jens Friebe"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Für die Teilnahme ist keine Anmeldung notwendig.",
+       "instructors": [
+        "M.Sc. Pierre Küster"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69909&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23702",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Power Engineering",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68927",
+   "title": "Intelligente Stromnetze",
+   "number": "ETechn-3590-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Martin Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68927&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24208",
+    "key": false
+   },
+   "titleEn": "Smart Grids",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "59978",
+   "title": "Brennstoffzellentechnik in der Energieversorgung",
+   "number": "ETechn-2640-V1",
+   "type": "Vorlesung / Übung / Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Jens Friebe, Dr.-Ing. Christian Nöding",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Veranstaltung findet in Präsenz im Raum 1147 des Fachgebiets EVS statt.",
+       "instructors": [
+        "Dr.-Ing. Christian Nöding"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59978&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23709",
+    "key": false
+   },
+   "titleEn": "Fuel Cell Technology in Energy Supply",
+   "typeEn": "Lecture / Exercise / Seminar"
+  },
+  {
+   "id": "59877",
+   "title": "Softwarepraktikum pandapower",
+   "number": "ETechn-3640-V1",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Martin Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Die Vorbesprechung findet 26. Oktober, 10:30 - 11:00 Uhr in Raum 1624, Wilhelmshöher Allee 73 statt.",
+       "instructors": [
+        "Florian Hirschmann",
+        "Wiss. Mitarbeitende"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59877&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24490",
+    "key": false
+   },
+   "titleEn": "Software Lab: pandapower",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "69124",
+   "title": "Arbeits- und Organisationspsychologie 2 (Work and Organizational Psychology)",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. habil. Oliver Sträter",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "https://moodle.uni-kassel.de/enrol/index.php?id=23427",
+       "instructors": [
+        "Prof. Dr. habil. Oliver Sträter"
+       ],
+       "room": "Hörsaal 5 (Raum 1101) (Moritzstr. 18 Campus Center)"
+      }
+     ],
+     "lang": "de"
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69124&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23427",
+    "key": false
+   },
+   "titleEn": "Arbeits- und Organisationspsychologie 2 (Work and Organizational Psychology)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "75022",
+   "title": "Energieeffizienz in der Anwendung",
+   "number": null,
+   "type": "Blockveranstaltung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Ulrike Jordan, Prof. Dr. rer. nat. Klaus Vajen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "12:30",
+       "end": "17:30",
+       "startDate": "2027-03-17",
+       "endDate": "2027-03-19",
+       "cancelled": [],
+       "note": "Dozenten: Dr. Stefan Thomas Oliver Wagner Dr. Claus Barthel",
+       "instructors": [],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75022&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24074",
+    "key": false
+   },
+   "titleEn": "Energy Efficiency in Application",
+   "typeEn": "Block Course"
+  },
+  {
+   "id": "68077",
+   "title": "Projektmanagement 1: Einführung und Grundlagen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68077&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23401",
+    "key": false
+   },
+   "titleEn": "Project Management 1: Introduction and Fundamentals",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69848",
+   "title": "Projektmanagement 1 - Übung",
+   "number": null,
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69848&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Project Management 1 - Exercise",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69139",
+   "title": "Vertiefung Raumordnungs- und Bauplanungsrecht",
+   "number": "FB06.135",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Dr. Andreas Mengel, M.Sc. Amelie Tschierschke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69139&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24833",
+    "key": false
+   },
+   "titleEn": "Advanced Spatial Planning and Building Planning Law",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69896",
+   "title": "Umweltwissenschaftliche Grundlagen für Ingenieure",
+   "number": "ETechn-4770-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Rüdiger Schaldach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rüdiger Schaldach",
+        "Dr.-Ing. Bernd Rusteberg"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69896&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24388",
+    "key": false
+   },
+   "titleEn": "Environmental Science Fundamentals for Engineers",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69017",
+   "title": "Methoden der Technikbewertung",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Anna Schomberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Auf Anfrage. Bitte vorher bei Anna Schomberg unter anna.schomberg@uni-kassel.de melden.",
+       "instructors": [
+        "Dr. Anna Schomberg"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69017&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Methods of Technology Assessment",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "57326",
+   "title": "Grundlagen der Kälte- und Wärmepumpentechnik: Praktikum",
+   "number": null,
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 8-10 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​https://moodle.uni-kassel.de/course/view.php?id=2996",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57326&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2996",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Refrigeration and Heat Pump Technology: Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "69173",
+   "title": "Solarcampus - Projektstudium zur Energieeffizienz",
+   "number": null,
+   "type": "Projektseminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Ulrike Jordan",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. rer. nat. Klaus Vajen",
+        "Prof. Dr. Heike Wetzel"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69173&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Solar Campus - Project-Based Study on Energy Efficiency",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "57275",
+   "title": "Praktikum Solarthermische Komponenten und Systeme",
+   "number": null,
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. Klaus Vajen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Das Praktikum findet als 3tägige Blockveranstaltung statt (SoSe: September, WiSe: März). Genauer Termin, Anmeldeformalitäten und weitere Infos finden Sie im Moodle-Kurs. Bei Fragen zum Praktikum: christian.sauer@uni-kassel.de",
+       "instructors": [
+        "Christian Sauer",
+        "Prof. Dr. rer. nat. Klaus Vajen"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57275&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24714",
+    "key": false
+   },
+   "titleEn": "Solar Thermal Components and Systems Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "59878",
+   "title": "Softwarepraktikum Netzsimulation",
+   "number": "ETechn-3630-V1",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Martin Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Block, Vorbesprechung am 26. Oktober, 10:00 - 10:30 Uhr, Raum 1624, Wilhelmshöher Allee 73.",
+       "instructors": [
+        "M. Eng. Marie Fischer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59878&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "19136"
+   },
+   "titleEn": "Software Lab: Power Grid Simulation",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "57274",
+   "title": "Praktikum Thermische Messtechnik",
+   "number": null,
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Klaus Vajen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Das Praktikum findet als 3tägige Blockveranstaltung statt (SoSe: September, WiSe: März). Genauer Termin, Anmeldeformalitäten und weitere Infos finden Sie im Moodle-Kurs. Bei Fragen zum Praktikum: christian.sauer@uni-kassel.de",
+       "instructors": [
+        "Prof. Dr. rer. nat. Klaus Vajen",
+        "Christian Sauer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57274&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24714",
+    "key": false
+   },
+   "titleEn": "Thermal Measurement Technology Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "57265",
+   "title": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+   "number": null,
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. Klaus Vajen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Ulrike Jordan",
+        "Prof. Dr. rer. nat. Klaus Vajen"
+       ],
+       "room": "Raum 3211 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57265&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Neuere Arbeiten zur Solar- und Anlagentechnik und zur regenerativen Prozesswärme",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68772",
+   "title": "Wärme- und Stoffübertragung mit Phasenwechsel: Praktikum",
+   "number": null,
+   "type": "Praktikum",
+   "language": "deutsch/englisch",
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Nach Vereinbarung.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.dehttps://moodle.uni-kassel.de/course/view.php?id=1068Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68772&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Wärme- und Stoffübertragung mit Phasenwechsel: Praktikum",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

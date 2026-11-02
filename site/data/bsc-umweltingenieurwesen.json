@@ -1,0 +1,4849 @@
+{
+ "generatedAt": "2026-10-19T21:04:02.197Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor Umweltingenieurwesen (2020)",
+ "programEn": "Bachelor Environmental Engineering (2020)",
+ "slug": "bsc-umweltingenieurwesen",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "water-wastewater",
+   "modules": [
+    "m16390",
+    "m16482",
+    "m16531"
+   ],
+   "text": {
+    "tr": [
+     "Su ve Atıksu",
+     "Öğrenci, akarsu yapılarını ve akış davranışını, kimyasalların suda çevresel davranışını ve atıksu arıtma tesislerinin planlanmasını ve işletilmesini öğrenir."
+    ],
+    "en": [
+     "Water and Wastewater",
+     "The student learns hydraulic structures and river flow, how chemicals behave in water, and how to plan and operate wastewater treatment plants."
+    ],
+    "de": [
+     "Wasser und Abwasser",
+     "Die Studierenden lernen Wasserbauwerke und Fließgewässer, das Umweltverhalten von Chemikalien in Gewässern und die Planung und den Betrieb von Abwasseranlagen."
+    ]
+   }
+  },
+  {
+   "id": "roads-traffic",
+   "modules": [
+    "m16557",
+    "m16514",
+    "m16534"
+   ],
+   "text": {
+    "tr": [
+     "Yol ve Trafik",
+     "Öğrenci, trafik akışını, ışıklı sinyal denetimini, yol yapımı ve tasarımını ve geoteknik mühendisliğini öğrenir."
+    ],
+    "en": [
+     "Roads and Traffic",
+     "The student learns traffic flow, signal control, road construction and design, and geotechnical engineering."
+    ],
+    "de": [
+     "Straßen und Verkehr",
+     "Die Studierenden lernen Verkehrsablauf, Lichtsignalsteuerung, Straßenbau und Straßenentwurf sowie Geotechnik."
+    ]
+   }
+  },
+  {
+   "id": "structures-geotechnics",
+   "modules": [
+    "m16473",
+    "m16526",
+    "m16618",
+    "m16516",
+    "m16534"
+   ],
+   "text": {
+    "tr": [
+     "Yapı ve Geoteknik",
+     "Öğrenci, yapı mühendisliğinin temellerini, yapı malzemelerini, bina yapımını, yapı fiziğini ve geoteknik mühendisliğini öğrenir."
+    ],
+    "en": [
+     "Structures and Geotechnics",
+     "The student learns structural engineering fundamentals, construction materials, building construction and physics, and geotechnical engineering."
+    ],
+    "de": [
+     "Tragwerk und Geotechnik",
+     "Die Studierenden lernen die Grundlagen des konstruktiven Ingenieurbaus, Baustoffe, Baukonstruktion, Bauphysik und Geotechnik."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "Umweltingenieurwesen Schwerpunkt",
+   "group": "area",
+   "name": "Environmental engineering electives",
+   "nameDe": "Wahlpflicht Umweltingenieurwesen Schwerpunkt",
+   "short": "WP Env. eng.",
+   "count": 1,
+   "ects": 12,
+   "exclude": [
+    "Verkehrstechnik I"
+   ],
+   "note": "12 ECTS from this area under the 2020 amendment of section 7 (2). Verkehrstechnik I is an engineering elective in study plan B3 and does not count here. An approved study plan is required (section 7 (5)).",
+   "nameTr": "Çevre mühendisliği seçmeli dersleri",
+   "noteTr": "2020 değişikliğiyle madde 7 (2) uyarınca bu alandan 12 ECTS. Verkehrstechnik I, öğrenim planı B3'te bir mühendislik seçmelisidir ve burada sayılmaz. Onaylı bir öğrenim planı zorunludur (madde 7 (5)).",
+   "noteDe": "12 ECTS aus diesem Bereich nach der Änderungsordnung 2020 zu § 7 (2). Verkehrstechnik I ist im Studienplan B3 ein ingenieurwissenschaftliches Wahlpflichtmodul und wird hier nicht angerechnet. Ein genehmigter Studienplan ist erforderlich (§ 7 (5))."
+  },
+  {
+   "id": "Ingenieurwissenschaften Ergänzung",
+   "group": "anyOf",
+   "name": "Engineering electives",
+   "nameDe": "Wahlpflicht Ingenieurwissenschaften",
+   "short": "WP Engineering",
+   "count": 1,
+   "ects": 9,
+   "options": [
+    {
+     "type": "area",
+     "id": "Ingenieurwissenschaften Ergänzung"
+    },
+    {
+     "type": "module",
+     "id": "Verkehrstechnik I"
+    }
+   ],
+   "note": "9 ECTS under the 2020 amendment of section 7 (2), from this area or Verkehrstechnik I. The 2014 study-plan line of 2x6 credits belongs to the replaced 12-credit total. An approved study plan is required (section 7 (5)).",
+   "nameTr": "Mühendislik seçmeli dersleri",
+   "noteTr": "2020 değişikliğiyle madde 7 (2) uyarınca bu alandan veya Verkehrstechnik I ile 9 ECTS. 2014 öğrenim planındaki 2x6 kredi satırı, yerine konmuş 12 kredilik toplama aittir. Onaylı bir öğrenim planı zorunludur (madde 7 (5)).",
+   "noteDe": "9 ECTS nach der Änderungsordnung 2020 zu § 7 (2), aus diesem Bereich oder Verkehrstechnik I. Die Zeile des Studienplans 2014 mit 2x6 Leistungspunkten gehört zum ersetzten Gesamtumfang von 12 Leistungspunkten. Ein genehmigter Studienplan ist erforderlich (§ 7 (5))."
+  },
+  {
+   "id": "Schlüsselkompetenzen (fachübergreifend)",
+   "group": "module",
+   "name": "Key competencies (interdisciplinary)",
+   "nameDe": "Schlüsselkompetenzen (fachübergreifend)",
+   "short": "Key comp. general",
+   "count": 1,
+   "ects": 6,
+   "note": "6 ECTS additive interdisciplinary key competencies, required by the 2020 amendment of section 7 (2). The amendment states no separate course list for this block.",
+   "nameTr": "Anahtar yeterlilikler (disiplinlerarası)",
+   "noteTr": "2020 değişikliğiyle madde 7 (2) uyarınca zorunlu, 6 ECTS aditif disiplinlerarası anahtar yeterlikler. Değişiklik bu blok için ayrı bir ders listesi belirtmez.",
+   "noteDe": "6 ECTS additive interdisziplinäre Schlüsselkompetenzen, vorgeschrieben durch die Änderungsordnung 2020 zu § 7 (2). Die Änderung nennt für diesen Block keine eigene Lehrveranstaltungsliste."
+  },
+  {
+   "id": "Schlüsselkompetenzen (Recht)",
+   "group": "module",
+   "name": "Key competencies (law)",
+   "nameDe": "Schlüsselkompetenzen (Recht)",
+   "short": "Key comp. law",
+   "count": 1,
+   "ects": 6,
+   "note": "6 ECTS. Einführung in das Umweltrecht (3 ECTS) is compulsory and one further 3-ECTS course is chosen from the law catalogue. This semester only the umbrella module is offered.",
+   "nameTr": "Anahtar yeterlilikler (hukuk)",
+   "noteTr": "6 ECTS. Einführung in das Umweltrecht (3 ECTS) zorunludur ve hukuk kataloğundan 3 ECTS tutarında bir ders daha seçilir. Bu dönem yalnızca çatı modülü açılmaktadır.",
+   "noteDe": "6 ECTS. Einführung in das Umweltrecht (3 ECTS) ist Pflicht, und eine weitere Lehrveranstaltung im Umfang von 3 ECTS wird aus dem Rechtskatalog gewählt. In diesem Semester wird nur das Dachmodul angeboten."
+  },
+  {
+   "id": "Schlüsselkompetenzen (Wirtschaft)",
+   "group": "module",
+   "name": "Key competencies (economics)",
+   "nameDe": "Schlüsselkompetenzen (Wirtschaft)",
+   "short": "Key comp. econ.",
+   "count": 1,
+   "ects": 6,
+   "note": "6 ECTS in any combination from the economics catalogue. Grundlagen wissenschaftlichen Schreibens may be used in law or in economics, only once. This semester only the umbrella module is offered.",
+   "nameTr": "Anahtar yeterlilikler (ekonomi)",
+   "noteTr": "Ekonomi kataloğundan herhangi bir kombinasyonla 6 ECTS. Grundlagen wissenschaftlichen Schreibens hukukta veya ekonomide kullanılabilir, yalnızca bir kez. Bu dönem yalnızca çatı modülü açılmaktadır.",
+   "noteDe": "6 ECTS in beliebiger Kombination aus dem wirtschaftswissenschaftlichen Katalog. Grundlagen wissenschaftlichen Schreibens kann im Recht oder in den Wirtschaftswissenschaften eingebracht werden, nur einmal. In diesem Semester wird nur das Dachmodul angeboten."
+  }
+ ],
+ "rulesSummary": {
+  "en": "The 2020 amendment of the 2014 examination regulations rewrites section 7 (2): 84 ECTS compulsory basic phase, 57 ECTS compulsory main phase, 12 ECTS environmental engineering electives, 9 ECTS engineering electives, a 16-ECTS engineering internship, three 6-ECTS key-competency modules (interdisciplinary, law, economics) and the 14-ECTS thesis (210 ECTS). An approved study plan is required for both elective blocks (section 7 (5)). Unamended 2014 section 7 (4) and the study plan still print 87, 15 and 12 (2x6) credits and an 11-credit thesis; the 2020 section 7 (2) figures are the binding composition.",
+  "tr": "2014 sınav yönetmeliğinin 2020 değişikliği madde 7 (2)'yi yeniden düzenler: 84 ECTS zorunlu temel aşama, 57 ECTS zorunlu ana aşama, 12 ECTS çevre mühendisliği seçmelileri, 9 ECTS mühendislik seçmelileri, 16 ECTS tutarında bir mühendislik stajı, her biri 6 ECTS olan üç anahtar yeterlik modülü (disiplinlerarası, hukuk, ekonomi) ve 14 ECTS tutarında tez (210 ECTS). Her iki seçmeli blok için onaylı bir öğrenim planı zorunludur (madde 7 (5)). Değiştirilmemiş 2014 madde 7 (4) ve öğrenim planı hâlâ 87, 15 ve 12 (2x6) kredi ile 11 kredilik bir tez yazar; bağlayıcı bileşim 2020 madde 7 (2) rakamlarıdır.",
+  "de": "Die Änderungsordnung 2020 zur Prüfungsordnung 2014 fasst § 7 (2) neu: 84 ECTS Pflichtbereich der Grundphase, 57 ECTS Pflichtbereich der Hauptphase, 12 ECTS Wahlpflichtmodule im Umweltingenieurwesen, 9 ECTS ingenieurwissenschaftliche Wahlpflichtmodule, ein Ingenieurpraktikum im Umfang von 16 ECTS, drei Schlüsselkompetenzmodule im Umfang von je 6 ECTS (interdisziplinär, Recht, Wirtschaftswissenschaften) und die Abschlussarbeit im Umfang von 14 ECTS (210 ECTS). Für beide Wahlpflichtblöcke ist ein genehmigter Studienplan erforderlich (§ 7 (5)). Der unveränderte § 7 (4) von 2014 und der Studienplan weisen weiterhin 87, 15 und 12 (2x6) Leistungspunkte sowie eine Abschlussarbeit mit 11 Leistungspunkten aus; die Zahlen nach § 7 (2) der Fassung 2020 sind die verbindliche Zusammensetzung."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=2989&token=35f726cc15cf33dfdfd9225b39f291ffdacff0a1",
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8908&token=3d37d48d434e1ba69d23dd480f1227dd0fa12e84"
+ ],
+ "sections": [
+  {
+   "id": "Grundstudienphase",
+   "name": "Foundation Phase",
+   "nameDe": "Grundstudienphase"
+  },
+  {
+   "id": "Hauptstudienphase Pflicht",
+   "name": "Main Study Phase Compulsory",
+   "nameDe": "Hauptstudienphase Pflicht"
+  },
+  {
+   "id": "Umweltingenieurwesen Schwerpunkt",
+   "name": "Environmental Engineering Specialization",
+   "nameDe": "Umweltingenieurwesen Schwerpunkt"
+  },
+  {
+   "id": "Ingenieurwissenschaften Ergänzung",
+   "name": "Engineering Sciences Supplement",
+   "nameDe": "Ingenieurwissenschaften Ergänzung"
+  },
+  {
+   "id": "Schlüsselkompetenzen",
+   "name": "Key Competencies",
+   "nameDe": "Schlüsselkompetenzen"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Raum 2004, Untere Königsstr. 86": {
+   "en": "Room 2004, Untere Königsstr. 86",
+   "tr": "Oda 2004, Untere Königsstr. 86"
+  },
+  "Beginn: 28.10.2026": {
+   "en": "Start: 28.10.2026",
+   "tr": "Başlangıç: 28.10.2026"
+  },
+  "Beginn: 10:15 Uhr": {
+   "en": "Start: 10:15",
+   "tr": "Başlangıç: 10:15"
+  },
+  "Beginn 8:30 Uhr": {
+   "en": "Start 8:30",
+   "tr": "Başlangıç 8:30"
+  },
+  "Die Anmeldung zur Lehrveranstaltung im eCampus ist erforderlich bis zum 12.10.2026.": {
+   "en": "Registration for this course in eCampus is required by 12.10.2026.",
+   "tr": "Bu derse eCampus üzerinden 12.10.2026 tarihine kadar kayıt olmak gerekiyor."
+  },
+  "Beginn: 29.10.2026": {
+   "en": "Start: 29.10.2026",
+   "tr": "Başlangıç: 29.10.2026"
+  },
+  "Beginn: 09.12.2026": {
+   "en": "Start: 09.12.2026",
+   "tr": "Başlangıç: 09.12.2026"
+  },
+  "Raum 3115, Kurt-Wolters-Str. 3": {
+   "en": "Room 3115, Kurt-Wolters-Str. 3",
+   "tr": "Oda 3115, Kurt-Wolters-Str. 3"
+  },
+  "10:00- 13:00 Uhr": {
+   "en": "10:00- 13:00 Uhr",
+   "tr": "10:00- 13:00 Uhr"
+  },
+  "ONLINE asynchron; weitere Informationen siehe Moodle-Kurs": {
+   "en": "ONLINE asynchronous; for further information see the Moodle course",
+   "tr": "ONLINE asenkron; daha fazla bilgi için Moodle kursuna bakınız"
+  },
+  "1. Termin: 22.10.2026 Beginn: 8:15 Uhr": {
+   "en": "1st session: 22.10.2026 Start: 08:15",
+   "tr": "1. oturum: 22.10.2026 Başlangıç: 08:15"
+  },
+  "Beginn: 08:15 Uhr": {
+   "en": "Start: 08:15",
+   "tr": "Başlangıç: 08:15"
+  },
+  "Beginn: 9:00 Uhr": {
+   "en": "Start: 9:00 Uhr",
+   "tr": "Başlangıç: 9:00 Uhr"
+  },
+  "Bitte beachten Sie, dass eine Teilnahme an allen Terminen zwingend erforderlich ist. Eine verbindliche Anmeldung muss über den moodle Kurs \"Einwahl Blockseminar Führung und Verhalten in Projekten Wintersemester 2026/27\" erfolgen. Die Teilnehmendenzahl ist begrenzt.​​Findet in der Mönchebergstr. 7 im Raum 4223 statt.": {
+   "en": "Please note that attendance at all sessions is mandatory. Binding registration must be completed via the Moodle course \"Einwahl Blockseminar Führung und Verhalten in Projekten Wintersemester 2026/27\". The number of participants is limited. It takes place at Mönchebergstr. 7 in room 4223.",
+   "tr": "Tüm oturumlara katılmanın zorunlu olduğunu dikkate al. Bağlayıcı kaydı \"Einwahl Blockseminar Führung und Verhalten in Projekten Wintersemester 2026/27\" adlı Moodle kursu üzerinden yapman gerekiyor. Katılımcı sayısı sınırlı. Mönchebergstr. 7, oda 4223'te yapılıyor."
+  },
+  "Findet in der Mönchebergstr. 7 im Raum 4223 statt.": {
+   "en": "Takes place at Mönchebergstr. 7 in room 4223.",
+   "tr": "Mönchebergstr. 7, oda 4223'te yapılıyor."
+  },
+  "Wirtschaft im ÖPNV / Planung im ÖPNV im Wechsel; 1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7": {
+   "en": "Wirtschaft im ÖPNV / Planung im ÖPNV alternating; first session: 15.10.2026, Room 2215, Mönchebergstr. 7",
+   "tr": "Wirtschaft im ÖPNV / Planung im ÖPNV dönüşümlü olarak; ilk oturum: 15.10.2026, Oda 2215, Mönchebergstr. 7"
+  },
+  "1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7": {
+   "en": "First session: 15.10.2026, Room 2215, Mönchebergstr. 7",
+   "tr": "İlk oturum: 15.10.2026, Oda 2215, Mönchebergstr. 7"
+  },
+  "Findet in Mö7, R. 4223 statt": {
+   "en": "Takes place in Mö7, room 4223",
+   "tr": "Mö7, oda 4223'te yapılıyor"
+  },
+  "Termine: 28.10., 11.11., 25.11., 09.12., 13.01., 20.01., 03.02., 10.02., 02.03. (voraussichtlich Klausur)": {
+   "en": "Dates: 28.10., 11.11., 25.11., 09.12., 13.01., 20.01., 03.02., 10.02., 02.03. (expected written exam)",
+   "tr": "Tarihler: 28.10., 11.11., 25.11., 09.12., 13.01., 20.01., 03.02., 10.02., 02.03. (öngörülen yazılı sınav)"
+  },
+  "Raum 3515, Mönchebergstr. 7": {
+   "en": "Room 3515, Mönchebergstr. 7",
+   "tr": "Oda 3515, Mönchebergstr. 7"
+  },
+  "1. Termin: 27.10.2026": {
+   "en": "1st session: 27.10.2026",
+   "tr": "1. oturum: 27.10.2026"
+  },
+  "Beginn: 30.10.2026": {
+   "en": "Start: 30.10.2026",
+   "tr": "Başlangıç: 30.10.2026"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Grundstudienphase": "Foundation Phase",
+  "Hauptstudienphase Pflicht": "Main Study Phase Compulsory",
+  "Umweltingenieurwesen Schwerpunkt": "Environmental Engineering Specialization",
+  "Ingenieurwissenschaften Ergänzung": "Engineering Sciences Supplement",
+  "Schlüsselkompetenzen": "Key Competencies"
+ },
+ "modules": [
+  {
+   "id": "m16415",
+   "title": "Luftreinhaltung",
+   "titleEn": "Air Pollution Control",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Hauptstudienphase Pflicht"
+   ],
+   "categories": [],
+   "section": "Hauptstudienphase Pflicht",
+   "pickOne": false,
+   "courseIds": [
+    "68992"
+   ]
+  },
+  {
+   "id": "m16618",
+   "title": "Baukonstruktion / Bauphysik / Darstellungstechnik",
+   "titleEn": "Building Construction / Building Physics / Representation Techniques",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "68615",
+    "68926",
+    "68600"
+   ]
+  },
+  {
+   "id": "t:Chemie",
+   "title": "Chemie",
+   "titleEn": "Chemistry",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "68923"
+   ]
+  },
+  {
+   "id": "m16464",
+   "title": "Climate System",
+   "titleEn": "Climate System",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "categories": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "section": "Ingenieurwissenschaften Ergänzung",
+   "pickOne": false,
+   "courseIds": [
+    "69113",
+    "69114"
+   ]
+  },
+  {
+   "id": "m16505",
+   "title": "Bauinformatik",
+   "titleEn": "Construction Informatics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "68621",
+    "68806"
+   ]
+  },
+  {
+   "id": "m16526",
+   "title": "Werkstoffe des Bauwesens",
+   "titleEn": "Construction Materials",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "55624"
+   ]
+  },
+  {
+   "id": "m16390",
+   "title": "Umweltverhalten von Chemikalien in aquatischen Systemen",
+   "titleEn": "Environmental Behavior of Chemicals in Aquatic Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Umweltingenieurwesen Schwerpunkt"
+   ],
+   "categories": [
+    "Umweltingenieurwesen Schwerpunkt"
+   ],
+   "section": "Umweltingenieurwesen Schwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68987",
+    "68988"
+   ]
+  },
+  {
+   "id": "m16568",
+   "title": "Umweltwissenschaftliche Grundlagen I",
+   "titleEn": "Environmental Science Fundamentals I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "69896"
+   ]
+  },
+  {
+   "id": "m16473",
+   "title": "Grundlagen des konstruktiven Ingenieurbaus I",
+   "titleEn": "Fundamentals of Structural Engineering I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "categories": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "section": "Ingenieurwissenschaften Ergänzung",
+   "pickOne": false,
+   "courseIds": [
+    "68838",
+    "68845",
+    "68602",
+    "68844"
+   ]
+  },
+  {
+   "id": "m16600",
+   "title": "Geoinformationssysteme",
+   "titleEn": "Geographic Information Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "categories": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "section": "Ingenieurwissenschaften Ergänzung",
+   "pickOne": false,
+   "courseIds": [
+    "59364",
+    "68649"
+   ]
+  },
+  {
+   "id": "m16534",
+   "title": "Geotechnik 3",
+   "titleEn": "Geotechnical Engineering 3",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "categories": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "section": "Ingenieurwissenschaften Ergänzung",
+   "pickOne": false,
+   "courseIds": [
+    "68810",
+    "68842"
+   ]
+  },
+  {
+   "id": "m16516",
+   "title": "Geotechnik",
+   "titleEn": "Geotechnics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Hauptstudienphase Pflicht"
+   ],
+   "categories": [],
+   "section": "Hauptstudienphase Pflicht",
+   "pickOne": false,
+   "courseIds": [
+    "68810",
+    "68842"
+   ]
+  },
+  {
+   "id": "t:Grundlagen der Psychologie für das Ingenieurwesen",
+   "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+   "titleEn": "Grundlagen der Psychologie für das Ingenieurwesen",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Schlüsselkompetenzen"
+   ],
+   "categories": [],
+   "section": "Schlüsselkompetenzen",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "68632",
+    "68633"
+   ]
+  },
+  {
+   "id": "m16482",
+   "title": "Wasserbauwerke und Strömungsverhalten von Fließgewässern",
+   "titleEn": "Hydraulic Structures and Flow Behavior of Watercourses",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Umweltingenieurwesen Schwerpunkt"
+   ],
+   "categories": [
+    "Umweltingenieurwesen Schwerpunkt"
+   ],
+   "section": "Umweltingenieurwesen Schwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68634"
+   ]
+  },
+  {
+   "id": "m16596",
+   "title": "Hydromechanik",
+   "titleEn": "Hydromechanics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "68603",
+    "68925"
+   ]
+  },
+  {
+   "id": "m16548",
+   "title": "Schlüsselkompetenzen (Wirtschaft)",
+   "titleEn": "Key Competencies (Economics)",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schlüsselkompetenzen"
+   ],
+   "categories": [
+    "Schlüsselkompetenzen (Wirtschaft)"
+   ],
+   "section": "Schlüsselkompetenzen",
+   "pickOne": true,
+   "courseIds": [
+    "69744",
+    "68833",
+    "68077",
+    "69848"
+   ]
+  },
+  {
+   "id": "m16572",
+   "title": "Schlüsselkompetenzen (fachübergreifend)",
+   "titleEn": "Key Competencies (Interdisciplinary)",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schlüsselkompetenzen"
+   ],
+   "categories": [
+    "Schlüsselkompetenzen (fachübergreifend)"
+   ],
+   "section": "Schlüsselkompetenzen",
+   "pickOne": true,
+   "courseIds": [
+    "68821",
+    "68667",
+    "68920",
+    "71923"
+   ]
+  },
+  {
+   "id": "m16560",
+   "title": "Schlüsselkompetenzen (Recht)",
+   "titleEn": "Key Competencies (Law)",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schlüsselkompetenzen"
+   ],
+   "categories": [
+    "Schlüsselkompetenzen (Recht)"
+   ],
+   "section": "Schlüsselkompetenzen",
+   "pickOne": true,
+   "courseIds": [
+    "57073",
+    "56995",
+    "66719"
+   ]
+  },
+  {
+   "id": "m16376",
+   "title": "Mathematik I",
+   "titleEn": "Mathematics I",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "54261",
+    "69204",
+    "68861",
+    "69205"
+   ]
+  },
+  {
+   "id": "t:Mathematik II",
+   "title": "Mathematik II",
+   "titleEn": "Mathematics II",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "68949"
+   ]
+  },
+  {
+   "id": "m16495",
+   "title": "Messen, Steuern, Regeln",
+   "titleEn": "Measurement, Control and Regulation",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "69945",
+    "69913"
+   ]
+  },
+  {
+   "id": "m16396",
+   "title": "Mechanik I",
+   "titleEn": "Mechanics I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "68601",
+    "68805",
+    "68956"
+   ]
+  },
+  {
+   "id": "m16466",
+   "title": "Naturwissenschaften",
+   "titleEn": "Natural Sciences",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "68837",
+    "68866"
+   ]
+  },
+  {
+   "id": "m16531",
+   "title": "Planung, Bau und Betrieb von Abwasserbehandlungsanlagen",
+   "titleEn": "Planning, Construction and Operation of Wastewater Treatment Plants",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Umweltingenieurwesen Schwerpunkt"
+   ],
+   "categories": [
+    "Umweltingenieurwesen Schwerpunkt"
+   ],
+   "section": "Umweltingenieurwesen Schwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68989"
+   ]
+  },
+  {
+   "id": "m16589",
+   "title": "Ressourcenmanagement und Abfalltechnik",
+   "titleEn": "Resource Management and Waste Technology",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Hauptstudienphase Pflicht"
+   ],
+   "categories": [],
+   "section": "Hauptstudienphase Pflicht",
+   "pickOne": false,
+   "courseIds": [
+    "68985",
+    "68983"
+   ]
+  },
+  {
+   "id": "m16514",
+   "title": "Straßenbau und -entwurf",
+   "titleEn": "Road Construction and Design",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "categories": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "section": "Ingenieurwissenschaften Ergänzung",
+   "pickOne": false,
+   "courseIds": [
+    "68841",
+    "68628"
+   ]
+  },
+  {
+   "id": "m16395",
+   "title": "Statistik",
+   "titleEn": "Statistics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Grundstudienphase"
+   ],
+   "categories": [],
+   "section": "Grundstudienphase",
+   "pickOne": false,
+   "courseIds": [
+    "68818",
+    "68652"
+   ]
+  },
+  {
+   "id": "m16416",
+   "title": "Baustatik I",
+   "titleEn": "Structural Analysis I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "categories": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "section": "Ingenieurwissenschaften Ergänzung",
+   "pickOne": false,
+   "courseIds": [
+    "68618",
+    "68807",
+    "68860"
+   ]
+  },
+  {
+   "id": "m16557",
+   "title": "Verkehrstechnik I",
+   "titleEn": "Traffic Engineering I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Umweltingenieurwesen Schwerpunkt"
+   ],
+   "categories": [
+    "Ingenieurwissenschaften Ergänzung"
+   ],
+   "section": "Umweltingenieurwesen Schwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68630",
+    "68629",
+    "68811"
+   ]
+  },
+  {
+   "id": "m16485",
+   "title": "Siedlungswasserwirtschaft Grundlagen",
+   "titleEn": "Urban Water Management Fundamentals",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Hauptstudienphase Pflicht"
+   ],
+   "categories": [],
+   "section": "Hauptstudienphase Pflicht",
+   "pickOne": false,
+   "courseIds": [
+    "68631",
+    "68921"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "54261",
+   "title": "Höhere Mathematik I (Bau-, Umwelt- und Wirtschaftsingenieurwesen)",
+   "number": "FB1017.7201w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Sebastian Petersen"
+       ],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Sebastian Petersen"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54261&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24016",
+    "key": false
+   },
+   "titleEn": "Higher Mathematics I (Civil, Environmental and Industrial Engineering)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69204",
+   "title": "Hörsaalanleitung zur Höheren Mathematik I (Bau-, Umwelt- Wirtschaftsingenieurwesen)",
+   "number": "FB1017.7202w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sigrun Ortleb"
+       ],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69204&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24016",
+    "key": false
+   },
+   "titleEn": "Lecture Tutorial for Higher Mathematics I (Civil, Environmental and Industrial Engineering)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68861",
+   "title": "Mathematik I Brückenkurs",
+   "number": "BauUmw-1113-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Sahar Hetzler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Sahar Hetzler"
+       ],
+       "room": "Hörsaal 0400 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Sahar Hetzler"
+       ],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68861&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24500",
+    "key": false
+   },
+   "titleEn": "Mathematics I Bridging Course",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69205",
+   "title": "Übungen zur Höheren Mathematik I (Bau-, Umwelt- Wirtschaftsingenieurwesen)",
+   "number": "FB1017.7203w",
+   "type": "Übung",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sigrun Ortleb"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Stefan Kopecz"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Raum 2004, Untere Königsstr. 86",
+       "instructors": [
+        "Dr. Stefan Kopecz"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Janina Morin Bender"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Petru Cioica-Licht"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Petru Cioica-Licht"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Stefan Kopecz"
+       ],
+       "room": "Raum 0607 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Petru Cioica-Licht"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Stefan Kopecz"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69205&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24016",
+    "key": false
+   },
+   "titleEn": "Exercises for Higher Mathematics I (Civil, Environmental and Industrial Engineering)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68601",
+   "title": "Mechanik I",
+   "number": "BauUmw-1101-V",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing.habil. Detlef Kuhl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing.habil. Detlef Kuhl"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68601&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23565",
+    "key": true
+   },
+   "titleEn": "Mechanics I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68805",
+   "title": "Mechanik I",
+   "number": "BauUmw-1101-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing.habil. Detlef Kuhl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing.habil. Detlef Kuhl",
+        "M.Sc. Daniela Masarczyk"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68805&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23565",
+    "key": true
+   },
+   "titleEn": "Mechanics I",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68956",
+   "title": "Mechanik I",
+   "number": "BauUmw-1101-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing.habil. Detlef Kuhl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-21",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Beginn: 28.10.2026",
+       "instructors": [
+        "Dr.-Ing. Stefan Descher"
+       ],
+       "room": "Raum 0210 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Stefan Descher"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Stefan Descher"
+       ],
+       "room": "Raum 3012 (Möncheberg 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Stefan Descher"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68956&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23565",
+    "key": true
+   },
+   "titleEn": "Mechanics I",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68837",
+   "title": "Chemie",
+   "number": "BauUmw-3105-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. phil. nat. Alexander Wetzel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. phil. nat. Alexander Wetzel"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68837&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24412",
+    "key": true
+   },
+   "titleEn": "Chemistry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68866",
+   "title": "Physik",
+   "number": "BauUmw-3105-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Marcel Mudrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Marcel Mudrich",
+        "Prof. Dr. Thomas Giesen"
+       ],
+       "room": "Hörsaal 3 (Raum 0504) (Diagonale 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68866&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "16180",
+    "key": false
+   },
+   "titleEn": "Physics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69896",
+   "title": "Umweltwissenschaftliche Grundlagen für Ingenieure",
+   "number": "ETechn-4770-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Rüdiger Schaldach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rüdiger Schaldach",
+        "Dr.-Ing. Bernd Rusteberg"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69896&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24388",
+    "key": false
+   },
+   "titleEn": "Environmental Science Fundamentals for Engineers",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "55624",
+   "title": "Werkstoffe des Bauwesens I",
+   "number": "BauUmw-3101-V2",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.rer.nat. Bernhard Middendorf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.rer.nat. Bernhard Middendorf"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55624&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24008",
+    "key": true
+   },
+   "titleEn": "Construction Materials I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68615",
+   "title": "Baukonstruktion I",
+   "number": "BauUmw-3102-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Werner Seim",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Werner Seim"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68615&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24010",
+    "key": true
+   },
+   "titleEn": "Building Construction I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68926",
+   "title": "Baukonstruktion I",
+   "number": "BauUmw-3102-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Werner Seim",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-03",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Werner Seim"
+       ],
+       "room": "Raum 1211 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-11-04",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Werner Seim"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-11-04",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Werner Seim"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-06",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Werner Seim"
+       ],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-06",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Werner Seim"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68926&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24010",
+    "key": true
+   },
+   "titleEn": "Building Construction I",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68600",
+   "title": "Darstellungstechnik/CAD",
+   "number": "BauUmw-3102-V2",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Rainer Fletling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Rainer Fletling"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68600&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23591",
+    "key": false
+   },
+   "titleEn": "Representation Techniques/CAD",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68603",
+   "title": "Hydromechanik",
+   "number": "BauUmw-5103-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Klaus Träbing",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Klaus Träbing"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68603&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24620",
+    "key": true
+   },
+   "titleEn": "Hydromechanics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68925",
+   "title": "Hydromechanik",
+   "number": "BauUmw-5103-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Dr.-Ing. Klaus Träbing",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Klaus Träbing"
+       ],
+       "room": "Raum 1113 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Klaus Träbing"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Klaus Träbing"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Klaus Träbing"
+       ],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68925&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24620",
+    "key": true
+   },
+   "titleEn": "Hydromechanics",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68818",
+   "title": "Angewandte Statistik in den Ingenieurswissenschaften",
+   "number": "BauUmw-4104-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Rainer Fletling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Rainer Fletling",
+        "Prof. Dr. rer. pol. Angela Francke"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68818&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24301",
+    "key": false
+   },
+   "titleEn": "Applied Statistics in the Engineering Sciences",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68652",
+   "title": "Angewandte Statistik in den Ingenieurswissenschaften",
+   "number": "BauUmw-4104-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Rainer Fletling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Rainer Fletling",
+        "Prof. Dr. rer. pol. Angela Francke"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68652&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24301",
+    "key": false
+   },
+   "titleEn": "Applied Statistics in the Engineering Sciences",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68621",
+   "title": "Bauinformatik",
+   "number": "BauUmw-2101-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jakob Kirchner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Beginn: 10:15 Uhr",
+       "instructors": [
+        "Prof. Dr.-Ing. Jakob Kirchner",
+        "Dr.-Ing. Rainer Fletling"
+       ],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68621&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Construction Informatics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68806",
+   "title": "Bauinformatik",
+   "number": "BauUmw-2101-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jakob Kirchner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Beginn 8:30 Uhr",
+       "instructors": [
+        "Prof. Dr.-Ing. Jakob Kirchner"
+       ],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68806&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Construction Informatics",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69945",
+   "title": "Regelungstechnik",
+   "number": "ETechn-4020-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Olaf Stursberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung im eCampus ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Prof. Dr.-Ing. Olaf Stursberg",
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69945&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24579",
+    "key": true
+   },
+   "titleEn": "Control Engineering",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69913",
+   "title": "Grundlagen der Elektro- und Messtechnik",
+   "number": "ETechn-2510-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jens Friebe",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "M.Sc. Pierre Küster"
+       ],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69913&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24386",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Electrical Engineering and Measurement Technology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68985",
+   "title": "Ressourcen- und Abfallmanagement",
+   "number": "BauUmw-5105-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. tech. David Laner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. tech. David Laner"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68985&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24390",
+    "key": false
+   },
+   "titleEn": "Resource and Waste Management",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68983",
+   "title": "Mechanische Abfallaufbereitung und Recycling",
+   "number": "BauUmw-5105-V3",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. tech. David Laner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. tech. David Laner"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68983&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24392",
+    "key": false
+   },
+   "titleEn": "Mechanical Waste Processing and Recycling",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68631",
+   "title": "Siedlungswasserwirtschaft Grundlagen",
+   "number": "BauUmw-5110-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Tobias Morck",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Tobias Morck",
+        "Malte Thormann"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Tobias Morck",
+        "Malte Thormann"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68631&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24516",
+    "key": false
+   },
+   "titleEn": "Urban Water Management Fundamentals",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68921",
+   "title": "Siedlungswasserwirtschaft Grundlagen",
+   "number": "BauUmw-5110-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Tobias Morck",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Tobias Morck"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68921&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24516",
+    "key": false
+   },
+   "titleEn": "Urban Water Management Fundamentals",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68992",
+   "title": "Luftreinhaltung",
+   "number": "BauUmw-5106-V",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. tech. David Laner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Dominik Wildanger",
+        "Prof. Dr. Britta Jänicke"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68992&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23534",
+    "key": false
+   },
+   "titleEn": "Air Pollution Control",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68810",
+   "title": "Geotechnik 2-3",
+   "number": "BauUmw-3108-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Oliver Reul",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Oliver Reul"
+       ],
+       "room": "Hörsaal 6 (Raum 0504) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68810&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "21059",
+    "key": false
+   },
+   "titleEn": "Geotechnics 2-3",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68842",
+   "title": "Geotechnik 2-3",
+   "number": "BauUmw-3108-Ue2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Oliver Reul",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-10-22",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Beginn: 29.10.2026",
+       "instructors": [
+        "Prof. Dr.-Ing. Oliver Reul"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68842&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "21059",
+    "key": false
+   },
+   "titleEn": "Geotechnics 2-3",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68634",
+   "title": "Wasserbauwerke und Strömungsverhalten von Fließgewässern",
+   "number": "BauUmw-5112-V",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Stephan Theobald",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stephan Theobald"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Stephan Theobald"
+       ],
+       "room": "Raum 0112 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68634&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24167",
+    "key": true
+   },
+   "titleEn": "Hydraulic Structures and Flow Behavior of Watercourses",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68987",
+   "title": "Umweltverhalten von Chemikalien in aquatischen Systemen",
+   "number": "BauUmw-5118-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Matthias Gaßmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Matthias Gaßmann"
+       ],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68987&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23720",
+    "key": false
+   },
+   "titleEn": "Environmental Behavior of Chemicals in Aquatic Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68988",
+   "title": "Umweltverhalten von Chemikalien in aquatischen Systemen",
+   "number": "BauUmw-5118-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Matthias Gaßmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Matthias Gaßmann"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68988&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23720",
+    "key": false
+   },
+   "titleEn": "Environmental Behavior of Chemicals in Aquatic Systems",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68630",
+   "title": "Verkehrsablauf",
+   "number": "BauUmw-4106-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Robert Hoyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Robert Hoyer"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68630&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24867",
+    "key": true
+   },
+   "titleEn": "Traffic Flow",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68629",
+   "title": "Lichtsignalsteuerung",
+   "number": "BauUmw-4106-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Robert Hoyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Robert Hoyer"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68629&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24866",
+    "key": true
+   },
+   "titleEn": "Traffic Signal Control",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68811",
+   "title": "Verkehrsablauf",
+   "number": "BauUmw-4106-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Robert Hoyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-12-09",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-21",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Beginn: 09.12.2026",
+       "instructors": [
+        "Prof. Dr.-Ing. Robert Hoyer"
+       ],
+       "room": "Raum 1211 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68811&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24867",
+    "key": true
+   },
+   "titleEn": "Traffic Flow",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68989",
+   "title": "Planung, Bau und Betrieb von Abwasserbehandlungsanlagen",
+   "number": "BauUmw-5116-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Tobias Morck",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Raum 3115, Kurt-Wolters-Str. 3",
+       "instructors": [
+        "Prof. Dr.-Ing. Tobias Morck",
+        "Malte Thormann"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68989&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24517",
+    "key": false
+   },
+   "titleEn": "Planning, Construction and Operation of Wastewater Treatment Plants",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68618",
+   "title": "Baustatik I",
+   "number": "BauUmw-1105-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Ing. Jens Wackerfuß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ing. Jens Wackerfuß"
+       ],
+       "room": "Hörsaal 0400 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68618&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23568",
+    "key": true
+   },
+   "titleEn": "Structural Analysis I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68807",
+   "title": "Baustatik I",
+   "number": "BauUmw-1105-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Ing. Jens Wackerfuß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ing. Jens Wackerfuß"
+       ],
+       "room": "Hörsaal 5 (Raum 0506) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68807&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23568",
+    "key": true
+   },
+   "titleEn": "Structural Analysis I",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68860",
+   "title": "Baustatik I",
+   "number": "BauUmw-1105-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr. Ing. Jens Wackerfuß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ing. Jens Wackerfuß"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ing. Jens Wackerfuß"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68860&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23568",
+    "key": true
+   },
+   "titleEn": "Structural Analysis I",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68838",
+   "title": "Grundlagen des konstruktiven Ingenieurbaus I",
+   "number": "BauUmw-3106-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Mathias Clobes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Mathias Clobes",
+        "Prof. Dr.-Ing. Viviane Adam"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Mathias Clobes",
+        "Prof. Dr.-Ing. Viviane Adam"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68838&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24415",
+    "key": true
+   },
+   "titleEn": "Fundamentals of Structural Engineering I",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68845",
+   "title": "Grundlagen des konstruktiven Ingenieurbaus I",
+   "number": "BauUmw-3106-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Mathias Clobes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Mathias Clobes",
+        "Prof. Dr.-Ing. Viviane Adam"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68845&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24415",
+    "key": true
+   },
+   "titleEn": "Fundamentals of Structural Engineering I",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68602",
+   "title": "Grundlagen des konstruktiven Ingenieurbaus I",
+   "number": "BauUmw-3106-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Mathias Clobes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Mathias Clobes",
+        "Prof. Dr.-Ing. Viviane Adam"
+       ],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68602&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24415",
+    "key": true
+   },
+   "titleEn": "Fundamentals of Structural Engineering I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68844",
+   "title": "Werkstoffe des Bauwesens II",
+   "number": "BauUmw-3106-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.rer.nat. Bernhard Middendorf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.rer.nat. Bernhard Middendorf"
+       ],
+       "room": "Hörsaal 0400 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68844&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24744",
+    "key": true
+   },
+   "titleEn": "Construction Materials II",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "59364",
+   "title": "GIS-Praktikum",
+   "number": "BauUmw-4110-V2",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Rainer Fletling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "10:00- 13:00 Uhr",
+       "instructors": [
+        "Dipl.-Ing. M.Sc. Jens Eligehausen"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59364&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "GIS Lab",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68649",
+   "title": "Geoinformationssysteme",
+   "number": "BauUmw-4207-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Rainer Fletling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "ONLINE asynchron; weitere Informationen siehe Moodle-Kurs",
+       "instructors": [
+        "Dr.-Ing. Rainer Fletling"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68649&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23593",
+    "key": false
+   },
+   "titleEn": "Geographic Information Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68841",
+   "title": "Entwurf und Gestaltung von Straßenverkehrsanlagen",
+   "number": "BauUmw-4103-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "1. Termin: 22.10.2026 Beginn: 8:15 Uhr",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "apl. Prof. Dr. Ing. Konrad Mollenhauer"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68841&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23969",
+    "key": true
+   },
+   "titleEn": "Design and Layout of Road Traffic Facilities",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68628",
+   "title": "Straßenbautechnik",
+   "number": "BauUmw-4103-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Ing. Konrad Mollenhauer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Beginn: 08:15 Uhr",
+       "instructors": [
+        "apl. Prof. Dr. Ing. Konrad Mollenhauer"
+       ],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68628&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24108",
+    "key": true
+   },
+   "titleEn": "Road Construction Technology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69113",
+   "title": "Introduction into the Climate System",
+   "number": "BauUmw-5119-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Merja Helena Tölle",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "08:00",
+       "end": "14:00",
+       "startDate": "2027-02-15",
+       "endDate": "2027-02-19",
+       "cancelled": [],
+       "note": "Beginn: 9:00 Uhr",
+       "instructors": [
+        "Merja Helena Tölle"
+       ],
+       "room": "Raum 1211 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69113&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "15300",
+    "key": false
+   },
+   "titleEn": "Introduction into the Climate System",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69114",
+   "title": "Introduction into the Climate System",
+   "number": "BauUmw-5119-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Merja Helena Tölle",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69114&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "15300",
+    "key": false
+   },
+   "titleEn": "Introduction into the Climate System",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57073",
+   "title": "Einführung in das Umweltrecht für Ingenieure / -innen, WiPäds, Wiwis",
+   "number": "Recht-1140-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Alwin Markus, Prof. Dr. Martina Deckert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Alwin Markus"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Alwin Markus"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57073&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23621",
+    "key": false
+   },
+   "titleEn": "Introduction to Environmental Law for Engineers, WiPäds, Wiwis",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "56995",
+   "title": "Zivilrecht für Nebenfach",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Nikolaj Fischer, Prof. Dr. Martina Deckert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 3 (Raum 1135) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Nikolaj Fischer"
+       ],
+       "room": "Hörsaal 3 (Raum 1135) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56995&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24048",
+    "key": true
+   },
+   "titleEn": "Civil Law for the Minor Subject",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "66719",
+   "title": "Öffentliches Recht für Nebenfach",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Dr. Ulrike Lahnor, Dr. Nikolaj Fischer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Ulrike Lahnor"
+       ],
+       "room": "Hörsaal 6 (Raum 0504) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66719&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23619",
+    "key": false
+   },
+   "titleEn": "Public Law for the Minor Subject",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69744",
+   "title": "Führung und Verhalten in Projekten",
+   "number": null,
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-07",
+       "endDate": "2027-01-07",
+       "cancelled": [
+        "2027-01-07"
+       ],
+       "note": "Bitte beachten Sie, dass eine Teilnahme an allen Terminen zwingend erforderlich ist. Eine verbindliche Anmeldung muss über den moodle Kurs \"Einwahl Blockseminar Führung und Verhalten in Projekten Wintersemester 2026/27\" erfolgen. Die Teilnehmendenzahl ist begrenzt.​​Findet in der Mönchebergstr. 7 im Raum 4223 statt.",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Joana Gerstle"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa",
+       "day": null,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2027-01-08",
+       "endDate": "2027-01-09",
+       "cancelled": [],
+       "note": "Findet in der Mönchebergstr. 7 im Raum 4223 statt.",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Joana Gerstle"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-14",
+       "endDate": "2027-01-14",
+       "cancelled": [],
+       "note": "Findet in der Mönchebergstr. 7 im Raum 4223 statt.",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Joana Gerstle"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa",
+       "day": null,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "Findet in der Mönchebergstr. 7 im Raum 4223 statt.",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Joana Gerstle"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69744&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23594",
+    "key": false
+   },
+   "titleEn": "Leadership and Behavior in Projects",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68833",
+   "title": "Wirtschaft im ÖPNV",
+   "number": "BauUmw-4111-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Wirtschaft im ÖPNV / Planung im ÖPNV im Wechsel; 1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "M. Eng. Luka Jurisic",
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "M. Eng. Luka Jurisic",
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68833&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23967",
+    "key": true
+   },
+   "titleEn": "Economics of Local Public Transport",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68077",
+   "title": "Projektmanagement 1: Einführung und Grundlagen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68077&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23401",
+    "key": false
+   },
+   "titleEn": "Project Management 1: Introduction and Fundamentals",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69848",
+   "title": "Projektmanagement 1 - Übung",
+   "number": null,
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69848&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Project Management 1 - Exercise",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68821",
+   "title": "Grundlagen der Arbeitssicherheit 1",
+   "number": "BauUmw-2107-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Racky",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-21",
+        "2026-11-04",
+        "2026-11-18",
+        "2026-12-02",
+        "2026-12-16",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06",
+        "2027-01-27"
+       ],
+       "note": "Termine: 28.10., 11.11., 25.11., 09.12., 13.01., 20.01., 03.02., 10.02., 02.03. (voraussichtlich Klausur)",
+       "instructors": [
+        "Prof. Dr.-Ing. Peter Racky"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68821&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fundamentals of Occupational Safety 1",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68667",
+   "title": "Projekt III: Ingenieure ohne Grenzen Challenge: Entwicklung nachhaltiger Produktlösungen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Hartmut Hetzler, Dr. Daniel Koch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Daniel Koch",
+        "Leoni Hübner"
+       ],
+       "room": "Raum 2120 (Möncheberg 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68667&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24062",
+    "key": false
+   },
+   "titleEn": "Project III: Engineers Without Borders Challenge: Development of Sustainable Product Solutions",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68920",
+   "title": "Tensegrity-Strukturen",
+   "number": "BauUmw-1205-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing.habil. Detlef Kuhl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Raum 3515, Mönchebergstr. 7",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68920&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23564",
+    "key": true
+   },
+   "titleEn": "Tensegrity Structures",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71923",
+   "title": "MembranRaum - Membranstrukturen für Aufenthalt und Begenung im Campus Garten",
+   "number": "FB06.518",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Julian Lienhard, M.Eng. Sarah von der Weth, M.Sc. Frederik Ecke",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71923&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24661",
+    "key": false
+   },
+   "titleEn": "MembranRaum - Membrane Structures for Stay and Encounter in the Campus Garden",
+   "typeEn": "Project"
+  },
+  {
+   "id": "68949",
+   "title": "Antizyklische Übungen zu Mathematik II",
+   "number": "BauUmw-1112-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Sahar Hetzler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-20",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "1. Termin: 27.10.2026",
+       "instructors": [
+        "Sahar Hetzler"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-22",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Sahar Hetzler"
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68949&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Antizyklische Übungen zu Mathematik II",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68923",
+   "title": "Chemie",
+   "number": "BauUmw-3105-T",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Dr. phil. nat. Alexander Wetzel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-10-23",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Beginn: 30.10.2026",
+       "instructors": [
+        "Dr. phil. nat. Alexander Wetzel"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-10-23",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Beginn: 30.10.2026",
+       "instructors": [
+        "Dr. phil. nat. Alexander Wetzel"
+       ],
+       "room": "Raum 0401 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-10-23",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Beginn: 30.10.2026",
+       "instructors": [
+        "Dr. phil. nat. Alexander Wetzel"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68923&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Chemistry",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "68632",
+   "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+   "number": "BauUmw-4105-Ue",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. pol. Angela Francke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. rer. pol. Angela Francke"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68632&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Grundlagen der Psychologie für das Ingenieurwesen",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68633",
+   "title": "Grundlagen der Psychologie für das Ingenieurwesen",
+   "number": "BauUmw-4105-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. pol. Angela Francke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-20",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. rer. pol. Angela Francke"
+       ],
+       "room": "Hörsaal 0400 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68633&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Grundlagen der Psychologie für das Ingenieurwesen",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

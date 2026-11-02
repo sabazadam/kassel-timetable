@@ -1,0 +1,4043 @@
+{
+ "generatedAt": "2026-10-19T21:03:51.285Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor Landschaftsarchitektur und Landschaftsplanung (2020)",
+ "programEn": "Bachelor Landscape Architecture and Landscape Planning (2020)",
+ "slug": "bsc-landschaftsarchitektur-und-landschaftsplanung",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "object-design",
+   "modules": [
+    "m5766",
+    "m5738",
+    "m4883",
+    "m4832"
+   ],
+   "text": {
+    "tr": [
+     "Obje Planlama",
+     "Öğrenci park, bahçe ve benzeri alanları tasarlamayı, tasarım yöntemlerini ve buna eşlik eden çizim ile teknik becerileri öğrenir."
+    ],
+    "en": [
+     "Object Design Practice",
+     "Students learn to design parks, gardens and similar sites, together with design methods, representation and technical skills."
+    ],
+    "de": [
+     "Entwurf und Objektplanung",
+     "Studierende lernen, Parks, Gärten und ähnliche Freianlagen zu entwerfen und dafür Entwurfsmethoden, Darstellung und technische Fertigkeiten zu nutzen."
+    ]
+   }
+  },
+  {
+   "id": "urban-open-space",
+   "modules": [
+    "m5784",
+    "m5767",
+    "m4893",
+    "m4806"
+   ],
+   "text": {
+    "tr": [
+     "Kentsel Açık Alan",
+     "Öğrenci kentteki ve kırsaldaki açık alanların yerini, kullanımını ve bakımını anlamayı ve bunu kentsel tasarımla ilişkilendirmeyi öğrenir."
+    ],
+    "en": [
+     "Urban Open Space",
+     "Students learn how open spaces in cities and rural areas depend on place, use and care, and how this connects with urban design."
+    ],
+    "de": [
+     "Freiraum und Stadt",
+     "Studierende lernen, Freiräume in der Stadt und auf dem Land nach Standort, Nutzung und Pflege zu verstehen und mit Städtebau zu verbinden."
+    ]
+   }
+  },
+  {
+   "id": "landscape-ecology",
+   "modules": [
+    "m5747",
+    "m5791",
+    "m5764"
+   ],
+   "text": {
+    "tr": [
+     "Peyzaj Ekolojisi",
+     "Öğrenci arazi ekolojisi, peyzaj ekolojisi ve peyzaj planlamasının öğeleri ile kavramları üzerinde çalışır."
+    ],
+    "en": [
+     "Landscape Ecology",
+     "Students study field ecology, landscape ecology and the elements and concepts of landscape planning."
+    ],
+    "de": [
+     "Ökologie der Landschaft",
+     "Studierende beschäftigen sich mit Freilandökologie, Landschaftsökologie und den Elementen und Konzepten der Landschaftsplanung."
+    ]
+   }
+  },
+  {
+   "id": "planning-instruments",
+   "modules": [
+    "m5772",
+    "m4812",
+    "m5759",
+    "m5734"
+   ],
+   "text": {
+    "tr": [
+     "Planlama Yöntemleri",
+     "Öğrenci peyzaj planlamasının yöntemlerini, araçlarını ve teknik işlemlerini anlamayı ve bunlar üzerine düşünmeyi öğrenir."
+    ],
+    "en": [
+     "Planning Methods",
+     "Students learn to understand and reflect on the methods, instruments and technical procedures of landscape planning."
+    ],
+    "de": [
+     "Methoden und Instrumente",
+     "Studierende lernen, Methoden, Instrumente und technische Verfahren der Landschaftsplanung zu verstehen und fachlich einzuordnen."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "Projekte",
+   "group": "area",
+   "name": "Elective projects",
+   "nameDe": "Projektmodule (Wahlpflicht)",
+   "short": "Projects",
+   "count": 3,
+   "ects": 36,
+   "note": "Three different elective project modules, 12 ECTS each (36 ECTS).",
+   "nameTr": "Seçmeli projeler",
+   "noteTr": "Üç farklı seçmeli proje modülü, her biri 12 ECTS (36 ECTS).",
+   "noteDe": "Drei verschiedene Wahlpflicht-Projektmodule zu je 12 ECTS (36 ECTS)."
+  },
+  {
+   "id": "Studienfeld F",
+   "group": "area",
+   "name": "Key competencies (study achievements)",
+   "nameDe": "Studienleistungsmodule (Schluesselkompetenzen)",
+   "short": "Key competencies",
+   "count": 1,
+   "ects": 6,
+   "note": "6 ECTS of key-competency modules from the faculty, the University of Kassel, or both. Modules in this area are 3 ECTS each.",
+   "nameTr": "Anahtar yetkinlikler (çalışma başarıları)",
+   "noteTr": "Fakülteden, Kassel Üniversitesi'nden veya her ikisinden 6 ECTS anahtar yeterlik modülü. Bu alandaki modüller 3'er ECTS'tir.",
+   "noteDe": "6 ECTS Schlüsselkompetenzmodule aus der Fakultät, der Universität Kassel oder aus beiden. Die Module in diesem Bereich umfassen jeweils 3 ECTS."
+  },
+  {
+   "id": "wp-fields",
+   "group": "anyOf",
+   "name": "Electives from study fields A to D",
+   "nameDe": "Wahlpflichtmodule in den Studienfeldern A bis D",
+   "short": "Electives A-D",
+   "count": 1,
+   "ects": 18,
+   "note": "18 ECTS from study fields A to D, including at least 9 ECTS from this program's own offer. The remaining credits may come from that offer or from other suitable faculty or university modules, and at most one Studienarbeit may be counted.",
+   "options": [
+    {
+     "type": "area",
+     "id": "Wahlpflicht Allgemeine Wissenschaften"
+    },
+    {
+     "type": "area",
+     "id": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+    },
+    {
+     "type": "area",
+     "id": "Wahlpflicht Instrumente, Verfahren und Technik"
+    },
+    {
+     "type": "area",
+     "id": "Wahlpflicht Planungsgegenstände und Planungsebenen"
+    }
+   ],
+   "nameTr": "Çalışma alanları A-D'den seçmeliler",
+   "noteTr": "Çalışma alanları A-D'den 18 ECTS; bunun en az 9 ECTS'i bu programın kendi sunumundan gelir. Kalan krediler bu sunumdan ya da fakültenin veya üniversitenin uygun başka modüllerinden alınabilir ve en fazla bir Studienarbeit sayılabilir.",
+   "noteDe": "18 ECTS aus den Studienfeldern A bis D, davon mindestens 9 ECTS aus dem eigenen Angebot dieses Studiengangs. Die übrigen Leistungspunkte können aus diesem Angebot oder aus anderen geeigneten Modulen der Fakultät oder der Universität stammen; höchstens eine Studienarbeit darf angerechnet werden."
+  }
+ ],
+ "rulesSummary": {
+  "en": "The applicable text is the Fachprüfungsordnung of 25 September 2019 (4.17.06/093 BA 2019, Mitteilungsblatt 6/2020), in force from winter semester 2020/21. Section 7 requires 60 ECTS of compulsory theory, 18 ECTS of electives in study fields A to D (at least 9 ECTS from this program's own offer, at most one Studienarbeit), 6 ECTS of key competencies, the compulsory introductory studio (12 ECTS), introductory project (12 ECTS) and practice project (30 ECTS), three different elective projects (36 ECTS) and the thesis (6 ECTS), 180 ECTS in total.",
+  "tr": "Geçerli metin, 25 Eylül 2019 tarihli Fachprüfungsordnung'dur (4.17.06/093 BA 2019, Mitteilungsblatt 6/2020) ve 2020/21 kış döneminden itibaren yürürlüktedir. Madde 7; 60 ECTS zorunlu kuram, çalışma alanları A-D içinde 18 ECTS seçmeli (en az 9 ECTS bu programın kendi sunumundan, en fazla bir Studienarbeit), 6 ECTS anahtar yeterlikler, zorunlu giriş stüdyosu (12 ECTS), giriş projesi (12 ECTS) ve uygulama projesi (30 ECTS), üç farklı seçmeli proje (36 ECTS) ve tezi (6 ECTS) gerektirir; toplam 180 ECTS.",
+  "de": "Maßgeblich ist die Fachprüfungsordnung vom 25. September 2019 (4.17.06/093 BA 2019, Mitteilungsblatt 6/2020), in Kraft ab dem Wintersemester 2020/21. § 7 verlangt 60 ECTS Theorie im Pflichtbereich, 18 ECTS Wahlpflicht in den Studienfeldern A bis D (mindestens 9 ECTS aus dem eigenen Angebot dieses Studiengangs, höchstens eine Studienarbeit), 6 ECTS Schlüsselkompetenzen, das verpflichtende Einführungsstudio (12 ECTS), das Einführungsprojekt (12 ECTS) und das Praxisprojekt (30 ECTS), drei verschiedene Wahlpflichtprojekte (36 ECTS) und die Abschlussarbeit (6 ECTS), insgesamt 180 ECTS."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8862&token=0ab0b51624f45d989ee871c79e092122b846b884"
+ ],
+ "sections": [
+  {
+   "id": "Pflicht Allgemeine Wissenschaften",
+   "name": "Compulsory General Studies",
+   "nameDe": "Pflicht Allgemeine Wissenschaften"
+  },
+  {
+   "id": "Wahlpflicht Allgemeine Wissenschaften",
+   "name": "Compulsory Elective General Studies",
+   "nameDe": "Wahlpflicht Allgemeine Wissenschaften"
+  },
+  {
+   "id": "Pflicht Bildende Kunst, Gestaltung und Darstellung",
+   "name": "Compulsory Fine Arts, Design and Representation",
+   "nameDe": "Pflicht Bildende Kunst, Gestaltung und Darstellung"
+  },
+  {
+   "id": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung",
+   "name": "Compulsory Elective Fine Arts, Design and Representation",
+   "nameDe": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+  },
+  {
+   "id": "Pflicht Instrumente, Verfahren und Technik",
+   "name": "Compulsory Instruments, Methods and Technology",
+   "nameDe": "Pflicht Instrumente, Verfahren und Technik"
+  },
+  {
+   "id": "Wahlpflicht Instrumente, Verfahren und Technik",
+   "name": "Compulsory Elective Instruments, Methods and Technology",
+   "nameDe": "Wahlpflicht Instrumente, Verfahren und Technik"
+  },
+  {
+   "id": "Pflicht Planungsgegenstände und Planungsebenen",
+   "name": "Compulsory Planning Objects and Planning Levels",
+   "nameDe": "Pflicht Planungsgegenstände und Planungsebenen"
+  },
+  {
+   "id": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "name": "Compulsory Elective Planning Objects and Planning Levels",
+   "nameDe": "Wahlpflicht Planungsgegenstände und Planungsebenen"
+  },
+  {
+   "id": "Studienfeld F",
+   "name": "Study Field F",
+   "nameDe": "Studienfeld F"
+  },
+  {
+   "id": "Entwerfen, Planen",
+   "name": "Design, Planning",
+   "nameDe": "Entwerfen, Planen"
+  },
+  {
+   "id": "Projekte",
+   "name": "Projects",
+   "nameDe": "Projekte"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "möchte in einen kleineren Seminarraum wechseln": {
+   "en": "would like to switch to a smaller seminar room",
+   "tr": "daha küçük bir seminer odasına geçmek istiyor"
+  },
+  "Gebuchter Raum ist zu klein": {
+   "en": "The booked room is too small.",
+   "tr": "Rezerve edilen oda çok küçük."
+  },
+  "R.1160, Gottschalkstr. 28 a": {
+   "en": "Room 1160, Gottschalkstr. 28 a",
+   "tr": "Oda 1160, Gottschalkstr. 28 a"
+  },
+  "Raum 1160, Gottschalksstr. 28 a": {
+   "en": "Room 1160, Gottschalksstr. 28 a",
+   "tr": "Oda 1160, Gottschalksstr. 28 a"
+  },
+  "Kurs findet online statt.": {
+   "en": "The course takes place online.",
+   "tr": "Kurs çevrimiçi gerçekleşir."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Pflicht Allgemeine Wissenschaften": "Compulsory General Studies",
+  "Wahlpflicht Allgemeine Wissenschaften": "Compulsory Elective General Studies",
+  "Pflicht Bildende Kunst, Gestaltung und Darstellung": "Compulsory Fine Arts, Design and Representation",
+  "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung": "Compulsory Elective Fine Arts, Design and Representation",
+  "Pflicht Instrumente, Verfahren und Technik": "Compulsory Instruments, Methods and Technology",
+  "Wahlpflicht Instrumente, Verfahren und Technik": "Compulsory Elective Instruments, Methods and Technology",
+  "Pflicht Planungsgegenstände und Planungsebenen": "Compulsory Planning Objects and Planning Levels",
+  "Wahlpflicht Planungsgegenstände und Planungsebenen": "Compulsory Elective Planning Objects and Planning Levels",
+  "Studienfeld F": "Study Field F",
+  "Entwerfen, Planen": "Design, Planning",
+  "Projekte": "Projects"
+ },
+ "modules": [
+  {
+   "id": "m4964",
+   "title": "Künstlerische Grundlagen",
+   "titleEn": "Artistic Fundamentals",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflicht Bildende Kunst, Gestaltung und Darstellung"
+   ],
+   "categories": [],
+   "section": "Pflicht Bildende Kunst, Gestaltung und Darstellung",
+   "pickOne": false,
+   "courseIds": [
+    "56166"
+   ]
+  },
+  {
+   "id": "m5772",
+   "title": "ASL und Instrumente, Verfahren und Technik",
+   "titleEn": "ASL and Instruments, Methods and Technology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Instrumente, Verfahren und Technik"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Instrumente, Verfahren und Technik",
+   "pickOne": false,
+   "courseIds": [
+    "68977"
+   ]
+  },
+  {
+   "id": "m4790",
+   "title": "ASL-Exkursion mit Begleitseminar im Studienfeld A",
+   "titleEn": "ASL Field Trip with Accompanying Seminar in Field of Study A",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Allgemeine Wissenschaften"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Allgemeine Wissenschaften",
+   "pickOne": false,
+   "courseIds": [
+    "71609"
+   ]
+  },
+  {
+   "id": "m4854",
+   "title": "ASL-Exkursion mit Begleitseminar im Studienfeld C",
+   "titleEn": "ASL Field Trip with Accompanying Seminar in Field of Study C",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Instrumente, Verfahren und Technik"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Instrumente, Verfahren und Technik",
+   "pickOne": false,
+   "courseIds": [
+    "75278"
+   ]
+  },
+  {
+   "id": "m4857",
+   "title": "ASL-Exkursion mit Begleitseminar im Studienfeld D",
+   "titleEn": "ASL Field Trip with Accompanying Seminar in Field of Study D",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "71609",
+    "71944"
+   ]
+  },
+  {
+   "id": "m4806",
+   "title": "ASL International",
+   "titleEn": "ASL International",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "69141"
+   ]
+  },
+  {
+   "id": "m4883",
+   "title": "Studienleistung: Künstlerische Fertigkeiten und Darstellung",
+   "titleEn": "Coursework: Artistic Skills and Representation",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Studienfeld F"
+   ],
+   "categories": [
+    "Studienfeld F"
+   ],
+   "section": "Studienfeld F",
+   "pickOne": true,
+   "courseIds": [
+    "72021",
+    "74281",
+    "75279"
+   ]
+  },
+  {
+   "id": "m4914",
+   "title": "Studienleistung: Kommunikationakompetenz",
+   "titleEn": "Coursework: Communication Competence",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Studienfeld F"
+   ],
+   "categories": [
+    "Studienfeld F"
+   ],
+   "section": "Studienfeld F",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "70559",
+    "71612",
+    "71634",
+    "71936",
+    "71948",
+    "72000",
+    "74281",
+    "74981",
+    "72001",
+    "69141",
+    "75281",
+    "75308",
+    "75324"
+   ]
+  },
+  {
+   "id": "m4833",
+   "title": "Studienleistung: Fremdsprachenkompetenz",
+   "titleEn": "Coursework: Foreign Language Competence",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Studienfeld F"
+   ],
+   "categories": [
+    "Studienfeld F"
+   ],
+   "section": "Studienfeld F",
+   "pickOne": true,
+   "courseIds": [
+    "71615",
+    "71936"
+   ]
+  },
+  {
+   "id": "m4812",
+   "title": "Studienleistung: Methodenkompetenz",
+   "titleEn": "Coursework: Methodological Competence",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Studienfeld F"
+   ],
+   "categories": [
+    "Studienfeld F"
+   ],
+   "section": "Studienfeld F",
+   "pickOne": true,
+   "courseIds": [
+    "70559",
+    "71612",
+    "71634",
+    "61448",
+    "71936",
+    "72000",
+    "68980",
+    "74096",
+    "74981",
+    "72001",
+    "69031",
+    "69141",
+    "75279",
+    "75308",
+    "75334"
+   ]
+  },
+  {
+   "id": "m4871",
+   "title": "Studienleistung: Organisationskompetenz",
+   "titleEn": "Coursework: Organizational Competence",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Studienfeld F"
+   ],
+   "categories": [
+    "Studienfeld F"
+   ],
+   "section": "Studienfeld F",
+   "pickOne": true,
+   "courseIds": [
+    "71634",
+    "71936",
+    "71948",
+    "72001",
+    "69031",
+    "75334"
+   ]
+  },
+  {
+   "id": "m4832",
+   "title": "Studienleistung: Technische Fertigkeiten",
+   "titleEn": "Coursework: Technical Skills",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Studienfeld F"
+   ],
+   "categories": [
+    "Studienfeld F"
+   ],
+   "section": "Studienfeld F",
+   "pickOne": true,
+   "courseIds": [
+    "61265",
+    "71634",
+    "61448",
+    "68980",
+    "74096",
+    "74095",
+    "74281",
+    "72001",
+    "75268",
+    "75293",
+    "75322"
+   ]
+  },
+  {
+   "id": "m5737",
+   "title": "Ökologische Grundlagen der Umweltplanung",
+   "titleEn": "Ecological Fundamentals of Environmental Planning",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflicht Instrumente, Verfahren und Technik"
+   ],
+   "categories": [],
+   "section": "Pflicht Instrumente, Verfahren und Technik",
+   "pickOne": false,
+   "courseIds": [
+    "56257"
+   ]
+  },
+  {
+   "id": "t:Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+   "title": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+   "titleEn": "Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Wahlpflicht Allgemeine Wissenschaften"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Allgemeine Wissenschaften",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "69791"
+   ]
+  },
+  {
+   "id": "t:Fusion - Positionen zu Architektur, Stadt und Landschaft",
+   "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+   "titleEn": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Wahlpflicht Allgemeine Wissenschaften"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Allgemeine Wissenschaften",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "68959"
+   ]
+  },
+  {
+   "id": "m4855",
+   "title": "Geschichte der gebauten Umwelt",
+   "titleEn": "History of the Built Environment",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflicht Allgemeine Wissenschaften"
+   ],
+   "categories": [],
+   "section": "Pflicht Allgemeine Wissenschaften",
+   "pickOne": false,
+   "courseIds": [
+    "55749"
+   ]
+  },
+  {
+   "id": "m4876",
+   "title": "Interdisziplinäres Entwurfs- und Planungsprojekt",
+   "titleEn": "Interdisciplinary Design and Planning Project",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Projekte"
+   ],
+   "categories": [
+    "Projekte"
+   ],
+   "section": "Projekte",
+   "pickOne": true,
+   "courseIds": [
+    "70549",
+    "70561",
+    "71743",
+    "71875",
+    "71912",
+    "71914",
+    "71921",
+    "71947",
+    "71993",
+    "72022",
+    "72023",
+    "71640",
+    "74985",
+    "75263",
+    "75280"
+   ]
+  },
+  {
+   "id": "m5741",
+   "title": "Einführung in die Freiraumplanung",
+   "titleEn": "Introduction to Open Space Planning",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [],
+   "section": "Pflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "68952"
+   ]
+  },
+  {
+   "id": "m5798",
+   "title": "Einführungsprojekt Landschaftsarchitektur / Landschaftsplanung",
+   "titleEn": "Introductory Project Landscape Architecture / Landscape Planning",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Entwerfen, Planen"
+   ],
+   "categories": [],
+   "section": "Entwerfen, Planen",
+   "pickOne": false,
+   "courseIds": [
+    "63288"
+   ]
+  },
+  {
+   "id": "m5763",
+   "title": "Landschaftsarchitektur (Entwurf und Technik)",
+   "titleEn": "Landscape Architecture (Design and Technology)",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [],
+   "section": "Pflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "56534"
+   ]
+  },
+  {
+   "id": "m5742",
+   "title": "Landschaftsentwicklung / Landschaftsplanung",
+   "titleEn": "Landscape Development / Landscape Planning",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [],
+   "section": "Pflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "68970"
+   ]
+  },
+  {
+   "id": "m5792",
+   "title": "Praxisprojekt (BPS) Landschaftsarchitektur / Landschaftsplanung",
+   "titleEn": "Praxisprojekt (BPS) Landschaftsarchitektur / Landschaftsplanung",
+   "code": null,
+   "ects": 30,
+   "areas": [
+    "Entwerfen, Planen"
+   ],
+   "categories": [],
+   "section": "Entwerfen, Planen",
+   "pickOne": false,
+   "courseIds": [
+    "75548"
+   ]
+  },
+  {
+   "id": "m5738",
+   "title": "Projekt aus L-Themenfeld Entwurfsmethoden/ -techniken",
+   "titleEn": "Project from the L Thematic Field Design Methods/ Techniques",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Projekte"
+   ],
+   "categories": [
+    "Projekte"
+   ],
+   "section": "Projekte",
+   "pickOne": true,
+   "courseIds": [
+    "71622",
+    "75257"
+   ]
+  },
+  {
+   "id": "m5764",
+   "title": "Projekt aus L-Themenfeld Elemente und Konzepte der Landschaftsplanung",
+   "titleEn": "Project from the L Thematic Field Elements and Concepts of Landscape Planning",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Projekte"
+   ],
+   "categories": [
+    "Projekte"
+   ],
+   "section": "Projekte",
+   "pickOne": true,
+   "courseIds": [
+    "70549",
+    "71637",
+    "70551"
+   ]
+  },
+  {
+   "id": "m5747",
+   "title": "Projekt aus L-Themenfeld Freilandökologie",
+   "titleEn": "Project from the L Thematic Field Field Ecology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Projekte"
+   ],
+   "categories": [
+    "Projekte"
+   ],
+   "section": "Projekte",
+   "pickOne": true,
+   "courseIds": [
+    "71637",
+    "70551",
+    "71743"
+   ]
+  },
+  {
+   "id": "m5766",
+   "title": "Projekt aus L-Themenfeld Objektplanung",
+   "titleEn": "Project from the L Thematic Field Object Planning",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Projekte"
+   ],
+   "categories": [
+    "Projekte"
+   ],
+   "section": "Projekte",
+   "pickOne": true,
+   "courseIds": [
+    "71622",
+    "71914",
+    "75257"
+   ]
+  },
+  {
+   "id": "m5767",
+   "title": "Projekt aus L-Themenfeld Freiraum und Stadt",
+   "titleEn": "Project from the L Thematic Field Open Space and the City",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Projekte"
+   ],
+   "categories": [
+    "Projekte"
+   ],
+   "section": "Projekte",
+   "pickOne": true,
+   "courseIds": [
+    "70549",
+    "71622",
+    "71914",
+    "75257",
+    "60078"
+   ]
+  },
+  {
+   "id": "m5759",
+   "title": "Projekt aus L-Themenfeld Planungsmethoden/ -instrumente",
+   "titleEn": "Project from the L Thematic Field Planning Methods/ Instruments",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Projekte"
+   ],
+   "categories": [
+    "Projekte"
+   ],
+   "section": "Projekte",
+   "pickOne": false,
+   "courseIds": [
+    "70549"
+   ]
+  },
+  {
+   "id": "m4923",
+   "title": "Recherche-/Stegreifübung im Studienfeld A",
+   "titleEn": "Research/Impromptu Exercise in Field of Study A",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Allgemeine Wissenschaften"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Allgemeine Wissenschaften",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "70550",
+    "72016",
+    "69141",
+    "75281",
+    "75286"
+   ]
+  },
+  {
+   "id": "m4837",
+   "title": "Recherche-/Stegreifübung im Studienfeld B",
+   "titleEn": "Research/Impromptu Exercise in Field of Study B",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung",
+   "pickOne": true,
+   "courseIds": [
+    "72016",
+    "69141",
+    "75286"
+   ]
+  },
+  {
+   "id": "m4791",
+   "title": "Recherche-/Stegreifübung im Studienfeld C",
+   "titleEn": "Research/Impromptu Exercise in Field of Study C",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Instrumente, Verfahren und Technik"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Instrumente, Verfahren und Technik",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "71929",
+    "69141",
+    "75068",
+    "75322"
+   ]
+  },
+  {
+   "id": "m4888",
+   "title": "Recherche-/Stegreifübung im Studienfeld D",
+   "titleEn": "Research/Impromptu Exercise in Field of Study D",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "70550",
+    "69141",
+    "75068",
+    "75281"
+   ]
+  },
+  {
+   "id": "m4858",
+   "title": "Gesellschaft und Umwelt",
+   "titleEn": "Society and Environment",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflicht Allgemeine Wissenschaften"
+   ],
+   "categories": [],
+   "section": "Pflicht Allgemeine Wissenschaften",
+   "pickOne": false,
+   "courseIds": [
+    "68939"
+   ]
+  },
+  {
+   "id": "m5791",
+   "title": "Besondere Aspekte der Landschaftsökolgie",
+   "titleEn": "Special Aspects of Landscape Ecology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "70557"
+   ]
+  },
+  {
+   "id": "m5784",
+   "title": "Besondere Aspekte von Freiraum und Landschaft",
+   "titleEn": "Special Aspects of Open Space and Landscape",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "68979"
+   ]
+  },
+  {
+   "id": "m5734",
+   "title": "Spezielle Themen aus Landschaftsarchitektur / Landschaftsplanung im Studienfeld C",
+   "titleEn": "Special Topics in Landscape Architecture / Landscape Planning in Study Field C",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Instrumente, Verfahren und Technik"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Instrumente, Verfahren und Technik",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "70548",
+    "68979",
+    "70550",
+    "71609",
+    "71612",
+    "71876"
+   ]
+  },
+  {
+   "id": "m5797",
+   "title": "Spezielle Themen aus Landschaftsarchitektur/ Landschaftsplanung im Studienfeld D",
+   "titleEn": "Special Topics in Landscape Architecture/ Landscape Planning in Study Field D",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": true,
+   "courseIds": [
+    "70548",
+    "68979",
+    "70550",
+    "71612",
+    "71615",
+    "71876"
+   ]
+  },
+  {
+   "id": "m4792",
+   "title": "Studienarbeit im Studienfeld A",
+   "titleEn": "Term Paper in Field of Study A",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Allgemeine Wissenschaften"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Allgemeine Wissenschaften",
+   "pickOne": true,
+   "courseIds": [
+    "71638",
+    "71932",
+    "71949",
+    "69600",
+    "75048"
+   ]
+  },
+  {
+   "id": "m4896",
+   "title": "Studienarbeit im Studienfeld B",
+   "titleEn": "Term Paper in Field of Study B",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung",
+   "pickOne": true,
+   "courseIds": [
+    "71949",
+    "69141"
+   ]
+  },
+  {
+   "id": "m4949",
+   "title": "Studienarbeit im Studienfeld C",
+   "titleEn": "Term Paper in Field of Study C",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Instrumente, Verfahren und Technik"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Instrumente, Verfahren und Technik",
+   "pickOne": true,
+   "courseIds": [
+    "71638",
+    "68974",
+    "71929",
+    "71949",
+    "69141"
+   ]
+  },
+  {
+   "id": "m4887",
+   "title": "Studienarbeit im Studienfeld D",
+   "titleEn": "Term Paper in Field of Study D",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "71638"
+   ]
+  },
+  {
+   "id": "m4893",
+   "title": "Städtebau",
+   "titleEn": "Urban Design",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Planungsgegenstände und Planungsebenen"
+   ],
+   "categories": [
+    "wp-fields"
+   ],
+   "section": "Wahlpflicht Planungsgegenstände und Planungsebenen",
+   "pickOne": false,
+   "courseIds": [
+    "68967"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "55749",
+   "title": "Geschichte der gebauten Umwelt",
+   "number": "FB06.020",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Alla Vronskaya, Dr. Wiebke Reinert, Dr. Piero Sassi",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55749&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24140",
+    "key": false
+   },
+   "titleEn": "History of the Built Environment",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68939",
+   "title": "Gesellschaft und Umwelt",
+   "number": "FB06.026",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Anna Growe, Prof. Dr. Carsten Keller, Prof. Dr. Jens Knissel, Prof. Dr. Britta Jänicke, Prof. Dr. René Sahm",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68939&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24788",
+    "key": false
+   },
+   "titleEn": "Society and Environment",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70550",
+   "title": "Landschaft gemeinsam gestalten - Landschaftsgovernance und die Rolle intermediärer Akteur:innen",
+   "number": "FB06.086",
+   "type": "Kompaktseminar",
+   "language": null,
+   "responsible": "M.Sc. Alena Birnbaum",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2026-10-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0105 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70550&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24499",
+    "key": false
+   },
+   "titleEn": "Shaping the Landscape Together - Landscape Governance and the Role of Intermediary Actors",
+   "typeEn": "Compact Seminar"
+  },
+  {
+   "id": "72016",
+   "title": "Zwischennutzung und dann? - Strategien zur langfristigen gemeinschaftlichen gemeinwohlorientierten Entwicklung von Leerstand",
+   "number": "FB06.133",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Gabu Heindl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-05",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08",
+        "2027-02-12"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0105 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72016&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24397",
+    "key": false
+   },
+   "titleEn": "Temporary Use and Then? - Strategies for the Long-Term Collective, Common-Good-Oriented Development of Vacant Properties",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69141",
+   "title": "Heritage, Landscape and Public Spaces in Djerba: Challenges and Enhancement Strategies - Analyze, Enhance, Redevelop",
+   "number": "FB06.052",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Uwe Altrock, Mohammed Alfiky",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0103 (Gottschalk 26)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69141&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24094",
+    "key": false
+   },
+   "titleEn": "Heritage, Landscape and Public Spaces in Djerba: Challenges and Enhancement Strategies - Analyze, Enhance, Redevelop",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75281",
+   "title": "Stadtnaht",
+   "number": "FB06.055",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.Sc. Aridona Kuliqi",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75281&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24838",
+    "key": false
+   },
+   "titleEn": "Urban Seam",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75286",
+   "title": "The Absurd nature of Vacancy in Time of the Housing Crisis",
+   "number": "FB06.075",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.A. Iva Marcetic",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75286&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24560",
+    "key": false
+   },
+   "titleEn": "The Absurd nature of Vacancy in Time of the Housing Crisis",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71638",
+   "title": "Energiepotentiale Fassade",
+   "number": "FB06.101",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dipl.-Ing. Frank Kasprusch, M.Sc. Johanna Sauerwein",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71638&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Energy Potentials of the Facade",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71932",
+   "title": "Borderlands",
+   "number": "FB06.119",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M. A. Leo Paulmichl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-11-02",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-02-08"
+       ],
+       "note": "möchte in einen kleineren Seminarraum wechseln",
+       "instructors": [],
+       "room": "Raum 2111 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71932&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24335",
+    "key": false
+   },
+   "titleEn": "Borderlands",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71949",
+   "title": "Studienarbeit Geschichte von Architektur, Stadt und Landschaft",
+   "number": "FB06.129",
+   "type": "Studienarbeit",
+   "language": null,
+   "responsible": "Prof. Dr. Alla Vronskaya",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71949&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Term Paper on the History of Architecture, City and Landscape",
+   "typeEn": "Term Paper"
+  },
+  {
+   "id": "69600",
+   "title": "Architectural History after Globalization",
+   "number": "FB06.074",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Alla Vronskaya",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69600&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24528",
+    "key": false
+   },
+   "titleEn": "Architectural History after Globalization",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75048",
+   "title": "Health, Law, and the Built Environment: Perspectives from Architectural History",
+   "number": "FB06.146",
+   "type": "Blockseminar",
+   "language": null,
+   "responsible": "M. A. Megan Eardley",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75048&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24695",
+    "key": false
+   },
+   "titleEn": "Health, Law, and the Built Environment: Perspectives from Architectural History",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "71609",
+   "title": "Spaziergänge zur Stadtvegetation im Winterhalbjahr",
+   "number": "FB06.093",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Stefan Körner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71609&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23759",
+    "key": false
+   },
+   "titleEn": "Walks on Urban Vegetation in the Winter Half-Year",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56166",
+   "title": "Künstlerische Grundlagen",
+   "number": "FB06.021",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Heike Klussmann, Dipl. Des. Manja Ebert, Steffi Silbermann, Dr. Ing. Roman Polster, M.Sc. Frederik Ecke, Dipl. Des. Lena Hellmann, Saskia Drebes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3108 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2111 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56166&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23271",
+    "key": false
+   },
+   "titleEn": "Artistic Fundamentals",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56257",
+   "title": "Ökologische Grundlagen der Umweltplanung-TM SoSe",
+   "number": "FB06.039",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. René Sahm",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0106 (Schreibbretter) (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0106 (Schreibbretter) (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56257&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Ecological Fundamentals of Environmental Planning-TM Summer Semester",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71929",
+   "title": "Down To Earth// Digitale Ringvorlesung Lehmbau",
+   "number": "FB06.112",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Julian Lienhard, M.Sc. Hilke Manot",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71929&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24476",
+    "key": false
+   },
+   "titleEn": "Down To Earth// Digital Lecture Series on Earth Building",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75068",
+   "title": "Landschaftsarchitektonischer Stegreif",
+   "number": "FB06.149",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dipl.-Ing. Ariane Röntz",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75068&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Landscape Architectural Impromptu",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "75322",
+   "title": "Formen Finden",
+   "number": "FB06.151",
+   "type": "Kompaktseminar",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Julian Lienhard, M.Eng. Sarah von der Weth",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75322&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Finding Forms",
+   "typeEn": "Compact Seminar"
+  },
+  {
+   "id": "68974",
+   "title": "Bauphysik - Bauschäden und energetische Sanierung",
+   "number": "FB06.057",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peggy Freudenberg, Dr.-Ing. Swen Klauß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0105 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68974&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "670",
+    "key": true
+   },
+   "titleEn": "Building Physics - Building Damage and Energy-Efficient Renovation",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "75278",
+   "title": "Squatted Rome",
+   "number": "FB06.123",
+   "type": "Exkursion",
+   "language": null,
+   "responsible": "Prof. Dr. Gabu Heindl, M.Sc. Paul Knauer",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75278&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24550",
+    "key": false
+   },
+   "titleEn": "Squatted Rome",
+   "typeEn": "Field Trip"
+  },
+  {
+   "id": "68977",
+   "title": "Geregeltes Grün - Wie sich Normen auf unsere Arbeit auswirken",
+   "number": "FB06.095",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dipl. Ing. Wolfgang Telöken",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Gebuchter Raum ist zu klein",
+       "instructors": [],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68977&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23601",
+    "key": false
+   },
+   "titleEn": "Regulated Greenery - How Standards Affect Our Work",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70548",
+   "title": "Seminar zum wissenschaftlichen Arbeitn (Begleitseminar zum BPS)",
+   "number": "FB06.085",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Dr. Andreas Mengel, Dr. Markus Schwarzer",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70548&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24198",
+    "key": false
+   },
+   "titleEn": "Seminar on Academic Research and Writing (Accompanying Seminar for the BPS)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68979",
+   "title": "Schwammlandschaft - Konzeption und Umsetzung",
+   "number": "FB06.131",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Markus Schwarzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2111 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68979&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24447",
+    "key": false
+   },
+   "titleEn": "Sponge Landscape - Concept and Implementation",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71612",
+   "title": "Wissenschaftliches Arbeiten (Begleitseminar zur Studienarbeit BPS)",
+   "number": "FB06.098",
+   "type": "Seminar",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-11-30",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71612&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24198",
+    "key": false
+   },
+   "titleEn": "Academic Research and Writing (Accompanying Seminar for the BPS Study Paper)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71876",
+   "title": "Seminar zum wissenschaftlichen Arbeiten des Fachgebiets Freiraumplanung (Begleitseminar zum BPS)",
+   "number": "FB06.102",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Rieke Hansen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71876&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24284",
+    "key": false
+   },
+   "titleEn": "Seminar on Academic Work in the Department of Open Space Planning (Accompanying Seminar for the BPS)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68952",
+   "title": "Einführung in die Freiraumplanung",
+   "number": "FB06.045",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Rieke Hansen, M.Sc. Felix Zierz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68952&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24226",
+    "key": false
+   },
+   "titleEn": "Introduction to Open Space Planning",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56534",
+   "title": "Landschaftsarchitektur - (Entwurf und Technik)",
+   "number": "FB06.037",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dipl.-Ing. Ariane Röntz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dipl.-Ing. Ariane Röntz",
+        "Univ-Prof. Florian Otto"
+       ],
+       "room": "Raum 0105 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56534&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Landscape Architecture - (Design and Technology)",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68970",
+   "title": "Landschaftsentwicklung/Landschaftsplanung",
+   "number": "FB06.040",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Dr. Andreas Mengel, Dr. Markus Schwarzer, Prof. Dr. Markus Leibenath",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0106 (Schreibbretter) (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68970&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24446",
+    "key": false
+   },
+   "titleEn": "Landscape Development/Landscape Planning",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71944",
+   "title": "Soziale Stadtteilentwicklung in der wachsenden Metropole Berlin ...-Exkursion",
+   "number": "FB06.124",
+   "type": "Exkursion",
+   "language": null,
+   "responsible": "Dr. Wiebke Reinert, Dr. Piero Sassi",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71944&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24739",
+    "key": false
+   },
+   "titleEn": "Social Neighborhood Development in the Growing Metropolis of Berlin ...-Field Trip",
+   "typeEn": "Field Trip"
+  },
+  {
+   "id": "70557",
+   "title": "Besondere Aspekte der Landschaftsökologie: Bestimmung aquatischer Wirbelloser und der Gewässerstrukturgüte",
+   "number": "FB06.087",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.Sc. Josephine Brandt, Prof. Dr. René Sahm",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "M.Sc. Josephine Brandt",
+        "Prof. Dr. René Sahm"
+       ],
+       "room": "Raum 0103 (Gottschalk 26)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70557&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23913",
+    "key": false
+   },
+   "titleEn": "Special Aspects of Landscape Ecology: Identification of Aquatic Invertebrates and the Structural Quality of Water Bodies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68967",
+   "title": "Städtebau",
+   "number": "FB06.033",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Verena Brehm",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Verena Brehm"
+       ],
+       "room": "Hörsaal 3 (Raum 1135) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68967&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Urban Design",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71615",
+   "title": "Experimenting in Rotterdam: Open Spaces as Catalysts for Urban Transformation",
+   "number": "FB06.099",
+   "type": "Kompaktseminar",
+   "language": null,
+   "responsible": "Dr. Beatriz Kauark Fontes, Prof. Dr. Rieke Hansen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1215 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71615&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23996",
+    "key": false
+   },
+   "titleEn": "Experimenting in Rotterdam: Open Spaces as Catalysts for Urban Transformation",
+   "typeEn": "Compact Seminar"
+  },
+  {
+   "id": "70559",
+   "title": "Seminar zum wissenschaftlichen Arbeitn (Begleitseminar zum BPS)",
+   "number": "FB06.090",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.Sc. Josephine Brandt, M.Sc Anna Kulessa",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70559&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar on Academic Research and Writing (Accompanying Seminar for the BPS)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71634",
+   "title": "Ruins of Ideologies. Zum Deutschen Pavillon der Venedig Biennale",
+   "number": "FB06.107",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "M.A. Claire Valérie Zimmermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2026-10-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-11-24",
+       "endDate": "2026-11-24",
+       "cancelled": [],
+       "note": "R.1160, Gottschalkstr. 28 a",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71634&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24526",
+    "key": true
+   },
+   "titleEn": "Ruins of Ideologies. Zum Deutschen Pavillon der Venedig Biennale",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71936",
+   "title": "Kunst, Architektur und Gärten der Renaissance",
+   "number": "FB06.120",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.A. Linda Schiel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-01-26",
+       "cancelled": [
+        "2026-12-29"
+       ],
+       "note": "",
+       "instructors": [
+        "M.A. Linda Schiel"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71936&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24939",
+    "key": true
+   },
+   "titleEn": "Art, Architecture and Gardens of the Renaissance",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71948",
+   "title": "Forum Naturschutz und Biologische Vielfalt",
+   "number": "FB06.128",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. rer. nat. Nils Stanik, Prof. Dr. Kristin Ludewig, Prof. Dr. René Sahm",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71948&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Forum Nature Conservation and Biodiversity",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "72000",
+   "title": "Kolloquium Stadt- und Regionalsoziologie",
+   "number": "FB06.118",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Carsten Keller",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72000&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24957",
+    "key": false
+   },
+   "titleEn": "Colloquium Urban and Regional Sociology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74281",
+   "title": "Seminar Narrativ V/SEM +DR Rechercheseminar",
+   "number": "FB06.145",
+   "type": "Kompaktseminar",
+   "language": null,
+   "responsible": "Sarah Blahut",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74281&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24583",
+    "key": false
+   },
+   "titleEn": "Seminar Narrative V/SEM +DR Research Seminar",
+   "typeEn": "Compact Seminar"
+  },
+  {
+   "id": "74981",
+   "title": "Vortragsreihe des Transdisziplinären Zentrums für Ausstellungsstudien TRACES",
+   "number": "FB06.163",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Anna-Lisa Scherfose, M.A. Hannah Strothmann",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74981&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24827",
+    "key": false
+   },
+   "titleEn": "Lecture Series of the Transdisciplinary Center for Exhibition Studies TRACES",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "72001",
+   "title": "Your ground is my body. spuren ruinöser Ästhetiken",
+   "number": "FB06.130",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.A. Claire Valérie Zimmermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-02",
+       "cancelled": [
+        "2026-12-22",
+        "2027-01-05"
+       ],
+       "note": "Raum 1160, Gottschalksstr. 28 a",
+       "instructors": [
+        "M.A. Claire Valérie Zimmermann"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72001&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24525",
+    "key": true
+   },
+   "titleEn": "Your ground is my body. Traces of ruinous aesthetics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75308",
+   "title": "Teilnahme an der Fusionsreihe",
+   "number": "FB06.078",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Julian Lienhard",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75308&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23050",
+    "key": false
+   },
+   "titleEn": "Participation in the Fusion Series",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "75324",
+   "title": "Abschlussarbeiten-Kolloquium Integrierte Verkehrsplanung",
+   "number": "FB06.152",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "V.-Prof. Dr. Florian Krummheuer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-22",
+       "endDate": "2026-10-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2111 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-11-10",
+       "endDate": "2026-11-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2027-01-19",
+       "endDate": "2027-01-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75324&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Final Theses Colloquium Integrated Transport Planning",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69031",
+   "title": "Spuren und Identitäten. Werner Noell: Leiter des Hochbauamtes Kassel, zuvor Obersturmbannführer in der Waffen-SS",
+   "number": "FB06.068",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Cornelia Anna Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3108 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3108 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69031&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23870",
+    "key": false
+   },
+   "titleEn": "Traces and Identities. Werner Noell: Head of Kassel's Building Construction Office, Previously Obersturmbannführer in the Waffen-SS",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75334",
+   "title": "Müggelsee in Berlin",
+   "number": "FB06.154",
+   "type": "Exkursion",
+   "language": null,
+   "responsible": "M.Sc. Olympia Tomczyk, M.Sc. Lisa Reis",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75334&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24988",
+    "key": false
+   },
+   "titleEn": "Müggelsee in Berlin",
+   "typeEn": "Field Trip"
+  },
+  {
+   "id": "61448",
+   "title": "Digital Basics",
+   "number": "FB06.121",
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Prof. Dipl. Architekt ETH MSc. Philipp Eversmann, M.Sc. Hannah Strunk-Hagedorn",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-04",
+       "cancelled": [
+        "2026-10-15",
+        "2026-11-05",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-02-11"
+       ],
+       "note": "",
+       "instructors": [
+        "M.Sc. Hannah Strunk-Hagedorn"
+       ],
+       "room": "Raum 1140 (Schreibbretter) (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61448&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23328",
+    "key": false
+   },
+   "titleEn": "Digital Basics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68980",
+   "title": "Grundlagen der statistischen Auswertung von Umweltdaten",
+   "number": "FB06.096",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.Sc Anna Kulessa",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68980&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23440",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Statistical Analysis of Environmental Data",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74096",
+   "title": "Grundlagen der digitalen Vermessung",
+   "number": "FB06.143",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dipl.-Ing. Claus Anderhalten",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2026-10-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74096&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23857",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Digital Surveying",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75279",
+   "title": "Wohnungsbaugenossenschaften gründen!",
+   "number": "FB06.089",
+   "type": "Blockseminar",
+   "language": null,
+   "responsible": "Sabine Conti",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75279&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24553",
+    "key": false
+   },
+   "titleEn": "Founding Housing Cooperatives!",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "72021",
+   "title": "Blockseminar Zeichnen",
+   "number": "FB06.139",
+   "type": "Blockseminar",
+   "language": null,
+   "responsible": "Prof. Heike Klussmann, Dipl. Des. Manja Ebert",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72021&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Block Seminar on Drawing",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "61265",
+   "title": "Sprechstunde Energiedesign und Gebäudetechnik",
+   "number": "FB06.122",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Jens Knissel, M.Sc. Jonas Scholz",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61265&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "17082",
+    "key": false
+   },
+   "titleEn": "Office Hours Energy Design and Building Technology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74095",
+   "title": "Planung und Betrieb von Außenwärmepumpen",
+   "number": "FB06.142",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Jens Knissel, M.Sc. Jonas Scholz, M.Sc. Mark Winnefeld",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0607 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74095&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24723",
+    "key": false
+   },
+   "titleEn": "Planning and Operation of Outdoor Heat Pumps",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75268",
+   "title": "Play with Clay",
+   "number": "FB06.073",
+   "type": "Workshop",
+   "language": null,
+   "responsible": "Dipl. Des. Lisa Heinze, Prof. Dipl. Architekt ETH MSc. Philipp Eversmann",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75268&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Play with Clay",
+   "typeEn": "Workshop"
+  },
+  {
+   "id": "75293",
+   "title": "Phygital Workshop - Reclaimed Timber Chair",
+   "number": "FB06.126",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dipl. Architekt ETH MSc. Philipp Eversmann, M.Sc. Hyo Wook Kim, M.Sc. Ole Weyhe",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75293&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24786",
+    "key": false
+   },
+   "titleEn": "Phygital Workshop - Reclaimed Timber Chair",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "63288",
+   "title": "CAD-Basisschulung",
+   "number": "FB06.108",
+   "type": "Kompaktkurs",
+   "language": null,
+   "responsible": "Prof. Dipl. Architekt ETH MSc. Philipp Eversmann, M.Sc. Hannah Strunk-Hagedorn",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63288&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "666",
+    "key": false
+   },
+   "titleEn": "CAD Basic Training",
+   "typeEn": "Compact Course"
+  },
+  {
+   "id": "75548",
+   "title": "Praxisprojekt - Begleitung und Nachbereitung",
+   "number": "FB06.184",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Paula Marie Nerke",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75548&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Praxisprojekt - Begleitung und Nachbereitung",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70549",
+   "title": "Zukünftige agrarische Kulturlandschaften im Einklang mit Biodiversitätssicherung, Wasserrückhalt und Bodenschutz",
+   "number": "FB06.502",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Dr. Andreas Mengel, Dr. Markus Schwarzer",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70549&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24448",
+    "key": false
+   },
+   "titleEn": "Future Agricultural Cultural Landscapes in Harmony with Biodiversity Safeguarding, Water Retention and Soil Protection",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71622",
+   "title": "Blue Commons",
+   "number": "FB06.507",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "M.Sc. Olympia Tomczyk, M.Sc. Lisa Reis",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71622&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24247",
+    "key": false
+   },
+   "titleEn": "Blue Commons",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71914",
+   "title": "Transformationslabor Fackelteich, L",
+   "number": "FB06.514",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Univ-Prof. Florian Otto, M.Sc. Rickmer Niehuus, M.Sc. Carlos Calzadilla Guerra",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71914&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Transformation Laboratory Fackelteich, L",
+   "typeEn": "Project"
+  },
+  {
+   "id": "75257",
+   "title": "Historische Überlagerungen: Karlsaue und Orangerie als Zone instabiler Ordnungen",
+   "number": "FB06.530",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Gast.-Prof. Dr. Lars Hopstock",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75257&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Historical Superimpositions: Karlsaue and Orangerie as a Zone of Unstable Orders",
+   "typeEn": "Project"
+  },
+  {
+   "id": "60078",
+   "title": "Projekt aus L-Themenfeld: Freiraum und Stadt",
+   "number": "FB06.506",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Rieke Hansen, Dr. Beatriz Kauark Fontes",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60078&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Project from the L Thematic Field: Open Space and the City",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71637",
+   "title": "Naturschutz und Klimaschutz durch natürliche Lebensräume verbinden",
+   "number": "FB06.509",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Kristin Ludewig, Dr. rer. nat. Nils Stanik",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71637&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24224",
+    "key": false
+   },
+   "titleEn": "Linking Nature Conservation and Climate Protection through Natural Habitats",
+   "typeEn": "Project"
+  },
+  {
+   "id": "70551",
+   "title": "Lebendige Auen - Natürlicher Hochwasser- und Biotopschutz an Bächen im Landkreis Kassel",
+   "number": "FB06.503",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. René Sahm, M.Sc. Josephine Brandt",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70551&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23914",
+    "key": false
+   },
+   "titleEn": "Living Floodplains - Natural Flood Protection and Biotope Protection along Streams in the District of Kassel",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71743",
+   "title": "Heiße Städte, kühle Köpfe: Gemeinsam Strategien gegen urbane Überhitzung entwickeln",
+   "number": "FB06.510",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Britta Jänicke",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71743&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23991",
+    "key": false
+   },
+   "titleEn": "Hot Cities, Cool Heads: Jointly Developing Strategies Against Urban Overheating",
+   "typeEn": "Project"
+  },
+  {
+   "id": "70561",
+   "title": "Transformationslabor Fackelteich",
+   "number": "FB06.505",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Philipp Oswalt, Samuel Korn",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70561&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Transformation Laboratory Fackelteich",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71875",
+   "title": "Wohn:Lokal 2. Gemeinschaftliches Wohnen im Leerstand der Innenstadt",
+   "number": "FB06.512",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Verena Brehm, M.Sc. Mara Benteler",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71875&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24562",
+    "key": false
+   },
+   "titleEn": "Housing:Local 2. Communal Housing in Inner-City Vacancies",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71912",
+   "title": "Jenseits der DIN 18040: Barrierefreiheit, Inklusion und Alltagstauglichkeit im öffentlichen Raum",
+   "number": "FB06.513",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "V.-Prof. Dr. Mary Dellenbaugh-Losse",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71912&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24966",
+    "key": false
+   },
+   "titleEn": "Beyond DIN 18040: Accessibility, Inclusion and Everyday Usability in Public Space",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71921",
+   "title": "freies Umbaustudio",
+   "number": "FB06.517",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Gabu Heindl, Prof. Dr.-Ing. Julian Lienhard",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71921&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24558",
+    "key": false
+   },
+   "titleEn": "Open Conversion Studio",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71947",
+   "title": "Soziale Stadtteilentwicklung in der wachsenden Metropole Berlin ...",
+   "number": "FB06.520",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Dr. Wiebke Reinert, Dr. Piero Sassi",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71947&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24739",
+    "key": false
+   },
+   "titleEn": "Social Neighborhood Development in the Growing Metropolis of Berlin ...",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71993",
+   "title": "LEER: REALLABOR 1:1",
+   "number": "FB06.521",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dr. Gabu Heindl, M. A. Helena Rafalsky, M.A. Alexander Rakow",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71993&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "EMPTY: REAL-WORLD LABORATORY 1:1",
+   "typeEn": "Project"
+  },
+  {
+   "id": "72022",
+   "title": "Bring Your Own Project (BYOP)",
+   "number": "FB06.522",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Heike Klussmann, Dipl. Des. Manja Ebert, Steffi Silbermann, Dr. Ing. Roman Polster, M.Sc. Frederik Ecke, Dipl. Des. Lena Hellmann, Saskia Drebes",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72022&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Bring Your Own Project (BYOP)",
+   "typeEn": "Project"
+  },
+  {
+   "id": "72023",
+   "title": "Does Every Object Tell a Story?",
+   "number": "FB06.523",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Heike Klussmann, Dipl. Des. Manja Ebert, Steffi Silbermann, Dr. Ing. Roman Polster, M.Sc. Frederik Ecke, Dipl. Des. Lena Hellmann, Saskia Drebes",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72023&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23715",
+    "key": false
+   },
+   "titleEn": "Does Every Object Tell a Story?",
+   "typeEn": "Project"
+  },
+  {
+   "id": "71640",
+   "title": "Mehrraum - Vom Versorgungsstandort zum sozialen Stadtbaustein",
+   "number": "FB06.508",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Prof. Dipl.-Ing. Claus Anderhalten, Dipl.-Ing. Lea Furbach",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71640&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23644",
+    "key": false
+   },
+   "titleEn": "More Space - From Supply Location to Social Urban Building Block",
+   "typeEn": "Project"
+  },
+  {
+   "id": "74985",
+   "title": "Zwischen urbaner Transformation und Backlash: Verkehrsprojekte als Trigger für kommunalpolitische Konflikte",
+   "number": "FB06.527",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "V.-Prof. Dr. Florian Krummheuer",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74985&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24907",
+    "key": true
+   },
+   "titleEn": "Between Urban Transformation and Backlash: Transport Projects as Triggers for Municipal Political Conflicts",
+   "typeEn": "Project"
+  },
+  {
+   "id": "75263",
+   "title": "Suburbane Lebenswelten",
+   "number": "FB06.533",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "Jonas Jehnichen, Prof. Dr. Carsten Keller",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75263&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24725",
+    "key": false
+   },
+   "titleEn": "Suburban Lifeworlds",
+   "typeEn": "Project"
+  },
+  {
+   "id": "75280",
+   "title": "Stadtnaht",
+   "number": "FB06.532",
+   "type": "Projekt",
+   "language": null,
+   "responsible": "M.Sc. Aridona Kuliqi",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75280&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24838",
+    "key": false
+   },
+   "titleEn": "Urban Seam",
+   "typeEn": "Project"
+  },
+  {
+   "id": "68959",
+   "title": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+   "number": "FB06.064",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "M.A. Alexander Rakow",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "22:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0106 (Schreibbretter) (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68959&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fusion - Positionen zu Architektur, Stadt und Landschaft",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69791",
+   "title": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+   "number": "00ENarc210",
+   "type": "Sprachkurs",
+   "language": "deutsch",
+   "responsible": "Mario Ebest",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "22:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Kurs findet online statt.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69791&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "(U) Englisch UNIcert II, 1. Teil, Englisch für Architektur, Stadt- u. Landschaftsplanung (Voraussetzung: B1 abgeschl., Zielniveau B1/B2-) (00ENarc210)",
+   "typeEn": "Language Course"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "msc-maschinenbau",
+  "po": "Master Maschinenbau (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21964&token=03a7793976fadfca8ee9215eb04246a8c4e32c4b"
+  ],
+  "categories": [
+    {
+      "id": "Mathematik IV",
+      "group": "area",
+      "name": "Mathematics 4",
+      "nameDe": "Mathematik 4",
+      "short": "Mathematics 4",
+      "count": 1,
+      "note": "Compulsory module, 6 ECTS; pick one of the offered options"
+    },
+    {
+      "id": "Simulationsmethoden",
+      "group": "area",
+      "name": "Simulation methods",
+      "nameDe": "Simulationsmethoden",
+      "short": "Simulation",
+      "count": 1,
+      "note": "Compulsory module, 6 ECTS; pick one of the offered options"
+    },
+    {
+      "id": "Signale - Daten - Digitalisierung",
+      "group": "area",
+      "name": "Signals, data, digitalization",
+      "nameDe": "Signale - Daten - Digitalisierung",
+      "short": "Signals/Data",
+      "count": 1,
+      "note": "Compulsory module, 6 ECTS; pick one of the offered options"
+    },
+    {
+      "id": "Schwerpunktspezifische Grundlagen",
+      "group": "area",
+      "name": "Specialization-specific foundations",
+      "nameDe": "Schwerpunktspezifische Grundlagen",
+      "short": "Spec. foundations",
+      "count": 1,
+      "note": "Compulsory 6 ECTS, matching your specialization and your approved study plan"
+    },
+    {
+      "id": "Schlüsselqualifikation",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "note": "6 ECTS"
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "count": 5,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Automatisierung und Digitale Transformation"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Energie-Umwelt-Technik"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Mensch - Organisation - Technik"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Modellierung und Simulation in der Angewandten Mechanik"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Nachhaltige Fahrzeugtechnik"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Nachhaltige Werkstoffe und Fertigungsverfahren"
+        }
+      ],
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (eine Wahl)",
+      "short": "Specialization",
+      "note": "30 ECTS in one specialization (12 ECTS basic and 18 ECTS advanced modules; up to 6 ECTS advanced may come from another specialization)"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO 2023 section 7: five compulsory 6-ECTS modules (Mathematik 4, Simulationsmethoden, Signale - Daten - Digitalisierung, specialization-specific foundations, key competencies), each filled from a list of options, then one of six specializations with 12 ECTS basic and 18 ECTS advanced modules, documented in an approved study plan, and the 30-ECTS thesis."
+}

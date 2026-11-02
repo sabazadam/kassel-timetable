@@ -1,0 +1,58 @@
+{
+  "slug": "bsc-soziale-arbeit",
+  "po": "Bachelor Soziale Arbeit (2019)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=5825&token=4e2bc1c52893df19bed14021e2032d29362aa0b2"
+  ],
+  "categories": [
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "note": "6, 9 or 12 ECTS depending on the chosen options of modules 6.2 and 7.2"
+    },
+    {
+      "id": "modul-6-2",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Empirische Zugänge zu Praxisfeldern der Sozialen Arbeit II: Option Anwendung & Kritik"
+        },
+        {
+          "type": "module",
+          "id": "Empirische Zugänge zu Praxisfeldern der Sozialen Arbeit II: Option Forschung"
+        }
+      ],
+      "name": "Module 6.2 (research or application option)",
+      "nameDe": "Modul 6.2a oder 6.2b",
+      "short": "Modul 6.2",
+      "note": "Option Forschung (12 ECTS) or Option Anwendung & Kritik (9 ECTS)"
+    },
+    {
+      "id": "modul-7-2",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Professionalität, Handlungskonzepte und -methoden der Sozialen Arbeit II: Vertiefung der Grundlagen"
+        },
+        {
+          "type": "module",
+          "id": "Professionalität, Handlungskonzepte und -methoden der Sozialen Arbeit II: Theorie-Praxis-Projektstudium"
+        }
+      ],
+      "name": "Module 7.2 (advanced basics or theory-practice project)",
+      "nameDe": "Modul 7.2a oder 7.2b",
+      "short": "Modul 7.2",
+      "note": "Vertiefung der Grundlagen (12 ECTS) or Theorie-Praxis-Projektstudium (15 ECTS)"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO 2018 section 7: all modules are compulsory except two either/or choices: module 6.2 'Option Forschung' (12 ECTS) or 'Option Anwendung & Kritik' (9 ECTS), and module 7.2 'Vertiefung der Grundlagen' (12 ECTS) or 'Theorie-Praxis-Projektstudium' (15 ECTS). The key competencies requirement is 6 ECTS (6.2a + 7.2b), 9 ECTS (one of them) or 12 ECTS (6.2b + 7.2a)."
+}

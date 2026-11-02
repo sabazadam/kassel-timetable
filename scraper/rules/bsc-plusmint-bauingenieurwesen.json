@@ -1,0 +1,69 @@
+{
+  "summary": "The specialization oneOf now lists only modules the PO actually allows, and each elective states the PO credit total so the app can cap it at this semester's offering.",
+  "categories": [
+    {
+      "id": "Ergänzung Grundlagen",
+      "group": "area",
+      "name": "Supplementary foundations",
+      "nameDe": "Ergänzung Grundlagen",
+      "short": "Suppl. found.",
+      "count": 1,
+      "ects": 6,
+      "note": "Wahlpflichtmodul Ergänzung Grundlagen totaling 6 ECTS (Bauingenieurwesen PO 2014 as amended in 2020, section 7). Grundlagen Bauwirtschaft und Baubetrieb II counts only here, not toward a specialization."
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 15,
+      "note": "15 ECTS of additive key competencies (Bauingenieurwesen PO 2014 as amended in 2020, section 9)."
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "module",
+          "id": "Steuerung der Projektabwicklung und Privates Baurecht"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Konstruktiver Ingenieurbau"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Straßenbau"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Wasser"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Werkstoffe"
+        }
+      ],
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (SP I bis SP III)",
+      "short": "Specialization",
+      "note": "One specialization, with its three modules SP I to SP III totaling 18 ECTS (PO 2014 as amended in 2020, section 7). Only one valid module is offered in each open specialization this semester; Numerische Methoden der Tragwerksanalyse cannot be chosen because none of its three prescribed modules is offered."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-plusmint-bauingenieurwesen",
+  "po": "Bachelor plusMINT Bauingenieurwesen (2019)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=10648&token=eb9a75fefec8172659bdfaf1d24e002460a9f9f6",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=4498&token=f0c92db3a593de1bfc8c974e76412eb13fdadffe",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8860&token=01b3ba522092b19a544872372e9999cb422b9205"
+  ]
+}

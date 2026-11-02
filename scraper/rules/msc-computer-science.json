@@ -1,0 +1,143 @@
+{
+  "slug": "msc-computer-science",
+  "po": "Master Computer Science (PO-2026)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=29847&token=9f5d5f51fae17af9b659e84179dc7d41f5d2a4dc",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=31545&token=226b230d2d95b681c5b9ff7e60a20f2a54ce1231",
+    "https://moduldatenbank.uni-kassel.de/showListAreas.php?id=120"
+  ],
+  "summary": "PO 2026 section 8: 120 credits in English. One 6-credit module each from practical, technical and theoretical computer science and from mathematics/electrical engineering, one more 6-credit module from any of these four, an 8-credit project, a 4-credit seminar, a 48-credit specialisation (a predefined one from the module handbook or a free one agreed with a mentor) and the 30-credit thesis. At least one module in areas 1 to 4 and the specialisation must have an oral exam.",
+  "pickOne": [
+    "Projekt",
+    "Seminar"
+  ],
+  "categories": [
+    {
+      "id": "Wahlpflicht Praktische Informatik",
+      "group": "area",
+      "name": "Practical Computer Science",
+      "nameDe": "Wahlpflicht Praktische Informatik",
+      "short": "Practical CS",
+      "count": 1,
+      "note": "Area 1: one module, 6 credits."
+    },
+    {
+      "id": "Wahlpflicht Technische Informatik",
+      "group": "area",
+      "name": "Technical Computer Science",
+      "nameDe": "Wahlpflicht Technische Informatik",
+      "short": "Technical CS",
+      "count": 1,
+      "note": "Area 2: one module, 6 credits."
+    },
+    {
+      "id": "Wahlpflicht Theoretische Informatik",
+      "group": "area",
+      "name": "Theoretical Computer Science",
+      "nameDe": "Wahlpflicht Theoretische Informatik",
+      "short": "Theoretical CS",
+      "count": 1,
+      "note": "Area 3: one module, 6 credits."
+    },
+    {
+      "id": "Wahlpflicht Mathematik/Elektrotechnik",
+      "group": "area",
+      "name": "Mathematics/Electrical Engineering",
+      "nameDe": "Wahlpflicht Mathematik/Elektrotechnik",
+      "short": "Math/EE",
+      "count": 1,
+      "note": "Area 4: 6 credits. Some modules here have 4 credits, so one of them alone is not enough.",
+      "ects": 6
+    },
+    {
+      "id": "electives-total",
+      "group": "anyOf",
+      "name": "Electives in areas 1 to 5",
+      "nameDe": "Wahlpflichtbereiche 1 bis 5",
+      "short": "Electives total",
+      "count": 5,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflicht Praktische Informatik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Technische Informatik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Theoretische Informatik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Mathematik/Elektrotechnik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Praktische Informatik, Technische Informatik, Theoretische Informatik oder Mathematik/Elektrotechnik"
+        }
+      ],
+      "note": "Areas 1 to 5 together: five modules, 30 credits. Area 5 is one more module from any of areas 1 to 4.",
+      "ects": 30
+    },
+    {
+      "id": "Projektarbeit",
+      "group": "area",
+      "name": "Project",
+      "nameDe": "Projektarbeit",
+      "short": "Project",
+      "count": 1,
+      "note": "Area 6: one project, 8 credits."
+    },
+    {
+      "id": "Seminar",
+      "group": "area",
+      "name": "Seminar",
+      "nameDe": "Seminar",
+      "short": "Seminar",
+      "count": 1,
+      "note": "Area 7: one seminar, 4 credits."
+    },
+    {
+      "id": "specialisation",
+      "group": "oneOf",
+      "name": "Specialisation",
+      "nameDe": "Schwerpunkt",
+      "short": "Specialisation",
+      "count": 1,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Computational Intelligence & Data Analytics (CIDA)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Informatik für die digitale Gesellschaft (IDG)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Softwareentwicklung (SW)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umweltinformatik (UW)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Energieinfomatik (EInf)"
+        },
+        {
+          "type": "area",
+          "id": "Freier Schwerpunkt"
+        }
+      ],
+      "note": "Area 8: 48 credits over the whole degree in one specialisation, a predefined one or a free one agreed with a mentor.",
+      "ects": 48,
+      "exclude": [
+        "Projekt",
+        "Seminar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3579 @@
+{
+ "generatedAt": "2026-10-21T14:50:13.065Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt an Gymnasien Musik (2023)",
+ "programEn": "Teacher Training Gymnasium: Music (2023)",
+ "slug": "la-gym-musik",
+ "degree": "lehramt",
+ "themes": [
+  {
+   "id": "classroom-music",
+   "modules": [
+    "m25632",
+    "m25676",
+    "m25644",
+    "m25705"
+   ],
+   "text": {
+    "tr": [
+     "Sınıfta Müzik Yapma",
+     "Öğrenciler, müzik sınıfları için düzenleme yazmayı ve sınıftaki toplu çalmayı prova ederek yönetmeyi öğrenir."
+    ],
+    "en": [
+     "Classroom Music Making",
+     "Students learn to arrange music for school classes and to lead class ensembles in rehearsal."
+    ],
+    "de": [
+     "Musizieren in Klassen",
+     "Studierende lernen, Arrangements für Musikklassen zu erstellen und Ensembles im Klassenmusizieren zu proben."
+    ]
+   }
+  },
+  {
+   "id": "world-musics",
+   "modules": [
+    "m25645",
+    "m25676",
+    "m25644"
+   ],
+   "text": {
+    "tr": [
+     "Dünya Müzikleri",
+     "Öğrenciler, dünya müziklerini karma topluluklar için düzenlemeyi ve provayı üsluba uygun yönetmeyi öğrenir."
+    ],
+    "en": [
+     "Musics of the World",
+     "Students learn to arrange musics of the world for mixed ensembles and to lead rehearsals in a fitting style."
+    ],
+    "de": [
+     "Musiken der Welt",
+     "Studierende lernen, Musiken der Welt für heterogene Ensembles zu arrangieren und die Proben stilgerecht zu leiten."
+    ]
+   }
+  },
+  {
+   "id": "choir-orchestra",
+   "modules": [
+    "m25703",
+    "m25661",
+    "m25691",
+    "m25644"
+   ],
+   "text": {
+    "tr": [
+     "Koro ve Orkestra",
+     "Öğrenciler, koro ve orkestra şefliğini, ses eğitimini ve topluluk provasını öğrenir."
+    ],
+    "en": [
+     "Choir and Orchestra",
+     "Students learn choir and orchestra conducting, voice building, and how to rehearse an ensemble."
+    ],
+    "de": [
+     "Chor und Orchester",
+     "Studierende lernen Chorleitung, Orchesterleitung, Stimmbildung und das Proben eines Ensembles."
+    ]
+   }
+  },
+  {
+   "id": "band-songwriting",
+   "modules": [
+    "m25678",
+    "m25661",
+    "m25676"
+   ],
+   "text": {
+    "tr": [
+     "Grup ve Şarkı Yazma",
+     "Öğrenciler, popüler müzik kuramını, şarkı yazmayı ve bir grubu prova etmeyi öğrenir."
+    ],
+    "en": [
+     "Band and Songwriting",
+     "Students learn popular music theory, songwriting, and how to coach a band."
+    ],
+    "de": [
+     "Band und Songwriting",
+     "Studierende lernen Popularmusiktheorie, Songwriting und das Anleiten einer Band."
+    ]
+   }
+  },
+  {
+   "id": "scenic-media-projects",
+   "modules": [
+    "m25658",
+    "m25703",
+    "m25678",
+    "m25680"
+   ],
+   "text": {
+    "tr": [
+     "Sahne ve Medya Projeleri",
+     "Öğrenciler, müzikli bir sahne ya da medya projesini tasarlamayı ve toplulukla sahneye hazırlamayı öğrenir."
+    ],
+    "en": [
+     "Scenic and Media Projects",
+     "Students learn to plan a scenic or media music project and to prepare the ensemble performance."
+    ],
+    "de": [
+     "Szenische und mediale Projekte",
+     "Studierende lernen, ein szenisches oder mediales Musikprojekt zu planen und die Ensembleaufführung vorzubereiten."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "Modul 1A/1B",
+   "group": "oneOf",
+   "name": "Artistic Practice 1 (1A or 1B)",
+   "nameDe": "Künstlerische Praxis 1 (Modul 1A oder 1B)",
+   "short": "KP 1",
+   "count": 1,
+   "ects": 10,
+   "note": "One 10-ECTS module. Choosing 1A locks Modul 6A; choosing 1B locks Modul 6B.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 1a Künstlerische Praxis 1 (mit künstlerischer Ergänzung)"
+    },
+    {
+     "type": "module",
+     "id": "Modul 1b (mit Wahlangebot)"
+    }
+   ],
+   "nameTr": "Künstlerische Praxis 1 (1A veya 1B)",
+   "noteTr": "10 ECTS'lik bir modül. 1A seçilirse Modul 6A sabitlenir; 1B seçilirse Modul 6B sabitlenir.",
+   "noteDe": "Ein Modul mit 10 ECTS. Die Wahl von 1A legt Modul 6A fest; die Wahl von 1B legt Modul 6B fest."
+  },
+  {
+   "id": "Modul 6A/6B",
+   "group": "oneOf",
+   "name": "Artistic Practice 2 (6A or 6B)",
+   "nameDe": "Künstlerische Praxis 2 (Modul 6A oder 6B)",
+   "short": "KP 2",
+   "count": 1,
+   "ects": 10,
+   "note": "One 10-ECTS module. 6A only after 1A; 6B only after 1B.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 6a Künstlerische Praxis 2 (Folgemodul 1a)"
+    },
+    {
+     "type": "module",
+     "id": "Modul 6b Künstlerische Praxis 2 (Folgemodul 1b)"
+    }
+   ],
+   "nameTr": "Künstlerische Praxis 2 (6A veya 6B)",
+   "noteTr": "10 ECTS'lik bir modül. 6A yalnızca 1A'dan sonra, 6B yalnızca 1B'den sonra.",
+   "noteDe": "Ein Modul mit 10 ECTS. 6A nur nach 1A; 6B nur nach 1B."
+  },
+  {
+   "id": "Modul 9A/9B/9C",
+   "group": "oneOf",
+   "name": "Artistic Practice 3 (9A, 9B or 9C)",
+   "nameDe": "Künstlerische Praxis 3 (Modul 9A, 9B oder 9C)",
+   "short": "KP 3",
+   "count": 1,
+   "ects": 10,
+   "note": "One 10-ECTS module, after 6A or 6B.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 9a Künstlerische Praxis 3"
+    },
+    {
+     "type": "module",
+     "id": "Modul 9b Künstlerische Praxis 3"
+    },
+    {
+     "type": "module",
+     "id": "Modul 9c Künstlerische Praxis 3"
+    }
+   ],
+   "nameTr": "Künstlerische Praxis 3 (9A, 9B veya 9C)",
+   "noteTr": "6A veya 6B'den sonra alınan 10 ECTS'lik bir modül.",
+   "noteDe": "Ein Modul mit 10 ECTS, nach 6A oder 6B."
+  },
+  {
+   "id": "Modul 11 Praxemble",
+   "group": "area",
+   "name": "Praxemble (school music or world music)",
+   "nameDe": "Praxemble (Schulmusiken oder Musiken der Welt, Modul 11A/11B)",
+   "short": "Praxemble",
+   "count": 1,
+   "ects": 5,
+   "note": "One 5-ECTS module: 11A (school music) or 11B (world music).",
+   "nameTr": "Praxemble (okul müziği veya dünya müziği)",
+   "noteTr": "5 ECTS'lik bir modül: 11A (okul müziği) veya 11B (dünya müziği).",
+   "noteDe": "Ein Modul mit 5 ECTS: 11A (Schulmusik) oder 11B (Weltmusik)."
+  }
+ ],
+ "rulesSummary": {
+  "en": "Modulprüfungsordnung Musik L3 of 30.01.2023: required electives are one of Modul 1A/1B (10 ECTS; 1A continues only as 6A, 1B only as 6B), one of Modul 6A/6B (10 ECTS), one of Modul 9A/9B/9C (10 ECTS), and one Praxemble module 11A or 11B (5 ECTS). Choices inside a module (instrument, ensemble, course options) are not encoded. Modul 13 is compulsory (in-module instrument choice only). The § 4 (3) choice between modules 10 and 14, and between 11 and 16, selects which grade enters the state exam; both modules in each pair are still taken.",
+  "tr": "30.01.2023 tarihli Modulprüfungsordnung Musik L3: alınması gereken seçmeliler, Modul 1A/1B'den biri (10 ECTS; 1A yalnızca 6A, 1B yalnızca 6B olarak sürer), Modul 6A/6B'den biri (10 ECTS), Modul 9A/9B/9C'den biri (10 ECTS) ve bir Praxemble modülü olan 11A veya 11B'dir (5 ECTS). Modül içindeki seçimler (çalgı, topluluk, ders seçenekleri) kodlanmamıştır. Modul 13 zorunludur (yalnızca modül içi çalgı seçimi). § 4 (3) uyarınca 10 ile 14 ve 11 ile 16 arasındaki seçim, devlet sınavına hangi notun gireceğini belirler; her çiftteki iki modül de yine alınır.",
+  "de": "Modulprüfungsordnung Musik L3 vom 30.01.2023: Als Wahlpflicht zu belegen sind eines der Module 1A/1B (10 ECTS; 1A wird nur als 6A fortgesetzt, 1B nur als 6B), eines der Module 6A/6B (10 ECTS), eines der Module 9A/9B/9C (10 ECTS) und ein Praxemble-Modul 11A oder 11B (5 ECTS). Wahlmöglichkeiten innerhalb eines Moduls (Instrument, Ensemble, Veranstaltungsoptionen) sind nicht hinterlegt. Modul 13 ist Pflicht (nur die Instrumentenwahl im Modul). Die Wahl nach § 4 (3) zwischen den Modulen 10 und 14 sowie zwischen 11 und 16 bestimmt, welche Note in die Staatsprüfung eingeht; beide Module jedes Paares werden dennoch belegt."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20559&token=a553a12a3d1722532875ddced1a4b7947e3a8a62"
+ ],
+ "sections": [
+  {
+   "id": "Modul 11 Praxemble",
+   "name": "Module 11 Praxemble",
+   "nameDe": "Modul 11 Praxemble"
+  },
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Tutorin: Emily Bialluch": {
+   "en": "Tutor: Emily Bialluch",
+   "tr": "Tutor: Emily Bialluch"
+  },
+  "Tutor: Felix Müller": {
+   "en": "Tutor: Felix Müller",
+   "tr": "Tutor: Felix Müller"
+  },
+  "Der Kurs wird Kompakt Ende 2026/Anfang 2027 stattfinden. Der Termin wird noch bekanntgegeben": {
+   "en": "The course will take place in compact form at the end of 2026/beginning of 2027. The date will be announced.",
+   "tr": "Kurs, 2026 sonunda/2027 başında kompakt biçimde yapılacaktır. Tarih daha sonra duyurulacaktır."
+  },
+  "Blockseminar am Semesterende.": {
+   "en": "Block seminar at the end of the semester.",
+   "tr": "Dönem sonunda blok seminer."
+  },
+  "Das Seminar findet in R. 0012 statt": {
+   "en": "The seminar takes place in room 0012.",
+   "tr": "Seminer 0012 numaralı odada yapılmaktadır."
+  },
+  "Das Seminar findet im BIOTOP ZACK – Raum für Kunst und Dialog in der Rothenditmolder Straße 21, 34117 Kassel statt.": {
+   "en": "The seminar takes place at BIOTOP ZACK – Space for Art and Dialogue, Rothenditmolder Straße 21, 34117 Kassel.",
+   "tr": "Seminer, BIOTOP ZACK – Sanat ve Diyalog Mekânı'nda, Rothenditmolder Straße 21, 34117 Kassel adresinde gerçekleşir."
+  },
+  "Am 25.11.2026 findet im Rahmen der Demokratietage ganztägig eine Ausstellung im Gießhaus statt.": {
+   "en": "On 25.11.2026, an all-day exhibition takes place in the Gießhaus as part of the Democracy Days.",
+   "tr": "25.11.2026 tarihinde Demokrasi Günleri kapsamında Gießhaus'ta tüm gün süren bir sergi gerçekleşir."
+  },
+  "Das Seminar findet im Gießhaus (Mönchebergtsraße 5) statt.": {
+   "en": "The seminar takes place in the Gießhaus (Mönchebergtsraße 5).",
+   "tr": "Seminer Gießhaus'ta (Mönchebergtsraße 5) gerçekleşir."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General",
+  "Modul 11 Praxemble": "Module 11 Praxemble"
+ },
+ "modules": [
+  {
+   "id": "t:Künstlerische Praxis",
+   "title": "Künstlerische Praxis",
+   "titleEn": "Artistic Practice",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "63353"
+   ]
+  },
+  {
+   "id": "t:Mikrofontechnik für Sänger:innen",
+   "title": "Mikrofontechnik für Sänger:innen",
+   "titleEn": "Microphone Technique for Singers",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "56450"
+   ]
+  },
+  {
+   "id": "m25703",
+   "title": "Modul 10 Ensemblepraxis 1",
+   "titleEn": "Module 10 Ensemble Practice 1",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57062",
+    "71954",
+    "57534",
+    "57531",
+    "57097",
+    "59336",
+    "56618"
+   ]
+  },
+  {
+   "id": "m25632",
+   "title": "Modul 11a Praxemble (Schulmusiken)",
+   "titleEn": "Module 11a Praxemble (School Musics)",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Modul 11 Praxemble"
+   ],
+   "categories": [
+    "Modul 11 Praxemble"
+   ],
+   "section": "Modul 11 Praxemble",
+   "pickOne": false,
+   "courseIds": [
+    "69966"
+   ]
+  },
+  {
+   "id": "m25645",
+   "title": "Modul 11b Praxemble (Musiken der Welt)",
+   "titleEn": "Module 11b Praxemble (Musics of the World)",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Modul 11 Praxemble"
+   ],
+   "categories": [
+    "Modul 11 Praxemble"
+   ],
+   "section": "Modul 11 Praxemble",
+   "pickOne": false,
+   "courseIds": [
+    "57380"
+   ]
+  },
+  {
+   "id": "m25705",
+   "title": "Modul 12 Praxissemester",
+   "titleEn": "Module 12 Practical Semester",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "56686"
+    ]
+   },
+   "courseIds": [
+    "56686",
+    "70243",
+    "70241"
+   ]
+  },
+  {
+   "id": "m25680",
+   "title": "Modul 13 Künstlerische Praxis 4",
+   "titleEn": "Module 13 Artistic Practice 4",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57113",
+    "57114",
+    "57112"
+   ]
+  },
+  {
+   "id": "m25678",
+   "title": "Modul 14 Ensemblepraxis 2",
+   "titleEn": "Module 14 Ensemble Practice 2",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57533",
+    "74273"
+   ]
+  },
+  {
+   "id": "m25714",
+   "title": "Modul 15 Wissenschaftliches Schwerpunktmodul",
+   "titleEn": "Module 15 Academic Specialization Module",
+   "code": null,
+   "ects": 11,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "74140",
+    "71809",
+    "74255",
+    "74256",
+    "57537",
+    "57380",
+    "70245"
+   ]
+  },
+  {
+   "id": "m25658",
+   "title": "Modul 16 Musikalisch-szenische Projektarbeit",
+   "titleEn": "Module 16 Musical-Scenic Project Work",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "56647"
+   ]
+  },
+  {
+   "id": "m25623",
+   "title": "Modul 1a Künstlerische Praxis 1 (mit künstlerischer Ergänzung)",
+   "titleEn": "Module 1a Artistic Practice 1 (with Artistic Supplement)",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "Modul 1A/1B"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57113",
+    "57114",
+    "57112"
+   ]
+  },
+  {
+   "id": "m25638",
+   "title": "Modul 1b (mit Wahlangebot)",
+   "titleEn": "Module 1b (with Elective Offering)",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "Modul 1A/1B"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57113",
+    "57114",
+    "56449",
+    "56535",
+    "56233",
+    "56130",
+    "56231",
+    "59345",
+    "70482"
+   ]
+  },
+  {
+   "id": "m25676",
+   "title": "Modul 2 Gruppenmusizieren 1",
+   "titleEn": "Module 2 Group Music-Making 1",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "56501",
+     "57002"
+    ]
+   },
+   "courseIds": [
+    "56501",
+    "70482",
+    "57097",
+    "56233",
+    "56130",
+    "56231",
+    "57002"
+   ]
+  },
+  {
+   "id": "m25691",
+   "title": "Modul 3 Musiktheorie und Gehörbildung 1",
+   "titleEn": "Module 3 Music Theory and Ear Training 1",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "70491"
+    ]
+   },
+   "courseIds": [
+    "70491",
+    "75291",
+    "57532"
+   ]
+  },
+  {
+   "id": "m25681",
+   "title": "Modul 4 Musikwissenschaft Basismodul",
+   "titleEn": "Module 4 Musicology Basic Module",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "70235"
+    ]
+   },
+   "courseIds": [
+    "71809",
+    "74255",
+    "70235"
+   ]
+  },
+  {
+   "id": "m25666",
+   "title": "Modul 5 Musikpädagogik Basismodul",
+   "titleEn": "Module 5 Music Pedagogy Basic Module",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "74255"
+   ]
+  },
+  {
+   "id": "m25660",
+   "title": "Modul 6a Künstlerische Praxis 2 (Folgemodul 1a)",
+   "titleEn": "Module 6a Artistic Practice 2 (Follow-up Module 1a)",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "Modul 6A/6B"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57113",
+    "57114",
+    "57112"
+   ]
+  },
+  {
+   "id": "m25639",
+   "title": "Modul 6b Künstlerische Praxis 2 (Folgemodul 1b)",
+   "titleEn": "Module 6b Artistic Practice 2 (Follow-up Module 1b)",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "Modul 6A/6B"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "57113",
+    "57114",
+    "56449",
+    "56535",
+    "56233",
+    "56130",
+    "56231",
+    "59345",
+    "70482"
+   ]
+  },
+  {
+   "id": "m25644",
+   "title": "Modul 7 Gruppenmusizieren 2",
+   "titleEn": "Module 7 Group Music-Making 2",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 3,
+    "fixed": []
+   },
+   "courseIds": [
+    "57012",
+    "57099",
+    "69890",
+    "57534",
+    "57531",
+    "70077"
+   ]
+  },
+  {
+   "id": "m25661",
+   "title": "Modul 8 Musiktheorie 2",
+   "titleEn": "Module 8 Music Theory 2",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70077"
+   ]
+  },
+  {
+   "id": "m25724",
+   "title": "Modul 9a Künstlerische Praxis 3",
+   "titleEn": "Module 9a Artistic Practice 3",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "Modul 9A/9B/9C"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57113",
+    "57114",
+    "56445"
+   ]
+  },
+  {
+   "id": "m25726",
+   "title": "Modul 9b Künstlerische Praxis 3",
+   "titleEn": "Module 9b Artistic Practice 3",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "Modul 9A/9B/9C"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57113",
+    "57112",
+    "56445"
+   ]
+  },
+  {
+   "id": "m25704",
+   "title": "Modul 9c Künstlerische Praxis 3",
+   "titleEn": "Module 9c Artistic Practice 3",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "Modul 9A/9B/9C"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57114",
+    "57112",
+    "56445"
+   ]
+  },
+  {
+   "id": "t:Musik, Bild, Text und Bewegung: Unterhaltung mit Erik Satie",
+   "title": "Musik, Bild, Text und Bewegung: Unterhaltung mit Erik Satie",
+   "titleEn": "Music, Image, Text, and Movement: Conversation with Erik Satie",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "57125"
+   ]
+  },
+  {
+   "id": "t:Vorkurs Musiktheorie und Gehörbildung",
+   "title": "Vorkurs Musiktheorie und Gehörbildung",
+   "titleEn": "Preparatory Course in Music Theory and Ear Training",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "70364"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "57113",
+   "title": "Fachpraktische Prüfung: Gesang",
+   "number": "Musik-EH2",
+   "type": "Prüfung",
+   "language": null,
+   "responsible": "Eva Herzig",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57113&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Practical Subject Examination: Singing",
+   "typeEn": "Examination"
+  },
+  {
+   "id": "57114",
+   "title": "Fachpraktische Prüfung: Klavier/Orgel; SchuPra Klavier/Gitarre",
+   "number": "Musik-UV1",
+   "type": "Prüfung",
+   "language": null,
+   "responsible": "Uwe Volkmer",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57114&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Practical Subject Examination: Piano/Organ; SchuPra Piano/Guitar",
+   "typeEn": "Examination"
+  },
+  {
+   "id": "57112",
+   "title": "Fachpraktische Prüfung: Diverse Instrumente, außer Klavier/Orgel",
+   "number": "Musik-WR1",
+   "type": "Prüfung",
+   "language": null,
+   "responsible": "Prof. Wieland Reißmann",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57112&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Practical Subject Examination: Various Instruments, except Piano/Organ",
+   "typeEn": "Examination"
+  },
+  {
+   "id": "56449",
+   "title": "Gruppenunterricht Gitarre für Anfänger",
+   "number": "Musik-CC1",
+   "type": "Kleingruppenunterricht",
+   "language": null,
+   "responsible": "Christian Christe",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1011 Schlagzeugraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56449&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Group Guitar Instruction for Beginners",
+   "typeEn": "Small-Group Instruction"
+  },
+  {
+   "id": "56535",
+   "title": "Workshop Performance/Szenische Arbeit",
+   "number": "Musik-EH1",
+   "type": "Workshop",
+   "language": null,
+   "responsible": "Eva Herzig",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56535&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "6462",
+    "key": false
+   },
+   "titleEn": "Workshop Performance/Scenic Work",
+   "typeEn": "Workshop"
+  },
+  {
+   "id": "56233",
+   "title": "Kammerorchester \"in progress\"",
+   "number": "Musik-AK3",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Andreas Klippert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "20:00",
+       "end": "22:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-04",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56233&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Chamber Orchestra \"in progress\"",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "56130",
+   "title": "Bigband",
+   "number": "Musik-DL1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Detlef Landeck",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "19:00",
+       "end": "22:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Detlef Landeck"
+       ],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56130&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Big Band",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "56231",
+   "title": "Uni-Orchester",
+   "number": "Musik-MS1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Malte Steinsiek",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "19:00",
+       "end": "22:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Malte Steinsiek"
+       ],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56231&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "University Orchestra",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "59345",
+   "title": "Solmisation",
+   "number": "Musik-KN3",
+   "type": "Kleingruppenunterricht",
+   "language": null,
+   "responsible": "Kaja Nieland",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59345&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24457",
+    "key": true
+   },
+   "titleEn": "Solmization",
+   "typeEn": "Small-Group Instruction"
+  },
+  {
+   "id": "70482",
+   "title": "Circle Singing",
+   "number": "Musik-TS1",
+   "type": "Kleingruppenunterricht",
+   "language": null,
+   "responsible": "Thorsten Seydler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-04",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70482&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Circle Singing",
+   "typeEn": "Small-Group Instruction"
+  },
+  {
+   "id": "56501",
+   "title": "Musik und Bewegung",
+   "number": "Musik-LR1",
+   "type": "Kleingruppenunterricht",
+   "language": null,
+   "responsible": "Lynn Raav",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:30",
+       "end": "18:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 7,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-25",
+       "endDate": "2026-10-25",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:30",
+       "end": "18:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2026-10-31",
+       "endDate": "2026-10-31",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56501&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Music and Movement",
+   "typeEn": "Small-Group Instruction"
+  },
+  {
+   "id": "57097",
+   "title": "Cantiamo Kassel der Chor der Universität Kassel",
+   "number": "Musik-AC6",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Johanna Schluckwerder",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Johanna Schluckwerder"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57097&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Cantiamo Kassel, the Choir of the University of Kassel",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57002",
+   "title": "Dirigieren Basiskurs",
+   "number": "Musik-AC1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Thorsten Seydler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-02",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Thorsten Seydler"
+       ],
+       "room": "Raum 3008 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57002&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "14376",
+    "key": false
+   },
+   "titleEn": "Conducting Basic Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70491",
+   "title": "Tonsatz und Gehörbildung 1 für L3",
+   "number": "Musik-KN8",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Kaja Nieland",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70491&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Harmony and Aural Training 1 for L3",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "75291",
+   "title": "Tutorium Tonsatz und Gehörbildung",
+   "number": "Musik-Tut",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Regina Werbick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "17:00",
+       "end": "18:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Tutorin: Emily Bialluch",
+       "instructors": [],
+       "room": "Raum 3008 (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Tutor: Felix Müller",
+       "instructors": [],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75291&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Tutorial in Harmony and Ear Training",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "57532",
+   "title": "Akustik und Medientechnik",
+   "number": "Musik-RB2",
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Roman Beilharz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Roman Beilharz"
+       ],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1015 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57532&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23796",
+    "key": true
+   },
+   "titleEn": "Acoustics and Media Technology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71809",
+   "title": "Wie funktioniert Forschung in der systematischen Musikwissenschaft?",
+   "number": "Musik-PA4",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Paolina Aquilino",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71809&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23187",
+    "key": true
+   },
+   "titleEn": "How Does Research in Systematic Musicology Work?",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74255",
+   "title": "Weihnachtssingen in Fußballstadien",
+   "number": "Musik-JH2",
+   "type": "Forschungsseminar",
+   "language": null,
+   "responsible": "Prof. Dr. Jan Hemming",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jan Hemming"
+       ],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74255&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24612",
+    "key": false
+   },
+   "titleEn": "Christmas Singing in Football Stadiums",
+   "typeEn": "Research Seminar"
+  },
+  {
+   "id": "70235",
+   "title": "Musikgeschichte I",
+   "number": "FB01.Musik.CK2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Carolin Krahn",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70235&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24797",
+    "key": false
+   },
+   "titleEn": "Music History I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57012",
+   "title": "Chorleitung 1",
+   "number": "Musik-AC3",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Johanna Schluckwerder",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Johanna Schluckwerder"
+       ],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57012&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2477",
+    "key": false
+   },
+   "titleEn": "Choral Conducting 1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57099",
+   "title": "Chorleitung 2",
+   "number": "Musik-AC7",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Johanna Schluckwerder",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Der Kurs wird Kompakt Ende 2026/Anfang 2027 stattfinden. Der Termin wird noch bekanntgegeben",
+       "instructors": [
+        "Johanna Schluckwerder"
+       ],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57099&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "3592",
+    "key": false
+   },
+   "titleEn": "Choral Conducting 2",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69890",
+   "title": "Perkussion 2",
+   "number": "Musik-OP4",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Olaf Pyras",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69890&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Percussion 2",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "57534",
+   "title": "Band-Circle",
+   "number": "Musik-RB4",
+   "type": "Übung",
+   "language": "deutsch/englisch",
+   "responsible": "Roman Beilharz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1011 Schlagzeugraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57534&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Band-Circle",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57531",
+   "title": "Bandarbeit",
+   "number": "Musik-RB1",
+   "type": "Übung",
+   "language": "deutsch/englisch",
+   "responsible": "Roman Beilharz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1011 Schlagzeugraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57531&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Band Work",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70077",
+   "title": "Tonsatz und Gehörbildung 3",
+   "number": "Musik-RW1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Regina Werbick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70077&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24933",
+    "key": false
+   },
+   "titleEn": "Harmony and Aural Training 3",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56445",
+   "title": "Sprecherziehung",
+   "number": "Musik-HS1",
+   "type": "Kleingruppenunterricht",
+   "language": null,
+   "responsible": "Heidrun Schmitt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-12-09",
+       "cancelled": [
+        "2026-11-18"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-12-09",
+       "cancelled": [
+        "2026-11-18"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "11:00",
+       "end": "18:15",
+       "startDate": "2026-11-21",
+       "endDate": "2026-11-21",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "11:00",
+       "end": "18:15",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56445&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Speech Training",
+   "typeEn": "Small-Group Instruction"
+  },
+  {
+   "id": "57062",
+   "title": "Chorleitung 3",
+   "number": "Musik-AC5",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Johanna Schluckwerder",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Blockseminar am Semesterende.",
+       "instructors": [
+        "Johanna Schluckwerder"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57062&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2476",
+    "key": false
+   },
+   "titleEn": "Choral Conducting 3",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71954",
+   "title": "Ensembleleitung/Orchesterleitung II",
+   "number": "Musik-TS3",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Thorsten Seydler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-02",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Thorsten Seydler"
+       ],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71954&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Ensemble Conducting/Orchestra Conducting II",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "59336",
+   "title": "SchlagzeugEnsemble",
+   "number": "Musik-OP3",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Olaf Pyras",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-04",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59336&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Percussion Ensemble",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "56618",
+   "title": "Getting together - Ensemblearbeit mit Gesang",
+   "number": "Musik-MF1",
+   "type": "Workshop",
+   "language": "deutsch",
+   "responsible": "Mareke Freudenberg-Garen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-04",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56618&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Getting together - Ensemble Work with Voice",
+   "typeEn": "Workshop"
+  },
+  {
+   "id": "69966",
+   "title": "Praxemble - Anleitung von Musikklassen",
+   "number": "MWK PRAX2",
+   "type": "Praktische Übung",
+   "language": null,
+   "responsible": "Maria Weber-Krüger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-05",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2015/2016 Lernwerkstatt (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69966&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24982",
+    "key": false
+   },
+   "titleEn": "Praxemble - Instruction of Music Classes",
+   "typeEn": "Practical Exercise"
+  },
+  {
+   "id": "57380",
+   "title": "Musikdidaktische Konzeptionen",
+   "number": "Musik-LV1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.Ed. Laetitia Vögtler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2027-01-13",
+       "endDate": "2027-01-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3008 (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2027-01-20",
+       "endDate": "2027-01-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3008 (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2027-01-27",
+       "endDate": "2027-01-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3008 (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2027-02-03",
+       "endDate": "2027-02-03",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3008 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57380&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "22748",
+    "key": true
+   },
+   "titleEn": "Conceptions of Music Didactics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57533",
+   "title": "Medienpraxis",
+   "number": "Musik-RB3",
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Roman Beilharz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1015 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57533&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Media Practice",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74273",
+   "title": "Lead-Sheets schreiben",
+   "number": "Musik-RB5",
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Roman Beilharz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1015 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74273&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Writing Lead-Sheets",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74140",
+   "title": "Oper in Europa – seit 400 Jahren antiquiert?",
+   "number": "FB01.Musik.LK1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "M.A. Leonie Charlotte Krempien",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "M.A. Leonie Charlotte Krempien"
+       ],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74140&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Opera in Europe – Antiquated for 400 Years?",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74256",
+   "title": "Strukturen und Institutionen der Musikwirtschaft",
+   "number": "Musik-JH3",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Jan Hemming",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jan Hemming"
+       ],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74256&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24611",
+    "key": false
+   },
+   "titleEn": "Structures and Institutions of the Music Industry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57537",
+   "title": "Grundfragen musikalisch-ästhetischer Bildung",
+   "number": "Musik-SD1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Susanne Dreßler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Das Seminar findet in R. 0012 statt",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57537&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fundamental Questions of Musical-Aesthetic Education",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70245",
+   "title": "Musik und Ethik - Texte der Musikpädagogik zu Gerechtigkeit und Teilhabe zur Planung eines Workshops",
+   "number": "Musik-SD4",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Susanne Dreßler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70245&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Music and Ethics - Music Pedagogy Texts on Justice and Participation for Planning a Workshop",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56647",
+   "title": "Musikalisch-Szenische Projektarbeit I",
+   "number": "Musik-LM1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Luisa Mell",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-04",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Luisa Mell"
+       ],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56647&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Musical-Scenic Project Work I",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56686",
+   "title": "Schulpraktische Studien 2 Musik/Praxissemester Musik",
+   "number": "Musik-WeKr1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Maria Weber-Krüger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-05",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2015/2016 Lernwerkstatt (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56686&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24981",
+    "key": false
+   },
+   "titleEn": "School Practical Studies 2 Music/Practical Semester Music",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70243",
+   "title": "Das klingt kantig und kühl - Transformative Methoden im Musikunterricht",
+   "number": "Musik-SD2",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Susanne Dreßler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70243&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24674",
+    "key": true
+   },
+   "titleEn": "It Sounds Edgy and Cool - Transformative Methods in Music Teaching",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70241",
+   "title": "Musikpädagogisches Denken und Handeln",
+   "number": "Musik-SD3",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Susanne Dreßler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1012 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70241&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24675",
+    "key": true
+   },
+   "titleEn": "Music-Pedagogical Thinking and Action",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "63353",
+   "title": "Künstlerische Praxis",
+   "number": "ÄsthBildung-LSF1",
+   "type": "Projektseminar",
+   "language": "deutsch",
+   "responsible": "Liska Schwermer-Funke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa",
+       "day": null,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-21",
+       "cancelled": [],
+       "note": "Das Seminar findet im BIOTOP ZACK – Raum für Kunst und Dialog in der Rothenditmolder Straße 21, 34117 Kassel statt.",
+       "instructors": [
+        "Liska Schwermer-Funke"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2026-11-25",
+       "endDate": "2026-11-25",
+       "cancelled": [],
+       "note": "Am 25.11.2026 findet im Rahmen der Demokratietage ganztägig eine Ausstellung im Gießhaus statt.",
+       "instructors": [
+        "Liska Schwermer-Funke"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63353&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Artistic Practice",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "56450",
+   "title": "Mikrofontechnik für Sänger:innen",
+   "number": "Musik-NJ1",
+   "type": "Kleingruppenunterricht",
+   "language": null,
+   "responsible": "Nicole Jukic",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "15:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:30",
+       "end": "11:00",
+       "startDate": "2026-12-09",
+       "endDate": "2026-12-09",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:30",
+       "end": "11:45",
+       "startDate": "2027-01-20",
+       "endDate": "2027-01-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56450&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Microphone Technique for Singers",
+   "typeEn": "Small-Group Instruction"
+  },
+  {
+   "id": "57125",
+   "title": "Musik, Bild, Text und Bewegung: Unterhaltung mit Erik Satie",
+   "number": "ÄsthBildung-BW1",
+   "type": "Projektseminar",
+   "language": "deutsch",
+   "responsible": "Constanze Betzl, Christine Weghoff",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "kind": "Kurs A",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Constanze Betzl",
+        "Christine Weghoff"
+       ],
+       "room": "Raum -1017 Konzertsaal (Möncheberg 1)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "kind": "Kurs B",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-29",
+       "cancelled": [],
+       "note": "Das Seminar findet im Gießhaus (Mönchebergtsraße 5) statt.",
+       "instructors": [
+        "Constanze Betzl",
+        "Christine Weghoff"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57125&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Music, Image, Text, and Movement: Conversation with Erik Satie",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "70364",
+   "title": "Vorkurs Musiktheorie und Gehörbildung",
+   "number": "Musik-KN7",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Kaja Nieland",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70364&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Preparatory Course in Music Theory and Ear Training",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

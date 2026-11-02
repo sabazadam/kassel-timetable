@@ -1,0 +1,58 @@
+{
+  "summary": "PO of 13.07.2022, section 9: compulsory modules (Agriculture and ecosystem services, Food systems governance and agriculture, 12-ECTS interdisciplinary project), two bridging modules assigned at admission, nine 6-ECTS electives with at least 12 ECTS each from Agriculture and Ecology and from Socioeconomics-Humanities and Environment and at least 12 ECTS methodological (M) modules, and the 30-ECTS thesis.",
+  "categories": [
+    {
+      "id": "Wahlpflichtmodule > M1- Agriculture and Ecology",
+      "group": "area",
+      "name": "Electives: Agriculture and Ecology",
+      "nameDe": "Wahlpflichtbereich I: Agriculture and Ecology",
+      "short": "WP Agri/Ecology",
+      "count": 1,
+      "ects": 12,
+      "note": "At least 12 ECTS (two 6-ECTS modules) over the program"
+    },
+    {
+      "id": "Wahlpflichtmodule > M2-Society and Environment",
+      "group": "area",
+      "name": "Electives: Socioeconomics, Humanities and Environment",
+      "nameDe": "Wahlpflichtbereich: Socioeconomics-Humanities and Environment",
+      "short": "WP Society/Env.",
+      "count": 2,
+      "ects": 12,
+      "note": "At least 12 ECTS from Socioeconomics-Humanities and Environment (§9(8))."
+    },
+    {
+      "id": "methodological-modules",
+      "group": "anyOf",
+      "name": "Methodological modules",
+      "nameDe": "Methodische Module",
+      "short": "Methods (M)",
+      "count": 1,
+      "ects": 12,
+      "note": "At least 12 ECTS from methodological (M) modules over the program (§9(6); modules marked (M) in §9(7) and §9(8)).",
+      "options": [
+        {
+          "type": "module",
+          "id": "Philosophy of sciences"
+        }
+      ]
+    },
+    {
+      "id": "Interdisziplinäres Projekt",
+      "group": "module",
+      "name": "Interdisciplinary project",
+      "nameDe": "Interdisziplinäres Projekt",
+      "short": "Project",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS (or two 6-ECTS projects)",
+      "compulsory": true
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-agriculture-ecology-and-societies",
+  "po": "Master Agriculture, Ecology and Societies",
+  "sources": [
+    "https://www.uni-kassel.de/uni/files/Studium/Alle-Studiengaenge/Master/Agriculture__Ecology_and_Societies/LegalPO_AGES_220713.pdf"
+  ]
+}

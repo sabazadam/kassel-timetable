@@ -1,0 +1,90 @@
+{
+  "summary": "Section 7 of the Fachprüfungsordnung of 23 April 2025, Mitteilungsblatt 11/2025 (eCampus label PO-2024; in force from winter semester 2025/26): compulsory key competencies (12 ECTS), BWL basics (12 ECTS: Informationsmanagement and Controlling und Corporate Governance) and one specialization-specific economics module (6 ECTS), 12 ECTS research methods, 48 ECTS in one master profile (FACT, MuM or DiB) and the 30-ECTS thesis. At least 12 ECTS should be taught in English (a recommendation, not a hard rule). The profile oneOf does not lock the economics module; that 6-ECTS choice is a separate oneOf and must match the same specialization.",
+  "categories": [
+    {
+      "id": "Pflichtmodule > BWL-Basis",
+      "group": "area",
+      "name": "Business administration basics",
+      "nameDe": "BWL-Basis",
+      "short": "BWL basics",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS. Informationsmanagement and Controlling und Corporate Governance are both compulsory (6 ECTS each). Only Informationsmanagement is offered this semester.",
+      "compulsory": true
+    },
+    {
+      "id": "Wahlmodule > Forschungsmethoden",
+      "group": "area",
+      "name": "Research methods",
+      "nameDe": "Forschungsmethoden",
+      "short": "Research methods",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS from the research-methods catalog (typically two 6-ECTS modules)."
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Additive Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS. The offered module Schlüsselkompetenzen is the PO module Additive Schlüsselkompetenzen (KOMPETENZ, 12 cp, compulsory, completed as a Studienleistung). eCampus lists it under Pflichtmodule, not under a selectable area."
+    },
+    {
+      "id": "spezifische-vwl",
+      "group": "oneOf",
+      "name": "Specialization-specific economics",
+      "nameDe": "Spezifische VWL",
+      "short": "Specific economics",
+      "count": 1,
+      "ects": 6,
+      "options": [
+        {
+          "type": "module",
+          "id": "Governance: Policy and Market Dynamics"
+        },
+        {
+          "type": "module",
+          "id": "Governance: Institutions and the Public Sector"
+        },
+        {
+          "type": "module",
+          "id": "Economic Behavior: Models"
+        }
+      ],
+      "note": "6 ECTS. Take exactly one module: Governance: Policy and Market Dynamics for DiB, Governance: Institutions and the Public Sector for FACT, or Economic Behavior: Models for MuM. It is not part of the 48-ECTS profile. The app cannot couple this oneOf to the profile oneOf, so the chosen module must be the one for the same specialization. The specialization is fixed with the first exam that counts only for that specialization (§ 7 Abs. 4)."
+    },
+    {
+      "id": "profile",
+      "group": "oneOf",
+      "name": "One master profile",
+      "nameDe": "Masterprofil (FACT, MuM oder DiB)",
+      "short": "Master profile",
+      "count": 1,
+      "ects": 48,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlmodule > DiB-Masterprofil"
+        },
+        {
+          "type": "area",
+          "id": "Wahlmodule > FACT-Masterprofil"
+        },
+        {
+          "type": "area",
+          "id": "Wahlmodule > MuM-Masterprofil"
+        }
+      ],
+      "note": "48 ECTS in exactly one master profile (DiB, FACT or MuM). Each profile has three 6-ECTS cores (18 ECTS) plus 30 ECTS of electives; the app cannot require those cores inside the chosen option, so they must still be included in the 48. Offered cores to include: DiB Business Model Innovation and Service-Engineering & -Management; FACT Taxation; MuM Supply Chain Management. Still compulsory when offered, and not in this semester's list: DiB Digital Transformation; FACT Konzernrechnungslegung and Finance; MuM Leadership & Change Management and Vertriebs- und Kundenmanagement. FACT offers only five modules (30 ECTS) this semester, so that profile cannot be completed from this semester alone. For MuM Projektmanagement 1: Einführung und Grundlagen and Research Methods and Analytics in Project Studies, § 7 lists 3 credits and the offered list uses 3 ECTS; the module description lists 6 cp. The profile total stays 48 ECTS."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-business-studies",
+  "po": "Master Business Studies (2024)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28690&token=a126189438b19268d7272a160d6be8ea7668ac94"
+  ]
+}

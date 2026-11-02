@@ -1,0 +1,3982 @@
+{
+ "generatedAt": "2026-10-21T18:02:40.795Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor Berufliche Schulen Berufspädagogik - Fachrichtung Elektrotechnik (2022) Hauptfach",
+ "programEn": "Bachelor Vocational Schools: Vocational Education - Specialization Electrical Engineering (Major) (2022)",
+ "slug": "bsc-berufliche-schulen-berufspaedagogik-fachrichtung-elektrotechnik-hauptfach",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "energy-vehicle-systems",
+   "modules": [
+    "m13926",
+    "m29167",
+    "m9323",
+    "m29129"
+   ],
+   "text": {
+    "tr": [
+     "Enerji ve Araç Elektriği",
+     "Öğrenciler enerji tekniği, elektrik makineleri, yüksek gerilim tesisleri ve taşıtlardaki elektrik sistemlerini öğrenir."
+    ],
+    "en": [
+     "Energy and Vehicle Systems",
+     "Students learn power engineering, electrical machines, high voltage installations and electrical systems in vehicles."
+    ],
+    "de": [
+     "Energie und Fahrzeugelektrik",
+     "Studierende lernen Energietechnik, elektrische Maschinen, Hochspannungsanlagen und elektrische Systeme im Fahrzeug."
+    ]
+   }
+  },
+  {
+   "id": "electronics-photonics",
+   "modules": [
+    "m13931",
+    "m13991",
+    "m30536",
+    "m31089"
+   ],
+   "text": {
+    "tr": [
+     "Elektronik ve Fotonik",
+     "Öğrenciler transistörlü devre tasarımı, devre benzetimi, yüksek frekans devreleri ve optoelektronik bileşenleri öğrenir."
+    ],
+    "en": [
+     "Electronics and Photonics",
+     "Students learn transistor circuit design, circuit simulation, high frequency circuits and optoelectronic components."
+    ],
+    "de": [
+     "Elektronik und Photonik",
+     "Studierende lernen Transistorschaltungen, Schaltungssimulation, Hochfrequenzschaltungen und optoelektronische Komponenten."
+    ]
+   }
+  },
+  {
+   "id": "measurement-automation",
+   "modules": [
+    "m30545",
+    "m13925",
+    "m21871"
+   ],
+   "text": {
+    "tr": [
+     "Ölçme ve Otomasyon",
+     "Öğrenciler ölçme yöntemleri, doğrusal ve doğrusal olmayan kontrol ile endüstriyel otomasyon için PLC programlamayı öğrenir."
+    ],
+    "en": [
+     "Measurement and Automation",
+     "Students learn measurement methods, linear and nonlinear control and PLC programming for industrial automation."
+    ],
+    "de": [
+     "Messtechnik und Automation",
+     "Studierende lernen Messverfahren, lineare und nichtlineare Regelung und SPS Programmierung für die industrielle Automation."
+    ]
+   }
+  },
+  {
+   "id": "communications-digital",
+   "modules": [
+    "m17476",
+    "m13952",
+    "m13179"
+   ],
+   "text": {
+    "tr": [
+     "İletişim ve Sayısal Sistemler",
+     "Öğrenciler sinyal iletimi, haberleşme tekniği ve sayısal sistemleri öğrenir."
+    ],
+    "en": [
+     "Communications and Digital Systems",
+     "Students learn signal transmission, communications engineering and digital systems."
+    ],
+    "de": [
+     "Kommunikation und Digitalsysteme",
+     "Studierende lernen Signalübertragung, Nachrichtentechnik und digitale Systeme."
+    ]
+   }
+  }
+ ],
+ "categories": [],
+ "rulesSummary": null,
+ "rulesSources": [],
+ "sections": [
+  {
+   "id": "Elektrotechnik Pflichtmodule",
+   "name": "Electrical Engineering Compulsory Modules",
+   "nameDe": "Elektrotechnik Pflichtmodule"
+  },
+  {
+   "id": "Elektrotechnik Wahlpflichtmodule",
+   "name": "Electrical Engineering Compulsory Elective Modules",
+   "nameDe": "Elektrotechnik Wahlpflichtmodule"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.": {
+   "en": "Registration for this course in EXA is required by 12.10.2026.",
+   "tr": "Bu derse EXA üzerinden 12.10.2026 tarihine kadar kayıt olmak gerekiyor."
+  },
+  "Für Elektrotechniker , R. 0644 / 0645; Beginn: nach Ankündigung, das Praktikum findet in Präsenz statt.": {
+   "en": "For electrical engineers, room 0644 / 0645; start: after announcement, the practical course takes place in person.",
+   "tr": "Elektrik mühendisleri için, 0644 / 0645 odası; başlangıç: duyurudan sonra, pratik ders yüz yüze yapılır."
+  },
+  "Für Mechatroniker und Wirtschaftsingenieure, R. 0644 / 0645; Beginn: nach Ankündigung, das Praktikum findet in Präsenz statt.": {
+   "en": "For mechatronics engineers and industrial engineers, room 0644 / 0645; start: after announcement, the practical course takes place in person.",
+   "tr": "Mekatronik mühendisleri ve endüstri mühendisleri için, 0644 / 0645 odası; başlangıç: duyurudan sonra, pratik ders yüz yüze yapılır."
+  },
+  "Die Vorlesung findet in Präsenz statt.": {
+   "en": "The lecture takes place in person.",
+   "tr": "Ders yüz yüze yapılır."
+  },
+  "Die Übung findet in Präsenz statt.": {
+   "en": "The exercise takes place in person.",
+   "tr": "Alıştırma yüz yüze yapılır."
+  },
+  "Zusatzlehrangebot": {
+   "en": "Additional course offering",
+   "tr": "Ek ders olanağı"
+  },
+  "Tutorium": {
+   "en": "Tutorial.",
+   "tr": "Tutorial (küçük grup dersi)."
+  },
+  "Wrap-up, die Termine werden in der Vorlesung und im moodle bekannt gegeben. 1. Wrap-up-Termin am Dienstag, den 17.11.2026": {
+   "en": "Wrap-up sessions; dates are announced in the lecture and on Moodle. First wrap-up session on Tuesday, 17.11.2026.",
+   "tr": "Tekrar (wrap-up) oturumları; tarihleri derste ve Moodle'da duyurulur. İlk oturum 17.11.2026 Salı."
+  },
+  "Info über Moodle Kurs “DigLogÜ (WS 26/27)“": {
+   "en": "Information in the Moodle course \"DigLogÜ (WS 26/27)\".",
+   "tr": "Bilgi Moodle kursunda: \"DigLogÜ (WS 26/27)\"."
+  },
+  "Info über Moodle Kurs “DigLogÜ (WS 26/27)\"": {
+   "en": "Information in the Moodle course \"DigLogÜ (WS 26/27)\".",
+   "tr": "Bilgi Moodle kursunda: \"DigLogÜ (WS 26/27)\"."
+  },
+  "Hörsaal-Tutorium, Info über Moodle Kurs “DigLogÜ (WS 26/27)“": {
+   "en": "Tutorial in a lecture hall. Information in the Moodle course \"DigLogÜ (WS 26/27)\".",
+   "tr": "Amfide yapılan tutorial. Bilgi Moodle kursunda: \"DigLogÜ (WS 26/27)\"."
+  },
+  "<p>Die Vorlesung wird hybrid angeboten. - Die Termine 21.10.2026 - 27.01.2027 finden per Zoom statt: VL Elektronische Bauelemente</p><p> https://uni-kassel.zoom-x.de/j/68904533107?pwd=SkFOtm5iPSjncOduvf3E3COsgLCqin.1 </p><p>Meeting-ID: 689 0453 3107 </p><p>Kenncode: 291133 </p><p><br></p><p>Die Termine 3.02.2027 und 10.2.2027 finden in Präsenz statt im HS 0425.</p><p><br></p><p>Teil der Vorlesung ist eine Hörsaal Übung, welche von Herrn Arda Özcan geleitet wird. Der Beginn der Übungen ist ca. erst nachdem 4 Vorlesungstermine stattfanden. Bei Bedarf bietet Herr Arda Özcan noch Vertiefungsstunden (Fragestunden) an.</p><p><br></p><p><style> </style></p><p>Weitere wichtige Details sind auf der entsprechenden Moodle-Seite zu finden.<br></p><p></p>": {
+   "en": "The lecture is offered in hybrid form. The dates 21.10.2026 - 27.01.2027 take place via Zoom: VL Elektronische Bauelemente. Online via Zoom. The meeting link, ID and passcode are in the German original. The dates 3.02.2027 and 10.2.2027 take place in person in lecture hall HS 0425. Part of the lecture is a lecture hall exercise led by Mr. Arda Özcan. The exercises begin only after approximately 4 lecture sessions have taken place. If needed, Mr. Arda Özcan also offers in-depth sessions (question sessions). Further important details can be found on the corresponding Moodle page.",
+   "tr": "Ders hibrit olarak sunulmaktadır. 21.10.2026 - 27.01.2027 tarihleri Zoom üzerinden gerçekleşir: VL Elektronische Bauelemente. Zoom üzerinden online. Toplantı bağlantısı, kimliği ve şifresi Almanca orijinal metinde. 3.02.2027 ve 10.2.2027 tarihleri yüz yüze olarak HS 0425 amfisinde gerçekleşir. Dersin bir parçası, Bay Arda Özcan tarafından yürütülen bir amfi alıştırmasıdır. Alıştırmalar ancak yaklaşık 4 ders oturumu gerçekleştikten sonra başlar. Gerektiğinde Bay Arda Özcan ayrıca derinleştirme saatleri (soru saatleri) sunar. Diğer önemli ayrıntılar ilgili Moodle sayfasında bulunabilir."
+  },
+  "Teil der Vorlesung ist eine Hörsaal Übung, welche von Herrn Arda Özcan geleitet wird. Diese findet nach Ankündigung im Vorlesungs-Zeitfenster ab und zu statt der Vorlesung statt. Diese findet immer im HS 0425 statt.": {
+   "en": "Part of the lecture is a lecture hall exercise led by Mr. Arda Özcan. Upon announcement, it takes place from time to time in the lecture time slot instead of the lecture. It always takes place in lecture hall HS 0425.",
+   "tr": "Dersin bir parçası, Bay Arda Özcan tarafından yürütülen bir amfi alıştırmasıdır. Duyuru üzerine, dersin zaman diliminde zaman zaman dersin yerine yapılır. Her zaman HS 0425 amfisinde gerçekleşir."
+  },
+  "Vorlesung": {
+   "en": "Lecture",
+   "tr": "Ders"
+  },
+  "<p><strong>VORLESUNG: 21.10.2026 bis 17.02.2027, Mittwoch: 11:00h-12:30h</strong> </p><p> Die VL wird hybrid angeboten. </p><p> <strong>- Die Termine 21.10.2026 - 27.01.2027 finden per Zoom statt:</strong></p><p> VL Werkstoffe der Elektrotechnik </p><p>https://uni-kassel.zoom-x.de/j/65766705055?pwd=dn1TxKsEaYQL3P3PCeau8q1bZtJXLb.1 </p><p>Meeting-ID: 657 6670 5055 </p><p>Kenncode: 385886</p><p><br></p><p> <strong>- Die Termine 3.02.2027 und 10.2.2027 finden in Präsenz statt im HS 0425.</strong> </p><p><br></p><p> Teil der Vorlesung ist eine Hörsaal Übung, welche von Herrn Arda Özcan geleitet wird. Diese findet nach Ankündigung im Vorlesungs-Zeitfenster ab und zu statt der Vorlesung statt. Diese findet immer im HS 0425 statt.</p><p><br></p><p><style> </style></p><p>Weitere wichtige Details sind auf der entsprechenden Moodle-Seite zu finden.<br></p><p></p>": {
+   "en": "LECTURE: 21.10.2026 to 17.02.2027, Wednesday: 11:00h-12:30h. The lecture is offered in hybrid form. The dates 21.10.2026 - 27.01.2027 take place via Zoom: VL Werkstoffe der Elektrotechnik. Online via Zoom. The meeting link, ID and passcode are in the German original. The dates 3.02.2027 and 10.2.2027 take place in person in lecture hall HS 0425. Part of the lecture is a lecture hall exercise led by Mr. Arda Özcan. Upon announcement, it takes place from time to time in the lecture time slot instead of the lecture. It always takes place in lecture hall HS 0425. Further important details can be found on the corresponding Moodle page.",
+   "tr": "DERS: 21.10.2026 - 17.02.2027, Çarşamba: 11:00h-12:30h. Ders hibrit olarak sunulmaktadır. 21.10.2026 - 27.01.2027 tarihleri Zoom üzerinden gerçekleşir: VL Werkstoffe der Elektrotechnik. Zoom üzerinden online. Toplantı bağlantısı, kimliği ve şifresi Almanca orijinal metinde. 3.02.2027 ve 10.2.2027 tarihleri yüz yüze olarak HS 0425 amfisinde gerçekleşir. Dersin bir parçası, Bay Arda Özcan tarafından yürütülen bir amfi alıştırmasıdır. Duyuru üzerine, dersin zaman diliminde zaman zaman dersin yerine yapılır. Her zaman HS 0425 amfisinde gerçekleşir. Diğer önemli ayrıntılar ilgili Moodle sayfasında bulunabilir."
+  },
+  "Für die Teilnahme ist keine Anmeldung notwendig.": {
+   "en": "No registration is needed to take part.",
+   "tr": "Katılmak için kayıt gerekmiyor."
+  },
+  "Übung Seminarraum 0505 im Fachgebiet.Die Vorlesung wird als Video-Vorlesung durchgeführt, verfügbar im Moodle-Kurs. Der Link wird später mitgeteilt.": {
+   "en": "Exercise, seminar room 0505 in the department. The lecture is held as a video lecture, available in the Moodle course. The link will be announced later.",
+   "tr": "Alıştırma, bölümdeki 0505 seminer odası. Ders video ders olarak yapılır, Moodle kursunda bulunur. Bağlantı daha sonra bildirilecek."
+  },
+  "Übung": {
+   "en": "Exercise",
+   "tr": "Alıştırma"
+  },
+  "Vorlesung in Präsenz": {
+   "en": "Lecture in person",
+   "tr": "Ders yüz yüze"
+  },
+  "Übung in Präsenz": {
+   "en": "Exercise in person",
+   "tr": "Alıştırma yüz yüze"
+  },
+  "Kick-off-Meeting am Donnerstag, den 22.10.2026 um 09.00 Uhr in Hörsaal -1418 während der Vorlesung": {
+   "en": "Kick-off meeting on Thursday, 22.10.2026 at 09:00 in lecture hall -1418 during the lecture",
+   "tr": "Ön görüşme perşembe günü, 22.10.2026 saat 09:00, ders sırasında -1418 amfisinde"
+  },
+  "Anmeldung bitte bis spätestens Ende November": {
+   "en": "Please register by the end of November at the latest",
+   "tr": "Lütfen en geç kasım sonuna kadar kayıt ol"
+  },
+  "Die Übung findet an folgenden Terminen statt: 22.10.2026; 05.11.2026; 12.11.2026; 26.11.2026; 10.12.2026; 14.01.2027; 21.01.2027; 28.01.2027; 04.02.2027": {
+   "en": "The exercise takes place on the following dates: 22.10.2026; 05.11.2026; 12.11.2026; 26.11.2026; 10.12.2026; 14.01.2027; 21.01.2027; 28.01.2027; 04.02.2027",
+   "tr": "Alıştırma şu tarihlerde yapılır: 22.10.2026; 05.11.2026; 12.11.2026; 26.11.2026; 10.12.2026; 14.01.2027; 21.01.2027; 28.01.2027; 04.02.2027"
+  },
+  "Einführungsveranstaltung am 03.11.2026. Das Seminar findet in Präsenz in Raum 3127 im Fachgebiet statt.": {
+   "en": "Introductory event on 03.11.2026. The seminar takes place in person in room 3127 in the department.",
+   "tr": "Giriş etkinliği 03.11.2026 tarihinde. Seminer yüz yüze, bölümdeki 3127 odasında yapılır."
+  },
+  "Die Anmeldung zur Lehrveranstaltung im HIS-Portal ist erforderlich bis zum 12.10.2026.": {
+   "en": "Registration for the course in the HIS-Portal is required by 12.10.2026.",
+   "tr": "Derse HIS-Portal üzerinden 12.10.2026 tarihine kadar kayıt olman gerekiyor."
+  },
+  "Place: ComLab": {
+   "en": "Place: ComLab",
+   "tr": "Yer: ComLab"
+  },
+  "In Präsenz (Hörsaal 0446)": {
+   "en": "In person (lecture hall 0446)",
+   "tr": "Yüz yüze (0446 amfisi)"
+  },
+  "Vorbesprechung am 21.10.2026 um 10.00 Uhr, Labor im Fachgebiet ComLab, Eingang 2315": {
+   "en": "Kick-off meeting on 21.10.2026 at 10:00, lab in the department ComLab, entrance 2315",
+   "tr": "Ön görüşme 21.10.2026 saat 10:00, ComLab bölümündeki laboratuvar, giriş 2315"
+  },
+  "In Raum 2107, Labor im Fachgebiet Rechnerarchitektur und SystemprogrammierungInteressierte wenden sich bitte an Herrn Dr. Schwarz unter sps_plc_prog@uni-kassel.de. Eine Anmeldung kann ausschließlich per E-Mail erfolgen.": {
+   "en": "In room 2107, lab in the department of Computer Architecture and System Programming. Those interested are asked to contact Dr. Schwarz at sps_plc_prog@uni-kassel.de. Registration can only be done by email.",
+   "tr": "2107 odasında, Bilgisayar Mimarisi ve Sistem Programlama bölümündeki laboratuvarda. İlgileniyorsan lütfen Dr. Schwarz'a sps_plc_prog@uni-kassel.de adresinden ulaş. Kayıt yalnızca e-posta ile yapılabilir."
+  },
+  "In Raum 2107, Labor im Fachgebiet Rechnerarchitektur und Systemprogrammierung Interessierte wenden sich bitte an Herrn Dr. Schwarz unter sps_plc_prog@uni-kassel.de. Eine Anmeldung kann ausschließlich per E-Mail erfolgen": {
+   "en": "In room 2107, lab in the department of Computer Architecture and System Programming. Those interested are asked to contact Dr. Schwarz at sps_plc_prog@uni-kassel.de. Registration can only be done by email.",
+   "tr": "2107 odasında, Bilgisayar Mimarisi ve Sistem Programlama bölümündeki laboratuvarda. İlgileniyorsan lütfen Dr. Schwarz'a sps_plc_prog@uni-kassel.de adresinden ulaş. Kayıt yalnızca e-posta ile yapılabilir."
+  },
+  "https://moodle.uni-kassel.de/enrol/index.php?id=23427": {
+   "en": "https://moodle.uni-kassel.de/enrol/index.php?id=23427",
+   "tr": "https://moodle.uni-kassel.de/enrol/index.php?id=23427"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Elektrotechnik Pflichtmodule": "Electrical Engineering Compulsory Modules",
+  "Elektrotechnik Wahlpflichtmodule": "Electrical Engineering Compulsory Elective Modules",
+  "Schwerpunkt Elektrische Energiesysteme": "Specialization Electrical Energy Systems",
+  "Schwerpunkt Elektronik und Photonik": "Specialization Electronics and Photonics",
+  "Schwerpunkt Mess-, Steuerungs- und Regelungstechnik": "Specialization Measurement, Control and Regulation Technology",
+  "Schwerpunkt Informations- und Kommunikationstechnik": "Specialization Information and Communication Technology",
+  "Schwerpunkt Übergreifend": "Cross-Cutting Specialization"
+ },
+ "modules": [
+  {
+   "id": "m13991",
+   "title": "Praktikum CAD Elektronik",
+   "titleEn": "CAD Electronics Lab",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69639"
+   ]
+  },
+  {
+   "id": "m13952",
+   "title": "Nachrichtentechnik",
+   "titleEn": "Communications Engineering",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Informations- und Kommunikationstechnik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70094",
+    "70095"
+   ]
+  },
+  {
+   "id": "m14833",
+   "title": "Bauelemente und Werkstoffe der Elektrotechnik",
+   "titleEn": "Components and Materials of Electrical Engineering",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Elektrotechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71898",
+    "71899"
+   ]
+  },
+  {
+   "id": "m9287",
+   "title": "Digitale Logik",
+   "titleEn": "Digital Logic",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68914",
+    "68918"
+   ]
+  },
+  {
+   "id": "m13179",
+   "title": "Digitale Systeme",
+   "titleEn": "Digital Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Informations- und Kommunikationstechnik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "57518",
+    "57519"
+   ]
+  },
+  {
+   "id": "m13931",
+   "title": "Diskrete Schaltungstechnik",
+   "titleEn": "Discrete Circuit Technology",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Mess-, Steuerungs- und Regelungstechnik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71679"
+   ]
+  },
+  {
+   "id": "m29129",
+   "title": "Elektrische und elektronische Systeme im Automobil 1",
+   "titleEn": "Electrical and Electronic Systems in the Automobile 1",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Elektrische Energiesysteme"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70063"
+   ]
+  },
+  {
+   "id": "m9323",
+   "title": "Elektrische Anlagen und Hochspannungstechnik I",
+   "titleEn": "Electrical Installations and High-Voltage Engineering I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Elektrische Energiesysteme"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69861"
+   ]
+  },
+  {
+   "id": "m29167",
+   "title": "Elektrische Maschinen",
+   "titleEn": "Electrical Machines",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Elektrische Energiesysteme"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69957"
+   ]
+  },
+  {
+   "id": "m17446",
+   "title": "Grundlagen der Elektrotechnik I",
+   "titleEn": "Fundamentals of Electrical Engineering I",
+   "code": null,
+   "ects": 11,
+   "areas": [
+    "Elektrotechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "60032",
+    "70058"
+   ]
+  },
+  {
+   "id": "m13926",
+   "title": "Grundlagen der Energietechnik",
+   "titleEn": "Fundamentals of Power Engineering",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Elektrische Energiesysteme"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69909"
+   ]
+  },
+  {
+   "id": "m15439",
+   "title": "Grundlagen der theoretischen Elektrotechnik",
+   "titleEn": "Fundamentals of Theoretical Electrical Engineering",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69906",
+    "69907"
+   ]
+  },
+  {
+   "id": "m30536",
+   "title": "Hochfrequenz-Schaltungstechnik",
+   "titleEn": "High-Frequency Circuit Technology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Elektronik und Photonik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71710",
+    "71711"
+   ]
+  },
+  {
+   "id": "m17532",
+   "title": "Lineare Algebra",
+   "titleEn": "Linear Algebra",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Elektrotechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54283",
+    "69208",
+    "54284"
+   ]
+  },
+  {
+   "id": "m30545",
+   "title": "Lineare und Nichtlineare Regelungssysteme",
+   "titleEn": "Linear and Nonlinear Control Systems",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Mess-, Steuerungs- und Regelungstechnik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69949",
+    "69952",
+    "69953",
+    "69954"
+   ]
+  },
+  {
+   "id": "m31063",
+   "title": "Matlab Fundamentals",
+   "titleEn": "Matlab Fundamentals",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69955",
+    "69956"
+   ]
+  },
+  {
+   "id": "m13925",
+   "title": "Messtechnische Verfahren I",
+   "titleEn": "Measurement Methods I",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Mess-, Steuerungs- und Regelungstechnik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69512"
+   ]
+  },
+  {
+   "id": "m13958",
+   "title": "Mechanik",
+   "titleEn": "Mechanics",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71988",
+    "71989"
+   ]
+  },
+  {
+   "id": "m31089",
+   "title": "Optoelektronische Komponenten und Systeme",
+   "titleEn": "Optoelectronic Components and Systems",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Elektronik und Photonik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "66135"
+   ]
+  },
+  {
+   "id": "m21871",
+   "title": "SPS Programmierung nach IEC 61131-3",
+   "titleEn": "PLC Programming According to IEC 61131-3",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "59241",
+    "59242"
+   ]
+  },
+  {
+   "id": "m17476",
+   "title": "Signalübertragung",
+   "titleEn": "Signal Transmission",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Informations- und Kommunikationstechnik"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "59874"
+   ]
+  },
+  {
+   "id": "m13948",
+   "title": "Stochastik in der technischen Anwendung",
+   "titleEn": "Stochastics in Technical Applications",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69040",
+    "69041"
+   ]
+  },
+  {
+   "id": "m17515",
+   "title": "Technische Systeme im Zustandsraum",
+   "titleEn": "Technical Systems in State Space",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Elektrotechnik Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69947",
+    "69948"
+   ]
+  },
+  {
+   "id": "m29056",
+   "title": "Arbeits- und Organisationspsychologie 2",
+   "titleEn": "Work and Organizational Psychology 2",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Elektrotechnik Wahlpflichtmodule > Schwerpunkt Übergreifend"
+   ],
+   "categories": [],
+   "section": "Elektrotechnik Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69124"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "54283",
+   "title": "Lineare Algebra (E-Technik, Informatik, Mechatronik, W-Ing E-Technik, Berufspäd.)",
+   "number": "FB1017.7305w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54283&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23175",
+    "key": false
+   },
+   "titleEn": "Linear Algebra (Electrical Eng., Computer Science, Mechatronics, Industrial Eng., Vocational Education)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69208",
+   "title": "Übungen zu Lineare Algebra",
+   "number": "FB1017.7306w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. rer. nat. Dörthe Janssen"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Francesco Verciani"
+       ],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Francesco Verciani"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. rer. nat. Dörthe Janssen"
+       ],
+       "room": "Hörsaal 1114 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69208&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23175",
+    "key": false
+   },
+   "titleEn": "Linear Algebra Exercises",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54284",
+   "title": "Lineare Algebra Hörsaalübungen",
+   "number": "FB1017.7307w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54284&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23175",
+    "key": false
+   },
+   "titleEn": "Linear Algebra Lecture-Hall Exercises",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69947",
+   "title": "Technische Systeme im Zustandsraum",
+   "number": "ETechn-4000-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69947&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24807",
+    "key": true
+   },
+   "titleEn": "Technical Systems in State Space",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69948",
+   "title": "Technische Systeme im Zustandsraum",
+   "number": "ETechn-4000-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:45",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69948&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24807",
+    "key": true
+   },
+   "titleEn": "Technical Systems in State Space",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "60032",
+   "title": "Elektrotechnisches Praktikum I",
+   "number": "ETechn-2000-S1",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Mohamed Ayeb",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Für Elektrotechniker , R. 0644 / 0645; Beginn: nach Ankündigung, das Praktikum findet in Präsenz statt.",
+       "instructors": [
+        "Dr.-Ing. Oliver Haas",
+        "Dipl.-Ing. Dirk Schneider"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:30",
+       "end": "18:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Für Mechatroniker und Wirtschaftsingenieure, R. 0644 / 0645; Beginn: nach Ankündigung, das Praktikum findet in Präsenz statt.",
+       "instructors": [
+        "Dr.-Ing. Oliver Haas",
+        "Dipl.-Ing. Dirk Schneider"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60032&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24495",
+    "key": false
+   },
+   "titleEn": "Electrical Engineering Lab I",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70058",
+   "title": "Grundlagen der Elektrotechnik I",
+   "number": "ETechn-2000-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Mohamed Ayeb",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Die Vorlesung findet in Präsenz statt.",
+       "instructors": [
+        "Prof. Dr.-Ing. Mohamed Ayeb"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))",
+       "part": "Vorlesung/Übung",
+       "fixed": true,
+       "partEn": "Lecture/Exercise"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Die Übung findet in Präsenz statt.",
+       "instructors": [
+        "Dr.-Ing. Oliver Haas"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien)) Hörsaal 0425 (WA-altes Gebäude (WA 73))",
+       "part": "Vorlesung/Übung",
+       "fixed": true,
+       "partEn": "Lecture/Exercise"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "14:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Vorlesung findet in Präsenz statt.",
+       "instructors": [
+        "Prof. Dr.-Ing. Mohamed Ayeb"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))",
+       "part": "Vorlesung/Übung",
+       "fixed": true,
+       "partEn": "Lecture/Exercise"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Zusatzlehrangebot",
+       "instructors": [],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))",
+       "part": "Tutorien",
+       "partEn": "Tutorials"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))",
+       "part": "Tutorien",
+       "partEn": "Tutorials"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Hörsaal 1114 (WA-altes Gebäude (WA 71))",
+       "part": "Tutorien",
+       "partEn": "Tutorials"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:45",
+       "end": "16:15",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))",
+       "part": "Tutorien",
+       "partEn": "Tutorials"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:15",
+       "end": "09:45",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))",
+       "part": "Tutorien",
+       "partEn": "Tutorials"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:15",
+       "end": "09:45",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))",
+       "part": "Tutorien",
+       "partEn": "Tutorials"
+      }
+     ],
+     "slots": true
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70058&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23846",
+    "key": true
+   },
+   "titleEn": "Fundamentals of Electrical Engineering I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68914",
+   "title": "Digitale Logik",
+   "number": "Inform-1250-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-11-17",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Wrap-up, die Termine werden in der Vorlesung und im moodle bekannt gegeben. 1. Wrap-up-Termin am Dienstag, den 17.11.2026",
+       "instructors": [],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68914&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24259",
+    "key": false
+   },
+   "titleEn": "Digital Logic",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68918",
+   "title": "Digitale Logik",
+   "number": "Inform-1250-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)\"",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "17:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "11:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "13:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Hörsaal-Tutorium, Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "13:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "13:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "14:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "14:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Info über Moodle Kurs “DigLogÜ (WS 26/27)“",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68918&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24259",
+    "key": false
+   },
+   "titleEn": "Digital Logic",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71898",
+   "title": "Elektronische Bauelemente",
+   "number": "ETechn-4250-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. habil. Hartmut Hillmer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-17",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "<p>Die Vorlesung wird hybrid angeboten. - Die Termine 21.10.2026 - 27.01.2027 finden per Zoom statt: VL Elektronische Bauelemente</p><p> https://uni-kassel.zoom-x.de/j/68904533107?pwd=SkFOtm5iPSjncOduvf3E3COsgLCqin.1 </p><p>Meeting-ID: 689 0453 3107 </p><p>Kenncode: 291133 </p><p><br></p><p>Die Termine 3.02.2027 und 10.2.2027 finden in Präsenz statt im HS 0425.</p><p><br></p><p>Teil der Vorlesung ist eine Hörsaal Übung, welche von Herrn Arda Özcan geleitet wird. Der Beginn der Übungen ist ca. erst nachdem 4 Vorlesungstermine stattfanden. Bei Bedarf bietet Herr Arda Özcan noch Vertiefungsstunden (Fragestunden) an.</p><p><br></p><p><style> </style></p><p>Weitere wichtige Details sind auf der entsprechenden Moodle-Seite zu finden.<br></p><p></p>",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:30",
+       "startDate": "2026-11-18",
+       "endDate": "2027-01-27",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Teil der Vorlesung ist eine Hörsaal Übung, welche von Herrn Arda Özcan geleitet wird. Diese findet nach Ankündigung im Vorlesungs-Zeitfenster ab und zu statt der Vorlesung statt. Diese findet immer im HS 0425 statt.",
+       "instructors": [],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:30",
+       "startDate": "2027-02-03",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Vorlesung",
+       "instructors": [],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71898&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1709",
+    "key": true
+   },
+   "titleEn": "Electronic Devices",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71899",
+   "title": "Werkstoffe der Elektrotechnik",
+   "number": "ETechn-4260-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. habil. Hartmut Hillmer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "<p><strong>VORLESUNG: 21.10.2026 bis 17.02.2027, Mittwoch: 11:00h-12:30h</strong> </p><p> Die VL wird hybrid angeboten. </p><p> <strong>- Die Termine 21.10.2026 - 27.01.2027 finden per Zoom statt:</strong></p><p> VL Werkstoffe der Elektrotechnik </p><p>https://uni-kassel.zoom-x.de/j/65766705055?pwd=dn1TxKsEaYQL3P3PCeau8q1bZtJXLb.1 </p><p>Meeting-ID: 657 6670 5055 </p><p>Kenncode: 385886</p><p><br></p><p> <strong>- Die Termine 3.02.2027 und 10.2.2027 finden in Präsenz statt im HS 0425.</strong> </p><p><br></p><p> Teil der Vorlesung ist eine Hörsaal Übung, welche von Herrn Arda Özcan geleitet wird. Diese findet nach Ankündigung im Vorlesungs-Zeitfenster ab und zu statt der Vorlesung statt. Diese findet immer im HS 0425 statt.</p><p><br></p><p><style> </style></p><p>Weitere wichtige Details sind auf der entsprechenden Moodle-Seite zu finden.<br></p><p></p>",
+       "instructors": [],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71899&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1710",
+    "key": true
+   },
+   "titleEn": "Materials of Electrical Engineering",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69909",
+   "title": "Grundlagen der Energietechnik",
+   "number": "ETechn-2500-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jens Friebe",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Für die Teilnahme ist keine Anmeldung notwendig.",
+       "instructors": [
+        "Prof. Dr.-Ing. Jens Friebe"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Für die Teilnahme ist keine Anmeldung notwendig.",
+       "instructors": [
+        "M.Sc. Pierre Küster"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69909&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23702",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Power Engineering",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69861",
+   "title": "Elektrische Anlagen und Hochspannungstechnik 1",
+   "number": "ETechn-1060-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Sebastian Wels",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "14:30",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Übung Seminarraum 0505 im Fachgebiet.Die Vorlesung wird als Video-Vorlesung durchgeführt, verfügbar im Moodle-Kurs. Der Link wird später mitgeteilt.",
+       "instructors": [
+        "M.Sc. Felix Fehmer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69861&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23732",
+    "key": false
+   },
+   "titleEn": "Electrical Installations and High-Voltage Engineering 1",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70063",
+   "title": "Elektrische und elektronische Systeme im Automobil I",
+   "number": "ETechn-2100-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Mohamed Ayeb",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:15",
+       "end": "13:45",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Vorlesung findet in Präsenz statt.",
+       "instructors": [
+        "Prof. Dr.-Ing. Mohamed Ayeb"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Übung",
+       "instructors": [
+        "Dr.-Ing. Oliver Haas"
+       ],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70063&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23847",
+    "key": true
+   },
+   "titleEn": "Electrical and Electronic Systems in the Automobile I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69957",
+   "title": "Elektrische Maschinen",
+   "number": "ETechn-1810-V1",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Marcus Ziegler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Vorlesung in Präsenz",
+       "instructors": [
+        "Prof. Dr.-Ing. Marcus Ziegler"
+       ],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-11-09",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Übung in Präsenz",
+       "instructors": [
+        "M.Sc. Paul Heßler"
+       ],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Vorlesung in Präsenz",
+       "instructors": [
+        "Prof. Dr.-Ing. Marcus Ziegler"
+       ],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-11-09",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Übung in Präsenz",
+       "instructors": [
+        "M.Sc. Paul Heßler"
+       ],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69957&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24077",
+    "key": true
+   },
+   "titleEn": "Electrical Machines",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71710",
+   "title": "Hochfrequenzschaltungstechnik",
+   "number": "ETechn-3360-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Axel Bangert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Axel Bangert"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71710&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24763",
+    "key": true
+   },
+   "titleEn": "High-Frequency Circuit Technology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71711",
+   "title": "Praktikum Hochfrequenz-Schaltungstechnik",
+   "number": "ETechn-3360-V2",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Axel Bangert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Kick-off-Meeting am Donnerstag, den 22.10.2026 um 09.00 Uhr in Hörsaal -1418 während der Vorlesung",
+       "instructors": [
+        "Clemens Weber"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71711&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24763",
+    "key": true
+   },
+   "titleEn": "High-Frequency Circuit Technology Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "66135",
+   "title": "Optoelectronic Devices",
+   "number": "ETechn-4270-V1",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. habil. Hartmut Hillmer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Anmeldung bitte bis spätestens Ende November",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66135&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1708",
+    "key": true
+   },
+   "titleEn": "Optoelectronic Devices",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "71679",
+   "title": "Diskrete Schaltungstechnik",
+   "number": "ETechn-3250-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Axel Bangert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Vorlesung",
+       "instructors": [
+        "Prof. Dr.-Ing. Axel Bangert"
+       ],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Tutorium",
+       "instructors": [
+        "Dipl.-Ing.(FH) Carl Sandhagen"
+       ],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Tutorium",
+       "instructors": [
+        "Dipl.-Ing.(FH) Carl Sandhagen"
+       ],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-11-04",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium",
+       "instructors": [
+        "Dipl.-Ing.(FH) Carl Sandhagen"
+       ],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Übung findet an folgenden Terminen statt: 22.10.2026; 05.11.2026; 12.11.2026; 26.11.2026; 10.12.2026; 14.01.2027; 21.01.2027; 28.01.2027; 04.02.2027",
+       "instructors": [
+        "M.Sc. Lukas Pohl"
+       ],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71679&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24762",
+    "key": true
+   },
+   "titleEn": "Discrete Circuit Technology",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69512",
+   "title": "Messtechnische Verfahren I",
+   "number": "ETechn-3120-V1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr.- Ing. Lucie Hüser",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:15",
+       "end": "13:30",
+       "startDate": "2026-11-03",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Einführungsveranstaltung am 03.11.2026. Das Seminar findet in Präsenz in Raum 3127 im Fachgebiet statt.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69512&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23521",
+    "key": false
+   },
+   "titleEn": "Measurement Methods I",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69949",
+   "title": "Lineare Regelungssysteme",
+   "number": "ETechn-4090-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:15",
+       "end": "09:45",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69949&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24805",
+    "key": true
+   },
+   "titleEn": "Linear Control Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69952",
+   "title": "Lineare Regelungssysteme",
+   "number": "ETechn-4090-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69952&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24805",
+    "key": true
+   },
+   "titleEn": "Linear Control Systems",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69953",
+   "title": "Nonlinear Control Systems",
+   "number": "ETechn-4100-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:15",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung im HIS-Portal ist erforderlich bis zum 12.10.2026.",
+       "instructors": [],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69953&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Nonlinear Control Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69954",
+   "title": "Nonlinear Control Systems",
+   "number": "ETechn-4100-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "13:00",
+       "end": "13:45",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69954&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Nonlinear Control Systems",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "59874",
+   "title": "Praktikum Signalübertragung",
+   "number": "ETechn-3750-S1",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2027-02-22",
+       "endDate": "2027-02-25",
+       "cancelled": [],
+       "note": "Place: ComLab",
+       "instructors": [
+        "Dr.-Ing. Nour Mansour"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59874&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24433",
+    "key": true
+   },
+   "titleEn": "Signal Transmission Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "57518",
+   "title": "Digitale Systeme",
+   "number": "Inform-1320-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57518&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24264",
+    "key": false
+   },
+   "titleEn": "Digital Systems",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "57519",
+   "title": "Digitale Systeme",
+   "number": "Inform-1320-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57519&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24264",
+    "key": false
+   },
+   "titleEn": "Digital Systems",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70094",
+   "title": "Nachrichtentechnik",
+   "number": "ETechn-3880-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "In Präsenz (Hörsaal 0446)",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70094&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24439",
+    "key": true
+   },
+   "titleEn": "Communications Engineering",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70095",
+   "title": "Nachrichtentechnik",
+   "number": "ETechn-3880-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:30",
+       "end": "16:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "In Präsenz (Hörsaal 0446)",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70095&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24439",
+    "key": true
+   },
+   "titleEn": "Communications Engineering",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69040",
+   "title": "Stochastik in der technischen Anwendung",
+   "number": "Inform-1750-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Bernhard Sick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69040&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Stochastics in Technical Applications",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69041",
+   "title": "Stochastik in der technischen Anwendung",
+   "number": "Inform-1750-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Bernhard Sick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69041&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Stochastics in Technical Applications",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71988",
+   "title": "Mechanik (Mechatronik: Teilmodul Physik I)",
+   "number": "FB1018.4635w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Arno Ehresmann, Rico Huhnstock",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Ehresmann"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71988&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24658",
+    "key": false
+   },
+   "titleEn": "Mechanics (Mechatronics: Submodule Physics I)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71989",
+   "title": "Ergänzungen zur Mechanik (Mechatronik: Teilmodul Physik I)",
+   "number": "FB1018.4640w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Arno Ehresmann, Rico Huhnstock",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Ehresmann",
+        "Rico Huhnstock"
+       ],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Ehresmann",
+        "Rico Huhnstock"
+       ],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71989&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24658",
+    "key": false
+   },
+   "titleEn": "Supplements to Mechanics (Mechatronics: Submodule Physics I)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69639",
+   "title": "CAD-Elektronik 1, Arbeiten mit PSPICE",
+   "number": "ETechn-3920-V1",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. sc. techn. Dirk Dahlhaus",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Vorbesprechung am 21.10.2026 um 10.00 Uhr, Labor im Fachgebiet ComLab, Eingang 2315",
+       "instructors": [
+        "Dipl.-Ing. Herbert Lindenborn"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69639&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "CAD Electronics 1, Working with PSPICE",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "69906",
+   "title": "Grundlagen der theoretischen Elektrotechnik",
+   "number": "ETechn-1500-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jost Adam",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Jost Adam",
+        "Hilke Nauditt-Ruppel"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69906&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24354",
+    "key": true
+   },
+   "titleEn": "Fundamentals of Theoretical Electrical Engineering",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69907",
+   "title": "Grundlagen der theoretischen Elektrotechnik",
+   "number": "ETechn-1500-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Jost Adam",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Jost Adam",
+        "Hilke Nauditt-Ruppel"
+       ],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69907&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24354",
+    "key": true
+   },
+   "titleEn": "Fundamentals of Theoretical Electrical Engineering",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "59241",
+   "title": "SPS Programmierung nach IEC 61131-3",
+   "number": "Inform-2840-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "In Raum 2107, Labor im Fachgebiet Rechnerarchitektur und SystemprogrammierungInteressierte wenden sich bitte an Herrn Dr. Schwarz unter sps_plc_prog@uni-kassel.de. Eine Anmeldung kann ausschließlich per E-Mail erfolgen.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59241&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23596",
+    "key": true
+   },
+   "titleEn": "PLC Programming According to IEC 61131-3",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "59242",
+   "title": "SPS Programmierung nach IEC 61131-3",
+   "number": "Inform-2840-V2",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Michael Schwarz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "In Raum 2107, Labor im Fachgebiet Rechnerarchitektur und Systemprogrammierung Interessierte wenden sich bitte an Herrn Dr. Schwarz unter sps_plc_prog@uni-kassel.de. Eine Anmeldung kann ausschließlich per E-Mail erfolgen",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59242&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23596",
+    "key": true
+   },
+   "titleEn": "PLC Programming According to IEC 61131-3",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69124",
+   "title": "Arbeits- und Organisationspsychologie 2 (Work and Organizational Psychology)",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. habil. Oliver Sträter",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "https://moodle.uni-kassel.de/enrol/index.php?id=23427",
+       "instructors": [
+        "Prof. Dr. habil. Oliver Sträter"
+       ],
+       "room": "Hörsaal 5 (Raum 1101) (Moritzstr. 18 Campus Center)"
+      }
+     ],
+     "lang": "de"
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69124&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23427",
+    "key": false
+   },
+   "titleEn": "Arbeits- und Organisationspsychologie 2 (Work and Organizational Psychology)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69955",
+   "title": "Matlab Fundamentals",
+   "number": "ETechn-4110-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69955&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24715",
+    "key": true
+   },
+   "titleEn": "Matlab Fundamentals",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69956",
+   "title": "Matlab Fundamentals",
+   "number": "ETchn-4110-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Zonglin Liu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 1,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-28"
+       ],
+       "note": "Die Anmeldung zur Lehrveranstaltung in EXA ist erforderlich bis zum 12.10.2026.",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69956&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24715",
+    "key": true
+   },
+   "titleEn": "Matlab Fundamentals",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

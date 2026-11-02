@@ -1,0 +1,75 @@
+{
+  "summary": "The 2020 amendment of the 2014 examination regulations rewrites section 7 (2): 84 ECTS compulsory basic phase, 57 ECTS compulsory main phase, 12 ECTS environmental engineering electives, 9 ECTS engineering electives, a 16-ECTS engineering internship, three 6-ECTS key-competency modules (interdisciplinary, law, economics) and the 14-ECTS thesis (210 ECTS). An approved study plan is required for both elective blocks (section 7 (5)). Unamended 2014 section 7 (4) and the study plan still print 87, 15 and 12 (2x6) credits and an 11-credit thesis; the 2020 section 7 (2) figures are the binding composition.",
+  "categories": [
+    {
+      "id": "Umweltingenieurwesen Schwerpunkt",
+      "group": "area",
+      "name": "Environmental engineering electives",
+      "nameDe": "Wahlpflicht Umweltingenieurwesen Schwerpunkt",
+      "short": "WP Env. eng.",
+      "count": 1,
+      "ects": 12,
+      "exclude": [
+        "Verkehrstechnik I"
+      ],
+      "note": "12 ECTS from this area under the 2020 amendment of section 7 (2). Verkehrstechnik I is an engineering elective in study plan B3 and does not count here. An approved study plan is required (section 7 (5))."
+    },
+    {
+      "id": "Ingenieurwissenschaften Ergänzung",
+      "group": "anyOf",
+      "name": "Engineering electives",
+      "nameDe": "Wahlpflicht Ingenieurwissenschaften",
+      "short": "WP Engineering",
+      "count": 1,
+      "ects": 9,
+      "options": [
+        {
+          "type": "area",
+          "id": "Ingenieurwissenschaften Ergänzung"
+        },
+        {
+          "type": "module",
+          "id": "Verkehrstechnik I"
+        }
+      ],
+      "note": "9 ECTS under the 2020 amendment of section 7 (2), from this area or Verkehrstechnik I. The 2014 study-plan line of 2x6 credits belongs to the replaced 12-credit total. An approved study plan is required (section 7 (5))."
+    },
+    {
+      "id": "Schlüsselkompetenzen (fachübergreifend)",
+      "group": "module",
+      "name": "Key competencies (interdisciplinary)",
+      "nameDe": "Schlüsselkompetenzen (fachübergreifend)",
+      "short": "Key comp. general",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS additive interdisciplinary key competencies, required by the 2020 amendment of section 7 (2). The amendment states no separate course list for this block."
+    },
+    {
+      "id": "Schlüsselkompetenzen (Recht)",
+      "group": "module",
+      "name": "Key competencies (law)",
+      "nameDe": "Schlüsselkompetenzen (Recht)",
+      "short": "Key comp. law",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS. Einführung in das Umweltrecht (3 ECTS) is compulsory and one further 3-ECTS course is chosen from the law catalogue. This semester only the umbrella module is offered."
+    },
+    {
+      "id": "Schlüsselkompetenzen (Wirtschaft)",
+      "group": "module",
+      "name": "Key competencies (economics)",
+      "nameDe": "Schlüsselkompetenzen (Wirtschaft)",
+      "short": "Key comp. econ.",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS in any combination from the economics catalogue. Grundlagen wissenschaftlichen Schreibens may be used in law or in economics, only once. This semester only the umbrella module is offered."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-umweltingenieurwesen",
+  "po": "Bachelor Umweltingenieurwesen (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=2989&token=35f726cc15cf33dfdfd9225b39f291ffdacff0a1",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8908&token=3d37d48d434e1ba69d23dd480f1227dd0fa12e84"
+  ]
+}

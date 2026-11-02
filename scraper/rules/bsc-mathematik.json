@@ -1,0 +1,69 @@
+{
+  "summary": "PO 2020 section 7 (FPO of 22 January 2020, in force from winter 2020/21): compulsory modules (analysis, linear algebra, numerics, stochastics, computer science, proseminar, seminar, key competencies), two 10-ECTS master-level electives from two different areas, one 24-ECTS application specialization, a 10-ECTS internship and the thesis.",
+  "categories": [
+    {
+      "id": "wp-master",
+      "group": "anyOf",
+      "count": 2,
+      "ects": 20,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Algebra"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Analysis"
+        },
+        {
+          "type": "module",
+          "id": "Numerik Gewöhnlicher Differentialgleichungen"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Stochastik"
+        }
+      ],
+      "name": "Two master-level electives",
+      "nameDe": "Zwei Wahlpflichtmodule aus dem Masterstudiengang",
+      "short": "Master electives",
+      "note": "Two 10-ECTS modules (20 ECTS) from two different areas (Analysis, Algebra, Numerik, Stochastik). Numerik is only Numerik Gewohnlicher Differentialgleichungen; Mass- und Wahrscheinlichkeitstheorie counts only as Stochastik. The checklist does not check that the two areas differ."
+    },
+    {
+      "id": "application-spec",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > ASP 2 Physik"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > ASP 3 Wirtschaftswissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > ASP 4 Nanostrukturwissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Informatik"
+        }
+      ],
+      "name": "One application specialization",
+      "nameDe": "Anwendungsschwerpunkt (eine Wahl)",
+      "short": "Application spec.",
+      "note": "24 ECTS in exactly one specialization. Physik: 3 modules, Experimentalphysik I (8 ECTS, compulsory) plus two further 8-ECTS modules. Wirtschaftswissenschaften: 4 modules, BWL II and VWL I (6 ECTS each, compulsory) plus two further 6-ECTS modules (10 offered). Nanostrukturwissenschaften: Einfuhrung in die Nanostrukturwissenschaften (9 ECTS, compulsory) plus three further 5-ECTS modules (6 offered). Informatik: 24 ECTS, including Algorithmen und Datenstrukturen (6 ECTS, compulsory, not offered this semester) and at least one of Berechenbarkeit und Komplexitat or Programmierung und Modellierung, plus further electives (10 offered). The checker cannot force those inner compulsory or either-or modules."
+    }
+  ],
+  "pickOne": [
+    "Seminar"
+  ],
+  "slug": "bsc-mathematik",
+  "po": "Bachelor Mathematik (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8898&token=d9f0fe49c07a48e146772331a9fde7980135fbcc"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "bsc-berufliche-schulen-spanisch-nebenfach",
+  "po": "Bachelor Berufliche Schulen Spanisch (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26960&token=5a1d074b85916daccbc38a2d8bb41ab9fa51349d"
+  ],
+  "summary": "The Spanish second subject in the bachelor programs Berufspädagogik and Wirtschaftspädagogik (PO 2024) has four compulsory modules worth 22 ECTS: Sprachpraxis Spanisch Basismodul I (4), Sprachpraxis Spanisch Basismodul II (4), Fachdidaktik Basiswissen (6), and Fachdidaktik Aufbaumodul (Sprachlehr- und -lernforschung) (8). In the elective area, students complete two of three basic modules, each worth 6 ECTS (12 ECTS in total): Spanish linguistics, literary studies, and regional and cultural studies. All three elective modules are offered in winter 2026/27.",
+  "pickOne": [],
+  "categories": [
+    {
+      "id": "wahlpflicht-basismodule",
+      "group": "anyOf",
+      "name": "Elective basic modules",
+      "nameDe": "Wahlpflichtmodule",
+      "short": "2 of 3 basic modules",
+      "count": 2,
+      "ects": 12,
+      "note": "Section 5 requires two modules in the elective area, chosen from Spanische Sprachwissenschaft Basismodul, Spanische Literaturwissenschaft Basismodul, and Spanische Landes- und Kulturwissenschaften Basismodul (6 ECTS each).",
+      "options": [
+        {
+          "type": "module",
+          "id": "Spanische Sprachwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Spanische Literaturwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Spanische Landes- und Kulturwissenschaften Basismodul"
+        }
+      ]
+    }
+  ]
+}

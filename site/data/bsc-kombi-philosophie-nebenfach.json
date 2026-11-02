@@ -1,0 +1,2649 @@
+{
+ "generatedAt": "2026-10-19T21:03:46.030Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor-Kombinationsprüfung Philosophie (2021) Nebenfach",
+ "programEn": "Bachelor Combined Degree Philosophy (Minor) (2021)",
+ "slug": "bsc-kombi-philosophie-nebenfach",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "ethics-and-society",
+   "modules": [
+    "m19141",
+    "m19143",
+    "m19155"
+   ],
+   "text": {
+    "tr": [
+     "Etik ve toplum",
+     "Ahlaki taleplerin gerekçesini, ahlak ile hukuk arasındaki bağı, iyi ya da anlamlı bir yaşam kavramını ve çevre, toplum ile eleştiri üzerine felsefi soruları öğrenirsin."
+    ],
+    "en": [
+     "Ethics and society",
+     "You learn how moral demands are justified, how morality relates to law, what a good or meaningful life is, and which philosophical questions environment, society, and critique raise."
+    ],
+    "de": [
+     "Ethik und Gesellschaft",
+     "Du lernst die Begründung moralischer Forderungen, den Zusammenhang von Moral und Recht, den Begriff des guten oder sinnvollen Lebens und philosophische Fragen zu Umwelt, Gesellschaft und Kritik."
+    ]
+   }
+  },
+  {
+   "id": "theoretical-philosophy",
+   "modules": [
+    "m19152",
+    "m19149",
+    "m19140"
+   ],
+   "text": {
+    "tr": [
+     "Teorik felsefe",
+     "Teorik felsefenin sorunlarını ve estetik ile dil felsefesinin, o dönemde egemen olan rasyonalizmin eleştirisinden nasıl doğduğunu öğrenirsin."
+    ],
+    "en": [
+     "Theoretical philosophy",
+     "You learn the problems of theoretical philosophy and how aesthetics and the philosophy of language arose from a critique of the rationalism that then dominated it."
+    ],
+    "de": [
+     "Theoretische Philosophie",
+     "Du lernst die Probleme der theoretischen Philosophie und wie Ästhetik und Sprachphilosophie aus einer Kritik des damals dominanten Rationalismus entstanden sind."
+    ]
+   }
+  },
+  {
+   "id": "aesthetics-and-language",
+   "modules": [
+    "m19140",
+    "m19154",
+    "m19152"
+   ],
+   "text": {
+    "tr": [
+     "Estetik ve dil felsefesi",
+     "Estetik ile dil felsefesini, on sekizinci yüzyılın ortasından beri teorik felsefenin sorunlarından ve rasyonalizm eleştirisinden doğan alanlar olarak öğrenirsin."
+    ],
+    "en": [
+     "Aesthetics and language",
+     "You learn aesthetics and the philosophy of language as fields that, since the middle of the eighteenth century, grew out of problems of theoretical philosophy and the critique of rationalism."
+    ],
+    "de": [
+     "Ästhetik und Sprache",
+     "Du lernst Ästhetik und Sprachphilosophie als Gebiete, die seit der Mitte des achtzehnten Jahrhunderts aus Problemen der theoretischen Philosophie und aus der Kritik des Rationalismus hervorgegangen sind."
+    ]
+   }
+  },
+  {
+   "id": "history-of-philosophy",
+   "modules": [
+    "m19154",
+    "m19140",
+    "m19141"
+   ],
+   "text": {
+    "tr": [
+     "Felsefe tarihi",
+     "Felsefe tarihinde ilerlersin, estetik ile dil felsefesinin on sekizinci yüzyılın ortasında rasyonalizm eleştirisinden nasıl doğduğunu izlersin ve eylem, ahlak ile iyi yaşam üzerine klasik metinleri çözümlemeyi öğrenirsin."
+    ],
+    "en": [
+     "History of philosophy",
+     "You deepen the history of philosophy, follow how aesthetics and the philosophy of language arose in the middle of the eighteenth century from the critique of rationalism, and analyse classical texts on action, morality, and the good life."
+    ],
+    "de": [
+     "Geschichte der Philosophie",
+     "Du vertiefst die Geschichte der Philosophie, verfolgst, wie Ästhetik und Sprachphilosophie in der Mitte des achtzehnten Jahrhunderts aus der Kritik des Rationalismus entstanden sind, und analysierst klassische Texte zum Handeln, zur Moral und zum guten Leben."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "grundlagen",
+   "group": "anyOf",
+   "count": 2,
+   "options": [
+    {
+     "type": "module",
+     "id": "Praktische Philosophie"
+    },
+    {
+     "type": "module",
+     "id": "Theoretische Philosophie"
+    }
+   ],
+   "name": "Two basic modules",
+   "nameDe": "Zwei Wahlpflichtmodule aus BA02 bis BA04",
+   "short": "Basic modules",
+   "note": "Two 10-ECTS modules from Praktische, Theoretische Philosophie and Geschichte der Philosophie",
+   "nameTr": "İki temel modül",
+   "noteTr": "Praktische Philosophie, Theoretische Philosophie ve Geschichte der Philosophie alanlarından 10'ar ECTS'lik iki modül",
+   "noteDe": "Zwei Module zu je 10 ECTS aus den Bereichen Praktische Philosophie, Theoretische Philosophie und Geschichte der Philosophie"
+  },
+  {
+   "id": "vertiefung",
+   "group": "anyOf",
+   "count": 1,
+   "options": [
+    {
+     "type": "module",
+     "id": "Geschichte der Philosophie (Vertiefung)"
+    },
+    {
+     "type": "module",
+     "id": "Praktische Philosophie (Vertiefung)"
+    },
+    {
+     "type": "module",
+     "id": "Theoretische Philosophie (Vertiefung)"
+    },
+    {
+     "type": "module",
+     "id": "Ästhetik und Sprachphilosophie"
+    },
+    {
+     "type": "module",
+     "id": "Umwelt-Kritik-Gesellschaft"
+    }
+   ],
+   "name": "One advanced module",
+   "nameDe": "Ein Wahlpflichtmodul aus BA06 bis BA10",
+   "short": "Advanced module",
+   "note": "One 12-ECTS module",
+   "nameTr": "Bir ileri modül",
+   "noteTr": "Bir adet 12 ECTS'lik modül",
+   "noteDe": "Ein Modul im Umfang von 12 ECTS"
+  }
+ ],
+ "rulesSummary": {
+  "en": "PO of 09.06.2021, section 11: the minor requires the propaedeutics module BA01, two of the basic modules BA02 to BA04 and one advanced module from BA06 to BA10.",
+  "tr": "09.06.2021 tarihli PO, madde 11: yan dal, propedötik modül BA01'i, BA02-BA04 temel modüllerinden ikisini ve BA06-BA10 arasından bir ileri modülü gerektirir.",
+  "de": "PO vom 09.06.2021, § 11: das Nebenfach erfordert das Propädeutikmodul BA01, zwei der Basismodule BA02 bis BA04 und ein Aufbaumodul aus BA06 bis BA10."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12651&token=ee81779fbff0e57e772daa8dbeba458311a6a6f3"
+ ],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Die Veranstaltung beginnt am 03.11.": {
+   "en": "The course begins on 03.11.",
+   "tr": "Etkinlik 03.11 tarihinde başlar."
+  },
+  "Das Seminar findet in der Henschelstraße 2, Raum 1122 statt.": {
+   "en": "The seminar takes place at Henschelstraße 2, Room 1122.",
+   "tr": "Seminer, Henschelstraße 2, oda 1122'de gerçekleşir."
+  },
+  "Die Veranstaltung beginnt am 29.10.Die letzte Sitzung findet am 18.02. via Zoom statt.": {
+   "en": "The course begins on 29.10. The last session takes place on 18.02. via Zoom.",
+   "tr": "Etkinlik 29.10 tarihinde başlar. Son oturum 18.02. tarihinde Zoom üzerinden gerçekleşir."
+  },
+  "Das Seminar findet im Institutsraum (Henschelstr. 2, R.1122) statt. ​The seminar will take place in the department room (Henschelstr. 2, Room 1122).": {
+   "en": "The seminar will take place in the department room (Henschelstr. 2, Room 1122).",
+   "tr": "Seminer, bölüm odasında (Henschelstr. 2, oda 1122) gerçekleşecektir."
+  },
+  "Mosenthalstr. 8, R. 3001": {
+   "en": "Mosenthalstr. 8, Room 3001",
+   "tr": "Mosenthalstr. 8, Oda 3001"
+  },
+  "Foyer Schauspielhaus, Friedrichsplatz 15": {
+   "en": "Schauspielhaus foyer, Friedrichsplatz 15",
+   "tr": "Schauspielhaus fuayesi, Friedrichsplatz 15"
+  },
+  "KIS, Mosenthalstr. 8, R. 3231": {
+   "en": "KIS, Mosenthalstr. 8, Room 3231",
+   "tr": "KIS, Mosenthalstr. 8, Oda 3231"
+  },
+  "Foyer Schauspielhaus, Friedrichsplatz 15 (Termin ist in der vorlesungsfreien Zeit, das besprechen wir im Seminar)": {
+   "en": "Schauspielhaus foyer, Friedrichsplatz 15 (The date is during the lecture-free period; we will discuss this in the seminar)",
+   "tr": "Schauspielhaus fuayesi, Friedrichsplatz 15 (Tarih derslerin olmadığı döneme denk geliyor; bunu seminerde konuşacağız)"
+  },
+  "Die Veranstaltung findet im KIS-Seminarraum [Kassel Institut 3231] statt.": {
+   "en": "The event takes place in the KIS seminar room [Kassel Institut 3231].",
+   "tr": "Etkinlik KIS seminer odasında [Kassel Institut 3231] yapılıyor."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m19140",
+   "title": "Ästhetik und Sprachphilosophie",
+   "titleEn": "Aesthetics and Philosophy of Language",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "vertiefung"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 3,
+    "fixed": []
+   },
+   "courseIds": [
+    "70166",
+    "73624",
+    "69775",
+    "69758",
+    "74277"
+   ]
+  },
+  {
+   "id": "m19155",
+   "title": "Umwelt-Kritik-Gesellschaft",
+   "titleEn": "Environment-Critique-Society",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "vertiefung"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69776",
+    "69775",
+    "69505",
+    "69819",
+    "69800",
+    "74283",
+    "74277",
+    "70254"
+   ]
+  },
+  {
+   "id": "m19154",
+   "title": "Geschichte der Philosophie (Vertiefung)",
+   "titleEn": "History of Philosophy (Advanced)",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "vertiefung"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69507",
+    "70161",
+    "71001",
+    "73624",
+    "69491",
+    "69492",
+    "69493",
+    "69505",
+    "69497"
+   ]
+  },
+  {
+   "id": "m19158",
+   "title": "Philosophisches Propädeutikum",
+   "titleEn": "Philosophical Propaedeutics",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69489"
+   ]
+  },
+  {
+   "id": "t:Philosophie - Einführung für Erstsemester durch die Lehrenden",
+   "title": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+   "titleEn": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "69207"
+   ]
+  },
+  {
+   "id": "m19141",
+   "title": "Praktische Philosophie",
+   "titleEn": "Practical Philosophy",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "grundlagen"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 3,
+    "fixed": []
+   },
+   "courseIds": [
+    "69507",
+    "69774",
+    "71001",
+    "73624",
+    "69501"
+   ]
+  },
+  {
+   "id": "m19143",
+   "title": "Praktische Philosophie (Vertiefung)",
+   "titleEn": "Practical Philosophy (Advanced)",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "vertiefung"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69507",
+    "69774",
+    "71001",
+    "70052",
+    "73624",
+    "69775",
+    "69758"
+   ]
+  },
+  {
+   "id": "m19152",
+   "title": "Theoretische Philosophie",
+   "titleEn": "Theoretical Philosophy",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "grundlagen"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "70161",
+    "71001",
+    "69778",
+    "69501",
+    "69812",
+    "69497"
+   ]
+  },
+  {
+   "id": "m19149",
+   "title": "Theoretische Philosophie (Vertiefung)",
+   "titleEn": "Theoretical Philosophy (Advanced)",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "vertiefung"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69776",
+    "70161",
+    "71001",
+    "70052",
+    "69758",
+    "69492",
+    "69505",
+    "69497",
+    "69819"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "69489",
+   "title": "Philosophisches Propädeutikum",
+   "number": "Phi-0000-V-046",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Dirk Stederoth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Dirk Stederoth"
+       ],
+       "room": "Raum 1140 (Schreibbretter) (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69489&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24639",
+    "key": false
+   },
+   "titleEn": "Philosophical Propaedeutics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69507",
+   "title": "Staatstheorien der Neuzeit – Hobbes, Locke und Rousseau",
+   "number": "Phi-0000-S-75",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Carsten Kries",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Carsten Kries"
+       ],
+       "room": "Raum 2304 (Diagonale 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69507&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24919",
+    "key": true
+   },
+   "titleEn": "Theories of the State in the Modern Era – Hobbes, Locke and Rousseau",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69774",
+   "title": "Philosophie der Künstlichen Intelligenz.",
+   "number": "Phi-0000-S-68",
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Alexandra Colligs",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Veranstaltung beginnt am 03.11.",
+       "instructors": [
+        "Alexandra Colligs"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69774&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24465",
+    "key": false
+   },
+   "titleEn": "Philosophy of Artificial Intelligence.",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71001",
+   "title": "Platons Politeia",
+   "number": "Phi-0000-S-72",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Gottfried Heinemann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Gottfried Heinemann"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71001&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24529",
+    "key": false
+   },
+   "titleEn": "Plato's Politeia",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "73624",
+   "title": "Adornos gesellschaftstheoretische Essays",
+   "number": "Phi-0000-S-46",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Sebastian Staab",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-28"
+       ],
+       "note": "Das Seminar findet in der Henschelstraße 2, Raum 1122 statt.",
+       "instructors": [
+        "Sebastian Staab"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73624&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Adorno's Essays in Social Theory",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69501",
+   "title": "Körper, Gefühle, Welt: Eine leibliche Perspektive",
+   "number": "Phi-0000-S-62",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Francesca Michelini",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Francesca Michelini"
+       ],
+       "room": "Raum 1140 (Schreibbretter) (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69501&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "25009",
+    "key": false
+   },
+   "titleEn": "Body, Feelings, World: A Lived-Body Perspective",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70161",
+   "title": "Der Streit um den Raum (Platon, Aristoteles, Bruno, Leibniz, Clarke)",
+   "number": "Phi-0000-S-48",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Angelika Bönker-Vallon",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Angelika Bönker-Vallon"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Angelika Bönker-Vallon"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-31",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Angelika Bönker-Vallon"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70161&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23779",
+    "key": false
+   },
+   "titleEn": "The Dispute over Space (Plato, Aristotle, Bruno, Leibniz, Clarke)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69778",
+   "title": "Der Zusammenhang von Gehirn und Bewusstsein bei Henri Bergson",
+   "number": "Phi-0000-S-49",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Ingeborg Mayer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Veranstaltung beginnt am 29.10.Die letzte Sitzung findet am 18.02. via Zoom statt.",
+       "instructors": [
+        "Ingeborg Mayer"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69778&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24269",
+    "key": false
+   },
+   "titleEn": "The Relationship between Brain and Consciousness in Henri Bergson",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69812",
+   "title": "Vorlesung Einführung Theoretische Philosophie",
+   "number": "Phi-0000-V-78",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Dr. Kristian Köchy",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Dr. Kristian Köchy"
+       ],
+       "room": "Raum 0401 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69812&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Lecture: Introduction to Theoretical Philosophy",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69497",
+   "title": "Heidegger und die Metaphysik",
+   "number": "Phi-0000-S-57",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Carsten Kries",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Carsten Kries"
+       ],
+       "room": "Raum 0419 (Nora-Platiel 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69497&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24918",
+    "key": false
+   },
+   "titleEn": "Heidegger and Metaphysics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70052",
+   "title": "On Friendship: Being Among Others",
+   "number": "Phi-0000-S-66",
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Dr. Önder Özden",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Önder Özden"
+       ],
+       "room": "Raum 0419 (Nora-Platiel 8)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Önder Özden"
+       ],
+       "room": "Raum 2111 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Önder Özden"
+       ],
+       "room": "Raum 2111 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Önder Özden"
+       ],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2027-02-06",
+       "endDate": "2027-02-06",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Önder Özden"
+       ],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70052&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24323",
+    "key": false
+   },
+   "titleEn": "On Friendship: Being Among Others",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69775",
+   "title": "Philosophie und Film III: Gibt es eine feministische (Film-)Ästhetik?",
+   "number": "Phi-0000-S-69",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Alexandra Colligs",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-02-06",
+       "endDate": "2027-02-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Alexandra Colligs"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-02-13",
+       "endDate": "2027-02-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Alexandra Colligs"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69775&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24466",
+    "key": false
+   },
+   "titleEn": "Philosophy and Film III: Is there a feminist (film) aesthetic?",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69758",
+   "title": "«I would prefer not to». Melvilles Bartleby und Nicht-Handeln als Widerstand.",
+   "number": "Phi-0000-S-58",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Francesca Michelini",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Francesca Michelini"
+       ],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69758&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "25007",
+    "key": false
+   },
+   "titleEn": "«I would prefer not to». Melville's Bartleby and Non-Action as Resistance.",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69776",
+   "title": "Philosophy of Technology: Classic and Contemporary Readings",
+   "number": "Phi-0000-S-71",
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Giuseppe Flavio Artese",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Das Seminar findet im Institutsraum (Henschelstr. 2, R.1122) statt. ​The seminar will take place in the department room (Henschelstr. 2, Room 1122).",
+       "instructors": [
+        "Giuseppe Flavio Artese"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69776&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Philosophy of Technology: Classic and Contemporary Readings",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69492",
+   "title": "Hegels Logik II",
+   "number": "Phi-0000-S-55",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Dirk Stederoth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Dirk Stederoth"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69492&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24638",
+    "key": false
+   },
+   "titleEn": "Hegel's Logic II",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69505",
+   "title": "Plessners Stufen des Organischen",
+   "number": "Phi-0000-S-73",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Dr. Kristian Köchy",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Dr. Kristian Köchy"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69505&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24278",
+    "key": true
+   },
+   "titleEn": "Plessner's Levels of the Organic",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69819",
+   "title": "Jonas Organismus und Freiheit",
+   "number": "Phi-0000-S-59",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Dr. Kristian Köchy",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Dr. Kristian Köchy"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69819&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24277",
+    "key": true
+   },
+   "titleEn": "Jonas Organism and Freedom",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69491",
+   "title": "Forschungsseminar: Lévi-Strauss: Das wilde Denken",
+   "number": "Phi-0000-S-51",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Dirk Stederoth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Dirk Stederoth"
+       ],
+       "room": "Raum 2304 (Diagonale 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69491&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24637",
+    "key": false
+   },
+   "titleEn": "Research Seminar: Lévi-Strauss: The Savage Mind",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69493",
+   "title": "Hegels Philosophie der Religion",
+   "number": "Phi-0000-S-56",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Dirk Stederoth, Dr. Helmut Schneider",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-29",
+       "endDate": "2026-10-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Helmut Schneider"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Helmut Schneider"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Helmut Schneider"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Helmut Schneider"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Helmut Schneider"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69493&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24640",
+    "key": false
+   },
+   "titleEn": "Hegel's Philosophy of Religion",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "70166",
+   "title": "Gegenwartskunst",
+   "number": "Phi-0000-S-52",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Thomas Lassner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Thomas Lassner"
+       ],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Thomas Lassner"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Thomas Lassner"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70166&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Contemporary Art",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74277",
+   "title": "Erzählen und Forschen. Eine ko-kreative Exploration am Staatstheater Kassel",
+   "number": "SuS-P3-SE11",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Martin Böhnert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-10-19",
+       "cancelled": [],
+       "note": "Mosenthalstr. 8, R. 3001",
+       "instructors": [
+        "Dr. Martin Böhnert"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Foyer Schauspielhaus, Friedrichsplatz 15",
+       "instructors": [
+        "Dr. Martin Böhnert"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-09",
+       "endDate": "2026-11-09",
+       "cancelled": [],
+       "note": "Mosenthalstr. 8, R. 3001",
+       "instructors": [
+        "Dr. Martin Böhnert"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "Foyer Schauspielhaus, Friedrichsplatz 15",
+       "instructors": [
+        "Dr. Martin Böhnert"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2027-01-25",
+       "endDate": "2027-01-25",
+       "cancelled": [],
+       "note": "KIS, Mosenthalstr. 8, R. 3231",
+       "instructors": [
+        "Dr. Martin Böhnert"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2027-02-27",
+       "endDate": "2027-02-27",
+       "cancelled": [],
+       "note": "Foyer Schauspielhaus, Friedrichsplatz 15 (Termin ist in der vorlesungsfreien Zeit, das besprechen wir im Seminar)",
+       "instructors": [
+        "Dr. Martin Böhnert"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74277&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23937",
+    "key": false
+   },
+   "titleEn": "Narrating and Researching. A Co-Creative Exploration at the Staatstheater Kassel",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69800",
+   "title": "Nachhaltigkeit Seminar Winter",
+   "number": "Phi-0000-S-65",
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Andra-Ioana Horcea-Milcu",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Note for AGES students: This course is the ‘Philosophy of Sciences’ seminar.",
+       "instructors": [
+        "Prof. Dr. Andra-Ioana Horcea-Milcu"
+       ],
+       "room": "Raum 1219 (Nora-Platiel 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69800&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Sustainability Seminar Winter",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74283",
+   "title": "Environ-mental Reflexivity",
+   "number": "Phi-0000-S-50",
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Arcadie Botnaru",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Arcadie Botnaru"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74283&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24623",
+    "key": false
+   },
+   "titleEn": "Environ-mental Reflexivity",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70254",
+   "title": "Transformations- und Entwicklungsmodelle verstehen und einsetzen - Navigationshilfen für Change-Agents",
+   "number": "Phi-0000-S-76",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Christoph Schösser",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Veranstaltung findet im KIS-Seminarraum [Kassel Institut 3231] statt.",
+       "instructors": [
+        "Christoph Schösser"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70254&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Understanding and Applying Transformation and Development Models - Navigation Aids for Change Agents",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69207",
+   "title": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+   "number": "Kultur-0106-Einf.L.IfP",
+   "type": "Einf. Veranstaltung",
+   "language": null,
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Dr. Kristian Köchy"
+       ],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-13",
+       "endDate": "2026-10-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Dirk Stederoth"
+       ],
+       "room": "Raum 0112 (Arnold-Bode 8)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-13",
+       "endDate": "2026-10-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Dirk Stederoth"
+       ],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Philip Hogh"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-12",
+       "endDate": "2026-10-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Dr. Kristian Köchy"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Dirk Stederoth"
+       ],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69207&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Philosophie - Einführung für Erstsemester durch die Lehrenden",
+   "typeEn": "Einf. Veranstaltung"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

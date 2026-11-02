@@ -1,0 +1,2531 @@
+{
+ "generatedAt": "2026-10-19T21:04:01.870Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt für Förderpädagogik Mathematik (2024)",
+ "programEn": "Teacher Training Special Education: Mathematics (2024)",
+ "slug": "la-foe-mathematik",
+ "degree": "lehramt",
+ "themes": false,
+ "categories": [],
+ "rulesSummary": null,
+ "rulesSources": [],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Das Seminar wird als Blockveranstaltung stattfinden. Die Details werden noch bekanntgegeben.Vorbesprechung für zugelassene Studierende: Mittwoch, 30.09.2026, 17:00 Uhr, Raum 1403.": {
+   "en": "The seminar will take place as a block course. The details will be announced later. Kick-off meeting for admitted students: Wednesday, 30.09.2026, 17:00 Uhr, Room 1403.",
+   "tr": "Seminer blok etkinlik olarak gerçekleşecektir. Ayrıntılar daha sonra duyurulacaktır. Kabul edilen öğrenciler için ön görüşme: Çarşamba, 30.09.2026, 17:00 Uhr, oda 1403."
+  },
+  "Die verpflichtende Vorbesprechung findet per Zoom am Mittwoch, den 30.09.2026 um 9h30 statt. Zugelassene Studierende werden zum Moodle-Kurs eingeladen und finden dort den Zoom-Link für die Vorbesprechung.": {
+   "en": "The mandatory kick-off meeting takes place via Zoom on Wednesday, 30.09.2026 at 9h30. Admitted students will be invited to the Moodle course and will find the Zoom link for the kick-off meeting there.",
+   "tr": "Zorunlu ön görüşme, Çarşamba günü 30.09.2026 tarihinde saat 9h30'da Zoom üzerinden gerçekleşir. Kabul edilen öğrenciler Moodle kursuna davet edilir ve ön görüşmenin Zoom bağlantısını orada bulur."
+  },
+  "Die verpflichtende Vorbesprechung findet per Zoom am Mittwoch, den 30.09.2026 um 10h30 statt. Zugelassene Studierende werden zum Moodle-Kurs eingeladen und finden dort den Zoom-Link für die Vorbesprechung.": {
+   "en": "The mandatory kick-off meeting takes place via Zoom on Wednesday, 30.09.2026 at 10h30. Admitted students will be invited to the Moodle course and will find the Zoom link for the kick-off meeting there.",
+   "tr": "Zorunlu ön görüşme, Çarşamba günü 30.09.2026 tarihinde saat 10h30'da Zoom üzerinden gerçekleşir. Kabul edilen öğrenciler Moodle kursuna davet edilir ve ön görüşmenin Zoom bağlantısını orada bulur."
+  },
+  "Die verpflichtende Vorbesprechung findet per Zoom am Mittwoch, den 30.09.2026 um 14:00 Uhr statt. Zugelassene Studierende werden zum Moodle-Kurs eingeladen und finden dort den Zoom-Link für die Vorbesprechung.": {
+   "en": "The mandatory kick-off meeting takes place via Zoom on Wednesday, 30.09.2026 at 14:00 Uhr. Admitted students will be invited to the Moodle course and will find the Zoom link for the kick-off meeting there.",
+   "tr": "Zorunlu ön görüşme, Çarşamba günü 30.09.2026 tarihinde saat 14:00 Uhr'da Zoom üzerinden gerçekleşir. Kabul edilen öğrenciler Moodle kursuna davet edilir ve ön görüşmenin Zoom bağlantısını orada bulur."
+  },
+  "Interessierte Studierende der Lehrämter L1/L2/L3/L4/L5 und des Studiengangs empirische Bildungsforschung können bei Interesse bis zum 01.10.2026 eine Mail an eichler@mathematik.uni-kassel.de und dcstylianou@mathematik.de mit Motivationsschreiben für das Seminar und einer Notenübersicht senden.": {
+   "en": "Interested students of the teaching degree programs L1/L2/L3/L4/L5 and of the degree program in empirical educational research may, if interested, send an email by 01.10.2026 to eichler@mathematik.uni-kassel.de and dcstylianou@mathematik.de with a letter of motivation for the seminar and a grade overview.",
+   "tr": "L1/L2/L3/L4/L5 öğretmenlik programları ile ampirik eğitim araştırması programının ilgili öğrencileri, ilgilenmeleri halinde 01.10.2026 tarihine kadar eichler@mathematik.uni-kassel.de ve dcstylianou@mathematik.de adreslerine seminer için bir motivasyon yazısı ve bir not özeti içeren bir e-posta gönderebilir."
+  },
+  "Studienseminar": {
+   "en": "Study seminar",
+   "tr": "Çalışma semineri"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m18259",
+   "title": "Modul 1 Arithmetik und Geometrie GS",
+   "titleEn": "Module 1 Arithmetic and Geometry GS",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70525",
+    "54171"
+   ]
+  },
+  {
+   "id": "m18289",
+   "title": "Modul 3 Didaktische und fachliche Grundlagen des Mathematiklernens in der Grundschule",
+   "titleEn": "Module 3 Didactic and Subject-Matter Fundamentals of Mathematics Learning in Primary School",
+   "code": null,
+   "ects": 11,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "54213",
+     "54210",
+     "54195",
+     "54746"
+    ]
+   },
+   "courseIds": [
+    "54213",
+    "54195",
+    "54746",
+    "54210",
+    "54204",
+    "54608",
+    "54618",
+    "54619"
+   ]
+  },
+  {
+   "id": "m18284",
+   "title": "Modul 5 Diagnostik und Fördern im Mathematikunterricht der Grundschule",
+   "titleEn": "Module 5 Diagnostics and Support in Mathematics Teaching in Primary School",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "54274",
+    "54194",
+    "54168",
+    "54163",
+    "54737",
+    "54527",
+    "54686",
+    "71823",
+    "54175"
+   ]
+  },
+  {
+   "id": "m18857",
+   "title": "Modul 7 Praxissemester im Fach Mathematik",
+   "titleEn": "Module 7 Practical Semester in the Subject of Mathematics",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "54242",
+    "54249",
+    "54158",
+    "54175",
+    "54153"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "70525",
+   "title": "Arithmetik und Geometrie in der Grundschule (Grundlagen)",
+   "number": "FB1017.4101w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Dorothee Cosima Stylianou",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Dorothee Cosima Stylianou"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70525&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24087",
+    "key": false
+   },
+   "titleEn": "Arithmetic and Geometry in Primary School (Fundamentals)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54171",
+   "title": "Übungen zu Arithmetik und Geometrie in der Grundschule",
+   "number": "FB1017.4102w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Lucia Marchionne, Dr. Dorothee Cosima Stylianou",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.) Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "17:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "11:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "11:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "17:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Lucia Marchionne"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54171&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24087",
+    "key": false
+   },
+   "titleEn": "Exercises for Arithmetic and Geometry in Primary School",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54213",
+   "title": "Didaktik der Geometrie (GS)",
+   "number": "FB1017.4103w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Elisabeth Rathgeb-Schnierer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Rathgeb-Schnierer"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54213&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24133",
+    "key": false
+   },
+   "titleEn": "Didactics of Geometry (GS)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54195",
+   "title": "Didaktik der anwendungsbezogenen Mathematik",
+   "number": "FB1017.4105w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Timo Flückiger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Timo Flückiger"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54195&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23945",
+    "key": false
+   },
+   "titleEn": "Didactics of Application-Oriented Mathematics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54746",
+   "title": "Übungen zu Didaktik der anwendungsbezogenen Mathematik (Mathematische Anwendungen)",
+   "number": "FB1017.4106w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Timo Flückiger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54746&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23945",
+    "key": false
+   },
+   "titleEn": "Exercises for Didactics of Application-Oriented Mathematics (Mathematical Applications)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54210",
+   "title": "Übungen zu Didaktik der Geometrie (GS)",
+   "number": "FB1017.4104w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Elisabeth Rathgeb-Schnierer, Evelyn Timko",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Evelyn Timko"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Evelyn Timko"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Evelyn Timko"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Evelyn Timko"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Evelyn Timko"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Evelyn Timko"
+       ],
+       "room": "Raum 0421 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54210&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Exercises for Didactics of Geometry (GS)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54204",
+   "title": "Fachwissenschaftliches Seminar II",
+   "number": "FB1017.4212w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Sebastian Petersen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Das Seminar wird als Blockveranstaltung stattfinden. Die Details werden noch bekanntgegeben.Vorbesprechung für zugelassene Studierende: Mittwoch, 30.09.2026, 17:00 Uhr, Raum 1403.",
+       "instructors": [
+        "apl. Prof. Dr. Sebastian Petersen"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54204&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject-Matter Seminar II",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54608",
+   "title": "Fachwissenschaftliches Seminar I",
+   "number": "FB1017.4211w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Dorothee Cosima Stylianou",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Die verpflichtende Vorbesprechung findet per Zoom am Mittwoch, den 30.09.2026 um 9h30 statt. Zugelassene Studierende werden zum Moodle-Kurs eingeladen und finden dort den Zoom-Link für die Vorbesprechung.",
+       "instructors": [
+        "Dr. Dorothee Cosima Stylianou"
+       ],
+       "room": "Raum 1245 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54608&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24091",
+    "key": true
+   },
+   "titleEn": "Subject-Matter Seminar I",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54618",
+   "title": "Fachwissenschaftliches Seminar III",
+   "number": "FB1017.4213w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Dorothee Cosima Stylianou",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Die verpflichtende Vorbesprechung findet per Zoom am Mittwoch, den 30.09.2026 um 10h30 statt. Zugelassene Studierende werden zum Moodle-Kurs eingeladen und finden dort den Zoom-Link für die Vorbesprechung.",
+       "instructors": [
+        "Dr. Dorothee Cosima Stylianou"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54618&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24090",
+    "key": true
+   },
+   "titleEn": "Subject-Matter Seminar III",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54619",
+   "title": "Fachwissenschaftliches Seminar IV",
+   "number": "FB1017.4214w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die verpflichtende Vorbesprechung findet per Zoom am Mittwoch, den 30.09.2026 um 14:00 Uhr statt. Zugelassene Studierende werden zum Moodle-Kurs eingeladen und finden dort den Zoom-Link für die Vorbesprechung.",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54619&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23661",
+    "key": false
+   },
+   "titleEn": "Subject-Matter Seminar IV",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54274",
+   "title": "Fachdidaktisches Seminar V",
+   "number": "FB1017.5205w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. i.R. Götz Krummheuer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. i.R. Götz Krummheuer"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. i.R. Götz Krummheuer"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54274&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar V",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54194",
+   "title": "Fachdidaktisches Seminar VII",
+   "number": "FB1017.5207w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Hannelore Sailer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Hannelore Sailer"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Hannelore Sailer"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Hannelore Sailer"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Hannelore Sailer"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Hannelore Sailer"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Hannelore Sailer"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54194&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar VII",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54168",
+   "title": "Fachdidaktisches Seminar IX",
+   "number": "FB1017.5209w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Elisabeth Rathgeb-Schnierer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Rathgeb-Schnierer"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54168&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar IX",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54163",
+   "title": "Fachdidaktisches Seminar II",
+   "number": "FB1017.5202w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Silke Friedrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Silke Friedrich"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54163&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar II",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54737",
+   "title": "Fachdidaktisches Seminar III",
+   "number": "FB1017.5203w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Elisabeth Rathgeb-Schnierer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elisabeth Rathgeb-Schnierer"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54737&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar III",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54527",
+   "title": "Fachdidaktisches Seminar IV",
+   "number": "FB1017.5204w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Leonie Brumm",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Leonie Brumm"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54527&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar IV",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54686",
+   "title": "Fachdidaktisches Seminar VIII",
+   "number": "FB1017.5208w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Silke Friedrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Silke Friedrich"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54686&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar VIII",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71823",
+   "title": "Fachdidaktisches Seminar XIII",
+   "number": "FB1017.5213w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Timo Flückiger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Timo Flückiger"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71823&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar XIII",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54175",
+   "title": "Fachdidaktisches Seminar Matheforscher:innen",
+   "number": "FB1017.5221w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Andreas Eichler, Dr. Dorothee Cosima Stylianou",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Interessierte Studierende der Lehrämter L1/L2/L3/L4/L5 und des Studiengangs empirische Bildungsforschung können bei Interesse bis zum 01.10.2026 eine Mail an eichler@mathematik.uni-kassel.de und dcstylianou@mathematik.de mit Motivationsschreiben für das Seminar und einer Notenübersicht senden.",
+       "instructors": [
+        "Prof. Dr. Andreas Eichler"
+       ],
+       "room": "Raum 0421 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54175&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24923",
+    "key": false
+   },
+   "titleEn": "Subject Didactics Seminar Mathematics Researchers",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54242",
+   "title": "Fachpraktikum Mathematik in den Sekundarstufen I und II",
+   "number": "FB1017.5303",
+   "type": "Schulpraktische Studien",
+   "language": "deutsch",
+   "responsible": "Kay Achmetli, Michael Mathe",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Kay Achmetli",
+        "Michael Mathe"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Kay Achmetli",
+        "Michael Mathe"
+       ],
+       "room": "Raum 2420 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54242&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Practicum in Mathematics at Secondary Levels I and II",
+   "typeEn": "School Practical Studies"
+  },
+  {
+   "id": "54249",
+   "title": "Flankierendes Seminar zum L2-Praxissemester",
+   "number": "FB1017.5321",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Rita Borromeo Ferri",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "09:00",
+       "end": "11:30",
+       "startDate": "2026-10-16",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rita Borromeo Ferri"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-27",
+       "endDate": "2026-10-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rita Borromeo Ferri"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-11-10",
+       "endDate": "2026-11-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rita Borromeo Ferri"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-11-24",
+       "endDate": "2026-11-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rita Borromeo Ferri"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-12-08",
+       "endDate": "2026-12-08",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rita Borromeo Ferri"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rita Borromeo Ferri"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2027-02-02",
+       "endDate": "2027-02-02",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rita Borromeo Ferri"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54249&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24324",
+    "key": false
+   },
+   "titleEn": "Flanking Seminar for the L2 Practical Semester",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "54158",
+   "title": "Fachdidaktisches Seminar III Kooperation mit Studienseminar",
+   "number": "FB1017.5223w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Dorothee Cosima Stylianou",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-02",
+       "cancelled": [
+        "2026-11-24",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-19",
+        "2027-02-09"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Dorothee Cosima Stylianou"
+       ],
+       "room": "Raum 1245 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-11-16",
+       "endDate": "2026-11-16",
+       "cancelled": [],
+       "note": "Studienseminar",
+       "instructors": [
+        "Dr. Dorothee Cosima Stylianou"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "17:00",
+       "end": "18:00",
+       "startDate": "2027-01-18",
+       "endDate": "2027-01-18",
+       "cancelled": [],
+       "note": "Studienseminar",
+       "instructors": [
+        "Dr. Dorothee Cosima Stylianou"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54158&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Subject Didactics Seminar III: Cooperation with the Teacher Training Seminar",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54153",
+   "title": "Fachdidaktisches Seminar II: MINT(K) lehren und lernen: interdisziplinäre MINT-Probleme entwickeln, implementieren und mehr)",
+   "number": "FB1017.5222w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Andreas Eichler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Eichler"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54153&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "8569",
+    "key": true
+   },
+   "titleEn": "Subject Didactics Seminar II: Teaching and Learning MINT(K): Developing, Implementing and More Interdisciplinary MINT Problems)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

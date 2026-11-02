@@ -1,0 +1,31 @@
+{
+  "summary": "Modulpruefungsordnung Physik L2 of 30.01.2023, section 3: compulsory Physik I to V for Lehramt and the practical semester, one of three 4-ECTS modules (PhL2-7 to PhL2-9), plus 6 additional ECTS from the elective list PhL2-7 to PhL2-17. Only the single module already used for that choice is left out of the 6 ECTS; the other modules from PhL2-7 to PhL2-9 still count, and 4-ECTS modules count only together with further modules until 6 ECTS are reached (one 6-ECTS module is enough).",
+  "categories": [
+    {
+      "id": "Wahlpflicht 1",
+      "group": "area",
+      "name": "Elective: didactics, modern physics or seminar",
+      "nameDe": "Wahlpflicht 1 (ein Modul aus PhL2-7 bis -9)",
+      "short": "WP 1",
+      "count": 1,
+      "ects": 4,
+      "note": "One 4-ECTS module from PhL2-7 to PhL2-9: Aktuelle Themen aus der Physikdidaktik, Moderne Physik or Physikalisches Seminar."
+    },
+    {
+      "id": "Wahlpflicht 2",
+      "group": "area",
+      "name": "Further physics electives",
+      "nameDe": "Wahlpflicht 2 (zusaetzlich 6 CP aus PhL2-7 bis -17)",
+      "short": "WP 2",
+      "count": 1,
+      "ects": 6,
+      "note": "Additional 6 ECTS from PhL2-7 to PhL2-17; the one module already chosen for Wahlpflicht 1 does not count again, but the other modules from PhL2-7 to PhL2-9 do. One 6-ECTS module is enough, and 4-ECTS modules count only together with further modules until 6 ECTS are reached."
+    }
+  ],
+  "pickOne": [],
+  "slug": "la-hr-physik",
+  "po": "Lehramt an Haupt- u. Realschulen Physik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20563&token=19bd2a5fa56f63c047fd5db4ace8bf9bbb405aef"
+  ]
+}

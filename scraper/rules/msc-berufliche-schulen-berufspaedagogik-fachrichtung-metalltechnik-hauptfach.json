@@ -1,0 +1,47 @@
+{
+  "summary": "Metalltechnik Hauptfach under the 2022 PO requires elective modules of at least 18 credits, which may be combined across nine specialisations. Technikdidaktik including the school placement (21 credits) is compulsory and is not a choice category. Angewandte Mechanik and Produktionstechnik, Automatisierung und Systemdynamik belong to that catalogue but have no modules in the winter 2026/27 list.",
+  "categories": [
+    {
+      "id": "wahlpflicht-metalltechnik",
+      "group": "anyOf",
+      "name": "Metalltechnik electives",
+      "nameDe": "Wahlpflichtbereich Metalltechnik",
+      "short": "Electives (18 ECTS)",
+      "count": 1,
+      "ects": 18,
+      "note": "The 2022 PO elective catalogue has nine specialisations. Students must complete elective modules of at least 18 credits and may combine modules from any specialisation. Angewandte Mechanik and Produktionstechnik, Automatisierung und Systemdynamik are part of that catalogue but have no modules in this semester's list, so they cannot be selected here.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Fachrichtung Metalltechnik > Schwerpunkt: Werkstoffe und Konstruktion"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Metalltechnik > Schwerpunkt: Produktionstechnik und Arbeitswissenschaft"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Metalltechnik > Schwerpunkt: Mechanik und Automatisierungstechnik"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Metalltechnik > Schwerpunkt: Energietechnik"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Metalltechnik > Schwerpunkt: Energie-/Versorgungstechnik"
+        },
+        {
+          "type": "area",
+          "id": "Fachrichtung Metalltechnik > Schwerpunkt: übergreifend"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-berufliche-schulen-berufspaedagogik-fachrichtung-metalltechnik-hauptfach",
+  "po": "Master Berufliche Schulen Berufspädagogik - Fachrichtung Metalltechnik (2022) Hauptfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=14959&token=9fef563ca2ae57a35650b5b52e00647cc72357c9"
+  ]
+}

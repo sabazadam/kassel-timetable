@@ -1,0 +1,52 @@
+{
+  "summary": "Hauptfach electives for Winter 2026/27 under §7(4)a of the Fachprüfungsordnung Master Wirtschaftspädagogik of 20 April 2022 (Mitteilungsblatt 9/2022). The student chooses one track of 18 ECTS, Business Studies or Economic Behaviour and Governance. Business Studies is one anchor (BWL-B1 or BWL-B2, 6 ECTS) plus two 6 ECTS modules from one specialisation (FACT, Mum, or Dib). EB&Go is Modul 4a or Modul 4b (6 ECTS) plus two 6 ECTS modules from the Wahl list. This semester the free-module category is 2 modules and 12 ECTS from Schwerpunkt Mum or the EB&Go Wahl list. FACT is a separate category with count 1 and the PO target of 12 ECTS, which this semester caps at the single 6 ECTS module offered. Modul 4b is a separate 6 ECTS anchor and applies when the student chooses EB&Go. Business Studies B1 is offered and is still required on the Business Studies track, but it is not its own category, because a module rule would also bind EB&Go students. Modul 4a, BWL-B2, and a second Dib module are not offered, so Dib has no slot. Wirtschaftsdidaktik II, Wirtschaftsdidaktik III, and the Schulpraktikum are compulsory under §7(4)b and have no elective rule. Kernstudium §7(3) and the Zweitfach are outside this file.",
+  "categories": [
+    {
+      "id": "wiwi-schwerpunkt",
+      "group": "oneOf",
+      "name": "Mum or EB&Go free modules",
+      "nameDe": "Wahlmodule Mum oder EB&Go",
+      "short": "Mum or EB&Go (2)",
+      "count": 2,
+      "ects": 12,
+      "note": "§7(4)a requires 18 ECTS in one track: Business Studies (exactly one of BWL-B1 or BWL-B2, 6 ECTS, plus two 6 ECTS modules from a single specialisation FACT, Mum, or Dib) or EB&Go (Modul 4a or Modul 4b, 6 ECTS, plus two 6 ECTS modules from the Wahl list). This category is those two free modules (2 modules, 12 ECTS) from Schwerpunkt Mum or the EB&Go Wahl list; Modul 4b is a separate category for the EB&Go track, Business Studies B1 is offered but stays outside this count, FACT is a separate category, and Dib is not opened because only Wahl Dib (6 ECTS) is offered.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftliche Fachrichtung > Wirtschaftswissenschaften Schwerpunkt Business Studies > Schwerpunkt Mum"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftliche Fachrichtung > Wirtschaftswissenschaften Schwerpunkt Economic Behaviour and Governance > Wirtschaftswissenschaften Schwerpunkt Economic Behaviour and Governance Wahl"
+        }
+      ]
+    },
+    {
+      "id": "Wirtschaftswissenschaftliche Fachrichtung > Wirtschaftswissenschaften Schwerpunkt Business Studies > Wahl Finance, Accounting, Controlling and Taxation",
+      "group": "area",
+      "name": "FACT specialisation",
+      "nameDe": "Spezialisierung FACT",
+      "short": "FACT",
+      "count": 1,
+      "ects": 12,
+      "note": "Same §7(4)a choice of one specialisation only (FACT, Mum, or Dib): the two free modules are 12 ECTS and cannot be mixed with Mum or the EB&Go Wahl list. The PO figure is 2 modules and 12 ECTS; only Wahl Finance, Accounting, Controlling and Taxation (6 ECTS) is offered, so the count is 1 and the 12 ECTS target is capped at 6."
+    },
+    {
+      "id": "Advanced Topics in Consumer Behaviour and Management",
+      "group": "module",
+      "name": "EB&Go anchor (Modul 4b)",
+      "nameDe": "EB&Go-Anker (Modul 4b)",
+      "short": "Modul 4b",
+      "count": 1,
+      "ects": 6,
+      "note": "On the EB&Go track, §7(4)a requires exactly one 6 ECTS anchor, Modul 4a (Advanced Topics in Corporate Governance and Management) or Modul 4b (Advanced Topics in Consumer Behaviour and Management), in addition to two Wahl modules. Only Modul 4b is offered; it is the anchor for students who choose EB&Go and does not fill the Wahl-module category or the Business Studies track.",
+      "compulsory": true
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-berufliche-schulen-wirtschaftspaedagogik-hauptfach",
+  "po": "Master Berufliche Schulen Wirtschaftspädagogik (2022) Hauptfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=14966&token=fe521b0b158ec042f77417048a5e4e0c04e19ae5"
+  ]
+}

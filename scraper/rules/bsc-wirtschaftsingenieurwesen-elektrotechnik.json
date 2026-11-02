@@ -1,0 +1,58 @@
+{
+  "summary": "PO 2020 section 6: 42 ECTS economics foundations, the two compulsory modules of one of five economics specializations (12 ECTS), 12 ECTS integrative foundations, 18 ECTS integrative electives (12 ECTS Wahlpflicht Integration plus 6 ECTS key competencies), 24 ECTS mathematics, 48 ECTS technical foundations, 12 ECTS technical electives from one technical specialization, and the 12-ECTS thesis; the electrical engineering technical electives (one of four specializations) do not appear as a separate area in eCampus.",
+  "categories": [
+    {
+      "id": "Integrativer Studienbereich > Integrativer Studienbereich Wahl",
+      "group": "area",
+      "name": "Integrative electives",
+      "nameDe": "Integrativer Studienbereich Wahl",
+      "short": "Integrative WP",
+      "count": 3,
+      "note": "18 ECTS: 'Wahlpflicht Integration' (12 ECTS from the listed FB15/FB07 fields) plus 'Schluesselkompetenzen' (6 ECTS)"
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schluesselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "note": "Module I7, 6 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "econ-spec",
+      "group": "oneOf",
+      "count": 2,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Digital Business"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Economic Behavior and Governance"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Finance, Accounting, Controlling and Taxation"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftlicher Studienbereich > Wirtschaftswissenschaftlicher Studienbereich Pflichtbereich > Management, Innovation und Marketing"
+        }
+      ],
+      "name": "One economics specialization",
+      "nameDe": "Wirtschaftswissenschaftliche Vertiefungsrichtung",
+      "short": "Econ. specialization",
+      "note": "The two compulsory modules of one of five economics specializations (6 ECTS each, 12 ECTS). Both are offered for Economic Behavior and Governance (Grundlagen der Oekonometrie and Einfuehrung in die Verhaltensoekonomik). Digital Business, Finance, Accounting, Controlling and Taxation, and Management, Innovation und Marketing each offer only one of the two modules this semester."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-wirtschaftsingenieurwesen-elektrotechnik",
+  "po": "Bachelor Wirtschaftsingenieurwesen - Elektrotechnik (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=11351&token=db7946775dc0474aaf954edbf7ac6ce6addc7619"
+  ]
+}

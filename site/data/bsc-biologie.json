@@ -1,0 +1,3902 @@
+{
+ "generatedAt": "2026-10-21T18:02:41.693Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor Biologie (2023)",
+ "programEn": "Bachelor Biology (2023)",
+ "slug": "bsc-biologie",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "molecular-biosciences",
+   "modules": [
+    "m17061",
+    "m17131",
+    "m17117",
+    "m17101",
+    "m14321"
+   ],
+   "text": {
+    "tr": [
+     "Moleküler Biyobilimler",
+     "Biyokimya, hücre biyolojisi, fiziksel kimya ve moleküler laboratuvar yöntemlerini öğrenerek araştırma ve biyoteknolojiye hazırlanırsınız."
+    ],
+    "en": [
+     "Molecular Biosciences",
+     "You learn biochemistry, cell biology, physical chemistry and molecular laboratory methods and prepare for research and biotechnology."
+    ],
+    "de": [
+     "Molekulare Biowissenschaften",
+     "Sie lernen Biochemie, Zellbiologie, physikalische Chemie und molekulare Labormethoden und bereiten sich auf Forschung und Biotechnologie vor."
+    ]
+   }
+  },
+  {
+   "id": "microbiology-virology",
+   "modules": [
+    "m17080",
+    "m17145",
+    "m14321",
+    "m17101"
+   ],
+   "text": {
+    "tr": [
+     "Mikrobiyoloji ve Viroloji",
+     "Mikroorganizmaları, bitki virüslerini ve bunları incelemek için kullanılan moleküler yöntemleri öğrenirsiniz."
+    ],
+    "en": [
+     "Microbiology and Virology",
+     "You learn about microorganisms, plant viruses and the molecular methods used to study them."
+    ],
+    "de": [
+     "Mikrobiologie und Virologie",
+     "Sie lernen Mikroorganismen, Pflanzenviren und die molekularen Methoden zu ihrer Untersuchung."
+    ]
+   }
+  },
+  {
+   "id": "animal-neurobiology",
+   "modules": [
+    "m17211",
+    "m17092",
+    "m17179"
+   ],
+   "text": {
+    "tr": [
+     "Zooloji ve Nörobiyoloji",
+     "Zooloji, hayvan fizyolojisi, nörofizyoloji ve gelişim genetiğini öğrenerek hayvan biyolojisi ve sinirbilime hazırlanırsınız."
+    ],
+    "en": [
+     "Zoology and Neurobiology",
+     "You learn zoology, animal physiology, neurophysiology and developmental genetics and prepare for animal biology and neuroscience."
+    ],
+    "de": [
+     "Zoologie und Neurobiologie",
+     "Sie lernen Zoologie, Tierphysiologie, Neurophysiologie und Entwicklungsgenetik und bereiten sich auf Tierbiologie und Neurowissenschaften vor."
+    ]
+   }
+  },
+  {
+   "id": "human-biology",
+   "modules": [
+    "m17109",
+    "m17146",
+    "m17179",
+    "m17131",
+    "m17061"
+   ],
+   "text": {
+    "tr": [
+     "İnsan Biyolojisi",
+     "İnsan biyolojisini gelişim genetiği, hücre biyolojisi ve biyokimya ile öğrenerek biyomedikal yüksek lisans programlarına hazırlanırsınız."
+    ],
+    "en": [
+     "Human Biology",
+     "You learn human biology together with developmental genetics, cell biology and biochemistry and prepare for biomedical master programs."
+    ],
+    "de": [
+     "Humanbiologie",
+     "Sie lernen Humanbiologie zusammen mit Entwicklungsgenetik, Zellbiologie und Biochemie und bereiten sich auf biomedizinische Masterstudiengänge vor."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "profilmodule",
+   "group": "anyOf",
+   "name": "Profile modules",
+   "nameDe": "Profilmodule",
+   "short": "Profile modules",
+   "count": 2,
+   "ects": 24,
+   "note": "Two 12-ECTS profile modules from V1 to V13 are required (24 ECTS together). Electives total 51 ECTS, including these modules, 6 ECTS of interdisciplinary key competencies (W8), and 21 ECTS of other electives, which may include further profile modules.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Profilmodul Biochemie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Botanik: Molekulare Methoden"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Zoologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Tierphysiologie/Neurophysiologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Entwicklungsgenetik"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Mikrobiologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Zellbiologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Humanbiologie"
+    }
+   ],
+   "nameTr": "Profil modülleri",
+   "noteTr": "V1 ile V13 arasından 12 ECTS'lik iki profil modülü zorunludur (birlikte 24 ECTS). Seçmeliler toplam 51 ECTS'tir. Buna bu modüller, 6 ECTS disiplinlerarası anahtar yeterlikler (W8) ve 21 ECTS tutarındaki diğer seçmeliler dahildir. Diğer seçmeliler başka profil modülleri de içerebilir.",
+   "noteDe": "Zwei Profilmodule aus V1 bis V13 im Umfang von je 12 ECTS sind vorgeschrieben (zusammen 24 ECTS). Die Wahlmodule umfassen insgesamt 51 ECTS, einschließlich dieser Module, 6 ECTS interdisziplinärer Schlüsselkompetenzen (W8) und 21 ECTS weiterer Wahlmodule, die zusätzliche Profilmodule enthalten können."
+  },
+  {
+   "id": "weitere-wahlpflicht",
+   "group": "anyOf",
+   "name": "Further electives",
+   "nameDe": "Weitere Wahlpflichtmodule",
+   "short": "Further electives",
+   "count": 1,
+   "ects": 21,
+   "note": "21 ECTS (full PO section 6(6) requirement) from any combination of the remaining Wahlpflicht modules, including further Profilmodule. Separate from the two required profile modules and from W8 (6 ECTS of interdisciplinary key competencies), which is not offered this semester.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Grundmodul Humanbiologie"
+    },
+    {
+     "type": "module",
+     "id": "Einführung in die Biologiedidaktik"
+    },
+    {
+     "type": "module",
+     "id": "Pflanzliche Virologie"
+    },
+    {
+     "type": "module",
+     "id": "Grundlagen der Physikalischen Chemie"
+    },
+    {
+     "type": "module",
+     "id": "Literaturrecherche"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Biochemie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Botanik: Molekulare Methoden"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Zoologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Tierphysiologie/Neurophysiologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Entwicklungsgenetik"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Mikrobiologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Zellbiologie"
+    },
+    {
+     "type": "module",
+     "id": "Profilmodul Humanbiologie"
+    }
+   ],
+   "nameTr": "Ek seçmeliler",
+   "noteTr": "Kalan Wahlpflicht modülleri ile ek Profilmodule dahil herhangi bir birleşimden 21 ECTS (PO § 6 (6) koşulunun tamamı). Bu tutar, zorunlu iki Profilmodulden ve bu dönem sunulmayan W8'den (disiplinlerarası anahtar yetkinliklerde 6 ECTS) ayrıdır.",
+   "noteDe": "21 ECTS (die volle Anforderung nach § 6 Abs. 6 der PO) aus einer beliebigen Kombination der übrigen Wahlpflichtmodule, einschließlich weiterer Profilmodule. Getrennt von den beiden vorgeschriebenen Profilmodulen und von W8 (6 ECTS interdisziplinäre Schlüsselkompetenzen), das in diesem Semester nicht angeboten wird."
+  }
+ ],
+ "rulesSummary": {
+  "en": "PO 2023 section 6: 129 ECTS compulsory modules (including the internship 'Berufliche Orientierung I' and the thesis) and 51 ECTS electives: two profile modules (12 ECTS each), 6 ECTS interdisciplinary key competencies (W8, not offered this semester) and 21 ECTS of other electives. The profile-module slot accepts only these offered Profilmodul titles from V1 to V13: Profilmodul Biochemie, Profilmodul Botanik: Molekulare Methoden, Profilmodul Zoologie, Profilmodul Tierphysiologie/Neurophysiologie, Profilmodul Entwicklungsgenetik, Profilmodul Mikrobiologie, Profilmodul Zellbiologie, Profilmodul Humanbiologie. The 21 ECTS may be any mix of the remaining offered Wahlpflicht modules and further profile modules.",
+  "tr": "PO 2023 § 6: 129 ECTS zorunlu modül (staj Berufliche Orientierung I ve tez dahil) ve 51 ECTS seçmeli. Seçmeliler şunlardır: iki Profilmodul (her biri 12 ECTS), 6 ECTS disiplinlerarası anahtar yetkinlik (W8, bu dönem sunulmuyor) ve 21 ECTS diğer seçmeli. Profilmodul yeri yalnızca V1 ile V13 arasında sunulan şu Profilmodul başlıklarını kabul eder: Profilmodul Biochemie, Profilmodul Botanik: Molekulare Methoden, Profilmodul Zoologie, Profilmodul Tierphysiologie/Neurophysiologie, Profilmodul Entwicklungsgenetik, Profilmodul Mikrobiologie, Profilmodul Zellbiologie, Profilmodul Humanbiologie. 21 ECTS, kalan sunulan Wahlpflicht modülleri ile ek Profilmodule modüllerinden herhangi bir birleşim olabilir.",
+  "de": "PO 2023 § 6: 129 ECTS Pflichtmodule (einschließlich des Praktikums Berufliche Orientierung I und der Thesis) und 51 ECTS im Wahlpflichtbereich: zwei Profilmodule (je 12 ECTS), 6 ECTS interdisziplinäre Schlüsselkompetenzen (W8, in diesem Semester nicht angeboten) und 21 ECTS weitere Wahlpflichtmodule. Der Profilmodul-Platz akzeptiert nur diese angebotenen Profilmodul-Titel von V1 bis V13: Profilmodul Biochemie, Profilmodul Botanik: Molekulare Methoden, Profilmodul Zoologie, Profilmodul Tierphysiologie/Neurophysiologie, Profilmodul Entwicklungsgenetik, Profilmodul Mikrobiologie, Profilmodul Zellbiologie, Profilmodul Humanbiologie. Die 21 ECTS können beliebig aus den übrigen angebotenen Wahlpflichtmodulen und weiteren Profilmodulen zusammengesetzt werden."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21955&token=ceecfb612b1d3d45a7806ca6b00b08843ff2ae33"
+ ],
+ "sections": [
+  {
+   "id": "Pflichtmodule",
+   "name": "Compulsory Modules",
+   "nameDe": "Pflichtmodule"
+  },
+  {
+   "id": "Wahlpflicht Profilmodule Biologie",
+   "name": "Compulsory Elective Profile Modules in Biology",
+   "nameDe": "Wahlpflicht Profilmodule Biologie"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Vorlesung": {
+   "en": "Lecture",
+   "tr": "Ders"
+  },
+  "Tutorium": {
+   "en": "Tutorial.",
+   "tr": "Tutorial (küçük grup dersi)."
+  },
+  "Bitte beachten Sie die Informationen im Aushangkasten neben dem Raum 1104 und melden sich spätestens Anfang Oktober über den aktuellen Moodlekurs zum Praktikum an.": {
+   "en": "Please note the information in the notice cabinet next to room 1104 and register for the practical course via the current Moodle course by the beginning of October at the latest.",
+   "tr": "Lütfen 1104 numaralı odanın yanındaki ilan dolabındaki bilgilere dikkat edin ve en geç ekim başında güncel Moodle kursu üzerinden uygulama dersine kaydolun."
+  },
+  "Vorbereitungskurs für das Praktikum": {
+   "en": "Preparatory course for the practical course",
+   "tr": "Uygulama dersi için hazırlık kursu"
+  },
+  "Termine finden Sie im Moodle Kurs, im WiSe Präsenz und digitale Anteile": {
+   "en": "You will find the dates in the Moodle course; in the winter semester, in-person and digital components.",
+   "tr": "Tarihleri Moodle kursunda bulabilirsiniz; kış döneminde yüz yüze ve dijital bölümler vardır."
+  },
+  "Termine werden über Moodle bekanntgegeben (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)": {
+   "en": "Dates will be announced via Moodle (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)",
+   "tr": "Tarihler Moodle üzerinden duyurulacaktır (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)"
+  },
+  "Termin nach Vereinbarung, in der PO 2016 kann entweder nur Modul V1 oder Modul W1 absolviert werden! Wenn Sie Interesse an diesem Modul haben, melden Sie sich bis zum 01. Oktober bei Dr. Daniela Bertinetti (d.bertinetti@uni-kassel.de) zum Themenfindungsgespräch an.": {
+   "en": "Appointment by arrangement; under the PO 2016, only either module V1 or module W1 can be completed! If you are interested in this module, register by 01. Oktober with Dr. Daniela Bertinetti (d.bertinetti@uni-kassel.de) for the topic-finding meeting.",
+   "tr": "Tarih anlaşmaya göredir; PO 2016 kapsamında yalnızca ya modül V1 ya da modül W1 tamamlanabilir! Bu modüle ilgi duyuyorsanız, konu belirleme görüşmesi için 01. Oktober tarihine kadar Dr. Daniela Bertinetti (d.bertinetti@uni-kassel.de) adresine kaydolun."
+  },
+  "Block nach Vereinbarung": {
+   "en": "Block by arrangement",
+   "tr": "Anlaşmaya göre blok"
+  },
+  "Voranmeldung erforderlich. Bitte setzen Sie sich mit Frau Jaeger unter zoologie@uni-kassel.de in Verbindung. Informationen zur Anmeldung, zum Ablauf und zum Zeitraum werden in folgendem Moodle-Kurs zur Verfügung gestellt: https://moodle.uni-kassel.de/user/index.php?id=17448": {
+   "en": "Advance registration required. Please contact Frau Jaeger at zoologie@uni-kassel.de. Information on registration, the procedure and the time period is provided in the following Moodle course: https://moodle.uni-kassel.de/user/index.php?id=17448",
+   "tr": "Ön kayıt zorunludur. Lütfen zoologie@uni-kassel.de adresinden Frau Jaeger ile iletişime geçin. Kayıt, işleyiş ve zaman aralığına ilişkin bilgiler aşağıdaki Moodle kursunda sunulmaktadır: https://moodle.uni-kassel.de/user/index.php?id=17448"
+  },
+  "Block nach Vereinbarung, Parallelveranstaltung zum Großpraktikum Zoologie. Anmeldung erforderlich!": {
+   "en": "Block by arrangement, parallel course to the Großpraktikum Zoologie. Registration required!",
+   "tr": "Anlaşmaya göre blok, Großpraktikum Zoologie ile paralel ders. Kayıt zorunludur!"
+  },
+  "beschränkte Teilnehmerzahl,Voranmeldung erforderlich, Raum 2156": {
+   "en": "Limited number of participants, advance registration required, Room 2156",
+   "tr": "Katılımcı sayısı sınırlıdır, ön kayıt zorunludur, Oda 2156"
+  },
+  "Anmeldung im vorangehenden Sommersemester erforderlich (per Einschreibung im entsprechenden Moodle-Kurs). Die Vergabe der Plätze erfolgt zu Semesterende im Juli.": {
+   "en": "Registration in the preceding summer semester is required (by enrolling in the corresponding Moodle course). Places are allocated at the end of the semester in July.",
+   "tr": "Bir önceki yaz döneminde kayıt zorunludur (ilgili Moodle kursuna yazılarak). Yerler dönem sonunda temmuz ayında dağıtılır."
+  },
+  "Für die Teilnahme ist eine Anmeldung zum humanbiologischen Vertiefungspraktikum erforderlich.": {
+   "en": "Registration for the advanced practical course in human biology is required for participation.",
+   "tr": "Katılım için insan biyolojisi derinlemesine uygulama dersine kayıt zorunludur."
+  },
+  "Anmeldung per eMail an: ecocline@t-online.de": {
+   "en": "Registration by email to: ecocline@t-online.de",
+   "tr": "E-posta ile kayıt: ecocline@t-online.de"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Pflichtmodule": "Compulsory Modules",
+  "Wahlpflicht Profilmodule Biologie": "Compulsory Elective Profile Modules in Biology"
+ },
+ "modules": [
+  {
+   "id": "m17146",
+   "title": "Grundmodul Humanbiologie",
+   "titleEn": "Basic Module Human Biology",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "54506"
+   ]
+  },
+  {
+   "id": "m17161",
+   "title": "Botanik",
+   "titleEn": "Botany",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70113",
+    "54445"
+   ]
+  },
+  {
+   "id": "m17071",
+   "title": "Berufliche Orientierung I",
+   "titleEn": "Career Orientation I",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54499"
+   ]
+  },
+  {
+   "id": "m17099",
+   "title": "Zell- und Entwicklungsbiologie",
+   "titleEn": "Cell and Developmental Biology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70128"
+   ]
+  },
+  {
+   "id": "m17110",
+   "title": "Ökologie",
+   "titleEn": "Ecology",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70112",
+    "70111"
+   ]
+  },
+  {
+   "id": "m17117",
+   "title": "Grundlagen der Physikalischen Chemie",
+   "titleEn": "Fundamentals of Physical Chemistry",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70172",
+    "70178",
+    "70180"
+   ]
+  },
+  {
+   "id": "m17073",
+   "title": "Fundamentum Biologie",
+   "titleEn": "Fundamentum Biology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69829",
+    "70103",
+    "70107",
+    "70108",
+    "70105"
+   ]
+  },
+  {
+   "id": "m17090",
+   "title": "Allgemeine und Molekulare Genetik",
+   "titleEn": "General and Molecular Genetics",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70122"
+   ]
+  },
+  {
+   "id": "m17082",
+   "title": "Allgemeine und Spezielle Zoologie",
+   "titleEn": "General and Special Zoology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70109"
+   ]
+  },
+  {
+   "id": "t:GIS-Anwendungen in der Vegetationsökologie",
+   "title": "GIS-Anwendungen in der Vegetationsökologie",
+   "titleEn": "GIS-Anwendungen in der Vegetationsökologie",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "54393"
+   ]
+  },
+  {
+   "id": "m17203",
+   "title": "Interdisziplinäres Seminar Kunst - Biologie",
+   "titleEn": "Interdisciplinary Seminar Art - Biology",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "54469"
+   ]
+  },
+  {
+   "id": "m17122",
+   "title": "Einführung in die Biologiedidaktik",
+   "titleEn": "Introduction to Biology Didactics",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70169"
+   ]
+  },
+  {
+   "id": "m7243",
+   "title": "Einführung in die Pflanzenphysiologie",
+   "titleEn": "Introduction to Plant Physiology",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70129"
+   ]
+  },
+  {
+   "id": "m17142",
+   "title": "Literaturrecherche",
+   "titleEn": "Literature Search",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "54541"
+   ]
+  },
+  {
+   "id": "m17207",
+   "title": "Methodenkenntnis und Projektplanung I",
+   "titleEn": "Methodological Knowledge and Project Planning I",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54799",
+    "54497"
+   ]
+  },
+  {
+   "id": "m17126",
+   "title": "Mikrobiologie",
+   "titleEn": "Microbiology",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70130",
+    "70138"
+   ]
+  },
+  {
+   "id": "m17133",
+   "title": "Organische Chemie und Biochemie",
+   "titleEn": "Organic Chemistry and Biochemistry",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70126"
+   ]
+  },
+  {
+   "id": "m7187",
+   "title": "P12 Physiologie der Tiere",
+   "titleEn": "P12 Animal Physiology",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70114"
+   ]
+  },
+  {
+   "id": "m17153",
+   "title": "Physik für Studierende der Biologie",
+   "titleEn": "Physics for Biology Students",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70139"
+   ]
+  },
+  {
+   "id": "m17145",
+   "title": "Pflanzliche Virologie",
+   "titleEn": "Plant Virology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70170",
+    "70171"
+   ]
+  },
+  {
+   "id": "m17211",
+   "title": "Profilmodul Tierphysiologie/Neurophysiologie",
+   "titleEn": "Profile Module Animal Physiology/Neurophysiology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70156"
+   ]
+  },
+  {
+   "id": "m17061",
+   "title": "Profilmodul Biochemie",
+   "titleEn": "Profile Module Biochemistry",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "54307",
+    "54309"
+   ]
+  },
+  {
+   "id": "m17101",
+   "title": "Profilmodul Botanik: Molekulare Methoden",
+   "titleEn": "Profile Module Botany: Molecular Methods",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70150",
+    "70146",
+    "70149"
+   ]
+  },
+  {
+   "id": "m17131",
+   "title": "Profilmodul Zellbiologie",
+   "titleEn": "Profile Module Cell Biology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "54477"
+   ]
+  },
+  {
+   "id": "m17179",
+   "title": "Profilmodul Entwicklungsgenetik",
+   "titleEn": "Profile Module Developmental Genetics",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70157",
+    "70159",
+    "70160"
+   ]
+  },
+  {
+   "id": "m17109",
+   "title": "Profilmodul Humanbiologie",
+   "titleEn": "Profile Module Human Biology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70164",
+    "70165"
+   ]
+  },
+  {
+   "id": "m17080",
+   "title": "Profilmodul Mikrobiologie",
+   "titleEn": "Profile Module Microbiology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70163"
+   ]
+  },
+  {
+   "id": "m17092",
+   "title": "Profilmodul Zoologie",
+   "titleEn": "Profile Module Zoology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [
+    "profilmodule",
+    "weitere-wahlpflicht"
+   ],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "70153",
+    "70151"
+   ]
+  },
+  {
+   "id": "m14321",
+   "title": "W22 Molekulare Methoden - Mikrobiologie",
+   "titleEn": "W22 Molecular Methods - Microbiology",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Wahlpflicht Profilmodule Biologie"
+   ],
+   "categories": [],
+   "section": "Wahlpflicht Profilmodule Biologie",
+   "pickOne": false,
+   "courseIds": [
+    "54365"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "69829",
+   "title": "Mathematik für Studierende der Biologie",
+   "number": "FB1017.7101w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69829&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23174",
+    "key": false
+   },
+   "titleEn": "Mathematics for Biology Students",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70103",
+   "title": "Übungen zu Mathematik für Studierende der Biologie",
+   "number": "FB1017.7102w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.) Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70103&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23174",
+    "key": false
+   },
+   "titleEn": "Exercises in Mathematics for Biology Students",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70107",
+   "title": "Allgemeine Chemie",
+   "number": "FB1018.3055w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Ulrich Siemeling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ulrich Siemeling"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ulrich Siemeling"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70107&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24463",
+    "key": true
+   },
+   "titleEn": "General Chemistry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70108",
+   "title": "Übungen zur Vorlesung Allgemeine Chemie",
+   "number": "FB1018.3162w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Michael Leibold",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "11:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Michael Leibold"
+       ],
+       "room": "Raum 0100 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70108&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23169",
+    "key": true
+   },
+   "titleEn": "Exercises for the General Chemistry Lecture",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70105",
+   "title": "Molekulare Grundlagen der Biologie",
+   "number": "FB1018.0100w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Arno Müller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Müller",
+        "Prof. Dr. Kirstin Gutekunst",
+        "Prof. Dr. Friedrich W. Herberg",
+        "Prof. Dr. Jörg Helmut Kleinschmidt",
+        "Prof. Dr. Markus Maniak",
+        "Prof. Dr. Raffael Schaffrath",
+        "apl. Prof. Dr. Susanne Neupert"
+       ],
+       "room": "Raum 0100 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Müller",
+        "Prof. Dr. Kirstin Gutekunst",
+        "Prof. Dr. Friedrich W. Herberg",
+        "Prof. Dr. Jörg Helmut Kleinschmidt",
+        "Prof. Dr. Markus Maniak",
+        "Prof. Dr. Raffael Schaffrath",
+        "Prof. Dr. Monika Stengl"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70105&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23502",
+    "key": false
+   },
+   "titleEn": "Molecular Foundations of Biology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70109",
+   "title": "Allgemeine Zoologie",
+   "number": "FB1018.1255w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Georg Mayer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Georg Mayer"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70109&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "General Zoology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70112",
+   "title": "Einführung in die Ökologie",
+   "number": "FB1018.0746w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Ewald Langer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ewald Langer"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "13:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ewald Langer"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70112&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23372",
+    "key": true
+   },
+   "titleEn": "Introduction to Ecology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70111",
+   "title": "Ökologisches Seminar",
+   "number": "FB1018.0711w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Anna-Magdalena Barniske",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Anna-Magdalena Barniske"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Anna-Magdalena Barniske"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Anna-Magdalena Barniske"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Anna-Magdalena Barniske"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Anna-Magdalena Barniske"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70111&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24007",
+    "key": true
+   },
+   "titleEn": "Ecological Seminar",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70113",
+   "title": "Vorlesung Botanik",
+   "number": "FB1018.0955w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Birgit Gemeinholzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70113&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23854",
+    "key": true
+   },
+   "titleEn": "Botany Lecture",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54445",
+   "title": "Praktikum Botanik",
+   "number": "FB1018.0960w",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Birgit Gemeinholzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": "Raum 1245 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "15:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": "Raum 1245 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "15:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54445&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23854",
+    "key": true
+   },
+   "titleEn": "Botany Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70114",
+   "title": "Tierphysiologischer Kurs",
+   "number": "FB1018.1045w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Susanne Neupert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "17:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Susanne Neupert"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70114&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23347",
+    "key": false
+   },
+   "titleEn": "Animal Physiology Course",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70122",
+   "title": "Einführung in die Genetik",
+   "number": "FB1018.0455w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Arno Müller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Vorlesung",
+       "instructors": [
+        "Prof. Dr. Arno Müller"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 2138 (Heinr.-Plett-Str.)",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      }
+     ],
+     "slots": true
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70122&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23199",
+    "key": false
+   },
+   "titleEn": "Introduction to Genetics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70126",
+   "title": "Einführung und Grundlagen der Organischen Chemie",
+   "number": "FB1018.3172w",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Rüdiger Faust, Dr. Susanne Flock, Dr. Sven Fürmeier",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70126&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23515",
+    "key": false
+   },
+   "titleEn": "Introduction to and Fundamentals of Organic Chemistry",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70128",
+   "title": "Zellbiologie",
+   "number": "FB1018.1100w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Markus Maniak",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Markus Maniak"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70128&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24783",
+    "key": false
+   },
+   "titleEn": "Cell Biology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70129",
+   "title": "Pflanzenphysiologischer Kurs",
+   "number": "FB1018.0840w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Kirstin Gutekunst",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-09",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kirstin Gutekunst"
+       ],
+       "room": "Raum 2300 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kirstin Gutekunst"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "17:00",
+       "startDate": "2026-10-09",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kirstin Gutekunst"
+       ],
+       "room": "Raum 2300 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "17:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kirstin Gutekunst"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70129&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24307",
+    "key": false
+   },
+   "titleEn": "Plant Physiology Course",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70130",
+   "title": "Mikrobiologie I",
+   "number": "FB1018.0515w",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Raffael Schaffrath, Dr. Roland Klassen",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Raffael Schaffrath",
+        "Dr. Roland Klassen"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "17:00",
+       "end": "19:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Raffael Schaffrath",
+        "Dr. Roland Klassen"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "17:00",
+       "end": "19:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70130&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24610",
+    "key": true
+   },
+   "titleEn": "Microbiology I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70138",
+   "title": "Übungen zur Mikrobiologie I",
+   "number": "FB1018.0530w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Raffael Schaffrath",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70138&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24610",
+    "key": true
+   },
+   "titleEn": "Exercises for Microbiology I",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70139",
+   "title": "Physikpraktikum für Studierende der Biologie",
+   "number": "FB1018.4170w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. René Matzdorf, Dr. Ulrike Kürpick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Bitte beachten Sie die Informationen im Aushangkasten neben dem Raum 1104 und melden sich spätestens Anfang Oktober über den aktuellen Moodlekurs zum Praktikum an.",
+       "instructors": [
+        "Prof. Dr. René Matzdorf",
+        "Dr. Ulrike Kürpick"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-10-26",
+       "cancelled": [],
+       "note": "Vorbereitungskurs für das Praktikum",
+       "instructors": [
+        "Prof. Dr. René Matzdorf",
+        "Dr. Ulrike Kürpick"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:00",
+       "end": "19:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Bitte beachten Sie die Informationen im Aushangkasten neben dem Raum 1104 und melden sich spätestens Anfang Oktober über den aktuellen Moodlekurs zum Praktikum an.",
+       "instructors": [
+        "Prof. Dr. René Matzdorf",
+        "Dr. Ulrike Kürpick"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70139&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23217",
+    "key": true
+   },
+   "titleEn": "Physics Lab for Biology Students",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54499",
+   "title": "Berufsfeldbezogenes Praktikum",
+   "number": "FB1018.1301",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ewald Langer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54499&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Professional Field Internship",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54799",
+   "title": "Techniken wissenschaftlichen Arbeitens / Methods of Scientific Research",
+   "number": "FB1018.7000s",
+   "type": "Vorlesung mit Präsentation und Übungen",
+   "language": "deutsch",
+   "responsible": "Dr. Daniela Bertinetti",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "13:00",
+       "end": "18:15",
+       "startDate": "2026-10-28",
+       "endDate": "2026-11-04",
+       "cancelled": [],
+       "note": "Termine finden Sie im Moodle Kurs, im WiSe Präsenz und digitale Anteile",
+       "instructors": [
+        "Dr. Daniela Bertinetti"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54799&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "222",
+    "key": false
+   },
+   "titleEn": "Techniken wissenschaftlichen Arbeitens / Methods of Scientific Research",
+   "typeEn": "Lecture with Presentation and Exercises"
+  },
+  {
+   "id": "54497",
+   "title": "Methodenkenntnis und Projektplanung I",
+   "number": "FB1018.1289",
+   "type": "Selbstständiges Arbeiten",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ewald Langer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ewald Langer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54497&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Methodological Knowledge and Project Planning I",
+   "typeEn": "Independent Work"
+  },
+  {
+   "id": "54307",
+   "title": "Current Topics in Biochemistry (Biochemisches Seminar über aktuelle Entwicklungen und Methoden)",
+   "number": "FB1018.0030",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Friedrich W. Herberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "15:30",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Termine werden über Moodle bekanntgegeben (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)",
+       "instructors": [
+        "Prof. Dr. Friedrich W. Herberg"
+       ],
+       "room": "Raum 2161 (AVZ I)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54307&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "740",
+    "key": true
+   },
+   "titleEn": "Current Topics in Biochemistry (Biochemical Seminar on Current Developments and Methods)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54309",
+   "title": "Praktikum im Profilmodul Biochemie (B.Sc. Biologie)",
+   "number": "FB1018.0045",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Friedrich W. Herberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Termin nach Vereinbarung, in der PO 2016 kann entweder nur Modul V1 oder Modul W1 absolviert werden! Wenn Sie Interesse an diesem Modul haben, melden Sie sich bis zum 01. Oktober bei Dr. Daniela Bertinetti (d.bertinetti@uni-kassel.de) zum Themenfindungsgespräch an.",
+       "instructors": [
+        "Prof. Dr. Friedrich W. Herberg"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54309&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Lab in the Profile Module Biochemistry (B.Sc. Biology)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70150",
+   "title": "Praktikum Botanik/Molekulare Methoden",
+   "number": "FB1018.0903w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Birgit Gemeinholzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-03-01",
+       "endDate": "2027-03-19",
+       "cancelled": [],
+       "note": "Block nach Vereinbarung",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70150&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23853",
+    "key": false
+   },
+   "titleEn": "Lab Botany/Molecular Methods",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70146",
+   "title": "Vorlesung Botanik/Molekulare Methoden",
+   "number": "FB1018.0901w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Birgit Gemeinholzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2027-01-14",
+       "endDate": "2027-02-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": "Raum 1245 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70146&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23853",
+    "key": false
+   },
+   "titleEn": "Lecture Botany/Molecular Methods",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70149",
+   "title": "Seminar Botanik/Molekulare Methoden",
+   "number": "FB1018.0902w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Birgit Gemeinholzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-03-01",
+       "endDate": "2027-03-19",
+       "cancelled": [],
+       "note": "Block nach Vereinbarung",
+       "instructors": [
+        "Prof. Dr. Birgit Gemeinholzer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70149&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23853",
+    "key": false
+   },
+   "titleEn": "Seminar Botany/Molecular Methods",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70153",
+   "title": "Praktikum zum Profilmodul Zoologie",
+   "number": "FB1018.1292w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Georg Mayer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Voranmeldung erforderlich. Bitte setzen Sie sich mit Frau Jaeger unter zoologie@uni-kassel.de in Verbindung. Informationen zur Anmeldung, zum Ablauf und zum Zeitraum werden in folgendem Moodle-Kurs zur Verfügung gestellt: https://moodle.uni-kassel.de/user/index.php?id=17448",
+       "instructors": [
+        "Prof. Dr. Georg Mayer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70153&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Lab for the Profile Module Zoology",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70151",
+   "title": "Seminar zum Profilmodul Zoologie",
+   "number": "FB1018.1293w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Georg Mayer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Block nach Vereinbarung, Parallelveranstaltung zum Großpraktikum Zoologie. Anmeldung erforderlich!",
+       "instructors": [
+        "Prof. Dr. Georg Mayer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70151&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar for the Profile Module Zoology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70156",
+   "title": "Grundlagenseminar: Basics of Chronobiology and Olfaction",
+   "number": "FB1018.1035w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Anna Schneider",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Anna Schneider"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70156&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23351",
+    "key": false
+   },
+   "titleEn": "Grundlagenseminar: Basics of Chronobiology and Olfaction",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70157",
+   "title": "Seminar zum Profilmodul Entwicklungsgenetik",
+   "number": "FB1018.0400w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Arno Müller, Dr. Katja Kapp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2027-02-15",
+       "endDate": "2027-03-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Müller",
+        "Dr. Katja Kapp"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70157&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23143",
+    "key": false
+   },
+   "titleEn": "Seminar for the Profile Module in Developmental Genetics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70159",
+   "title": "Vorlesung zum Profilmodul Entwicklungsgenetik",
+   "number": "FB1018.0420w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Katja Kapp, Prof. Dr. Arno Müller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2027-02-15",
+       "endDate": "2027-03-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katja Kapp",
+        "Prof. Dr. Arno Müller"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70159&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23143",
+    "key": false
+   },
+   "titleEn": "Lecture for the Profile Module in Developmental Genetics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70160",
+   "title": "Praktikum zum Profilmodul Entwicklungsgenetik",
+   "number": "FB1018.0466w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Dr. Katja Kapp, Prof. Dr. Arno Müller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2027-02-15",
+       "endDate": "2027-03-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katja Kapp",
+        "Prof. Dr. Arno Müller"
+       ],
+       "room": "Raum 2300 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70160&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23143",
+    "key": false
+   },
+   "titleEn": "Lab for the Profile Module in Developmental Genetics",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70163",
+   "title": "Praktikum zum Profilmodul Mikrobiologie",
+   "number": "FB1018.0520w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Raffael Schaffrath",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "beschränkte Teilnehmerzahl,Voranmeldung erforderlich, Raum 2156",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70163&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Lab for the Profile Module in Microbiology",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54477",
+   "title": "Literaturseminar Organellenvererbung oder Erbkrankheiten",
+   "number": "FB1018.1130",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Markus Maniak",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Markus Maniak"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54477&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Literature Seminar on Organelle Inheritance or Hereditary Diseases",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70164",
+   "title": "Humanbiologisches Vertiefungspraktikum",
+   "number": "FB1018.1160w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Dr. Christine Nowack",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "11:00",
+       "end": "17:00",
+       "startDate": "2027-02-22",
+       "endDate": "2027-03-19",
+       "cancelled": [],
+       "note": "Anmeldung im vorangehenden Sommersemester erforderlich (per Einschreibung im entsprechenden Moodle-Kurs). Die Vergabe der Plätze erfolgt zu Semesterende im Juli.",
+       "instructors": [
+        "Dr. Christine Nowack"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70164&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "21085",
+    "key": true
+   },
+   "titleEn": "Advanced Lab in Human Biology",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70165",
+   "title": "Spezielle Themen der Humanbiologie",
+   "number": "FB1018.1165w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Christine Nowack",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "10:00",
+       "end": "11:00",
+       "startDate": "2027-02-22",
+       "endDate": "2027-03-19",
+       "cancelled": [],
+       "note": "Für die Teilnahme ist eine Anmeldung zum humanbiologischen Vertiefungspraktikum erforderlich.",
+       "instructors": [
+        "Dr. Christine Nowack"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70165&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Special Topics in Human Biology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54506",
+   "title": "Ringvorlesung Humanbiologie",
+   "number": "FB1018.1315w",
+   "type": "Ringvorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Christine Nowack",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Christine Nowack"
+       ],
+       "room": "Raum 0298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54506&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Human Biology Lecture Series",
+   "typeEn": "Lecture Series"
+  },
+  {
+   "id": "70169",
+   "title": "Einführung in die Biologiedidaktik",
+   "number": "FB1018.0295w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Marit Kastaun, Dr. Tim Hartelt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70169&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23223",
+    "key": true
+   },
+   "titleEn": "Introduction to Biology Didactics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70170",
+   "title": "Einführung in die Biologie der Pflanzenviren",
+   "number": "FB1018.0470w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Katja Richert-Pöggeler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-02-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katja Richert-Pöggeler"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70170&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introduction to the Biology of Plant Viruses",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70171",
+   "title": "Virusdiagnose bei Kulturpflanzen",
+   "number": "FB1018.0472w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Dr. Katja Richert-Pöggeler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katja Richert-Pöggeler"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70171&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Virus Diagnosis in Crop Plants",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70172",
+   "title": "Grundvorlesung Physikalische Chemie",
+   "number": "FB1018.3250w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Backes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70172&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "365",
+    "key": false
+   },
+   "titleEn": "Basic Lecture in Physical Chemistry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70178",
+   "title": "Übungen zur Grundvorlesung Physikalische Chemie",
+   "number": "FB1018.3251w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70178&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "365",
+    "key": false
+   },
+   "titleEn": "Exercises for the Basic Lecture in Physical Chemistry",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70180",
+   "title": "Tutorium zur Grundvorlesung Physikalische Chemie",
+   "number": "FB1018.3253w",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Backes, apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Claas Baumgarte"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70180&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "365",
+    "key": false
+   },
+   "titleEn": "Tutorial for the Basic Lecture in Physical Chemistry",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "54365",
+   "title": "Microbiological Seminar (Mikrobiologisches Seminar für Fortgeschrittene)",
+   "number": "FB1018.0505s",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Raffael Schaffrath",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54365&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Microbiological Seminar (Microbiological Seminar for Advanced Students)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54541",
+   "title": "Literaturrecherchen",
+   "number": "FB1018.3150w",
+   "type": "Vorlesung / Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Sven Fürmeier, apl. Prof. Dr. Cyril Popov, Dr. Katja Kapp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sven Fürmeier",
+        "apl. Prof. Dr. Cyril Popov",
+        "Dr. Katja Kapp"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54541&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23442",
+    "key": false
+   },
+   "titleEn": "Literature Searches",
+   "typeEn": "Lecture / Exercise"
+  },
+  {
+   "id": "54469",
+   "title": "Seminar Kunst - Biologie",
+   "number": "FB1018.1060s",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Tanja Böhme",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "13:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Tanja Böhme"
+       ],
+       "room": "Raum 2131 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54469&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24342",
+    "key": false
+   },
+   "titleEn": "Seminar Art - Biology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54393",
+   "title": "GIS-Anwendungen in der Vegetationsökologie",
+   "number": "FB1018.0745",
+   "type": "Vorlesung / Übung",
+   "language": "deutsch",
+   "responsible": "Wilfried Hakes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-19",
+       "cancelled": [],
+       "note": "Anmeldung per eMail an: ecocline@t-online.de",
+       "instructors": [
+        "Wilfried Hakes"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54393&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "GIS-Anwendungen in der Vegetationsökologie",
+   "typeEn": "Lecture / Exercise"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

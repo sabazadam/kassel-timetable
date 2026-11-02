@@ -1,0 +1,200 @@
+{
+  "summary": "Fachprüfungsordnung of 29 April 2014 as amended on 30 May 2017 (section 8). The 30 June 2015 amendment is cited in that order but is not in the sources, and the 2017 amendment does not change the 2014 focus lists. Two 12-ECTS specialization modules Umwelttechnik A and B, each in one sub-field, with B a sub-field not already chosen for A and no module counted in both. Supplements total 18 ECTS: at least 6 from Umweltingenieurwesen, at least 6 from Fachübergreifende Methoden und Inhalte, and 6 more from either, with neither area above 12. Also 6 ECTS mathematics/natural sciences, 6 ECTS key competencies (interdisciplinary), 6 ECTS environmental law, and the 30-ECTS thesis, based on an approved study plan. Industrial Ecology and Sustainable Engineering is a legal B focus but is not offered this semester.",
+  "categories": [
+    {
+      "id": "Umweltingenieurwesen Ergänzung",
+      "group": "anyOf",
+      "name": "Environmental engineering supplements",
+      "nameDe": "Ergänzung Umweltingenieurwesen",
+      "short": "Suppl. env. eng.",
+      "count": 1,
+      "ects": 6,
+      "options": [
+        {
+          "type": "area",
+          "id": "Umweltingenieurwesen Ergänzung"
+        },
+        {
+          "type": "area",
+          "id": "Umweltingenieurwesen Ergänzung > Integrierte Wasserbewirtschaftung"
+        }
+      ],
+      "note": "At least 6 ECTS from Umweltingenieurwesen Ergänzung. A module already used in Umwelttechnik A or B does not count again, and Grundlagen der Bereitstellung und energetischen Nutzung von Biomasse (3), Wasserkraftanlagen (3) or Praktikum Solarthermische Komponenten und Systeme (3) does not meet this minimum alone."
+    },
+    {
+      "id": "Fachübergreifende Methoden und Inhalte",
+      "group": "anyOf",
+      "name": "Interdisciplinary methods and content",
+      "nameDe": "Fachübergreifende Methoden und Inhalte",
+      "short": "Interdisciplinary",
+      "count": 1,
+      "ects": 6,
+      "options": [
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte"
+        },
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte > Numerische Mechanik 1"
+        },
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte > Konstruktiver Verkehrswegebau_VG"
+        },
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte > Intelligente Stromnetze_VG"
+        },
+        {
+          "type": "module",
+          "id": "Operations Research"
+        }
+      ],
+      "note": "At least 6 ECTS from Fachübergreifende Methoden und Inhalte, including Operations Research. GIS Erweiterungskurs (3) or Intelligente Stromnetze (3) does not meet this minimum alone."
+    },
+    {
+      "id": "Ergaenzung restliche 6 Credits",
+      "group": "anyOf",
+      "name": "Remaining supplement credits",
+      "nameDe": "Ergänzung restliche 6 Credits",
+      "short": "Suppl. remaining",
+      "count": 1,
+      "ects": 6,
+      "options": [
+        {
+          "type": "area",
+          "id": "Umweltingenieurwesen Ergänzung"
+        },
+        {
+          "type": "area",
+          "id": "Umweltingenieurwesen Ergänzung > Integrierte Wasserbewirtschaftung"
+        },
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte"
+        },
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte > Numerische Mechanik 1"
+        },
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte > Konstruktiver Verkehrswegebau_VG"
+        },
+        {
+          "type": "area",
+          "id": "Fachübergreifende Methoden und Inhalte > Intelligente Stromnetze_VG"
+        },
+        {
+          "type": "module",
+          "id": "Operations Research"
+        }
+      ],
+      "note": "The remaining 6 ECTS of the 18, from either Bereich, with neither Bereich above 12. A module already used in Umwelttechnik A or B or in the two 6-ECTS minimum slots does not count again."
+    },
+    {
+      "id": "Mathematisch-naturwissenschaftliche Vertiefung > Höhere Mathematik 4 - Stochastik für Ingenieure_VG",
+      "group": "area",
+      "name": "Mathematics/natural sciences",
+      "nameDe": "Mathematik/Naturwissenschaften",
+      "short": "Math/Science",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS from Ecological Modelling and GIS, Numerische Mathematik für Ingenieure, or Stochastik für Ingenieure. Only Stochastik für Ingenieure is offered this semester, as Höhere Mathematik 4 (lecture and exercise); Operations Research does not count here."
+    },
+    {
+      "id": "Schlüsselkompetenzen (fachübergreifend)",
+      "group": "module",
+      "name": "Key competencies (interdisciplinary)",
+      "nameDe": "Schlüsselkompetenzen (fachübergreifend)",
+      "short": "Key comp. general",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS in Schlüsselkompetenzen (fachübergreifend).",
+      "compulsory": true
+    },
+    {
+      "id": "Schlüsselkompetenz Umweltrecht",
+      "group": "module",
+      "name": "Key competencies (environmental law)",
+      "nameDe": "Schlüsselkompetenzen (Umweltrecht)",
+      "short": "Key comp. law",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS in Schlüsselkompetenzen (Umweltrecht).",
+      "compulsory": true
+    },
+    {
+      "id": "spec-a",
+      "group": "oneOf",
+      "name": "Environmental technology A",
+      "nameDe": "Schwerpunktmodul Umwelttechnik A",
+      "short": "Umwelttechnik A",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik A > Abfall- und Ressourcenwirtschaft"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik A > Siedlungswasserwirtschaft"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik A > Umwelt und Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik A > Wasserwirtschaft/Wasserbau"
+        }
+      ],
+      "note": "12 ECTS in one sub-field of Umwelttechnik A: Abfall- und Ressourcenwirtschaft, Siedlungswasserwirtschaft, Wasserwirtschaft/Wasserbau, or Umwelt und Verkehr."
+    },
+    {
+      "id": "spec-b",
+      "group": "oneOf",
+      "name": "Environmental technology B",
+      "nameDe": "Schwerpunktmodul Umwelttechnik B",
+      "short": "Umwelttechnik B",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik B > Abfall- und Ressourcenwirtschaft"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik B > Regenerative Energien - Sonne, Wind, Wasser"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik B > Regenerative Energien - Thermische Verfahren"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik B > Siedlungswasserwirtschaft"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik B > Umwelt und Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Umwelttechnik B > Wasserwirtschaft/Wasserbau"
+        }
+      ],
+      "note": "12 ECTS in one sub-field not already chosen for Umwelttechnik A, and the same module cannot fill both slots. An unused A sub-field remains allowed, as do Regenerative Energien - Sonne, Wind, Wasser and Regenerative Energien - Thermische Verfahren."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-umweltingenieurwesen",
+  "po": "Master Umweltingenieurwesen (2017)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=1701&token=052c26e3e8e94cc0e1947a52c26900acfb3b30ab",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=1697&token=cd3f672f948f281291fc544f950a58330cdd5cbc"
+  ]
+}

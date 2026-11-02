@@ -1,0 +1,3803 @@
+{
+ "generatedAt": "2026-10-21T18:02:37.365Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Wirtschaft, Psychologie und Management (2023)",
+ "programEn": "Master Economics, Psychology and Management (2023)",
+ "slug": "msc-wirtschaft-psychologie-und-management",
+ "degree": "master",
+ "themes": false,
+ "categories": [
+  {
+   "id": "m2-wahl",
+   "group": "anyOf",
+   "name": "Psychology foundations elective",
+   "nameDe": "M2: Wahlveranstaltung Psychologie Grundlagen",
+   "short": "M2 elective",
+   "count": 1,
+   "ects": 3,
+   "options": [
+    {
+     "type": "module",
+     "id": "Psychodynamische Modelle und Therapien"
+    },
+    {
+     "type": "module",
+     "id": "Arbeits- und Organisationspsychologie 2"
+    }
+   ],
+   "note": "M2 Psychologie Grundlagen remains a compulsory 6-ECTS module and still requires at least one further winter course of 3 ECTS, such as Psychodynamische Modelle und Therapien or Arbeits- und Organisationspsychologie 2. The separate 6-ECTS Psychologie Grundlagen row is the compulsory block, not this elective, and a course counted here cannot also fill M4.",
+   "nameTr": "Psikoloji temelleri seçmelisi",
+   "noteTr": "M2 Psychologie Grundlagen, 6 ECTS'lik zorunlu modül olmayı sürdürür ve Psychodynamische Modelle und Therapien veya Arbeits- und Organisationspsychologie 2 gibi en az bir ek 3 ECTS'lik kış dersi ister. Ayrı duran 6 ECTS'lik Psychologie Grundlagen satırı bu seçmeli değil, zorunlu bloktur. Burada sayılan bir ders M4'ü de dolduramaz.",
+   "noteDe": "M2 Psychologie Grundlagen bleibt ein Pflichtmodul mit 6 ECTS und verlangt weiterhin mindestens eine weitere Winterveranstaltung mit 3 ECTS, etwa Psychodynamische Modelle und Therapien oder Arbeits- und Organisationspsychologie 2. Die gesonderte Zeile Psychologie Grundlagen mit 6 ECTS ist der Pflichtblock, nicht dieses Wahlmodul. Eine hier angerechnete Veranstaltung kann nicht zugleich M4 füllen."
+  },
+  {
+   "id": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "group": "area",
+   "name": "Foundation electives",
+   "nameDe": "M4: Beliebige LV aus den Grundlagenbereichen",
+   "short": "Foundation WP",
+   "count": 2,
+   "ects": 12,
+   "note": "M4 requires 12 ECTS of elective courses from the economics, psychology, or methods foundations. Winter offerings are 3 or 6 ECTS each, so at least two courses are needed, and a course assigned to the M2 elective does not also count here.",
+   "nameTr": "Temel seçmeliler",
+   "noteTr": "M4, iktisat, psikoloji veya yöntem temellerinden 12 ECTS seçmeli ders ister. Kış sunuları her biri 3 veya 6 ECTS'tir; bu yüzden en az iki ders gerekir. M2 seçmelisine ayrılmış bir ders burada ayrıca sayılmaz.",
+   "noteDe": "M4 verlangt 12 ECTS Wahlveranstaltungen aus den wirtschaftswissenschaftlichen, psychologischen oder methodischen Grundlagen. Die Angebote im Winter umfassen je 3 oder 6 ECTS, daher sind mindestens zwei Veranstaltungen nötig. Eine dem Wahlmodul von M2 zugeordnete Veranstaltung zählt hier nicht zusätzlich."
+  },
+  {
+   "id": "Personal - Vertiefungsmodul",
+   "group": "area",
+   "name": "Advanced module: Human resources",
+   "nameDe": "M5: Personal",
+   "short": "Personnel",
+   "count": 1,
+   "ects": 12,
+   "note": "M5 Personal is a compulsory module of 12 ECTS over two semesters. This winter offers the elective part only; Personalauswahl und Beurteilung runs in the summer semester.",
+   "nameTr": "İleri modül: İnsan kaynakları",
+   "noteTr": "M5 Personal, iki yarıyıla yayılan 12 ECTS'lik zorunlu bir modüldür. Bu kış yarıyılında yalnızca seçmeli kısım sunulur; Personalauswahl und Beurteilung yaz yarıyılında verilir.",
+   "noteDe": "M5 Personal ist ein Pflichtmodul mit 12 ECTS über zwei Semester. In diesem Wintersemester wird nur der Wahlteil angeboten; Personalauswahl und Beurteilung findet im Sommersemester statt."
+  },
+  {
+   "id": "Organisation - Vertiefungsmodul",
+   "group": "area",
+   "name": "Advanced module: Organization",
+   "nameDe": "M6: Organisation",
+   "short": "Organization",
+   "count": 2,
+   "ects": 12,
+   "note": "M6 Organisation is a compulsory module of 12 ECTS over two semesters. Winter courses are electives within that total; Projektseminar Evidenzbasiertes Management is the compulsory summer course and is outside this list, and the handbook does not assign that seminar a separate credit value.",
+   "nameTr": "İleri modül: Organizasyon",
+   "noteTr": "M6 Organisation, iki dönem boyunca 12 ECTS'lik zorunlu bir modüldür. Kış dersleri bu toplamın içindeki seçmelilerdir. Projektseminar Evidenzbasiertes Management zorunlu yaz dersidir ve bu listenin dışındadır. Modül el kitabı bu seminere ayrı bir kredi değeri vermez.",
+   "noteDe": "M6 Organisation ist ein Pflichtmodul mit 12 ECTS über zwei Semester. Die Winterveranstaltungen sind Wahlveranstaltungen innerhalb dieser Summe. Projektseminar Evidenzbasiertes Management ist die Pflichtveranstaltung im Sommer und gehört nicht zu dieser Liste. Das Modulhandbuch weist diesem Seminar keinen eigenen Leistungspunktewert zu."
+  },
+  {
+   "id": "m8-choice",
+   "group": "oneOf",
+   "count": 1,
+   "ects": 12,
+   "options": [
+    {
+     "type": "module",
+     "id": "Marketing"
+    },
+    {
+     "type": "module",
+     "id": "Digitale Transformation"
+    },
+    {
+     "type": "area",
+     "id": "Arbeit und Gesundheit"
+    }
+   ],
+   "name": "Advanced module M8 (choice)",
+   "nameDe": "M8: Marketing oder Digitale Transformation oder Arbeit und Gesundheit",
+   "short": "M8 choice",
+   "note": "Choose exactly one of Marketing, Digitale Transformation, or Arbeit und Gesundheit and complete 12 ECTS in that specialisation. The first examination in a specialisation locks the choice.",
+   "nameTr": "İleri modül M8 (seçim)",
+   "noteTr": "Marketing, Digitale Transformation veya Arbeit und Gesundheit arasından tam olarak birini seçin ve bu uzmanlık alanında 12 ECTS tamamlayın. Bir uzmanlık alanındaki ilk sınav seçimi kesinleştirir.",
+   "noteDe": "Wählen Sie genau eines von Marketing, Digitale Transformation oder Arbeit und Gesundheit und erbringen Sie 12 ECTS in diesem Schwerpunkt. Die erste Prüfung in einem Schwerpunkt legt die Wahl fest."
+  }
+ ],
+ "rulesSummary": {
+  "en": "Fachprüfungsordnung of 18 October 2023 (Mitteilungsblatt 6/2024, in force 1 October 2025), section 7: foundations M1 to M3 (6 ECTS each), with M2 also requiring one further 3-ECTS winter elective beside its compulsory lecture; M4 (12 ECTS of free foundation courses); advanced modules Personal, Organisation, and Markt und Wettbewerb (12 ECTS each); M8 as exactly one of Marketing, Digitale Transformation, or Arbeit und Gesundheit (12 ECTS), with the first examination locking that specialisation (section 6 (9)); M9, a 12-ECTS elective (internship, research internship, or additive key competencies), which has no offering in the winter list; and the 30-ECTS thesis.",
+  "tr": "18 Ekim 2023 tarihli Fachprüfungsordnung (Mitteilungsblatt 6/2024, 1 Ekim 2025'te yürürlükte), madde 7: temeller M1 ile M3 (her biri 6 ECTS); M2, zorunlu dersinin yanında bir de 3 ECTS'lik kış seçmelisi gerektirir; M4 (12 ECTS serbest temel ders); ileri modüller Personal, Organisation ve Markt und Wettbewerb (her biri 12 ECTS); M8, Marketing, Digitale Transformation veya Arbeit und Gesundheit arasından tam olarak biri (12 ECTS) ve ilk sınav bu uzmanlık alanını kilitler (madde 6 (9)); M9, 12 ECTS'lik bir seçmeli (staj, araştırma stajı veya additive Schlüsselkompetenzen) olup kış listesinde karşılığı yoktur; ve 30 ECTS'lik tez.",
+  "de": "Fachprüfungsordnung vom 18. Oktober 2023 (Mitteilungsblatt 6/2024, in Kraft ab dem 1. Oktober 2025), § 7: Grundlagen M1 bis M3 (je 6 ECTS), wobei M2 neben seiner Pflichtvorlesung eine weitere Wahlveranstaltung im Winter mit 3 ECTS erfordert; M4 (12 ECTS freie Grundlagenveranstaltungen); Aufbaumodule Personal, Organisation und Markt und Wettbewerb (je 12 ECTS); M8 als genau eines aus Marketing, Digitale Transformation oder Arbeit und Gesundheit (12 ECTS), wobei die erste Prüfung diesen Schwerpunkt festlegt (§ 6 Abs. 9); M9, ein Wahlmodul mit 12 ECTS (Praktikum, Forschungspraktikum oder additive Schlüsselkompetenzen), das in der Winterliste nicht angeboten wird; sowie die Masterarbeit mit 30 ECTS."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=27963&token=567e1e1f919b1b01f02dc31ef1b4ea59997b8a24"
+ ],
+ "sections": [
+  {
+   "id": "Pflichtbereich ohne Wahlmöglichkeit",
+   "name": "Compulsory Area without Elective Options",
+   "nameDe": "Pflichtbereich ohne Wahlmöglichkeit"
+  },
+  {
+   "id": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "name": "Compulsory Elective Module from the Fundamentals Area",
+   "nameDe": "Wahlpflichtmodul aus dem Bereich Grundlagen"
+  },
+  {
+   "id": "Personal - Vertiefungsmodul",
+   "name": "Human Resources - Advanced Module",
+   "nameDe": "Personal - Vertiefungsmodul"
+  },
+  {
+   "id": "Organisation - Vertiefungsmodul",
+   "name": "Organization - Advanced Module",
+   "nameDe": "Organisation - Vertiefungsmodul"
+  },
+  {
+   "id": "Arbeit und Gesundheit",
+   "name": "Work and Health",
+   "nameDe": "Arbeit und Gesundheit"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Die Veranstaltung findet von 9:00 - 12:00 Uhr statt.": {
+   "en": "The course takes place from 09:00 to 12:00.",
+   "tr": "Ders 09:00-12:00 arasında yapılıyor."
+  },
+  "Kick-Off-Meeting": {
+   "en": "Kick-off meeting",
+   "tr": "Ön görüşme"
+  },
+  "1st Group Presentation": {
+   "en": "1st Group Presentation",
+   "tr": "1. grup sunumu"
+  },
+  "2nd Group Presentation": {
+   "en": "2nd Group Presentation",
+   "tr": "2. grup sunumu"
+  },
+  "Final Presentation": {
+   "en": "Final Presentation",
+   "tr": "Final sunum"
+  },
+  "Exam Prepraration": {
+   "en": "Exam Prepraration",
+   "tr": "Sınav hazırlığı"
+  },
+  "Exam": {
+   "en": "Exam",
+   "tr": "Sınav"
+  },
+  "Kick-Off": {
+   "en": "Kick-off meeting",
+   "tr": "Ön görüşme"
+  },
+  "Programming Crash Course": {
+   "en": "Programming Crash Course",
+   "tr": "Hızlandırılmış programlama kursu"
+  },
+  "Das Seminar findet als Blockveranstaltung an sechs Terminen im Semester statt (jeweils ca. 9:00–15:30 Uhr).Der Kick-off findet am 15.10.2026 von 10:00 bis 11:00 Uhr über Zoom statt. Wenn Sie planen, diese Veranstaltung im WiSe 2026/2027 zu belegen, sollten Sie versuchen, an diesem Kick-off-Termin teilzunehmen. Falls Sie zu dieser Zeit nicht können, sagen Sie Bescheid und melden Sie sich trotzdem gerne an. Es wird eine Möglichkeit geben, dass Sie die Informationen erhalten und teilnehmen könnenZoom-Link:https://uni-kassel.zoom-x.de/j/62883770688?pwd=6PbbBcwrjr5rrFxaU59mt27b99a2n9.1Anmeldung:Anmeldung unter Angabe Ihres Namens, Vornamens, Studiengangs und der Matrikelnummer an Antonia Tolzin (antonia.tolzin@uni-kassel.de).Worum geht es?Das praxisnahe Seminar bewegt sich an der Schnittstelle von Service-Innovation, generativer KI und agentischer KI (Agentic AI).Im Zentrum des Seminars steht die Frage, welchen Beitrag KI-Agenten und generative KI zur digitalen Transformation von Services leisten können.Die Teilnehmenden lernen, betriebliche Herausforderungen systematisch zu analysieren und digitale Services mit echtem Mehrwert zu gestalten. Dabei arbeiten sie in Teams an einem konkreten Projekt mit einem Social Enterprise und entwickeln erste Prototypen für reale Anwendungsfelder. Hierzu arbeiten sie mit Partnern aus dem sozialen Bereich zusammen.Zusätzliche Highlights des Seminars:- Inhalte zu KI-Agenten, großen Sprachmodellen und Prompt Engineering- Einführung in Ethical AI Design – Werteorientierte Gestaltung digitaler Services- Kontakt und Zusammenarbeit mit regionalen Partnern aus dem sozialen Bereich": {
+   "en": "The seminar takes place as a block course on six dates during the semester (each approx. 9:00–15:30). The kick-off meeting takes place on 15.10.2026 from 10:00 to 11:00 via Zoom. If you plan to take this course in the winter semester 2026/2027, you should try to attend this kick-off meeting. If you are unable to attend at that time, please let us know and feel free to register anyway. There will be a way for you to receive the information and participate. Zoom link: https://uni-kassel.zoom-x.de/j/62883770688?pwd=6PbbBcwrjr5rrFxaU59mt27b99a2n9.1 Registration: Registration, stating your surname, first name, degree program and matriculation number, to Antonia Tolzin (antonia.tolzin@uni-kassel.de). What is it about? This practice-oriented seminar sits at the intersection of service innovation, generative AI and agentic AI (Agentic AI). At the center of the seminar is the question of what contribution AI agents and generative AI can make to the digital transformation of services. Participants learn to analyze operational challenges systematically and to design digital services with real added value. In doing so, they work in teams on a concrete project with a social enterprise and develop initial prototypes for real fields of application. For this, they collaborate with partners from the social sector. Additional highlights of the seminar: - Content on AI agents, large language models and prompt engineering - Introduction to Ethical AI Design – value-oriented design of digital services - Contact and collaboration with regional partners from the social sector",
+   "tr": "Seminer, dönem boyunca altı tarihte blok etkinlik olarak gerçekleşir (her biri yaklaşık 9:00–15:30). Ön görüşme 15.10.2026 tarihinde saat 10:00 ile 11:00 arasında Zoom üzerinden yapılır. Bu dersi 2026/2027 kış yarıyılında almayı planlıyorsanız, bu ön görüşmeye katılmaya çalışmalısınız. O saatte gelemiyorsanız lütfen haber verin ve yine de kayıt olmaktan çekinmeyin. Bilgileri almanız ve katılmanız için bir yol olacaktır. Zoom bağlantısı: https://uni-kassel.zoom-x.de/j/62883770688?pwd=6PbbBcwrjr5rrFxaU59mt27b99a2n9.1 Kayıt: Soyadınız, adınız, öğrenim programınız ve öğrenci numaranız (Matrikelnummer) belirtilerek Antonia Tolzin'e (antonia.tolzin@uni-kassel.de) yapılır. Konu nedir? Uygulamaya yönelik bu seminer, hizmet inovasyonu, üretken yapay zeka ve ajan tabanlı yapay zeka (Agentic AI) kesişiminde yer alır. Seminerin merkezinde, yapay zeka ajanlarının ve üretken yapay zekanın hizmetlerin dijital dönüşümüne ne gibi bir katkı sağlayabileceği sorusu vardır. Katılımcılar, işletmeye ilişkin zorlukları sistematik olarak analiz etmeyi ve gerçek katma değeri olan dijital hizmetler tasarlamayı öğrenir. Bu kapsamda ekipler halinde bir sosyal girişimle (Social Enterprise) somut bir proje üzerinde çalışır ve gerçek uygulama alanları için ilk prototipleri geliştirirler. Bunun için sosyal alandan ortaklarla birlikte çalışırlar. Seminerin ek öne çıkan başlıkları: - Yapay zeka ajanları, büyük dil modelleri ve prompt mühendisliği içerikleri - Ethical AI Design'a giriş: değer odaklı dijital hizmet tasarımı - Sosyal alandan bölgesel ortaklarla iletişim ve iş birliği"
+  },
+  "ZwischenpräsentationArnold-Bode-Str. 12, Hörsaal 4 (Raum 0508)": {
+   "en": "Interim presentation, Arnold-Bode-Str. 12, lecture hall 4 (room 0508)",
+   "tr": "Ara sunum, Arnold-Bode-Str. 12, amfi 4 (oda 0508)"
+  },
+  "Präsentationen": {
+   "en": "Presentations",
+   "tr": "Sunumlar"
+  },
+  "Die Veranstaltung findet von 10:00 - 16:30 Uhr statt.": {
+   "en": "The event takes place from 10:00 - 16:30.",
+   "tr": "Etkinlik 10:00 - 16:30 saatleri arasında yapılmaktadır."
+  },
+  "https://moodle.uni-kassel.de/enrol/index.php?id=23427": {
+   "en": "https://moodle.uni-kassel.de/enrol/index.php?id=23427",
+   "tr": "https://moodle.uni-kassel.de/enrol/index.php?id=23427"
+  },
+  "Die Veranstaltung beginnt am 21.10.26!Eine Anmeldung zum Seminar ist nicht erforderlich. Kommen Sie einfach zur ersten Veranstaltung.": {
+   "en": "The course begins on 21.10.26! Registration for the seminar is not required. Simply come to the first session.",
+   "tr": "Ders 21.10.26 tarihinde başlar! Seminere kayıt gerekli değildir. İlk derse gelmeniz yeterlidir."
+  },
+  "Findet von 09:00 - 17:00 Uhr statt": {
+   "en": "Takes place from 09:00 - 17:00",
+   "tr": "09:00 - 17:00 saatleri arasında yapılır"
+  },
+  "Ganztags / Kongress": {
+   "en": "All day / congress",
+   "tr": "Tüm gün / kongre"
+  },
+  "Findet in Mö7, R. 4223 statt": {
+   "en": "Takes place in Mö7, room 4223",
+   "tr": "Mö7, oda 4223'te yapılıyor"
+  },
+  "Einführung am AVZ ​​Veranstaltung ist Teilnehmerbeschänkt und bedarf einer Anmeldung in Moodle.https://moodle.uni-kassel.de/course/view.php?id=23432": {
+   "en": "Introduction at the AVZ. The event has a limited number of participants and requires registration in Moodle. https://moodle.uni-kassel.de/course/view.php?id=23432",
+   "tr": "AVZ'de tanıtım. Etkinliğin katılımcı sayısı sınırlıdır ve Moodle'da kayıt gerektirir. https://moodle.uni-kassel.de/course/view.php?id=23432"
+  },
+  "findet bei VW statt": {
+   "en": "takes place at VW",
+   "tr": "VW'de gerçekleşir"
+  },
+  "Das Seminar findet an der Uni Göttingen in Präsenz statt!Beginn: 29.10.2026Raum: Zentralcampus, VG 3.105 (Verfügungsgebäud)": {
+   "en": "The seminar takes place in person at the University of Göttingen! Start: 29.10.2026 Room: Zentralcampus, VG 3.105 (Verfügungsgebäud)",
+   "tr": "Seminer Göttingen Üniversitesi'nde yüz yüze yapılır! Başlangıç: 29.10.2026 Oda: Zentralcampus, VG 3.105 (Verfügungsgebäud)"
+  },
+  "Das Seminar findet an der Uni Göttingen in Präsenz statt!": {
+   "en": "The seminar takes place in person at the University of Göttingen!",
+   "tr": "Seminer Göttingen Üniversitesi'nde yüz yüze yapılır!"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Pflichtbereich ohne Wahlmöglichkeit": "Compulsory Area without Elective Options",
+  "Wahlpflichtmodul aus dem Bereich Grundlagen": "Compulsory Elective Module from the Fundamentals Area",
+  "Personal - Vertiefungsmodul": "Human Resources - Advanced Module",
+  "Organisation - Vertiefungsmodul": "Organization - Advanced Module",
+  "Arbeit und Gesundheit": "Work and Health"
+ },
+ "modules": [
+  {
+   "id": "m60161",
+   "title": "Applied Research",
+   "titleEn": "Applied Research",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": true,
+   "courseIds": [
+    "64824",
+    "59810"
+   ]
+  },
+  {
+   "id": "m60226",
+   "title": "Angewandte Sozialpsychologie in der Organisationsforschung",
+   "titleEn": "Applied Social Psychology in Organizational Research",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "categories": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "section": "Organisation - Vertiefungsmodul",
+   "pickOne": false,
+   "courseIds": [
+    "69643"
+   ]
+  },
+  {
+   "id": "m60233",
+   "title": "Kognitiv-verhaltenstherapeutische Modelle und Therapien",
+   "titleEn": "Cognitive-Behavioral Models and Therapies",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": false,
+   "courseIds": [
+    "69743"
+   ]
+  },
+  {
+   "id": "m58778",
+   "title": "Contemporary Topics in Organizational Research",
+   "titleEn": "Contemporary Topics in Organizational Research",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "categories": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "section": "Organisation - Vertiefungsmodul",
+   "pickOne": true,
+   "courseIds": [
+    "67015",
+    "68285"
+   ]
+  },
+  {
+   "id": "m60237",
+   "title": "Digitale Transformation",
+   "titleEn": "Digital Transformation",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Pflichtbereich ohne Wahlmöglichkeit"
+   ],
+   "categories": [
+    "m8-choice"
+   ],
+   "section": "Pflichtbereich ohne Wahlmöglichkeit",
+   "pickOne": true,
+   "courseIds": [
+    "65083",
+    "65079",
+    "65078",
+    "65555"
+   ]
+  },
+  {
+   "id": "m60207",
+   "title": "Ökonomie Grundlagen",
+   "titleEn": "Economics Fundamentals",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtbereich ohne Wahlmöglichkeit"
+   ],
+   "categories": [],
+   "section": "Pflichtbereich ohne Wahlmöglichkeit",
+   "pickOne": false,
+   "courseIds": [
+    "67149"
+   ]
+  },
+  {
+   "id": "m58809",
+   "title": "Foundations in Experimental Economics",
+   "titleEn": "Foundations in Experimental Economics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": false,
+   "courseIds": [
+    "56934"
+   ]
+  },
+  {
+   "id": "m60256",
+   "title": "Personal - Vertiefungsmodul - Wahl",
+   "titleEn": "Human Resources - Advanced Module - Elective",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Personal - Vertiefungsmodul"
+   ],
+   "categories": [
+    "Personal - Vertiefungsmodul"
+   ],
+   "section": "Personal - Vertiefungsmodul",
+   "pickOne": false,
+   "courseIds": [
+    "56773",
+    "56770"
+   ]
+  },
+  {
+   "id": "m49796",
+   "title": "Intermediate Econometrics",
+   "titleEn": "Intermediate Econometrics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": false,
+   "courseIds": [
+    "56652",
+    "56402"
+   ]
+  },
+  {
+   "id": "m60222",
+   "title": "Markt und Wettbewerb - Vertiefungsmodul",
+   "titleEn": "Market and Competition - Advanced Module",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Pflichtbereich ohne Wahlmöglichkeit"
+   ],
+   "categories": [],
+   "section": "Pflichtbereich ohne Wahlmöglichkeit",
+   "pickOne": false,
+   "courseIds": [
+    "56402",
+    "69042"
+   ]
+  },
+  {
+   "id": "m60235",
+   "title": "Marketing",
+   "titleEn": "Marketing",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Pflichtbereich ohne Wahlmöglichkeit"
+   ],
+   "categories": [
+    "m8-choice"
+   ],
+   "section": "Pflichtbereich ohne Wahlmöglichkeit",
+   "pickOne": true,
+   "courseIds": [
+    "67018",
+    "65957",
+    "68880",
+    "68911"
+   ]
+  },
+  {
+   "id": "m60247",
+   "title": "Methoden Grundlagen",
+   "titleEn": "Methods Fundamentals",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtbereich ohne Wahlmöglichkeit"
+   ],
+   "categories": [],
+   "section": "Pflichtbereich ohne Wahlmöglichkeit",
+   "pickOne": true,
+   "courseIds": [
+    "56934",
+    "69655",
+    "69714",
+    "69719"
+   ]
+  },
+  {
+   "id": "m16722",
+   "title": "Projektmanagement 1: Einführung und Grundlagen",
+   "titleEn": "Project Management 1: Introduction and Fundamentals",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "categories": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "section": "Organisation - Vertiefungsmodul",
+   "pickOne": false,
+   "courseIds": [
+    "68077",
+    "69848"
+   ]
+  },
+  {
+   "id": "m60221",
+   "title": "Psychodynamische Modelle und Therapien",
+   "titleEn": "Psychodynamic Models and Therapies",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "m2-wahl",
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": false,
+   "courseIds": [
+    "69739"
+   ]
+  },
+  {
+   "id": "m60240",
+   "title": "Psychologie Grundlagen",
+   "titleEn": "Psychology Fundamentals",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtbereich ohne Wahlmöglichkeit"
+   ],
+   "categories": [],
+   "section": "Pflichtbereich ohne Wahlmöglichkeit",
+   "pickOne": false,
+   "courseIds": [
+    "69647"
+   ]
+  },
+  {
+   "id": "m58806",
+   "title": "Research Methods",
+   "titleEn": "Research Methods",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": true,
+   "courseIds": [
+    "59810",
+    "67016",
+    "69107",
+    "69103",
+    "68751",
+    "69659",
+    "69094"
+   ]
+  },
+  {
+   "id": "m60249",
+   "title": "Ausgewählte Themen der Beratungspsychologie",
+   "titleEn": "Selected Topics in Counseling Psychology",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "categories": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "section": "Organisation - Vertiefungsmodul",
+   "pickOne": false,
+   "courseIds": [
+    "69651"
+   ]
+  },
+  {
+   "id": "m60225",
+   "title": "Ausgewählte Themen zu Stress und Gesundheit in der Arbeit",
+   "titleEn": "Selected Topics in Stress and Health at Work",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Arbeit und Gesundheit"
+   ],
+   "categories": [
+    "m8-choice"
+   ],
+   "section": "Arbeit und Gesundheit",
+   "pickOne": true,
+   "courseIds": [
+    "57063",
+    "74271",
+    "74274"
+   ]
+  },
+  {
+   "id": "m59044",
+   "title": "Seminar in Economic Behavior",
+   "titleEn": "Seminar in Economic Behavior",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": true,
+   "courseIds": [
+    "56482",
+    "67054",
+    "68751",
+    "73644"
+   ]
+  },
+  {
+   "id": "m58821",
+   "title": "Service-Engineering & -Management",
+   "titleEn": "Service-Engineering & -Management",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "categories": [
+    "Organisation - Vertiefungsmodul"
+   ],
+   "section": "Organisation - Vertiefungsmodul",
+   "pickOne": false,
+   "courseIds": [
+    "65555"
+   ]
+  },
+  {
+   "id": "m60238",
+   "title": "Systemische Modelle und Therapien",
+   "titleEn": "Systemic Models and Therapies",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": false,
+   "courseIds": [
+    "69745"
+   ]
+  },
+  {
+   "id": "m29056",
+   "title": "Arbeits- und Organisationspsychologie 2",
+   "titleEn": "Work and Organizational Psychology 2",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "categories": [
+    "m2-wahl",
+    "Wahlpflichtmodul aus dem Bereich Grundlagen"
+   ],
+   "section": "Wahlpflichtmodul aus dem Bereich Grundlagen",
+   "pickOne": false,
+   "courseIds": [
+    "69124"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "67149",
+   "title": "Intermediate Behavioral Economics",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Astrid Dannenberg, Lena Hortsch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-20",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Veranstaltung findet von 9:00 - 12:00 Uhr statt.",
+       "instructors": [],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67149&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23871",
+    "key": false
+   },
+   "titleEn": "Intermediate Behavioral Economics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69647",
+   "title": "Psychologie und Wandel der Arbeitswelt",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Sandra Ohly",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Sandra Ohly"
+       ],
+       "room": "Raum 1102 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69647&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24281",
+    "key": true
+   },
+   "titleEn": "Psychology and Change in the World of Work",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56934",
+   "title": "Foundations of Experimental Economics",
+   "number": "FB07-2160-V-001",
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Marcel Lumkowsky, Prof. Dr. Astrid Dannenberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)",
+       "part": "Tutorium",
+       "fixed": true,
+       "partEn": "Tutorial"
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56934&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23981",
+    "key": false
+   },
+   "titleEn": "Foundations of Experimental Economics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69655",
+   "title": "Seminar Forschungsmethoden (WPM)",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Benjamin Harders",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Benjamin Harders",
+        "Salome Li Keintzel"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69655&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23773",
+    "key": false
+   },
+   "titleEn": "Research Methods Seminar (WPM)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69714",
+   "title": "Vorlesung: Forschungsmethoden Multivariate Statistik und Datenanalyse",
+   "number": "FB01.IfP01M.Sc.1/KliPPT1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Florian Scharf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Florian Scharf"
+       ],
+       "room": "Hörsaal 5 (Raum 0506) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69714&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24375",
+    "key": false
+   },
+   "titleEn": "Lecture: Research Methods Multivariate Statistics and Data Analysis",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69719",
+   "title": "Tutorium Forschungsmethoden: Multivariate Statistik und Datenanalyse -Kurse A - C-",
+   "number": "FB01.IfP03M.Sc.1/KliPPT1",
+   "type": "Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Florian Scharf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "N.N."
+       ],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "N.N."
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "N.N."
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "N.N."
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69719&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24375",
+    "key": false
+   },
+   "titleEn": "Tutorial Research Methods: Multivariate Statistics and Data Analysis -Courses A - C-",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "56402",
+   "title": "Intermediate Microeconomics",
+   "number": "WiWi-6430-V; 2031007;2031010;2697003",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Heike Wetzel, Tom Schütte, Simon Pröse",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0400 (Möncheberg 7)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-11-05",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-22",
+        "2026-10-29",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 5 (Raum 0506) (Arnold-Bode 12)",
+       "part": "Tutorium",
+       "fixed": true,
+       "partEn": "Tutorial"
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56402&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Intermediate Microeconomics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69042",
+   "title": "Evidence-Based Economic Policy",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Prof. Guido Bünstorf, Liam Paul Neumann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Guido Bünstorf",
+        "Liam Paul Neumann"
+       ],
+       "room": "Raum 1102 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69042&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23851",
+    "key": false
+   },
+   "titleEn": "Evidence-Based Economic Policy",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "67018",
+   "title": "Customer Experience Management",
+   "number": null,
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Prof. Dr. Andreas Mann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67018&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23942",
+    "key": true
+   },
+   "titleEn": "Customer Experience Management",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "65957",
+   "title": "Brand Management (Markenmanagement)",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Univ-Prof. H. Dieter Dahlhoff"
+       ],
+       "room": "Raum 3008 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65957&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Brand Management (Brand Management)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68880",
+   "title": "Collection System for Fashion Recycling: Policy, Design & Consumer Engagement (Master)",
+   "number": "SusM-11",
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Mohammed Salem",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3516 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68880&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24659",
+    "key": false
+   },
+   "titleEn": "Collection System for Fashion Recycling: Policy, Design & Consumer Engagement (Master)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68911",
+   "title": "Recent Advances in Sustainable Marketing",
+   "number": "SusM-12",
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Ralf Wagner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68911&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24657",
+    "key": false
+   },
+   "titleEn": "Recent Advances in Sustainable Marketing",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "65083",
+   "title": "Ausgewählte Fragestellungen der digitalen Transformation",
+   "number": "WiWi-7370-V1",
+   "type": "Projektseminar",
+   "language": null,
+   "responsible": "Prof. Dr. André Hanelt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65083&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Selected Issues in Digital Transformation",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "65079",
+   "title": "Social and Ethical Implications of Digitalization",
+   "number": null,
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. André Hanelt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-06",
+       "endDate": "2026-11-06",
+       "cancelled": [],
+       "note": "Kick-Off-Meeting",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "1st Group Presentation",
+       "instructors": [],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "2nd Group Presentation",
+       "instructors": [],
+       "room": "Raum 1215 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-02-04",
+       "endDate": "2027-02-04",
+       "cancelled": [],
+       "note": "Final Presentation",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-02-05",
+       "endDate": "2027-02-05",
+       "cancelled": [],
+       "note": "Exam Prepraration",
+       "instructors": [],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2027-02-19",
+       "endDate": "2027-02-19",
+       "cancelled": [],
+       "note": "Exam",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65079&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Social and Ethical Implications of Digitalization",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "65078",
+   "title": "Machine Learning in the Context of Digital Transformation",
+   "number": null,
+   "type": "Seminar / Blended Learning (e-learning + Präsenzphasen + Projektseminar)",
+   "language": "englisch",
+   "responsible": "Prof. Dr. André Hanelt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Kick-Off",
+       "instructors": [],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "13:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "Programming Crash Course",
+       "instructors": [],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2215 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2215 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65078&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24655",
+    "key": true
+   },
+   "titleEn": "Machine Learning in the Context of Digital Transformation",
+   "typeEn": "Seminar / Blended Learning (e-learning + In-Person Phases + Project Seminar)"
+  },
+  {
+   "id": "65555",
+   "title": "Service-Engineering & -Management",
+   "number": "WiWi-6320-V1",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Antonia Tolzin, Ulrich Bretschneider, Prof. Dr. Jan Marco Leimeister",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "10:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2026-10-15",
+       "cancelled": [],
+       "note": "Das Seminar findet als Blockveranstaltung an sechs Terminen im Semester statt (jeweils ca. 9:00–15:30 Uhr).Der Kick-off findet am 15.10.2026 von 10:00 bis 11:00 Uhr über Zoom statt. Wenn Sie planen, diese Veranstaltung im WiSe 2026/2027 zu belegen, sollten Sie versuchen, an diesem Kick-off-Termin teilzunehmen. Falls Sie zu dieser Zeit nicht können, sagen Sie Bescheid und melden Sie sich trotzdem gerne an. Es wird eine Möglichkeit geben, dass Sie die Informationen erhalten und teilnehmen könnenZoom-Link:https://uni-kassel.zoom-x.de/j/62883770688?pwd=6PbbBcwrjr5rrFxaU59mt27b99a2n9.1Anmeldung:Anmeldung unter Angabe Ihres Namens, Vornamens, Studiengangs und der Matrikelnummer an Antonia Tolzin (antonia.tolzin@uni-kassel.de).Worum geht es?Das praxisnahe Seminar bewegt sich an der Schnittstelle von Service-Innovation, generativer KI und agentischer KI (Agentic AI).Im Zentrum des Seminars steht die Frage, welchen Beitrag KI-Agenten und generative KI zur digitalen Transformation von Services leisten können.Die Teilnehmenden lernen, betriebliche Herausforderungen systematisch zu analysieren und digitale Services mit echtem Mehrwert zu gestalten. Dabei arbeiten sie in Teams an einem konkreten Projekt mit einem Social Enterprise und entwickeln erste Prototypen für reale Anwendungsfelder. Hierzu arbeiten sie mit Partnern aus dem sozialen Bereich zusammen.Zusätzliche Highlights des Seminars:- Inhalte zu KI-Agenten, großen Sprachmodellen und Prompt Engineering- Einführung in Ethical AI Design – Werteorientierte Gestaltung digitaler Services- Kontakt und Zusammenarbeit mit regionalen Partnern aus dem sozialen Bereich",
+       "instructors": [
+        "Antonia Tolzin"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65555&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24837",
+    "key": true
+   },
+   "titleEn": "Service-Engineering & -Management",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56652",
+   "title": "Intermediate Econometrics",
+   "number": "WiWi-6410-V1",
+   "type": "Vorlesung/Übung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Andreas Ziegler, Kumai Kokash",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-16",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Ziegler",
+        "Kumai Kokash"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-16",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Kumai Kokash"
+       ],
+       "room": "Raum 0211 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56652&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23760",
+    "key": false
+   },
+   "titleEn": "Intermediate Econometrics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "59810",
+   "title": "Advanced Forecasting Methods for Data Science Practitioners",
+   "number": null,
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Dominik Heinisch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-27",
+        "2026-11-10",
+        "2026-11-24",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-26"
+       ],
+       "note": "",
+       "instructors": [
+        "Dominik Heinisch"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-31",
+       "endDate": "2026-10-31",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dominik Heinisch"
+       ],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dominik Heinisch"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "08:00",
+       "end": "16:00",
+       "startDate": "2027-03-01",
+       "endDate": "2027-03-01",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dominik Heinisch"
+       ],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "16:00",
+       "startDate": "2027-03-05",
+       "endDate": "2027-03-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dominik Heinisch"
+       ],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59810&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24893",
+    "key": false
+   },
+   "titleEn": "Advanced Forecasting Methods for Data Science Practitioners",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "67016",
+   "title": "Qualitative Forschungsmethoden",
+   "number": null,
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Peter Eberl, Leonie Dobler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "16:00",
+       "startDate": "2026-10-05",
+       "endDate": "2026-10-08",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Peter Eberl",
+        "Leonie Dobler"
+       ],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "16:00",
+       "startDate": "2027-01-07",
+       "endDate": "2027-01-08",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Peter Eberl",
+        "Leonie Dobler"
+       ],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67016&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "22355",
+    "key": false
+   },
+   "titleEn": "Qualitative Research Methods",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69107",
+   "title": "Bibliometrics",
+   "number": null,
+   "type": "Seminar mit Präsentationen",
+   "language": "englisch",
+   "responsible": "Dr. Johannes König, Prof. Guido Bünstorf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Johannes König"
+       ],
+       "room": "Raum 0402 (Nora-Platiel 9)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69107&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23584",
+    "key": false
+   },
+   "titleEn": "Bibliometrics",
+   "typeEn": "Seminar with Presentations"
+  },
+  {
+   "id": "69103",
+   "title": "Seminar Macro and Policy",
+   "number": null,
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Klaus Gründler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Klaus Gründler"
+       ],
+       "room": "Raum 0210 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69103&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24038",
+    "key": false
+   },
+   "titleEn": "Seminar Macro and Policy",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68751",
+   "title": "Empirical Economic Analysis Using Publicly Available Data",
+   "number": null,
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Marcel Lumkowsky, Prof. Dr. Astrid Dannenberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1102 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-19",
+       "endDate": "2026-11-19",
+       "cancelled": [],
+       "note": "ZwischenpräsentationArnold-Bode-Str. 12, Hörsaal 4 (Raum 0508)",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-11-19",
+       "endDate": "2026-11-19",
+       "cancelled": [],
+       "note": "ZwischenpräsentationArnold-Bode-Str. 12, Hörsaal 4 (Raum 0508)",
+       "instructors": [],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2027-01-28",
+       "endDate": "2027-01-28",
+       "cancelled": [],
+       "note": "Präsentationen",
+       "instructors": [],
+       "room": "Raum 0401 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "Präsentationen",
+       "instructors": [],
+       "room": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68751&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23983",
+    "key": true
+   },
+   "titleEn": "Empirical Economic Analysis Using Publicly Available Data",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69659",
+   "title": "Spatial Econometrics",
+   "number": null,
+   "type": "Seminar / Übung",
+   "language": null,
+   "responsible": "apl. Prof. Reinhold Kosfeld",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Reinhold Kosfeld"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69659&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "20030",
+    "key": false
+   },
+   "titleEn": "Spatial Econometrics",
+   "typeEn": "Seminar / Exercise"
+  },
+  {
+   "id": "69094",
+   "title": "Research Methods for Business",
+   "number": "SCM - 006",
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Franziska Maria Deicke, Lena Petri",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Seuring-Stella"
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69094&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23773",
+    "key": false
+   },
+   "titleEn": "Research Methods for Business",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "56482",
+   "title": "Behavioral Economics meets the public sector",
+   "number": null,
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Ivo Bischoff, Sourav Das",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Sourav Das"
+       ],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56482&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23785",
+    "key": false
+   },
+   "titleEn": "Behavioral Economics meets the public sector",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "67054",
+   "title": "Empirical Energy Economics",
+   "number": null,
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Heike Wetzel, Tom Schütte, Simon Pröse",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-05",
+       "endDate": "2026-10-07",
+       "cancelled": [],
+       "note": "Die Veranstaltung findet von 10:00 - 16:30 Uhr statt.",
+       "instructors": [],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-11-11",
+       "endDate": "2026-11-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-11-18",
+       "endDate": "2026-11-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-20",
+       "endDate": "2027-01-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-27",
+       "endDate": "2027-01-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67054&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23769",
+    "key": false
+   },
+   "titleEn": "Empirical Energy Economics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "73644",
+   "title": "Advanced Applied Microeconomics: Empirical Strategies and Frontier Literature",
+   "number": null,
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Obaida Salah",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Obaida Salah"
+       ],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73644&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23663",
+    "key": false
+   },
+   "titleEn": "Advanced Applied Microeconomics: Empirical Strategies and Frontier Literature",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "64824",
+   "title": "Applied Research (DE/EN)",
+   "number": "WiWi-7330-V1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Sarah Götz, Prof. Dr. Matthias Söllner, Florian Weber",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2026-10-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-29",
+       "endDate": "2026-10-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-11-05",
+       "endDate": "2026-11-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-12-01",
+       "endDate": "2026-12-01",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-02-02",
+       "endDate": "2027-02-02",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64824&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23831",
+    "key": true
+   },
+   "titleEn": "Applied Research (DE/EN)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69739",
+   "title": "Vorlesung: Psychodynamische Modelle und Therapien",
+   "number": "FB01.IfP07M.Sc.1/KliPPT1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "V.-Prof. Dr. Sophie Hauschild",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "V.-Prof. Dr. Sophie Hauschild"
+       ],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69739&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24897",
+    "key": true
+   },
+   "titleEn": "Lecture: Psychodynamic Models and Therapies",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69743",
+   "title": "Vorlesung: Kognitiv-verhaltenstherapeutische Modelle und Therapien",
+   "number": "FB01.IfP09M.Sc.1/KliPPT1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Christoph Flückiger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christoph Flückiger"
+       ],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69743&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24035",
+    "key": true
+   },
+   "titleEn": "Lecture: Cognitive-Behavioral Models and Therapies",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69745",
+   "title": "Vorlesung: Systemische Modelle und Therapien",
+   "number": "FB01.IfP10M.Sc.1/KliPPT1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Christoph Flückiger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christoph Flückiger"
+       ],
+       "room": "Hörsaal 5 (Raum 0506) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69745&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24036",
+    "key": true
+   },
+   "titleEn": "Lecture: Systemic Models and Therapies",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69124",
+   "title": "Arbeits- und Organisationspsychologie 2 (Work and Organizational Psychology)",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. habil. Oliver Sträter",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "https://moodle.uni-kassel.de/enrol/index.php?id=23427",
+       "instructors": [
+        "Prof. Dr. habil. Oliver Sträter"
+       ],
+       "room": "Hörsaal 5 (Raum 1101) (Moritzstr. 18 Campus Center)"
+      }
+     ],
+     "lang": "de"
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69124&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23427",
+    "key": false
+   },
+   "titleEn": "Arbeits- und Organisationspsychologie 2 (Work and Organizational Psychology)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "56773",
+   "title": "Personal Wahl c (WPM)",
+   "number": "WPM-4120-P3",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Benjamin Krug",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Benjamin Krug"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56773&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23447",
+    "key": true
+   },
+   "titleEn": "Human Resources Elective c (WPM)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56770",
+   "title": "Personal Wahl 1",
+   "number": "WPM-4120-P1",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Benjamin Harders",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Benjamin Harders"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56770&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Personal Wahl 1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "67015",
+   "title": "Trust and Well-being",
+   "number": null,
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Leonie Dobler, Prof. Dr. Peter Eberl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Die Veranstaltung beginnt am 21.10.26!Eine Anmeldung zum Seminar ist nicht erforderlich. Kommen Sie einfach zur ersten Veranstaltung.",
+       "instructors": [
+        "Leonie Dobler",
+        "Prof. Dr. Peter Eberl"
+       ],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67015&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23954",
+    "key": false
+   },
+   "titleEn": "Trust and Well-being",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68285",
+   "title": "From Education to Professional Excellence: Exploring Milestones in Research on Education and Human Resource Development",
+   "number": "BeWiPd-6560-V2",
+   "type": "Seminar",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Michael Goller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Michael Goller"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68285&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23397",
+    "key": true
+   },
+   "titleEn": "From Education to Professional Excellence: Exploring Milestones in Research on Education and Human Resource Development",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69651",
+   "title": "Ausgewählte Themen der Beratungspsychologie",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Jannik Zimmermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "Findet von 09:00 - 17:00 Uhr statt",
+       "instructors": [
+        "Jannik Zimmermann"
+       ],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2026-12-05",
+       "endDate": "2026-12-05",
+       "cancelled": [],
+       "note": "Findet von 09:00 - 17:00 Uhr statt",
+       "instructors": [
+        "Jannik Zimmermann"
+       ],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2027-03-15",
+       "endDate": "2027-03-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Jannik Zimmermann"
+       ],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-03-19",
+       "endDate": "2027-03-19",
+       "cancelled": [],
+       "note": "Ganztags / Kongress",
+       "instructors": [
+        "Jannik Zimmermann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-03-20",
+       "endDate": "2027-03-20",
+       "cancelled": [],
+       "note": "Ganztags / Kongress",
+       "instructors": [
+        "Jannik Zimmermann"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69651&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Selected Topics in Counseling Psychology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69643",
+   "title": "Angewandte Sozialpsychologie in der Organisationsforschung",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Benjamin Harders",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Benjamin Harders"
+       ],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69643&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Applied Social Psychology in Organizational Research",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68077",
+   "title": "Projektmanagement 1: Einführung und Grundlagen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68077&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23401",
+    "key": false
+   },
+   "titleEn": "Project Management 1: Introduction and Fundamentals",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69848",
+   "title": "Projektmanagement 1 - Übung",
+   "number": null,
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69848&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Project Management 1 - Exercise",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57063",
+   "title": "Betriebliches Gesundheitsmanagement",
+   "number": null,
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. habil. Oliver Sträter",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2026-10-21",
+       "cancelled": [],
+       "note": "Einführung am AVZ ​​Veranstaltung ist Teilnehmerbeschänkt und bedarf einer Anmeldung in Moodle.https://moodle.uni-kassel.de/course/view.php?id=23432",
+       "instructors": [
+        "Andree Hillebrecht"
+       ],
+       "room": "Raum 0236 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "12:30",
+       "end": "16:30",
+       "startDate": "2026-11-11",
+       "endDate": "2026-11-11",
+       "cancelled": [],
+       "note": "findet bei VW statt",
+       "instructors": [
+        "Andree Hillebrecht"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "12:30",
+       "end": "16:30",
+       "startDate": "2026-12-02",
+       "endDate": "2026-12-02",
+       "cancelled": [],
+       "note": "findet bei VW statt",
+       "instructors": [
+        "Andree Hillebrecht"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "12:30",
+       "end": "16:30",
+       "startDate": "2027-01-27",
+       "endDate": "2027-01-27",
+       "cancelled": [],
+       "note": "findet bei VW statt",
+       "instructors": [
+        "Andree Hillebrecht"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "12:30",
+       "end": "16:30",
+       "startDate": "2027-02-03",
+       "endDate": "2027-02-03",
+       "cancelled": [],
+       "note": "findet bei VW statt",
+       "instructors": [
+        "Andree Hillebrecht"
+       ],
+       "room": ""
+      }
+     ],
+     "lang": "de"
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57063&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23432",
+    "key": false
+   },
+   "titleEn": "Workplace Health Management",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "74271",
+   "title": "Arbeit und Gesundheit Wahl (a)",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Das Seminar findet an der Uni Göttingen in Präsenz statt!Beginn: 29.10.2026Raum: Zentralcampus, VG 3.105 (Verfügungsgebäud)",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74271&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Work and Health Elective (a)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74274",
+   "title": "Arbeit und Gesundheit Wahl (b)",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Das Seminar findet an der Uni Göttingen in Präsenz statt!",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74274&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Work and Health Elective (b)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

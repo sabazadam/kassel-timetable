@@ -1,0 +1,70 @@
+{
+  "slug": "msc-wirtschaftsrecht",
+  "po": "Master Wirtschaftsrecht (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26777&token=03640e7bb7c987bf11241ee41e48b18c8ea566d9"
+  ],
+  "categories": [
+    {
+      "id": "Wirtschaftswissenschaften Wahlpflicht",
+      "group": "area",
+      "name": "Economics modules",
+      "nameDe": "Bereich Wirtschaftswissenschaften",
+      "short": "Economics",
+      "count": 3,
+      "note": "W1 economics elective, W2 business elective and W3 advanced economics, 6 ECTS each (18 ECTS)"
+    },
+    {
+      "id": "law-advanced",
+      "group": "anyOf",
+      "count": 4,
+      "options": [
+        {
+          "type": "module",
+          "id": "R4 - Vertiefung Europäisches und Internationales Umweltrecht"
+        },
+        {
+          "type": "module",
+          "id": "R5 - Vertiefung Europäisches und Internationales Arbeits- und Sozialrecht"
+        },
+        {
+          "type": "module",
+          "id": "R6 - Vertiefung Europäisches und Internationales Unternehmensrecht"
+        },
+        {
+          "type": "module",
+          "id": "R7 - Vertiefung Europäisches und Internationales Recht der digitalen Gesellschaft"
+        },
+        {
+          "type": "module",
+          "id": "T1 - Tauschmodul mit Wahl I"
+        }
+      ],
+      "name": "Advanced law modules",
+      "nameDe": "Vertiefungsmodule R4 bis R7 (eines ggf. durch T1 ersetzt)",
+      "short": "Law advanced",
+      "note": "Four 6-ECTS modules: R4 to R7, one of which may be replaced by exchange module T1"
+    },
+    {
+      "id": "integration",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "IB1 - Rechnungslegung und Steuerlehre (Masterniveau)"
+        },
+        {
+          "type": "module",
+          "id": "T2 - Tauschmodul mit Wahl II"
+        }
+      ],
+      "name": "Integration modules",
+      "nameDe": "Integrationsbereich IB1/IB2 (eines ggf. durch T2 ersetzt)",
+      "short": "Integration",
+      "note": "IB1 and IB2 (6 ECTS each), one may be replaced by T2; IB2 has no module in this semester's data"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO 2023 section 8: law modules R1 to R7 (one of R4 to R7 may be swapped for the exchange module T1), economics modules W1 to W3, integration modules IB1 and IB2 (one may be swapped for T2), and the thesis."
+}

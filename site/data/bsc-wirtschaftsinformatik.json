@@ -1,0 +1,6266 @@
+{
+ "generatedAt": "2026-10-21T18:02:37.778Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor Wirtschaftsinformatik (2024)",
+ "programEn": "Bachelor Business Informatics (2024)",
+ "slug": "bsc-wirtschaftsinformatik",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "enterprise-applications",
+   "modules": [
+    "m59164",
+    "m60732",
+    "m59130"
+   ],
+   "text": {
+    "tr": [
+     "Kurumsal Uygulama Sistemleri",
+     "Öğrenci, firmaların uygulama sistemlerini nasıl geliştirdiğini, ERP projelerini nasıl yönettiğini ve internet tabanlı uygulamaları nasıl kullandığını öğrenir."
+    ],
+    "en": [
+     "Enterprise Application Systems",
+     "The student learns how firms develop application systems, manage ERP projects, and use internet based applications."
+    ],
+    "de": [
+     "Betriebliche Anwendungssysteme",
+     "Die Studierenden lernen, wie Unternehmen Anwendungssysteme entwickeln, ERP Projekte steuern und internetbasierte Anwendungen einsetzen."
+    ]
+   }
+  },
+  {
+   "id": "economic-analysis",
+   "modules": [
+    "m29621",
+    "m17506",
+    "m17451"
+   ],
+   "text": {
+    "tr": [
+     "Ekonomik Analiz",
+     "Öğrenci, ekonomi politikası seçeneklerini değerlendirmeyi, şok ve politika etkilerini ayırt etmeyi ve ekonometrik modelleri tahmin etmeyi öğrenir."
+    ],
+    "en": [
+     "Economic Analysis",
+     "The student learns to assess economic policy options, distinguish the effects of shocks and policy, and estimate econometric models."
+    ],
+    "de": [
+     "Ökonomische Analyse",
+     "Die Studierenden lernen, wirtschaftspolitische Optionen zu beurteilen, die Wirkungen von Schocks und Politik zu unterscheiden und ökonometrische Modelle zu schätzen."
+    ]
+   }
+  },
+  {
+   "id": "accounting-and-behavior",
+   "modules": [
+    "m29675",
+    "m29623",
+    "m29648"
+   ],
+   "text": {
+    "tr": [
+     "Muhasebe ve Davranış",
+     "Öğrenci, finansal tabloları ve karar odaklı maliyet muhasebesini kullanmayı ve ekonomik olayların psikolojik temellerini öğrenir."
+    ],
+    "en": [
+     "Accounting and Behavior",
+     "The student learns to prepare financial statements, use decision oriented cost accounting, and understand the psychological bases of economic phenomena."
+    ],
+    "de": [
+     "Rechnungswesen und Verhalten",
+     "Die Studierenden lernen, Jahresabschlüsse zu erstellen, entscheidungsorientierte Kostenrechnung zu nutzen und die psychologischen Grundlagen ökonomischer Phänomene zu verstehen."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "Wahlmodule > Informatik Wahlpflicht",
+   "group": "area",
+   "name": "Computer science elective",
+   "nameDe": "Informatik Wahlpflicht",
+   "short": "WP Informatik",
+   "count": 1,
+   "note": "6 ECTS",
+   "nameTr": "Bilgisayar bilimi seçmeli dersi",
+   "noteTr": "6 ECTS",
+   "noteDe": "6 ECTS"
+  },
+  {
+   "id": "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik",
+   "group": "area",
+   "name": "Business informatics specialization electives",
+   "nameDe": "Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik",
+   "short": "WP WI focus",
+   "count": 3,
+   "note": "18 ECTS (three 6-ECTS modules)",
+   "nameTr": "İşletme bilişimi uzmanlık alanı seçmeli dersleri",
+   "noteTr": "18 ECTS (üç adet 6 ECTS'lik modül)",
+   "noteDe": "18 ECTS (drei Module mit je 6 ECTS)"
+  },
+  {
+   "id": "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht",
+   "group": "area",
+   "name": "Economics elective",
+   "nameDe": "Wirtschaftswissenschaften Wahlpflicht",
+   "short": "WP Economics",
+   "count": 1,
+   "note": "6 ECTS",
+   "nameTr": "Ekonomi seçmeli dersi",
+   "noteTr": "6 ECTS",
+   "noteDe": "6 ECTS"
+  },
+  {
+   "id": "Projektseminar",
+   "group": "module",
+   "name": "Project seminar",
+   "nameDe": "Projektseminar",
+   "short": "Project seminar",
+   "count": 1,
+   "note": "12 ECTS",
+   "compulsory": true,
+   "nameTr": "Proje semineri",
+   "noteTr": "12 ECTS",
+   "noteDe": "12 ECTS"
+  },
+  {
+   "id": "Schlüsselkompetenzen",
+   "group": "module",
+   "name": "Key competencies",
+   "nameDe": "Schlüsselkompetenzen",
+   "short": "Key competencies",
+   "count": 1,
+   "note": "12 ECTS; language courses, student engagement and non-business-informatics courses can count",
+   "nameTr": "Anahtar yetkinlikler",
+   "noteTr": "12 ECTS; dil dersleri, öğrenci katılımı ve işletme bilişimi dışındaki dersler sayılabilir",
+   "noteDe": "12 ECTS; Sprachkurse, studentisches Engagement und Lehrveranstaltungen außerhalb der Wirtschaftsinformatik können angerechnet werden"
+  }
+ ],
+ "rulesSummary": {
+  "en": "Section 7 of the current PO (dated 23.04.2025, the only one published for the program; eCampus labels it 2024): 126 ECTS compulsory section including the 12 ECTS thesis (114 ECTS other compulsory modules + Bachelorarbeit), and electives: 6 ECTS computer science, 18 ECTS business informatics specialization, 6 ECTS economics, a 12-ECTS project seminar and 12 ECTS key competencies.",
+  "tr": "Güncel PO madde 7 (23.04.2025 tarihli, program için yayımlanan tek metin; eCampus bunu 2024 olarak etiketler): 12 ECTS tutarındaki tez dahil 126 ECTS zorunlu bölüm (114 ECTS diğer zorunlu modüller + Bachelorarbeit) ve seçmeliler: 6 ECTS bilişim, 18 ECTS işletme bilişimi uzmanlık alanı, 6 ECTS ekonomi, 12 ECTS tutarında bir proje semineri ve 12 ECTS anahtar yeterlikler.",
+  "de": "§ 7 der geltenden PO (vom 23.04.2025, die einzige für den Studiengang veröffentlichte Fassung; eCampus kennzeichnet sie als 2024): 126 ECTS Pflichtbereich einschließlich der Abschlussarbeit im Umfang von 12 ECTS (114 ECTS sonstige Pflichtmodule + Bachelorarbeit) sowie Wahlpflicht: 6 ECTS Informatik, 18 ECTS Schwerpunkt Wirtschaftsinformatik, 6 ECTS Wirtschaftswissenschaften, ein Projektseminar im Umfang von 12 ECTS und 12 ECTS Schlüsselkompetenzen."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28695&token=45bc97bd5264498646fc364a4e8ef752b96e3f19"
+ ],
+ "sections": [
+  {
+   "id": "Pflichtmodule",
+   "name": "Compulsory Modules",
+   "nameDe": "Pflichtmodule"
+  },
+  {
+   "id": "Wahlmodule",
+   "name": "Elective Modules",
+   "nameDe": "Wahlmodule"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Tutorium von Louis Jüngst": {
+   "en": "Tutorial by Louis Jüngst",
+   "tr": "Louis Jüngst'ün tutorialı"
+  },
+  "Tutorium von Eduard Selimi, digital": {
+   "en": "Tutorial by Eduard Selimi, digital",
+   "tr": "Eduard Selimi'nin tutorialı, dijital"
+  },
+  "Für die Teilnahme ist keine Anmeldung notwendig.": {
+   "en": "No registration is needed to take part.",
+   "tr": "Katılmak için kayıt gerekmiyor."
+  },
+  "Durchführender John Hundhausen": {
+   "en": "Conducted by John Hundhausen",
+   "tr": "Yürüten: John Hundhausen"
+  },
+  "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!": {
+   "en": "The tutorials start in calendar week 46, from 10.11.2026, and take place every two weeks.",
+   "tr": "Tutorial'lar 46. haftada, 10.11.2026'dan itibaren başlar ve iki haftada bir yapılır."
+  },
+  "Tutorium - Sperk": {
+   "en": "Tutorial - Sperk",
+   "tr": "Tutorial - Sperk"
+  },
+  "Tutorium - Gronemeyer": {
+   "en": "Tutorial - Gronemeyer",
+   "tr": "Tutorial - Gronemeyer"
+  },
+  "Tutorium - Berlau": {
+   "en": "Tutorial - Berlau",
+   "tr": "Tutorial - Berlau"
+  },
+  "Tutorium - Heußner (online)": {
+   "en": "Tutorial - Heußner (online)",
+   "tr": "Tutorial - Heußner (online)"
+  },
+  "Beginn: 08:30 Uhr !!!": {
+   "en": "Start: 08:30 !!!",
+   "tr": "Başlangıç: 08:30 !!!"
+  },
+  "Kick-off des Ferienkurses. Die Veranstaltung findet hybrid statt:in Präsenz: Raum 1120, Kurt-Wolters 3online: https://uni-kassel.zoom-x.de/j/64273349305?pwd=KLrxmCSvaba4Qa0o6qmcexFV5Sfb6p.1Bei Rückfragen jederzeit melden.": {
+   "en": "Kick-off meeting for the holiday course. The event takes place in hybrid form: in person: Room 1120, Kurt-Wolters 3; online: https://uni-kassel.zoom-x.de/j/64273349305?pwd=KLrxmCSvaba4Qa0o6qmcexFV5Sfb6p.1 Please get in touch at any time if you have any questions.",
+   "tr": "Tatil kursunun ön görüşmesi. Etkinlik hibrit olarak gerçekleşir: yüz yüze: Oda 1120, Kurt-Wolters 3; çevrimiçi: https://uni-kassel.zoom-x.de/j/64273349305?pwd=KLrxmCSvaba4Qa0o6qmcexFV5Sfb6p.1 Sorularınız için her zaman iletişime geçebilirsiniz."
+  },
+  "Die Veranstaltung findet hybrid statt:in Präsenz: Raum 1120, Kurt-Wolters 3online: https://uni-kassel.zoom-x.de/j/62770890762?pwd=EWl1aC6Ws1peo70UZbzejjoxVqLW94.1": {
+   "en": "The event takes place in hybrid form: in person: Room 1120, Kurt-Wolters 3; online: https://uni-kassel.zoom-x.de/j/62770890762?pwd=EWl1aC6Ws1peo70UZbzejjoxVqLW94.1",
+   "tr": "Etkinlik hibrit olarak gerçekleşir: yüz yüze: Oda 1120, Kurt-Wolters 3; çevrimiçi: https://uni-kassel.zoom-x.de/j/62770890762?pwd=EWl1aC6Ws1peo70UZbzejjoxVqLW94.1"
+  },
+  "Die Veranstaltung findet hybrid statt:in Präsenz: Raum 1120, Kurt-Wolters 3online: https://uni-kassel.zoom-x.de/j/69156661121?pwd=ffhPk7u1QuQS0MbVL3VbXNfmOZbaig.1": {
+   "en": "The event takes place in hybrid form: in person: Room 1120, Kurt-Wolters 3; online: https://uni-kassel.zoom-x.de/j/69156661121?pwd=ffhPk7u1QuQS0MbVL3VbXNfmOZbaig.1",
+   "tr": "Etkinlik hibrit olarak gerçekleşir: yüz yüze: Oda 1120, Kurt-Wolters 3; çevrimiçi: https://uni-kassel.zoom-x.de/j/69156661121?pwd=ffhPk7u1QuQS0MbVL3VbXNfmOZbaig.1"
+  },
+  "Diese Veranstaltung wird über Zoom angeboten. Der Zoom-Link wird noch bekanntgegeben.": {
+   "en": "This event is offered via Zoom. The Zoom link will be announced later.",
+   "tr": "Bu etkinlik Zoom üzerinden sunulmaktadır. Zoom bağlantısı daha sonra duyurulacaktır."
+  },
+  "Der Kick-off zu dieser Veranstaltung findet am 28.10.2026 um 14 Uhr über Zoom statt. Wenn Sie planen, diese Veranstaltung im WiSe 2026/2027 zu belegen, sollten Sie unbedingt an diesem Kick-off-Termin teilnehmen. Im Kick-off-Termin werden neben einem thematischen Überblick vor allem organisatorische Dinge zur Veranstaltung, wie Klausur, Termine, Räume, Moodle etc., vorgestellt und besprochen.Zoom-Link:https://uni-kassel.zoom-x.de/j/93401827630?pwd=SldIY0FyaDBHdGp1NytlT0UxejB6dz09": {
+   "en": "The kick-off meeting for this course takes place on 28.10.2026 at 14 Uhr via Zoom. If you plan to take this course in the winter semester 2026/2027, you should definitely attend this kick-off meeting. At the kick-off meeting, in addition to a thematic overview, above all the organizational matters of the course, such as the written exam, dates, rooms, Moodle, etc., will be presented and discussed. Zoom link: https://uni-kassel.zoom-x.de/j/93401827630?pwd=SldIY0FyaDBHdGp1NytlT0UxejB6dz09",
+   "tr": "Bu etkinliğin ön görüşmesi 28.10.2026 tarihinde saat 14 Uhr'de Zoom üzerinden gerçekleşir. Bu etkinliği 2026/2027 kış yarıyılında almayı planlıyorsanız, bu ön görüşmeye mutlaka katılmalısınız. Ön görüşmede, tematik bir genel bakışın yanı sıra özellikle yazılı sınav, tarihler, odalar, Moodle vb. gibi etkinliğe ilişkin organizasyonel konular tanıtılacak ve görüşülecektir. Zoom bağlantısı: https://uni-kassel.zoom-x.de/j/93401827630?pwd=SldIY0FyaDBHdGp1NytlT0UxejB6dz09"
+  },
+  "Ort: Universität Kassel, Wissenschaftliches Zentrum für Informationstechnikgestaltung (ITeG), Pfannkuchstr. 1, 34121 Kassel, Kontakt & Anfahrt - FORSCHUNG - Uni Kassel I Raum: 0420 (Erdgeschoss)": {
+   "en": "Location: University of Kassel, Wissenschaftliches Zentrum für Informationstechnikgestaltung (ITeG), Pfannkuchstr. 1, 34121 Kassel, Contact & directions - RESEARCH - Uni Kassel I Room: 0420 (ground floor)",
+   "tr": "Yer: Universität Kassel, Wissenschaftliches Zentrum für Informationstechnikgestaltung (ITeG), Pfannkuchstr. 1, 34121 Kassel, İletişim ve ulaşım - ARAŞTIRMA - Uni Kassel I Oda: 0420 (zemin kat)"
+  },
+  "Das Projektseminar für den Bachelorstudiengang Wirtschaftsinformatik wird nur bei Bedarf angeboten. Bitte melden Sie sich möglichst frühzeitig unter der Email-Adresse studienkoordination-winfo@uni-kassel.de Bei Rückfragen stehen wir gerne zur Verfügung.": {
+   "en": "The project seminar for the Bachelor's degree program Wirtschaftsinformatik is offered only if there is demand. Please get in touch as early as possible at the email address studienkoordination-winfo@uni-kassel.de. If you have any questions, we are happy to help.",
+   "tr": "Wirtschaftsinformatik lisans programının proje semineri yalnızca talep olması halinde sunulur. Lütfen mümkün olduğunca erken studienkoordination-winfo@uni-kassel.de e-posta adresi üzerinden bizimle iletişime geçin. Sorularınız olursa memnuniyetle yardımcı oluruz."
+  },
+  "Die Termine dienen als Platzhalter (eigentliche Kursdaten https://www.uni-kassel.de/fb07/ibwl/wise/lehre/sap-iee2e-kurs.html) und von Herrn Schulten kommuniziert.": {
+   "en": "The dates serve as placeholders (actual course dates: https://www.uni-kassel.de/fb07/ibwl/wise/lehre/sap-iee2e-kurs.html) and are communicated by Mr. Schulten.",
+   "tr": "Tarihler yer tutucu olarak kullanılır (asıl kurs tarihleri: https://www.uni-kassel.de/fb07/ibwl/wise/lehre/sap-iee2e-kurs.html) ve Bay Schulten tarafından iletilir."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Pflichtmodule": "Compulsory Modules",
+  "Weitere Grundlagen": "Further Fundamentals",
+  "Informatik": "Computer Science",
+  "Wirtschaftsinformatik": "Business Informatics",
+  "Wirtschaftswissenschaften": "Business and Economics",
+  "Wahlmodule": "Elective Modules",
+  "Informatik Wahlpflicht": "Computer Science Compulsory Elective",
+  "Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik": "Compulsory Elective Area Specialization Studies Business Informatics",
+  "Wirtschaftswissenschaften Wahlpflicht": "Business and Economics Compulsory Elective"
+ },
+ "modules": [
+  {
+   "id": "m29668",
+   "title": "Wirtschaftsinformatik",
+   "titleEn": "Business Informatics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Wirtschaftsinformatik"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54099"
+   ]
+  },
+  {
+   "id": "m59168",
+   "title": "Betriebliche Informationssysteme",
+   "titleEn": "Business Information Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "categories": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54834"
+   ]
+  },
+  {
+   "id": "m29648",
+   "title": "Wirtschaftspsychologie",
+   "titleEn": "Business Psychology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "categories": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "67014"
+   ]
+  },
+  {
+   "id": "m29623",
+   "title": "Entscheidungsorientierte Unternehmensrechnung",
+   "titleEn": "Decision-Oriented Management Accounting",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "categories": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "55569"
+   ]
+  },
+  {
+   "id": "m29624",
+   "title": "Deskriptive Statistik",
+   "titleEn": "Descriptive Statistics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Weitere Grundlagen"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "56907"
+   ]
+  },
+  {
+   "id": "m13340",
+   "title": "Entwurf und Analyse effizienter Algorithmen",
+   "titleEn": "Design and Analysis of Efficient Algorithms",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Informatik Wahlpflicht"
+   ],
+   "categories": [
+    "Wahlmodule > Informatik Wahlpflicht"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "57535",
+    "57536"
+   ]
+  },
+  {
+   "id": "m29621",
+   "title": "Wirtschaftspolitik",
+   "titleEn": "Economic Policy",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "categories": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "56475"
+   ]
+  },
+  {
+   "id": "m17484",
+   "title": "Gründungs- und Innovationsmanagement",
+   "titleEn": "Entrepreneurship and Innovation Management",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Wirtschaftswissenschaften"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "67017"
+   ]
+  },
+  {
+   "id": "m17465",
+   "title": "Finanzwirtschaft",
+   "titleEn": "Finance",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Wirtschaftswissenschaften"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "55765"
+   ]
+  },
+  {
+   "id": "m29675",
+   "title": "Bilanzielles Rechnungswesen",
+   "titleEn": "Financial Accounting",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "categories": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "57222"
+   ]
+  },
+  {
+   "id": "m17451",
+   "title": "Grundlagen der Ökonometrie",
+   "titleEn": "Fundamentals of Econometrics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "categories": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68761"
+   ]
+  },
+  {
+   "id": "m17520",
+   "title": "Induktive Statistik",
+   "titleEn": "Inferential Statistics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Weitere Grundlagen"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "56908"
+   ]
+  },
+  {
+   "id": "m17473",
+   "title": "Information Systems Analysis and Design",
+   "titleEn": "Information Systems Analysis and Design",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Wirtschaftsinformatik"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54870"
+   ]
+  },
+  {
+   "id": "m59130",
+   "title": "Internet-basierte Anwendungen im betrieblichen Umfeld",
+   "titleEn": "Internet-Based Applications in the Business Environment",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "categories": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "65553"
+   ]
+  },
+  {
+   "id": "m14947",
+   "title": "Einführung in die Informatik",
+   "titleEn": "Introduction to Computer Science",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Pflichtmodule > Informatik"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70083",
+    "70084",
+    "69208",
+    "54284"
+   ]
+  },
+  {
+   "id": "m60732",
+   "title": "IT-Projektmanagement",
+   "titleEn": "IT Project Management",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "categories": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54833"
+   ]
+  },
+  {
+   "id": "m59131",
+   "title": "Schlüsselkompetenzen",
+   "titleEn": "Key Competencies",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlmodule"
+   ],
+   "categories": [
+    "Schlüsselkompetenzen"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": true,
+   "courseIds": [
+    "68761",
+    "54834",
+    "64825"
+   ]
+  },
+  {
+   "id": "m59164",
+   "title": "Management der Informationssysteme",
+   "titleEn": "Management of Information Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "categories": [
+    "Wahlmodule > Wahlpflichtbereich Schwerpunkt-Studium Wirtschaftsinformatik"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "71945"
+   ]
+  },
+  {
+   "id": "m17526",
+   "title": "Marketing",
+   "titleEn": "Marketing",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Wirtschaftswissenschaften"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "56236"
+   ]
+  },
+  {
+   "id": "m29647",
+   "title": "Mathematik",
+   "titleEn": "Mathematics",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Pflichtmodule > Weitere Grundlagen"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "56693",
+    "55582",
+    "56694",
+    "56695"
+   ]
+  },
+  {
+   "id": "m17506",
+   "title": "Mikroökonomik",
+   "titleEn": "Microeconomics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "categories": [
+    "Wahlmodule > Wirtschaftswissenschaften Wahlpflicht"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "56777",
+    "64975"
+   ]
+  },
+  {
+   "id": "m29671",
+   "title": "Wirtschaftsprivatrecht",
+   "titleEn": "Private Business Law",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Weitere Grundlagen"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "56997"
+   ]
+  },
+  {
+   "id": "m17039",
+   "title": "Programmierung und Modellierung",
+   "titleEn": "Programming and Modeling",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Informatik"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69656",
+    "69657"
+   ]
+  },
+  {
+   "id": "m59160",
+   "title": "Projektseminar",
+   "titleEn": "Project Seminar",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlmodule"
+   ],
+   "categories": [
+    "Projektseminar"
+   ],
+   "section": "Wahlmodule",
+   "pickOne": false,
+   "courseIds": [
+    "64589"
+   ]
+  },
+  {
+   "id": "m17517",
+   "title": "Strategie und Leistungsprozesse",
+   "titleEn": "Strategy and Performance Processes",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule > Wirtschaftswissenschaften"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "55974",
+    "68969"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "56693",
+   "title": "Mathematik",
+   "number": "WiWi-1110-V1",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Rainer Voßkamp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1102 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0207 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0210 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "9. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0207 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "11. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0210 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "13. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1219 (Nora-Platiel 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56693&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Mathematics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "55582",
+   "title": "Brückenkurs Mathematik für Wirtschaftswissenschaften",
+   "number": null,
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Stefan Büchele",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 5 (Raum 0506) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55582&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23837",
+    "key": false
+   },
+   "titleEn": "Bridging Course in Mathematics for Business and Economics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "56694",
+   "title": "Mathematik für Wirtschaftswissenschaften I",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Rainer Voßkamp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-10-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)",
+       "part": "Vorlesung",
+       "fixed": true,
+       "partEn": "Lecture"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-23",
+       "endDate": "2026-11-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)",
+       "part": "Vorlesung",
+       "fixed": true,
+       "partEn": "Lecture"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-01-18",
+       "endDate": "2027-01-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)",
+       "part": "Vorlesung",
+       "fixed": true,
+       "partEn": "Lecture"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-02-08",
+       "endDate": "2027-02-08",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1221 (Nora-Platiel 4)",
+       "part": "Vorlesung",
+       "fixed": true,
+       "partEn": "Lecture"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-11-23",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-18",
+        "2027-02-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0207 (Nora-Platiel 6)",
+       "part": "Tutorium",
+       "fixed": true,
+       "partEn": "Tutorial"
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56694&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Mathematics for Business and Economics I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56695",
+   "title": "Mathematik für Wirtschaftswissenschaften II",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Rainer Voßkamp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-02",
+       "endDate": "2026-11-02",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-30",
+       "endDate": "2026-11-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-01-11",
+       "endDate": "2027-01-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-02-01",
+       "endDate": "2027-02-01",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Rainer Voßkamp"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56695&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Mathematics for Business and Economics II",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56907",
+   "title": "Statistik 1",
+   "number": "WiWi-1120-V1",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Daniel Engler, Prof. Dr. Andreas Ziegler",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 0207 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 1200 (Moritzstr. 2)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56907&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24054",
+    "key": false
+   },
+   "titleEn": "Statistics 1",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56908",
+   "title": "Statistik 2",
+   "number": "WiWi-1130-V2",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Daniel Engler, Prof. Dr. Andreas Ziegler",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 2200 (Moritzstr. 2)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Daniel Engler",
+        "Prof. Dr. Andreas Ziegler"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56908&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Statistics 2",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56997",
+   "title": "Wirtschaftsprivatrecht",
+   "number": "Recht-5010-V1",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Lutz Mönkemöller, Prof. Dr. Martina Deckert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Lutz Mönkemöller"
+       ],
+       "room": "Hörsaal 3 (Raum 1135) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Lutz Mönkemöller"
+       ],
+       "room": "Hörsaal 3 (Raum 1135) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium von Louis Jüngst",
+       "instructors": [],
+       "room": "Raum 0210 (Nora-Platiel 6)",
+       "part": "Übung",
+       "partEn": "Exercise"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Ulrike Lahnor"
+       ],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)",
+       "part": "Übung",
+       "partEn": "Exercise"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-06",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Tutorium von Eduard Selimi, digital",
+       "instructors": [],
+       "room": "",
+       "part": "Übung",
+       "partEn": "Exercise"
+      }
+     ],
+     "slots": true
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56997&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23814",
+    "key": false
+   },
+   "titleEn": "Private Business Law",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70083",
+   "title": "Einführung in die Informatik",
+   "number": "Inform-3500-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Fohry",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Für die Teilnahme ist keine Anmeldung notwendig.",
+       "instructors": [],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Für die Teilnahme ist keine Anmeldung notwendig.",
+       "instructors": [],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70083&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23146",
+    "key": false
+   },
+   "titleEn": "Introduction to Computer Science",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70084",
+   "title": "Einführung in die Informatik",
+   "number": "Inform-3500-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Fohry, Dr. rer. nat. Mia Reitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Durchführender John Hundhausen",
+       "instructors": [],
+       "room": "Hörsaal -1418 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Durchführender John Hundhausen",
+       "instructors": [],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Durchführender John Hundhausen",
+       "instructors": [],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. rer. nat. Mia Reitz"
+       ],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:30",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. rer. nat. Mia Reitz"
+       ],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:30",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Durchführender John Hundhausen",
+       "instructors": [],
+       "room": "Hörsaal 1114 (WA-altes Gebäude (WA 71))"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "Durchführender John Hundhausen",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:30",
+       "end": "14:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "Durchführender John Hundhausen",
+       "instructors": [],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70084&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23146",
+    "key": false
+   },
+   "titleEn": "Introduction to Computer Science",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69208",
+   "title": "Übungen zu Lineare Algebra",
+   "number": "FB1017.7306w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. rer. nat. Dörthe Janssen"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Francesco Verciani"
+       ],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Francesco Verciani"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. rer. nat. Dörthe Janssen"
+       ],
+       "room": "Hörsaal 1114 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69208&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23175",
+    "key": false
+   },
+   "titleEn": "Linear Algebra Exercises",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54284",
+   "title": "Lineare Algebra Hörsaalübungen",
+   "number": "FB1017.7307w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Maike Klein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Maike Klein"
+       ],
+       "room": "Raum 1603 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54284&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23175",
+    "key": false
+   },
+   "titleEn": "Linear Algebra Lecture-Hall Exercises",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69656",
+   "title": "Programmierung und Modellierung",
+   "number": "Inform-3000-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Joel Greenyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69656&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24736",
+    "key": false
+   },
+   "titleEn": "Programming and Modeling",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69657",
+   "title": "Programmierung und Modellierung",
+   "number": "Inform-3000-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Joel Greenyer, B.Sc. Maximilian Freiherr von Künßberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))",
+       "part": "Übung",
+       "fixed": true,
+       "partEn": "Exercise"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))",
+       "part": "Übung",
+       "fixed": true,
+       "partEn": "Exercise"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      }
+     ],
+     "slots": true
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69657&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24736",
+    "key": false
+   },
+   "titleEn": "Programming and Modeling",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54099",
+   "title": "Informationswissenschaften I / Wirtschaftsinformatik (PO 2013 / PO 2020)",
+   "number": "WiWi-1070-V1",
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Ulrich Bretschneider, Prof. Dr. Jan Marco Leimeister, Katarina Vidovic",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Ulrich Bretschneider"
+       ],
+       "room": "Hörsaal 0117 (Raum 0117) (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54099&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23711",
+    "key": false
+   },
+   "titleEn": "Information Sciences I / Business Informatics (PO 2013 / PO 2020)",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "54870",
+   "title": "Information Systems Analysis and Design",
+   "number": "WiWi-2410-V1",
+   "type": "Vorlesung mit Präsentation und Übungen",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Matthias Söllner, Martin Hänel, Florian Weber",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2026-11-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 3 (Raum 0504) (Diagonale 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "15:00",
+       "end": "18:00",
+       "startDate": "2026-12-03",
+       "endDate": "2026-12-03",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "15:00",
+       "end": "18:00",
+       "startDate": "2026-12-17",
+       "endDate": "2026-12-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "15:00",
+       "end": "18:00",
+       "startDate": "2027-01-28",
+       "endDate": "2027-01-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54870&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23551",
+    "key": false
+   },
+   "titleEn": "Information Systems Analysis and Design",
+   "typeEn": "Lecture with Presentation and Exercises"
+  },
+  {
+   "id": "55974",
+   "title": "BWL Ia: Unternehmensführung (PO 2013) / Strategie und Leistungsprozesse (PO 2020)",
+   "number": "WiWi-1020-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Peter Eberl, Prof. Dr. Patrick Spieth",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [
+        "Prof. Dr. Peter Eberl"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [],
+       "room": "Raum 0404 (Arnold-Bode 2)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [
+        "Prof. Dr. Peter Eberl"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [],
+       "room": "Raum 0104 (Arnold-Bode 10)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [
+        "Prof. Dr. Peter Eberl"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [],
+       "room": "Raum 1120 (Kurt-Wolters 3)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [
+        "Prof. Dr. Peter Eberl"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [],
+       "room": "Raum 0210 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [
+        "Prof. Dr. Peter Eberl"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [
+        "Prof. Dr. Peter Eberl"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Die Tutorien starten in der KW 46 ab dem 10.11.2026 und finden im Zweiwochentakt statt!",
+       "instructors": [],
+       "room": "Raum 0404 (Arnold-Bode 2)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55974&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23952",
+    "key": false
+   },
+   "titleEn": "Business Administration I a: Corporate Management (PO 2013) / Strategy and Operations (PO 2020)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68969",
+   "title": "BWL I b: Leistungsprozesse, Produktion (nach PO3 II b)",
+   "number": "SCM - 005",
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0402 (Nora-Platiel 9)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium - Sperk",
+       "instructors": [],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium - Sperk",
+       "instructors": [],
+       "room": "Raum 0401 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium - Gronemeyer",
+       "instructors": [],
+       "room": "Raum 0401 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Tutorium - Berlau",
+       "instructors": [],
+       "room": "Raum 3516 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Tutorium - Berlau",
+       "instructors": [],
+       "room": "Raum 0207 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Tutorium - Heußner (online)",
+       "instructors": [],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Seuring-Stella"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68969&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23725",
+    "key": false
+   },
+   "titleEn": "BWL I b: Operational Processes, Production (according to PO3 II b)",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "55765",
+   "title": "Finanzwirtschaft",
+   "number": null,
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Christian Klein",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christian Klein"
+       ],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Lukas Rode"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)",
+       "part": "Tutorium 1",
+       "fixed": true,
+       "partEn": "Tutorium 1"
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christian Klein"
+       ],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Lukas Rode"
+       ],
+       "room": "Raum 1211 (Möncheberg 7)",
+       "part": "Tutorium 2",
+       "fixed": true,
+       "partEn": "Tutorium 2"
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christian Klein"
+       ],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Lukas Rode"
+       ],
+       "room": "Raum 0402 (Nora-Platiel 9)",
+       "part": "Tutorium 3",
+       "fixed": true,
+       "partEn": "Tutorium 3"
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christian Klein"
+       ],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Lukas Rode"
+       ],
+       "room": "Raum 0402 (Nora-Platiel 9)",
+       "part": "Tutorium 4",
+       "fixed": true,
+       "partEn": "Tutorium 4"
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55765&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23579",
+    "key": false
+   },
+   "titleEn": "Finance",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "56236",
+   "title": "Marketing",
+   "number": "WiWi-1060-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Andreas Mann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56236&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23943",
+    "key": true
+   },
+   "titleEn": "Marketing",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "67017",
+   "title": "Gründungs- und Innovationsmanagement",
+   "number": "WiWi – B19/20 SP1 P1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Felix Mader, Prof. Dr. Patrick Spieth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Beginn: 08:30 Uhr !!!",
+       "instructors": [
+        "Prof. Dr. Patrick Spieth",
+        "Dr. Leonie Müller",
+        "Felix Mader"
+       ],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67017&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23889",
+    "key": true
+   },
+   "titleEn": "Entrepreneurship and Innovation Management",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57535",
+   "title": "Entwurf und Analyse effizienter Algorithmen",
+   "number": "Inform-3510-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. Stefan Göller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57535&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23302",
+    "key": false
+   },
+   "titleEn": "Design and Analysis of Efficient Algorithms",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57536",
+   "title": "Entwurf und Analyse effizienter Algorithmen",
+   "number": "Inform-3510-S1",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. Stefan Göller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "M.Sc. Anna Maiworm"
+       ],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57536&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23302",
+    "key": false
+   },
+   "titleEn": "Design and Analysis of Efficient Algorithms",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71945",
+   "title": "Forschungs- und Innovationswerkstatt Wirtschaftsinformatik",
+   "number": null,
+   "type": "Seminar mit praktischer Erprobung",
+   "language": "deutsch/englisch",
+   "responsible": "Prof. Dr. Sebastian Lins",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-16",
+       "cancelled": [],
+       "note": "Kick-off des Ferienkurses. Die Veranstaltung findet hybrid statt:in Präsenz: Raum 1120, Kurt-Wolters 3online: https://uni-kassel.zoom-x.de/j/64273349305?pwd=KLrxmCSvaba4Qa0o6qmcexFV5Sfb6p.1Bei Rückfragen jederzeit melden.",
+       "instructors": [
+        "Prof. Dr. Sebastian Lins"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-03-02",
+       "endDate": "2027-03-02",
+       "cancelled": [],
+       "note": "Die Veranstaltung findet hybrid statt:in Präsenz: Raum 1120, Kurt-Wolters 3online: https://uni-kassel.zoom-x.de/j/62770890762?pwd=EWl1aC6Ws1peo70UZbzejjoxVqLW94.1",
+       "instructors": [
+        "Prof. Dr. Sebastian Lins"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-04-06",
+       "endDate": "2027-04-06",
+       "cancelled": [],
+       "note": "Die Veranstaltung findet hybrid statt:in Präsenz: Raum 1120, Kurt-Wolters 3online: https://uni-kassel.zoom-x.de/j/69156661121?pwd=ffhPk7u1QuQS0MbVL3VbXNfmOZbaig.1",
+       "instructors": [
+        "Prof. Dr. Sebastian Lins"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71945&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research and Innovation Workshop in Business Informatics",
+   "typeEn": "Seminar with Practical Testing"
+  },
+  {
+   "id": "54833",
+   "title": "IT-Projektmanagement",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Heinz-Adalbert Krebs, Ulrich Bretschneider, Prof. Dr. Jan Marco Leimeister",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2027-02-15",
+       "endDate": "2027-02-18",
+       "cancelled": [],
+       "note": "Diese Veranstaltung wird über Zoom angeboten. Der Zoom-Link wird noch bekanntgegeben.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54833&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23712",
+    "key": false
+   },
+   "titleEn": "IT Project Management",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "65553",
+   "title": "Internet-basierte Anwendungen im betrieblichen Umfeld",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Ulrich Bretschneider",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "Der Kick-off zu dieser Veranstaltung findet am 28.10.2026 um 14 Uhr über Zoom statt. Wenn Sie planen, diese Veranstaltung im WiSe 2026/2027 zu belegen, sollten Sie unbedingt an diesem Kick-off-Termin teilnehmen. Im Kick-off-Termin werden neben einem thematischen Überblick vor allem organisatorische Dinge zur Veranstaltung, wie Klausur, Termine, Räume, Moodle etc., vorgestellt und besprochen.Zoom-Link:https://uni-kassel.zoom-x.de/j/93401827630?pwd=SldIY0FyaDBHdGp1NytlT0UxejB6dz09",
+       "instructors": [
+        "Ulrich Bretschneider"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65553&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23647",
+    "key": false
+   },
+   "titleEn": "Internet-Based Applications in the Business Environment",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "54834",
+   "title": "Betriebliche Informationssysteme",
+   "number": "Wiwi-2450-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Jörg Schellhase, Ulrich Bretschneider, Prof. Dr. Jan Marco Leimeister",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:30",
+       "end": "17:00",
+       "startDate": "2027-03-03",
+       "endDate": "2027-03-12",
+       "cancelled": [],
+       "note": "Ort: Universität Kassel, Wissenschaftliches Zentrum für Informationstechnikgestaltung (ITeG), Pfannkuchstr. 1, 34121 Kassel, Kontakt & Anfahrt - FORSCHUNG - Uni Kassel I Raum: 0420 (Erdgeschoss)",
+       "instructors": [
+        "Jörg Schellhase"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54834&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23713",
+    "key": false
+   },
+   "titleEn": "Business Information Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57222",
+   "title": "Rechnungswesen I / Bilanzielles Rechnungswesen",
+   "number": "WiWi-1030-V1",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Frank N. Motzko",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-12-14",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-12-14",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-12-16",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0210 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-12-16",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1120 (Kurt-Wolters 3)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-12-15",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0210 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-12-15",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0017 (Kurt-Wolters 5)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-12-17",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0106 (Schreibbretter) (Universitätsplatz 9, ASL 1)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "9. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-12-15",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1004 (G.-Forster-Str. 4)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57222&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24364",
+    "key": true
+   },
+   "titleEn": "Accounting I / Financial Accounting",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "55569",
+   "title": "Entscheidungsorientierte Unternehmensrechnung / Rechnungswesen II (PO 2020 / PO 2013)",
+   "number": "WiWi-1050-V1",
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Dr. Andreas Wagner",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3004 (G.-Forster-Str. 4)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "9. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "10. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1215 (Arnold-Bode 10)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "11. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "12. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "13. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "14. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "15. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "16. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "17. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "18. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "19. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "20. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "21. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55569&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23308",
+    "key": false
+   },
+   "titleEn": "Decision-Oriented Management Accounting / Accounting II (PO 2020 / PO 2013)",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "56777",
+   "title": "VWL I",
+   "number": "FB07-2080-V-001",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Björn Frank",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Björn Frank"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56777&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23660",
+    "key": false
+   },
+   "titleEn": "VWL I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "64975",
+   "title": "VWL I - Mikroökonomik - Tutorium",
+   "number": null,
+   "type": "Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Björn Frank",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-10-19",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-10-21",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-10-20",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-10-23",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-10-19",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "9. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-12-07",
+       "endDate": "2026-12-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum Incon (Moritzstr. 2)"
+      }
+     ]
+    },
+    {
+     "name": "10. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2027-02-08",
+       "endDate": "2027-02-08",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum Incon (Moritzstr. 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64975&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "VWL I - Microeconomics - Tutorial",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "56475",
+   "title": "Wirtschaftspolitik/VWL III",
+   "number": "WiWi-1100-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ivo Bischoff",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-12-18",
+       "endDate": "2026-12-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-12",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-12",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1311 (Nora-Platiel 1)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56475&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23576",
+    "key": false
+   },
+   "titleEn": "Economic Policy/VWL III",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "67014",
+   "title": "Wirtschaftspsychologie",
+   "number": null,
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Sandra Ohly",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2 (Raum 0509) (Diagonale 3)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2004 (G.-Forster-Str. 4)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67014&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24100",
+    "key": false
+   },
+   "titleEn": "Business Psychology",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "68761",
+   "title": "Grundlagen der Ökonometrie",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Andreas Ziegler, Thilo Karl Gerd Haverkamp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-15",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Ziegler",
+        "Kumai Kokash"
+       ],
+       "room": "Raum 0211 (Nora-Platiel 6)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-15",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Ziegler",
+        "Kumai Kokash"
+       ],
+       "room": "Raum 0211 (Nora-Platiel 6)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68761&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23763",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Econometrics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "64589",
+   "title": "Projektseminar",
+   "number": "WiWi-4870-V1",
+   "type": "Seminar",
+   "language": "deutsch/englisch",
+   "responsible": "Prof. Dr. Sebastian Lins, Prof. Dr. André Hanelt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Das Projektseminar für den Bachelorstudiengang Wirtschaftsinformatik wird nur bei Bedarf angeboten. Bitte melden Sie sich möglichst frühzeitig unter der Email-Adresse studienkoordination-winfo@uni-kassel.de Bei Rückfragen stehen wir gerne zur Verfügung.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64589&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Project Seminar",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "64825",
+   "title": "Modul: SAP TS410-Zertifizierung",
+   "number": null,
+   "type": "Blockseminar",
+   "language": "deutsch/englisch",
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch/englisch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "09:00",
+       "end": "16:00",
+       "startDate": "2027-02-22",
+       "endDate": "2027-02-26",
+       "cancelled": [],
+       "note": "Die Termine dienen als Platzhalter (eigentliche Kursdaten https://www.uni-kassel.de/fb07/ibwl/wise/lehre/sap-iee2e-kurs.html) und von Herrn Schulten kommuniziert.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64825&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Module: SAP TS410 Certification",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

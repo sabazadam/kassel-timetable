@@ -1,0 +1,61 @@
+{
+  "summary": "Modulprüfungsordnung Biologie L3 of 30.01.2023, section 3: 42 ECTS compulsory subject modules, 20 ECTS electives: A (one 5-ECTS biodiversity module), B (one 3-ECTS advanced module in organismic or molecular biology) and C (one 12-ECTS focus module from the other branch than B), plus didactics and the practical semester. The checklist cannot check that B and C come from different branches. Offered titles are matched to the module sheets by name: Zellbiologie and Biochemie are B molecular, and the Schwerpunkt modules sit in C, even where the eCampus number differs from the 2023 PO number.",
+  "categories": [
+    {
+      "id": "Wahlpflichtmodul A (Biodiversität)",
+      "group": "area",
+      "name": "Elective A: biodiversity",
+      "nameDe": "Wahlpflichtmodul A (Biodiversität)",
+      "short": "WP A Diversity",
+      "count": 1,
+      "ects": 5,
+      "note": "One module from diversity of plants, animals or microorganisms (PO section 3: modules 9-11), 5 ECTS. Chemistry students take a second module from this area instead of the chemistry part of Fundamentum Biologie; that second choice is not checked here."
+    },
+    {
+      "id": "wp-b",
+      "group": "anyOf",
+      "count": 1,
+      "ects": 3,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodul B > Wahlpflichtmodul B (Vertiefung molekulare Biologie)"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodul B > Wahlpflichtmodul B (Vertiefung oranismische Biologie)"
+        }
+      ],
+      "name": "Elective B: advanced organismic or molecular biology",
+      "nameDe": "Wahlpflichtmodul B (Vertiefung)",
+      "short": "WP B",
+      "note": "One advanced module, 3 ECTS, from organismic biology (PO modules 12-17) or molecular biology (PO modules 18-22). Offered Zellbiologie and Biochemie count here: their sheets place them in B molecular, and eCampus files them there. If B is organismic, C must be molecular, and the reverse; the checklist cannot enforce that pairing."
+    },
+    {
+      "id": "wp-c",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodul C > Wahlpflichtmodul C (Schwerpunkt Molekulare Biologie)"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtmodul C > Wahlpflichtmodul C (Schwerpunkt Organismische Biologie)"
+        }
+      ],
+      "name": "Elective C: focus module",
+      "nameDe": "Wahlpflichtmodul C (Schwerpunkt, 12 ECTS)",
+      "short": "WP C focus",
+      "note": "One focus module, 12 ECTS, from a single branch (PO modules 23-32). It must be the other branch than elective B. Offered Schwerpunktfach Humanbiologie (C organismic) and Schwerpunktfach Genetik (C molecular) match those sheets by title; their eCampus numbers are not the 2023 PO numbers."
+    }
+  ],
+  "pickOne": [],
+  "slug": "la-gym-biologie",
+  "po": "Lehramt an Gymnasien Biologie (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20514&token=84ee61103dc4f01a86a88a551c3077c4efc3e07e"
+  ]
+}

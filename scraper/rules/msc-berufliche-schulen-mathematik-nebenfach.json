@@ -1,0 +1,27 @@
+{
+  "slug": "msc-berufliche-schulen-mathematik-nebenfach",
+  "po": "Master Berufliche Schulen Mathematik (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26970&token=33f116c3043ffcc1eb7bd4ef4533764d19008f91"
+  ],
+  "summary": null,
+  "pickOne": [],
+  "categories": [
+    {
+      "count": 1,
+      "ects": 8,
+      "group": "oneOf",
+      "id": "wahlpflicht-mathematik",
+      "name": "Mathematics elective",
+      "nameDe": "Wahlpflicht Mathematik",
+      "note": "In the Wahlpflichtbereich, students must choose either Modul 6 / L4 Vertiefung Mathematik or Modul 7 / L4 Grundlagen der Analysis II, each worth 8 credits. This list offers only Vertiefung Mathematik, so the slot is that one module (8 ECTS).",
+      "options": [
+        {
+          "id": "Vertiefung Mathematik",
+          "type": "module"
+        }
+      ],
+      "short": "Math elective"
+    }
+  ]
+}

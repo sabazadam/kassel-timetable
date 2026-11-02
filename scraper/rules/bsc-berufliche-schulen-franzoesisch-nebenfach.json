@@ -1,0 +1,35 @@
+{
+  "slug": "bsc-berufliche-schulen-franzoesisch-nebenfach",
+  "po": "Bachelor Berufliche Schulen Französisch (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26959&token=9d421056b90d9b8aa41689215e71be399049b990"
+  ],
+  "summary": "The second subject French (Zweitfach) for the Bachelor programmes in vocational and business education under the 2024 subject regulations has four compulsory modules worth 22 ECTS: Sprachpraxis Französisch Basismodul I (4), Sprachpraxis Französisch Basismodul II (4), Fachdidaktik Basiswissen (6), and Fachdidaktik Aufbaumodul (Sprachlehr- und -lernforschung) (8). In the Wahlbereich, students complete two of three basic modules, Französische Sprachwissenschaft Basismodul, Französische Literaturwissenschaft Basismodul, and Französische Landes- und Kulturwissenschaften Basismodul, at 6 ECTS each (12 ECTS). All three elective modules appear in the winter 2026/27 list, so the full Wahlpflicht choice can be checked.",
+  "pickOne": [],
+  "categories": [
+    {
+      "id": "wahlpflicht-basismodule",
+      "group": "anyOf",
+      "name": "Two elective basic modules",
+      "nameDe": "Zwei Wahlpflichtmodule",
+      "short": "2 of 3 basic modules",
+      "count": 2,
+      "ects": 12,
+      "note": "Under § 5, two modules from the Wahlpflicht list must be completed: Französische Sprachwissenschaft Basismodul, Französische Literaturwissenschaft Basismodul, and Französische Landes- und Kulturwissenschaften Basismodul (6 ECTS each).",
+      "options": [
+        {
+          "type": "module",
+          "id": "Französische Sprachwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Französische Literaturwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Französische Landes- und Kulturwissenschaften Basismodul"
+        }
+      ]
+    }
+  ]
+}

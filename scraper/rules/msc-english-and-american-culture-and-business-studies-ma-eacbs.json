@@ -1,0 +1,64 @@
+{
+  "slug": "msc-english-and-american-culture-and-business-studies-ma-eacbs",
+  "po": "Master English and American Culture and Business Studies (MA EACBS)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12559&token=c2c8eb5b7d01a6e1005caad32938af0b632b88cc"
+  ],
+  "categories": [
+    {
+      "id": "Vertiefungsmodul Sprachpraxis",
+      "group": "module",
+      "name": "Advanced language practice",
+      "nameDe": "Vertiefungsmodul Sprachpraxis",
+      "short": "Language practice",
+      "count": 1,
+      "note": "Compulsory, 9 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "Kultur und Sprache",
+      "group": "area",
+      "name": "Culture and language modules",
+      "nameDe": "Kultur und Sprache (Wahlpflichtbereich)",
+      "short": "Culture/Language",
+      "count": 3,
+      "note": "Specialization: one advanced (15 ECTS) and one research module (18 ECTS) of one sub-discipline; supplement: option A (advanced module of another sub-discipline plus 3 ECTS key competencies), B (second-language module plus internship) or C (study abroad)"
+    },
+    {
+      "id": "economics",
+      "group": "anyOf",
+      "count": 5,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaften > Digital Business"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaften > Management und Marketing"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaften > Masterprofil Finance, Accounting, Controlling and Taxation"
+        }
+      ],
+      "name": "Economics modules",
+      "nameDe": "Wirtschaftswissenschaftlicher Wahlpflichtbereich (fünf Module)",
+      "short": "Economics",
+      "note": "Five 6-ECTS modules from all economics modules (30 ECTS)"
+    }
+  ],
+  "pickOne": [
+    "Wahlpflicht 1",
+    "Wahlpflicht 2",
+    "Wahlpflicht 3",
+    "MuM - Wahlpflicht 1",
+    "MuM - Wahlpflicht 2",
+    "MuM - Wahlpflicht 3"
+  ],
+  "summary": "PO of 09.06.2021, section 8: culture and language part with 9 ECTS language practice, a 33-ECTS specialization and an 18-ECTS supplementary area (options A, B or C); economics part with five 6-ECTS modules chosen from all economics modules (30 ECTS); and the 30-ECTS thesis module. The supplementary-area options cannot be expressed exactly, since eCampus lists all culture and language modules in one area."
+}

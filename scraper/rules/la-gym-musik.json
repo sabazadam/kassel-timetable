@@ -1,0 +1,85 @@
+{
+  "summary": "Modulprüfungsordnung Musik L3 of 30.01.2023: required electives are one of Modul 1A/1B (10 ECTS; 1A continues only as 6A, 1B only as 6B), one of Modul 6A/6B (10 ECTS), one of Modul 9A/9B/9C (10 ECTS), and one Praxemble module 11A or 11B (5 ECTS). Choices inside a module (instrument, ensemble, course options) are not encoded. Modul 13 is compulsory (in-module instrument choice only). The § 4 (3) choice between modules 10 and 14, and between 11 and 16, selects which grade enters the state exam; both modules in each pair are still taken.",
+  "categories": [
+    {
+      "id": "Modul 1A/1B",
+      "group": "oneOf",
+      "name": "Artistic Practice 1 (1A or 1B)",
+      "nameDe": "Künstlerische Praxis 1 (Modul 1A oder 1B)",
+      "short": "KP 1",
+      "count": 1,
+      "ects": 10,
+      "note": "One 10-ECTS module. Choosing 1A locks Modul 6A; choosing 1B locks Modul 6B.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 1a Künstlerische Praxis 1 (mit künstlerischer Ergänzung)"
+        },
+        {
+          "type": "module",
+          "id": "Modul 1b (mit Wahlangebot)"
+        }
+      ]
+    },
+    {
+      "id": "Modul 6A/6B",
+      "group": "oneOf",
+      "name": "Artistic Practice 2 (6A or 6B)",
+      "nameDe": "Künstlerische Praxis 2 (Modul 6A oder 6B)",
+      "short": "KP 2",
+      "count": 1,
+      "ects": 10,
+      "note": "One 10-ECTS module. 6A only after 1A; 6B only after 1B.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 6a Künstlerische Praxis 2 (Folgemodul 1a)"
+        },
+        {
+          "type": "module",
+          "id": "Modul 6b Künstlerische Praxis 2 (Folgemodul 1b)"
+        }
+      ]
+    },
+    {
+      "id": "Modul 9A/9B/9C",
+      "group": "oneOf",
+      "name": "Artistic Practice 3 (9A, 9B or 9C)",
+      "nameDe": "Künstlerische Praxis 3 (Modul 9A, 9B oder 9C)",
+      "short": "KP 3",
+      "count": 1,
+      "ects": 10,
+      "note": "One 10-ECTS module, after 6A or 6B.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 9a Künstlerische Praxis 3"
+        },
+        {
+          "type": "module",
+          "id": "Modul 9b Künstlerische Praxis 3"
+        },
+        {
+          "type": "module",
+          "id": "Modul 9c Künstlerische Praxis 3"
+        }
+      ]
+    },
+    {
+      "id": "Modul 11 Praxemble",
+      "group": "area",
+      "name": "Praxemble (school music or world music)",
+      "nameDe": "Praxemble (Schulmusiken oder Musiken der Welt, Modul 11A/11B)",
+      "short": "Praxemble",
+      "count": 1,
+      "ects": 5,
+      "note": "One 5-ECTS module: 11A (school music) or 11B (world music)."
+    }
+  ],
+  "pickOne": [],
+  "slug": "la-gym-musik",
+  "po": "Lehramt an Gymnasien Musik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20559&token=a553a12a3d1722532875ddced1a4b7947e3a8a62"
+  ]
+}

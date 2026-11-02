@@ -1,0 +1,65 @@
+{
+  "summary": "The applicable text is the Fachprüfungsordnung of 25 September 2019 (4.17.06/093 BA 2019, Mitteilungsblatt 6/2020), in force from winter semester 2020/21. Section 7 requires 60 ECTS of compulsory theory, 18 ECTS of electives in study fields A to D (at least 9 ECTS from this program's own offer, at most one Studienarbeit), 6 ECTS of key competencies, the compulsory introductory studio (12 ECTS), introductory project (12 ECTS) and practice project (30 ECTS), three different elective projects (36 ECTS) and the thesis (6 ECTS), 180 ECTS in total.",
+  "categories": [
+    {
+      "id": "Projekte",
+      "group": "area",
+      "name": "Elective projects",
+      "nameDe": "Projektmodule (Wahlpflicht)",
+      "short": "Projects",
+      "count": 3,
+      "ects": 36,
+      "note": "Three different elective project modules, 12 ECTS each (36 ECTS)."
+    },
+    {
+      "id": "Studienfeld F",
+      "group": "area",
+      "name": "Key competencies (study achievements)",
+      "nameDe": "Studienleistungsmodule (Schluesselkompetenzen)",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS of key-competency modules from the faculty, the University of Kassel, or both. Modules in this area are 3 ECTS each."
+    },
+    {
+      "id": "wp-fields",
+      "group": "anyOf",
+      "name": "Electives from study fields A to D",
+      "nameDe": "Wahlpflichtmodule in den Studienfeldern A bis D",
+      "short": "Electives A-D",
+      "count": 1,
+      "ects": 18,
+      "note": "18 ECTS from study fields A to D, including at least 9 ECTS from this program's own offer. The remaining credits may come from that offer or from other suitable faculty or university modules, and at most one Studienarbeit may be counted.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflicht Allgemeine Wissenschaften"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Bildende Kunst, Gestaltung und Darstellung"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Instrumente, Verfahren und Technik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflicht Planungsgegenstände und Planungsebenen"
+        }
+      ]
+    }
+  ],
+  "pickOne": [
+    "Interdisziplinäres Entwurfs- und Planungsprojekt",
+    "Projekt aus L-Themenfeld Elemente und Konzepte der Landschaftsplanung",
+    "Projekt aus L-Themenfeld Freilandökologie",
+    "Projekt aus L-Themenfeld Freiraum und Stadt",
+    "Projekt aus L-Themenfeld Objektplanung"
+  ],
+  "slug": "bsc-landschaftsarchitektur-und-landschaftsplanung",
+  "po": "Bachelor Landschaftsarchitektur und Landschaftsplanung (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8862&token=0ab0b51624f45d989ee871c79e092122b846b884"
+  ]
+}

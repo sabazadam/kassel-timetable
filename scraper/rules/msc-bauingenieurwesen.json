@@ -1,0 +1,133 @@
+{
+  "summary": "Fachpruefungsordnung 29 April 2014 (PO label stays Master Bauingenieurwesen (2014)): one of seven specializations with two 12-ECTS specialization subjects (24 ECTS, including paired 6-ECTS parts) and 18 ECTS supplementary modules of that same specialization, 12 ECTS general civil-engineering electives (one 12-ECTS module or two 6-ECTS modules, or two bachelor Schwerpunkt modules if the master specialization was not the bachelor one), 6 ECTS mathematics/natural sciences, 6 ECTS additive key competencies, plus the compulsory 9-ECTS master project and 15-ECTS thesis on an approved study plan. The checklist cannot force the Vertiefung and Ergaenzung choices onto the same specialization, and it cannot move a third Vertiefungsfach into the 18-ECTS supplement.",
+  "categories": [
+    {
+      "id": "Bauingenieurwesen",
+      "group": "area",
+      "name": "General civil engineering electives",
+      "nameDe": "Wahlpflicht aus dem uebrigen Angebot des Bauingenieurwesens",
+      "short": "General WP",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS from the other master specializations, as one 12-ECTS module or two 6-ECTS modules. If this specialization was not your bachelor Schwerpunkt, two bachelor Schwerpunkt modules of 12 ECTS replace this slot."
+    },
+    {
+      "id": "math-nat",
+      "group": "anyOf",
+      "name": "Mathematics/natural sciences",
+      "nameDe": "Mathematik/Naturwissenschaften",
+      "short": "Math/Science",
+      "count": 1,
+      "ects": 6,
+      "exclude": [
+        "Schlüsselkompetenzen"
+      ],
+      "options": [
+        {
+          "type": "area",
+          "id": "Allgemein"
+        }
+      ],
+      "note": "One 6-ECTS Wahlpflicht module from Mathematik/Naturwissenschaften. The study plan names Stochastik fuer Ingenieure and Numerische Mathematik fuer Ingenieure; only Hoehere Mathematik 4 is offered this semester."
+    },
+    {
+      "id": "Allgemein",
+      "group": "area",
+      "name": "Additive key competencies",
+      "nameDe": "Additive Schluesselqualifikationen",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 6,
+      "exclude": [
+        "Höhere Mathematik 4 - Stochastik für Ingenieure"
+      ],
+      "note": "One 6-ECTS module from Additive Schluesselqualifikationen, chosen from the university-wide offer. Section 9 also requires 9 ECTS of key competencies in total, of which 6 are additive."
+    },
+    {
+      "id": "spec-vertiefung",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Vertiefung Baubetrieb und Baumanagement"
+        },
+        {
+          "type": "area",
+          "id": "Vertiefung Konstruktiver Ingenieurbau"
+        },
+        {
+          "type": "area",
+          "id": "Vertiefung Numerische Methoden der Tragwerksanalyse"
+        },
+        {
+          "type": "area",
+          "id": "Vertiefung Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Vertiefung Verkehrswegebau und Geotechnik"
+        },
+        {
+          "type": "area",
+          "id": "Vertiefung Wasser"
+        },
+        {
+          "type": "area",
+          "id": "Vertiefung Werkstoffe"
+        }
+      ],
+      "name": "Specialization subjects",
+      "nameDe": "Vertiefungsfaecher der gewaehlten Vertiefungsrichtung",
+      "short": "Vertiefung",
+      "note": "Two specialization subjects of 12 ECTS each (24 ECTS) from one specialization. Paired 6-ECTS parts count, including Verkehr (V Verk 1 and V Verk 2), parts of Konstruktiver Ingenieurbau, and Wasser."
+    },
+    {
+      "id": "spec-ergaenzung",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "area",
+          "id": "Ergänzung Baubetrieb und Baumanagement"
+        },
+        {
+          "type": "area",
+          "id": "Ergänzung Konstruktiver Ingenieurbau"
+        },
+        {
+          "type": "area",
+          "id": "Ergänzung Numerische Methoden der Tragwerksanalyse"
+        },
+        {
+          "type": "area",
+          "id": "Ergänzung Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Ergänzung Verkehrswegebau und Geotechnik"
+        },
+        {
+          "type": "area",
+          "id": "Ergänzung Wasser"
+        },
+        {
+          "type": "area",
+          "id": "Ergänzung Werkstoffe"
+        }
+      ],
+      "name": "Supplementary modules of the specialization",
+      "nameDe": "Ergaenzungsmodule der gewaehlten Vertiefungsrichtung",
+      "short": "Ergaenzung",
+      "note": "18 ECTS of supplementary modules from the same specialization, including 3-ECTS modules. For Konstruktiver Ingenieurbau, Numerische Methoden der Tragwerksanalyse, and Wasser, a third 12-ECTS Vertiefungsfach may count, as may further Teilmodule of those Vertiefungsfaecher; the checklist only sees the Ergaenzung area."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-bauingenieurwesen",
+  "po": "Master Bauingenieurwesen (2014)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=4501&token=a2ebc2685690eaba0ce4dd41ee3d1806ab10bc53"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "summary": "The Zweitfach Sport in the Master programmes Berufspädagogik and Wirtschaftspädagogik follows the Fachprüfungsordnung of 5 June 2025 (study-plan stamp PO-2024, in force from Wintersemester 2025/26). Under section 5 it totals 46 ECTS. Students take Erziehung und Unterricht (7 ECTS), Psychologie und Gesellschaft (6 ECTS), Theoriefelder der Sportwissenschaft (9 ECTS), Bewegen an und mit Geräten und Bewegung gymnastisch und tänzerisch gestalten (6 ECTS), and Schulpraktische Studien (6 ECTS). They also take 2 of the 3 elective modules Bewegungsfelder A, B, and C (modules 13, 14, and 15) at 6 ECTS each, for 12 ECTS. The theory-field choice inside Modul 6 (labelled Wahlpflicht, variants A, B, or C) is offered only as the single catalog module Modul 6b (9 ECTS), so it has no separate slot.",
+  "categories": [
+    {
+      "id": "bewegungsfelder",
+      "group": "anyOf",
+      "name": "Movement fields A, B, or C",
+      "nameDe": "Bewegungsfelder A, B oder C",
+      "short": "Movement fields",
+      "count": 2,
+      "ects": 12,
+      "note": "Section 5 requires two of the three elective modules Bewegungsfelder A, B, and C (modules 13, 14, and 15). Each module is 6 ECTS, and the two modules must total 12 ECTS.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 13a: Bewegungsfelder A"
+        },
+        {
+          "type": "module",
+          "id": "Modul 14a: Bewegungsfelder B"
+        },
+        {
+          "type": "module",
+          "id": "Modul 15a: Bewegungsfelder C"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-berufliche-schulen-sport-nebenfach",
+  "po": "Master Berufliche Schulen Sport (2014) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28683&token=b33b42d9b43504ff66d286e0d45e6ead0929f3e0"
+  ]
+}

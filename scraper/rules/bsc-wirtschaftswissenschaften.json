@@ -1,0 +1,119 @@
+{
+  "summary": "PO 2020 section 6: 90 ECTS compulsory foundation modules (B1 to B15), then 78 ECTS of advanced modules: B16, B17 and B18 (6 ECTS each), key competencies B25 (12 ECTS), and exactly two of the five specializations (24 ECTS each: two compulsory 6-ECTS modules plus a 12-ECTS Wahl module). The two specialization categories have to be different specializations, and a module fills only one of them; this form cannot check those two conditions. At least one exam among B16 to B25 must be a seminar, at least 6 ECTS of foundation or advanced modules must be taught and examined in English (language courses do not count), and 60 ECTS of foundation modules are required before B16 to B24.",
+  "categories": [
+    {
+      "id": "Wirtschaftswissenschaftliche Methoden",
+      "group": "module",
+      "name": "Methods in economics",
+      "nameDe": "Wirtschaftswissenschaftliche Methoden",
+      "short": "Methods",
+      "count": 1,
+      "ects": 6,
+      "note": "Compulsory advanced module B16, 6 ECTS.",
+      "compulsory": true
+    },
+    {
+      "id": "Verhaltensökonomische Grundlagen",
+      "group": "module",
+      "name": "Foundations of behavioral economics",
+      "nameDe": "Verhaltensökonomische Grundlagen",
+      "short": "Behavioral econ.",
+      "count": 1,
+      "ects": 6,
+      "note": "Compulsory advanced module B17, 6 ECTS.",
+      "compulsory": true
+    },
+    {
+      "id": "Aktuelle wirtschaftspolitische Fragen",
+      "group": "module",
+      "name": "Current issues in economic policy",
+      "nameDe": "Aktuelle wirtschaftspolitische Fragen",
+      "short": "Econ. policy",
+      "count": 1,
+      "ects": 6,
+      "note": "Compulsory advanced module B18, 6 ECTS.",
+      "compulsory": true
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 12,
+      "note": "Compulsory module B25, 12 ECTS. Additive key competencies, student engagement, language courses, internships, study-abroad courses, and non-economics courses from other bachelor programs can count; a course with no real difference from another module already taken cannot.",
+      "compulsory": true
+    },
+    {
+      "id": "spec-1",
+      "group": "oneOf",
+      "name": "First specialization",
+      "nameDe": "Erster Studienschwerpunkt",
+      "short": "Spec. 1",
+      "count": 3,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Economic Behavior and Governance"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Finance, Accounting, Controlling and Taxation"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Management, Innovation und Marketing"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Nachhaltiges Wirtschaften"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Wirtschaftsinformatik"
+        }
+      ],
+      "note": "One specialization under section 6, worth 24 ECTS: both of its compulsory modules (6 ECTS each) and its 12-ECTS Wahl module. Only modules from that one specialization count."
+    },
+    {
+      "id": "spec-2",
+      "group": "oneOf",
+      "name": "Second specialization",
+      "nameDe": "Zweiter Studienschwerpunkt",
+      "short": "Spec. 2",
+      "count": 3,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Economic Behavior and Governance"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Finance, Accounting, Controlling and Taxation"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Management, Innovation und Marketing"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Nachhaltiges Wirtschaften"
+        },
+        {
+          "type": "area",
+          "id": "Aufbaumodule > Wirtschaftsinformatik"
+        }
+      ],
+      "note": "The second specialization, also 24 ECTS, with its own two compulsory modules and its own 12-ECTS Wahl module. It has to be a different specialization, and a module already used for the first fills only one slot; the form cannot check those two conditions."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-wirtschaftswissenschaften",
+  "po": "Bachelor Wirtschaftswissenschaften (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12775&token=113852145f19c9875ae008826fd80ef62ba7ea03"
+  ]
+}

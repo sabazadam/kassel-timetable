@@ -1,0 +1,3216 @@
+{
+ "generatedAt": "2026-10-21T14:50:15.823Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt an Grundschulen Sachunterricht (2023)",
+ "programEn": "Teacher Training Primary Schools: General Studies (2023)",
+ "slug": "la-gs-sachunterricht",
+ "degree": "lehramt",
+ "themes": [
+  {
+   "id": "natural-science-teaching",
+   "modules": [
+    "m18467",
+    "m18452",
+    "m18453",
+    "m18463"
+   ],
+   "text": {
+    "tr": [
+     "Doğa bilimleri öğretimi",
+     "Öğrenciler hayat bilgisinde doğa olaylarını çocukların günlük düşüncelerinden ve fen disiplinlerinin yöntemlerinden yola çıkarak öğretmeyi öğrenir."
+    ],
+    "en": [
+     "Natural science teaching",
+     "Students learn to teach natural phenomena in primary general studies from children's everyday ideas and the methods of the science disciplines."
+    ],
+    "de": [
+     "Naturwissenschaftliche Perspektive",
+     "Studierende lernen, naturwissenschaftliche Phänomene im Sachunterricht anhand kindlicher Alltagsvorstellungen und fachlicher Denkweisen zu unterrichten."
+    ]
+   }
+  },
+  {
+   "id": "social-science-teaching",
+   "modules": [
+    "m18461",
+    "m18452",
+    "m18453",
+    "m18463"
+   ],
+   "text": {
+    "tr": [
+     "Toplum bilimleri öğretimi",
+     "Öğrenciler hayat bilgisinin toplum bilimleri temellerini edinir ve bunları okulda öğretmeyi ve incelemeyi öğrenir."
+    ],
+    "en": [
+     "Social science teaching",
+     "Students learn the social science foundations of primary general studies and how to teach and analyse them in school."
+    ],
+    "de": [
+     "Gesellschaftswissenschaftliche Perspektive",
+     "Studierende erarbeiten die gesellschaftswissenschaftlichen Grundlagen des Sachunterrichts und lernen, sie in der Schule zu unterrichten und zu analysieren."
+    ]
+   }
+  },
+  {
+   "id": "technical-perspective",
+   "modules": [
+    "m18469",
+    "m18452",
+    "m18453",
+    "m18463"
+   ],
+   "text": {
+    "tr": [
+     "Teknik perspektif",
+     "Öğrenciler hayat bilgisinin teknik temellerini edinir ve teknik odaklı dersleri öğretmeyi ve incelemeyi öğrenir."
+    ],
+    "en": [
+     "Technical perspective",
+     "Students learn the technical foundations of primary general studies and how to teach and analyse lessons with a technical focus."
+    ],
+    "de": [
+     "Technische Perspektive",
+     "Studierende erarbeiten die technischen Grundlagen des Sachunterrichts und lernen, Unterricht mit technischem Schwerpunkt zu unterrichten und zu analysieren."
+    ]
+   }
+  },
+  {
+   "id": "teaching-and-research",
+   "modules": [
+    "m18452",
+    "m18463",
+    "m18467",
+    "m18453"
+   ],
+   "text": {
+    "tr": [
+     "Öğretim araştırması",
+     "Öğrenciler çocukluk, gelişim, öğrenme ve öğretim araştırmasını ampirik sorular ve okulda hayat bilgisi dersleri için kullanmayı öğrenir."
+    ],
+    "en": [
+     "Teaching and research",
+     "Students learn to use research on childhood, development, learning and teaching for empirical questions and for general studies lessons in school."
+    ],
+    "de": [
+     "Lehren und forschen",
+     "Studierende lernen, Kenntnisse aus der Kindheitsforschung, der Lernforschung und der Unterrichtsforschung für empirische Fragen und für den Sachunterricht in der Schule zu nutzen."
+    ]
+   }
+  }
+ ],
+ "categories": [],
+ "rulesSummary": null,
+ "rulesSources": [],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Hörsaal 6 (Raum 0504) (Arnold-Bode 12)": {
+   "en": "Lecture hall 6 (room 0504) (Arnold-Bode 12)",
+   "tr": "Amfi 6 (oda 0504) (Arnold-Bode 12)"
+  },
+  "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)": {
+   "en": "Lecture hall 6 (Room 2113) (Moritzstr. 18 Campus Center)",
+   "tr": "Amfi 6 (Oda 2113) (Moritzstr. 18 Campus Center)"
+  },
+  "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)": {
+   "en": "Lecture hall 4 (Room 0508) (Arnold-Bode 12)",
+   "tr": "Amfi 4 (Oda 0508) (Arnold-Bode 12)"
+  },
+  "Raum 0402 (Nora-Platiel 9)": {
+   "en": "Room 0402 (Nora-Platiel 9)",
+   "tr": "Oda 0402 (Nora-Platiel 9)"
+  },
+  "Raum 0005 (G.-Forster-Str. 4)": {
+   "en": "Room 0005 (G.-Forster-Str. 4)",
+   "tr": "Oda 0005 (G.-Forster-Str. 4)"
+  },
+  "Hörsaal 5 (Raum 1101) (Moritzstr. 18 Campus Center)": {
+   "en": "Lecture hall 5 (Room 1101) (Moritzstr. 18 Campus Center)",
+   "tr": "Amfi 5 (Oda 1101) (Moritzstr. 18 Campus Center)"
+  },
+  "Raum 2044 (Kurt-Wolters 5)": {
+   "en": "Room 2044 (Kurt-Wolters 5)",
+   "tr": "Oda 2044 (Kurt-Wolters 5)"
+  },
+  "Raum 0409 (Arnold-Bode 2)": {
+   "en": "Room 0409 (Arnold-Bode 2)",
+   "tr": "Oda 0409 (Arnold-Bode 2)"
+  },
+  "Raum 1121 (Kurt-Wolters 3)": {
+   "en": "Room 1121 (Kurt-Wolters 3)",
+   "tr": "Oda 1121 (Kurt-Wolters 3)"
+  },
+  "Anmeldung über den Moodle-Kurs „Physik in der Grundschule“": {
+   "en": "Registration via the Moodle course \"Physik in der Grundschule\"",
+   "tr": "\"Physik in der Grundschule\" Moodle kursu üzerinden kayıt"
+  },
+  "Anmeldung bis zum Ende der vorhergehenden Semesterferien (Ende September für das WS und Ende März für das SS). Anmeldung über die Homepage des Sachunterrichts erforderlich.": {
+   "en": "Registration by the end of the preceding semester break (end of September for the winter semester and end of March for the summer semester). Registration via the Sachunterricht homepage is required.",
+   "tr": "Kayıt, bir önceki sömestr tatilinin sonuna kadar yapılmalıdır (kış dönemi için eylül sonu, yaz dönemi için mart sonu). Sachunterricht ana sayfası üzerinden kayıt zorunludur."
+  },
+  "Diese Parallelgruppe kann auf Grund eines Ausfalls nicht stattfinden und wird bei Bedarf (ggf. als Kompaktkurs) nachgeholt.": {
+   "en": "This parallel group cannot take place because of a cancellation and will be made up if needed (if necessary as a compact course).",
+   "tr": "Bu paralel grup bir iptal nedeniyle yapılamayacak ve ihtiyaç halinde (gerekirse yoğunlaştırılmış kurs olarak) telafi edilecektir."
+  },
+  "Metallwerkstatt​Für die Studierenden nach der alten MPO 2014 (2 SWS)": {
+   "en": "Metal workshop. For students under the old MPO 2014 (2 SWS)",
+   "tr": "Metal atölyesi. Eski MPO 2014'e göre öğrenciler için (2 SWS)"
+  },
+  "Metallwerkstatt": {
+   "en": "Metal workshop",
+   "tr": "Metal atölyesi"
+  },
+  "Metallwerkstatt​Für die Studierenden nach der neuen MPO 2023 (1 SWS)": {
+   "en": "Metal workshop. For students under the new MPO 2023 (1 SWS)",
+   "tr": "Metal atölyesi. Yeni MPO 2023'e göre öğrenciler için (1 SWS)"
+  },
+  "MetallwerkstattFür die Studierenden nach der neuen MPO 2023 (1 SWS)": {
+   "en": "Metal workshop. For students under the new MPO 2023 (1 SWS)",
+   "tr": "Metal atölyesi. Yeni MPO 2023'e göre öğrenciler için (1 SWS)"
+  },
+  "Keramikwerkstatt": {
+   "en": "Ceramics workshop",
+   "tr": "Seramik atölyesi"
+  },
+  "+ Keramikwerkstatt": {
+   "en": "+ Ceramics workshop",
+   "tr": "+ Seramik atölyesi"
+  },
+  "Anmeldung zur Veranstaltung über Moodle https://moodle.uni-kassel.de/course/view.php?id=23583": {
+   "en": "Registration for the course via Moodle https://moodle.uni-kassel.de/course/view.php?id=23583",
+   "tr": "Derse kayıt Moodle üzerinden https://moodle.uni-kassel.de/course/view.php?id=23583"
+  },
+  "(Start 15 Uhr) bis zum 24.01.27 (Ende 15 Uhr). Das Seminar findet statt in der: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V. in Zülpich (bei Köln).": {
+   "en": "(Start 15 Uhr) until 24.01.27 (end 15 Uhr). The seminar takes place at: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V. in Zülpich (near Köln).",
+   "tr": "(Başlangıç 15 Uhr) 24.01.27 tarihine kadar (bitiş 15 Uhr). Seminer şu yerde gerçekleşir: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V., Zülpich (Köln yakınında)."
+  },
+  "Dieses Seminar beschäftigt sich damit wie NS-Zeit und Holocaust Unterrichtsinhalte für den Sachunterricht sein können. Wir werden uns mit unterschiedlichen grundschulgeeigneten Zugängen zu den Themen befassen, Voraussetzungen für die Umsetzung im Unterricht besprechen und gemeinsam Unterrichtsideen entwickeln.": {
+   "en": "This seminar examines how the Nazi era and the Holocaust can be teaching content for Sachunterricht. We will look at different approaches to the topics that are suitable for primary school, discuss the prerequisites for implementing them in class, and develop teaching ideas together.",
+   "tr": "Bu seminer, Nasyonal Sosyalizm dönemi ve Holokost'un Sachunterricht için nasıl öğretim içeriği olabileceğini inceler. Konulara ilkokula uygun farklı yaklaşımları ele alacağız, bunların derste uygulanmasının ön koşullarını konuşacağız ve birlikte ders fikirleri geliştireceğiz."
+  },
+  "Elemente der Unterrichtsplanung im Sachunterricht Planung und Durchführung einer Unterrichtseinheit/eines Projekttags im Sachunterricht Reflexion, Analyse und Evaluation von Unterricht Praxisschule: Valentin-Traudt-Schule Kassel​​Literatur: GDSU (2013): Perspektivrahmen Sachunterricht Tänzer, Lauterbach, Blumberg, Grittner, Lange, Schomaker (2020): Sachunterricht begründet planen. Bad Heilbrunn: Julius Klinkhardt.": {
+   "en": "Elements of lesson planning in Sachunterricht. Planning and carrying out a teaching unit/a project day in Sachunterricht. Reflection, analysis and evaluation of teaching. Practical school: Valentin-Traudt-Schule Kassel. Literature: GDSU (2013): Perspektivrahmen Sachunterricht. Tänzer, Lauterbach, Blumberg, Grittner, Lange, Schomaker (2020): Sachunterricht begründet planen. Bad Heilbrunn: Julius Klinkhardt.",
+   "tr": "Sachunterricht'te ders planlamasının unsurları. Sachunterricht'te bir öğretim ünitesinin/bir proje gününün planlanması ve gerçekleştirilmesi. Öğretimin yansıtılması, analizi ve değerlendirilmesi. Uygulama okulu: Valentin-Traudt-Schule Kassel. Kaynakça: GDSU (2013): Perspektivrahmen Sachunterricht. Tänzer, Lauterbach, Blumberg, Grittner, Lange, Schomaker (2020): Sachunterricht begründet planen. Bad Heilbrunn: Julius Klinkhardt."
+  },
+  "Zusätzlich zu den Seminarzeiten sind einige Termine zur Hospitation und für eigene Unterrichtsversuche an einer Grundschule in Großalmerode vorgesehen.": {
+   "en": "In addition to the seminar times, several dates for classroom observation and for students' own teaching trials are scheduled at a primary school in Großalmerode.",
+   "tr": "Seminer saatlerine ek olarak, Großalmerode'deki bir ilkokulda ders gözlemi ve öğrencilerin kendi öğretim denemeleri için bazı tarihler öngörülmüştür."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m18453",
+   "title": "Modul 1 Didaktik des Sachunterrichts",
+   "titleEn": "Module 1 Didactics of General Studies",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "74861",
+    "70291",
+    "74885"
+   ]
+  },
+  {
+   "id": "m18461",
+   "title": "Modul 2 Grundlagen der gesellschaftswissenschaftlichen Perspektive des Sachunterrichts",
+   "titleEn": "Module 2 Fundamentals of the Social Science Perspective of General Studies",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "65077",
+    "57431",
+    "69058"
+   ]
+  },
+  {
+   "id": "m18467",
+   "title": "Modul 3 Grundlagen der naturwissenschaftlichen Perspektive des Sachunterrichts",
+   "titleEn": "Module 3 Fundamentals of the Natural Science Perspective of General Studies",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 3,
+    "fixed": []
+   },
+   "courseIds": [
+    "54736",
+    "54577",
+    "54348",
+    "54581",
+    "54731"
+   ]
+  },
+  {
+   "id": "m18469",
+   "title": "Modul 4 Grundlagen der technischen Perspektive des Sachunterrichts",
+   "titleEn": "Module 4 Fundamentals of the Technical Perspective of General Studies",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "54795",
+    "54782",
+    "54797",
+    "54783",
+    "54796",
+    "54793",
+    "75325"
+   ]
+  },
+  {
+   "id": "m18452",
+   "title": "Modul 5 Lehren, lernen und forschen im Sachunterricht",
+   "titleEn": "Module 5 Teaching, Learning and Research in General Studies",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "54791",
+    "64258",
+    "69668",
+    "69687",
+    "69670"
+   ]
+  },
+  {
+   "id": "m18463",
+   "title": "Modul 6 Sachunterrichtsdidaktische Analysen im Praxisfeld Schule",
+   "titleEn": "Module 6 Didactic Analyses of General Studies in the Practical Field of School",
+   "code": null,
+   "ects": 4,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "54780"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "74861",
+   "title": "Didaktik des Sachunterrichts",
+   "number": "FB01.SU.10",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Nina Skorsetz-Gumprecht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Nina Skorsetz-Gumprecht"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74861&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24212",
+    "key": true
+   },
+   "titleEn": "Didactics of General Studies",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70291",
+   "title": "Perspektiven des Sachunterrichts",
+   "number": "FB05.SU.02",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Rita Wodzinski, Dr. Gesine Bade",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Rita Wodzinski",
+        "Dr. Gesine Bade"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70291&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23919",
+    "key": false
+   },
+   "titleEn": "Perspectives on General Studies",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "74885",
+   "title": "Tutorien Didaktik des Sachunterrichts",
+   "number": "FB01.SU.10a",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr. Nina Skorsetz-Gumprecht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2420 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2131 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74885&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24212",
+    "key": true
+   },
+   "titleEn": "Tutorials in the Didactics of General Studies",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "65077",
+   "title": "Grundlagen der gesellschaftswissenschaftlichen Perspektive des Sachunterrichts",
+   "number": "Sach-2200-SE",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Gesine Bade",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Gesine Bade"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0614 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-11-04",
+       "endDate": "2026-11-04",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0614 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-12-02",
+       "endDate": "2026-12-02",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0614 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-12-16",
+       "endDate": "2026-12-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0614 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2027-01-20",
+       "endDate": "2027-01-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0614 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2027-02-03",
+       "endDate": "2027-02-03",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0614 (Möncheberg 7)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Hörsaal 6 (Raum 0504) (Arnold-Bode 12)",
+       "instructors": [
+        "Prof. Dr. Andreas Eis"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-31",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Jan Schneider"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)",
+       "instructors": [
+        "Jan-Lukas Gruhler",
+        "Dr. Nele Austermann",
+        "Jan-Lukas Jänicke"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)",
+       "instructors": [
+        "Prof. Dr. Christine Pflüger"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Raum 0402 (Nora-Platiel 9)",
+       "instructors": [
+        "Dr. Luigi de Ambrosia"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Raum 0005 (G.-Forster-Str. 4)",
+       "instructors": [
+        "Dr. Luigi de Ambrosia"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Hörsaal 5 (Raum 1101) (Moritzstr. 18 Campus Center)",
+       "instructors": [
+        "Prof. Dr. Jenny Preunkert"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "9. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Raum 2044 (Kurt-Wolters 5)",
+       "instructors": [
+        "Prof. Dr. Jörn Lamla"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "10. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "Raum 0409 (Arnold-Bode 2)",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "Raum 0409 (Arnold-Bode 2)",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-30",
+       "cancelled": [],
+       "note": "Raum 1121 (Kurt-Wolters 3)",
+       "instructors": [
+        "Janosch Schobin"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65077&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fundamentals of the Social Science Perspective of General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57431",
+   "title": "Geschichtsdidaktik L1",
+   "number": "Gesch-3450-SE",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Anna Schnädelbach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Anna Schnädelbach"
+       ],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57431&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "History Didactics L1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69058",
+   "title": "Geschichtsdidaktik",
+   "number": "Gesch-3400-V",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Christine Pflüger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christine Pflüger"
+       ],
+       "room": "Hörsaal 4 (Raum 0508) (Arnold-Bode 12)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69058&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "History Didactics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54736",
+   "title": "Physik in der Grundschule",
+   "number": "FB1018.4585",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Rita Wodzinski",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Anmeldung über den Moodle-Kurs „Physik in der Grundschule“",
+       "instructors": [
+        "Prof. Rita Wodzinski"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54736&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23689",
+    "key": false
+   },
+   "titleEn": "Physics in Primary School",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54577",
+   "title": "Chemie für Sachunterricht",
+   "number": "FB1018.3300",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Ines Goldhausen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Ines Goldhausen"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54577&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Chemistry for General Studies",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54348",
+   "title": "Sachunterricht-Werkstattkurs \"Tiere im Biologie- und Sachunterricht\"",
+   "number": "FB1018.0285",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Lars Meyer-Odewald",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "10:45",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Lars Meyer-Odewald"
+       ],
+       "room": "Raum 2142 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54348&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "General Studies Workshop Course \"Animals in Biology and General Studies Teaching\"",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54581",
+   "title": "Chemische Experimente zum Sachunterricht",
+   "number": "FB1018.3315",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Paula Deuermeier",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2026-10-21",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Paula Deuermeier"
+       ],
+       "room": "Raum 3117 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-12-02",
+       "endDate": "2026-12-02",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1403 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54581&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23214",
+    "key": false
+   },
+   "titleEn": "Chemical Experiments for General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54731",
+   "title": "Physikalische Experimente in der Grundschule",
+   "number": "FB1018.4555",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Rita Wodzinski",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Anmeldung bis zum Ende der vorhergehenden Semesterferien (Ende September für das WS und Ende März für das SS). Anmeldung über die Homepage des Sachunterrichts erforderlich.",
+       "instructors": [
+        "Prof. Rita Wodzinski"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Anmeldung bis zum Ende der vorhergehenden Semesterferien (Ende September für das WS und Ende März für das SS). Anmeldung über die Homepage des Sachunterrichts erforderlich.",
+       "instructors": [
+        "Prof. Rita Wodzinski"
+       ],
+       "room": "Raum 1293 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54731&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24041",
+    "key": false
+   },
+   "titleEn": "Physics Experiments in Primary School",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54795",
+   "title": "Technik und ihre Didaktik in der Grundschule",
+   "number": "FB1018.6120",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Swantje Dölle",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Swantje Dölle"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54795&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24857",
+    "key": false
+   },
+   "titleEn": "Technology and Its Didactics in Primary School",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54782",
+   "title": "Technisch-praktisches Arbeiten mit Holz (PO 2014: Grundlagen technischer Praxis I - Holz)",
+   "number": "FB1018.6020",
+   "type": "Fachpraktische Übung",
+   "language": "deutsch",
+   "responsible": "Martin Scheffer, Wolfgang Herz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-11-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Martin Scheffer",
+        "Wolfgang Herz"
+       ],
+       "room": "Raum 0111 Holzwerkst. (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-11-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Martin Scheffer",
+        "Wolfgang Herz"
+       ],
+       "room": "Raum 0111 Holzwerkst. (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Diese Parallelgruppe kann auf Grund eines Ausfalls nicht stattfinden und wird bei Bedarf (ggf. als Kompaktkurs) nachgeholt.",
+       "instructors": [
+        "Martin Scheffer"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Diese Parallelgruppe kann auf Grund eines Ausfalls nicht stattfinden und wird bei Bedarf (ggf. als Kompaktkurs) nachgeholt.",
+       "instructors": [
+        "Martin Scheffer"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-12-07",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Martin Scheffer",
+        "Wolfgang Herz"
+       ],
+       "room": "Raum 0111 Holzwerkst. (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-12-07",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Martin Scheffer",
+        "Wolfgang Herz"
+       ],
+       "room": "Raum 0111 Holzwerkst. (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-12-08",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Martin Scheffer",
+        "Wolfgang Herz"
+       ],
+       "room": "Raum 0111 Holzwerkst. (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-12-08",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Martin Scheffer",
+        "Wolfgang Herz"
+       ],
+       "room": "Raum 0111 Holzwerkst. (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54782&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "20913",
+    "key": true
+   },
+   "titleEn": "Technical-Practical Work with Wood (PO 2014: Fundamentals of Technical Practice I - Wood)",
+   "typeEn": "Subject Practical Exercise"
+  },
+  {
+   "id": "54797",
+   "title": "Technisch-praktisches Arbeiten mit Metall und Kunststoff (PO 2023)",
+   "number": "FB1018.6130",
+   "type": "Fachpraktische Übung",
+   "language": "deutsch",
+   "responsible": "Wolfgang Herz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Metallwerkstatt​Für die Studierenden nach der alten MPO 2014 (2 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Metallwerkstatt",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-11-30",
+       "cancelled": [],
+       "note": "Metallwerkstatt​Für die Studierenden nach der alten MPO 2014 (2 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2026-11-30",
+       "cancelled": [],
+       "note": "Metallwerkstatt​Für die Studierenden nach der neuen MPO 2023 (1 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2026-12-01",
+       "cancelled": [],
+       "note": "Metallwerkstatt​Für die Studierenden nach der neuen MPO 2023 (1 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-20",
+       "endDate": "2026-12-01",
+       "cancelled": [],
+       "note": "Metallwerkstatt​Für die Studierenden nach der neuen MPO 2023 (1 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "7. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-12-07",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Metallwerkstatt​Für die Studierenden nach der neuen MPO 2023 (1 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "8. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-12-07",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Metallwerkstatt​Für die Studierenden nach der neuen MPO 2023 (1 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "9. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-12-08",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "MetallwerkstattFür die Studierenden nach der neuen MPO 2023 (1 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "10. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-12-08",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "MetallwerkstattFür die Studierenden nach der neuen MPO 2023 (1 SWS)",
+       "instructors": [
+        "Wolfgang Herz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54797&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Technical-Practical Work with Metal and Plastics (PO 2023)",
+   "typeEn": "Subject Practical Exercise"
+  },
+  {
+   "id": "54783",
+   "title": "Technisch-praktisches Arbeiten mit Keramik (PO 2014: Grundlagen technischer Praxis I - Keramik)",
+   "number": "FB1018.6023",
+   "type": "Fachpraktische Übung",
+   "language": "deutsch",
+   "responsible": "Ulrike Seilacher",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-12",
+       "endDate": "2027-01-13",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Ulrike Seilacher"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2027-02-10",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Ulrike Seilacher"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-19",
+       "endDate": "2027-01-20",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Ulrike Seilacher"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2027-02-10",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Ulrike Seilacher"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-26",
+       "endDate": "2027-01-27",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Ulrike Seilacher"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-02-10",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Ulrike Seilacher"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2026-12-03",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Hyun Ju Do"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "5. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Hyun Ju Do"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "6. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "Keramikwerkstatt",
+       "instructors": [
+        "Hyun Ju Do"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54783&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "11975",
+    "key": false
+   },
+   "titleEn": "Technical-Practical Work with Ceramics (PO 2014: Fundamentals of Technical Practice I - Ceramics)",
+   "typeEn": "Subject Practical Exercise"
+  },
+  {
+   "id": "54796",
+   "title": "Themen und Perspektiven im Sachunterricht mit technischer Perspektive",
+   "number": "FB1018.6122",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Swantje Dölle",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Swantje Dölle"
+       ],
+       "room": "Raum 0107 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54796&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24858",
+    "key": false
+   },
+   "titleEn": "Topics and Perspectives in General Studies with a Technical Perspective",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54793",
+   "title": "Wie die Steine denken lernen – Programmierbare Baukästen im technischen Sachunterricht",
+   "number": "FB1018.6100",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Mario Leck",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Mario Leck"
+       ],
+       "room": "Raum 0107 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54793&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "How the Stones Learn to Think – Programmable Construction Kits in Technical General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75325",
+   "title": "Technikgeschichte als Thema des Sachunterrichts",
+   "number": "FB1018.6103w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Swantje Dölle",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Swantje Dölle"
+       ],
+       "room": "Raum 1245 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75325&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24989",
+    "key": false
+   },
+   "titleEn": "History of Technology as a Topic in General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54791",
+   "title": "Kulturgeschichte der Keramik als Thema des Sachunterrichts",
+   "number": "FB1018.6090s",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Hyun Ju Do",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "+ Keramikwerkstatt",
+       "instructors": [
+        "Hyun Ju Do"
+       ],
+       "room": "Raum 0107 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54791&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Cultural History of Ceramics as a Topic in General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "64258",
+   "title": "Lehren, lernen und forschen im Sachunterricht",
+   "number": "Sach-2500-SE1",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Dr. Gesine Bade",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "Anmeldung zur Veranstaltung über Moodle https://moodle.uni-kassel.de/course/view.php?id=23583",
+       "instructors": [
+        "Dr. Gesine Bade"
+       ],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "15:00",
+       "end": "15:15",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-24",
+       "cancelled": [],
+       "note": "(Start 15 Uhr) bis zum 24.01.27 (Ende 15 Uhr). Das Seminar findet statt in der: Tagungsstätte lila_bunt - Feministische Bildung, Praxis & Utopie e.V. in Zülpich (bei Köln).",
+       "instructors": [
+        "Dr. Gesine Bade"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64258&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23583",
+    "key": false
+   },
+   "titleEn": "Teaching, Learning and Research in General Studies",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "69668",
+   "title": "Vielperspektivischen Sachunterricht planen",
+   "number": "FB01.SU.03",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Nina Skorsetz-Gumprecht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Nina Skorsetz-Gumprecht"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69668&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24213",
+    "key": true
+   },
+   "titleEn": "Planning Multi-Perspective General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69687",
+   "title": "„NS-Zeit und Holocaust“ als Themen im Sachunterricht",
+   "number": "FB01.SU.08",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Sophia Alina Oktavia Hollerbach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Dieses Seminar beschäftigt sich damit wie NS-Zeit und Holocaust Unterrichtsinhalte für den Sachunterricht sein können. Wir werden uns mit unterschiedlichen grundschulgeeigneten Zugängen zu den Themen befassen, Voraussetzungen für die Umsetzung im Unterricht besprechen und gemeinsam Unterrichtsideen entwickeln.",
+       "instructors": [
+        "Sophia Alina Oktavia Hollerbach"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69687&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24329",
+    "key": true
+   },
+   "titleEn": "„NS Era and the Holocaust“ as Topics in General Studies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69670",
+   "title": "CrossCultureLab – Ideen ohne Grenzen: Vielperspektivisches Arbeiten an einer UNESCO-Projektschule im Grundschulbereich zum Thema Nachhaltigkeit",
+   "number": "FB01.SU.07",
+   "type": "Blockseminar",
+   "language": null,
+   "responsible": "Prof. Dr. Nina Skorsetz-Gumprecht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-27",
+       "endDate": "2026-10-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "20:00",
+       "end": "22:00",
+       "startDate": "2026-12-17",
+       "endDate": "2026-12-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-01-11",
+       "endDate": "2027-01-15",
+       "cancelled": [
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69670&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23583",
+    "key": false
+   },
+   "titleEn": "CrossCultureLab – Ideas Without Borders: Multi-Perspective Work at a UNESCO Project School in the Primary School Sector on the Topic of Sustainability",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "54780",
+   "title": "SAPS - Sachunterrichtsdidaktische Analyse im Praxisfeld Schule",
+   "number": "FB1018.6001",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Nina Skorsetz-Gumprecht, Kathrin Dizdar",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-11-02",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Elemente der Unterrichtsplanung im Sachunterricht Planung und Durchführung einer Unterrichtseinheit/eines Projekttags im Sachunterricht Reflexion, Analyse und Evaluation von Unterricht Praxisschule: Valentin-Traudt-Schule Kassel​​Literatur: GDSU (2013): Perspektivrahmen Sachunterricht Tänzer, Lauterbach, Blumberg, Grittner, Lange, Schomaker (2020): Sachunterricht begründet planen. Bad Heilbrunn: Julius Klinkhardt.",
+       "instructors": [
+        "Kathrin Dizdar"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:45",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Zusätzlich zu den Seminarzeiten sind einige Termine zur Hospitation und für eigene Unterrichtsversuche an einer Grundschule in Großalmerode vorgesehen.",
+       "instructors": [
+        "Marc Heinemann"
+       ],
+       "room": "Raum 0107 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Gesine Bade"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54780&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23920",
+    "key": false
+   },
+   "titleEn": "SAPS - Didactic Analysis of General Studies in the Practical Field of School",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

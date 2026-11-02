@@ -1,0 +1,30 @@
+{
+  "slug": "la-foe-politik-und-wirtschaft",
+  "po": "Lehramt für Förderpädagogik Politik und Wirtschaft (2024)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=25166&token=f77044399f0ebc0b5d75f1d2df599683955d5eec"
+  ],
+  "categories": [
+    {
+      "id": "modul-5",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 5a Politische Bildung: Grundlagen Primarstufe"
+        },
+        {
+          "type": "module",
+          "id": "Modul 5b Politische Bildung: Grundlagen Sekundarstufe"
+        }
+      ],
+      "name": "Political education basics (primary or secondary)",
+      "nameDe": "Modul 5a oder 5b",
+      "short": "Modul 5a/5b",
+      "note": "7 ECTS"
+    }
+  ],
+  "pickOne": [],
+  "summary": "Modulprüfungsordnung Politik und Wirtschaft L5 of 09.01.2024, section 3: all modules are compulsory except the choice between Politische Bildung: Grundlagen for primary (5a) or secondary level (5b)."
+}

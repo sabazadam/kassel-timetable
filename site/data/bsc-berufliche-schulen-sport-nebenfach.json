@@ -1,0 +1,2097 @@
+{
+ "generatedAt": "2026-10-21T14:50:17.196Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor Berufliche Schulen Sport (2014) Nebenfach",
+ "programEn": "Bachelor Vocational Schools: Sport (Minor) (2014)",
+ "slug": "bsc-berufliche-schulen-sport-nebenfach",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "goal-and-net-games",
+   "modules": [
+    "m3338",
+    "m3343",
+    "m3328"
+   ],
+   "text": {
+    "tr": [
+     "Kale ve file oyunları",
+     "Kale oyunları ile file ve raket oyunlarını farklı sınıf düzeylerinde öğretmeye hazırlar."
+    ],
+    "en": [
+     "Goal and net games",
+     "Prepares you to teach goal games and net and wall games at different school levels."
+    ],
+    "de": [
+     "Zielschuss und Rückschlagspiele",
+     "Bereitet darauf vor, Zielschussspiele und Rückschlagspiele in verschiedenen Schulstufen zu unterrichten."
+    ]
+   }
+  },
+  {
+   "id": "health-and-training",
+   "modules": [
+    "m3339",
+    "m3336",
+    "m3326"
+   ],
+   "text": {
+    "tr": [
+     "Sağlık ve antrenman",
+     "Antrenman bilimi, spor hekimliği ve beslenme ile okulda sağlık sporuna, vücut antrenmanına, atletizme, aletli harekete, dansa ve partner mücadelesine hazırlar."
+    ],
+    "en": [
+     "Health and training",
+     "Prepares you to apply training science, sports medicine and nutrition in school and health sport and to teach body training, athletics, apparatus, dance and combat."
+    ],
+    "de": [
+     "Gesundheit und Training",
+     "Bereitet darauf vor, Trainingswissenschaft, Sportmedizin und Ernährung in der Schule und im Gesundheitssport anzuwenden und Körpertraining, Laufen, Springen, Werfen, Geräte, Tanz und Kämpfen zu unterrichten."
+    ]
+   }
+  },
+  {
+   "id": "water-and-gliding",
+   "modules": [
+    "m3334",
+    "m3350",
+    "m3339"
+   ],
+   "text": {
+    "tr": [
+     "Su ve kayma sporları",
+     "Yüzme ile sürme, yuvarlanma ve kayma sporlarını antrenman ve hareket bilimi temeliyle öğretmeye hazırlar."
+    ],
+    "en": [
+     "Water and gliding",
+     "Prepares you to teach swimming and riding, rolling and gliding sports using training and movement science."
+    ],
+    "de": [
+     "Wasser und Gleiten",
+     "Bereitet darauf vor, Schwimmen sowie Fahren, Rollen und Gleiten mit Trainingswissenschaft und Bewegungswissenschaft zu unterrichten."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "wahlpflicht-bewegungsfelder",
+   "group": "anyOf",
+   "name": "Movement field elective",
+   "nameDe": "Wahlpflicht Bewegungsfelder",
+   "short": "Movement elective",
+   "count": 1,
+   "note": "§ 6 sets the Sport second subject at 34 ECTS, of which the five compulsory modules contribute 28 ECTS, so the Wahlpflicht share is 6 ECTS. The student therefore completes exactly one of Bewegungsfelder A (M13b), Bewegungsfelder B (M14b) or Bewegungsfelder C (M15b), each worth 6 ECTS.",
+   "options": [
+    {
+     "type": "module",
+     "id": "Modul 13a: Bewegungsfelder A"
+    },
+    {
+     "type": "module",
+     "id": "Modul 14a: Bewegungsfelder B"
+    },
+    {
+     "type": "module",
+     "id": "Modul 15a: Bewegungsfelder C"
+    }
+   ],
+   "ects": 6,
+   "nameTr": "Hareket alanı seçmelisi",
+   "noteTr": "§ 6, Spor ikinci alanını 34 ECTS olarak belirler. Bunun 28 ECTS'ini beş zorunlu modül oluşturur; Wahlpflicht payı böylece 6 ECTS'tir. Öğrenci bu nedenle, her biri 6 ECTS olan Bewegungsfelder A (M13b), Bewegungsfelder B (M14b) veya Bewegungsfelder C (M15b) arasından tam olarak birini tamamlar.",
+   "noteDe": "§ 6 legt das Zweitfach Sport auf 34 ECTS fest. Davon entfallen 28 ECTS auf die fünf Pflichtmodule, sodass der Wahlpflichtanteil 6 ECTS beträgt. Zu absolvieren ist daher genau eines der Module Bewegungsfelder A (M13b), Bewegungsfelder B (M14b) oder Bewegungsfelder C (M15b), jeweils mit 6 ECTS."
+  }
+ ],
+ "rulesSummary": {
+  "en": "These rules follow the Fachprüfungsordnung für das Zweitfach Sport of 5 June 2025, in force from winter semester 2025/26, whose study-plan annex is marked PO-2024. The po field keeps the app programme name Bachelor Berufliche Schulen Sport (2014) Nebenfach. Under § 6 the Sport second subject (Zweitfach) in the bachelor's programmes in vocational and business education totals 34 ECTS. Five compulsory modules make up 28 ECTS: Training und Bewegung (6), Körper und Gesundheit (6), Spielen 1 (Zielschussspiele) (5), Spielen 2 (Rückschlagspiele) (5), and Bewegen im Wasser und Laufen, Springen, Werfen (6). The remaining 6 ECTS are one Wahlpflicht module, chosen from Bewegungsfelder A, B or C (M13b, M14b, M15b, 6 ECTS each). The winter 2026/27 list offers those three under the titles Modul 13a, Modul 14a and Modul 15a, which this rule uses so the offered modules match.",
+  "tr": "Bu kurallar, 5 Haziran 2025 tarihli Fachprüfungsordnung für das Zweitfach Sport metnine uyar. Metin 2025/26 kış döneminden itibaren yürürlüktedir; öğrenim planı eki PO-2024 olarak işaretlenmiştir. po alanı, uygulamadaki program adını Bachelor Berufliche Schulen Sport (2014) Nebenfach olarak korur. § 6 uyarınca meslek ve işletme pedagojisi lisans programlarındaki Spor ikinci dalı (Zweitfach) toplam 34 ECTS'tir. Beş zorunlu modül 28 ECTS tutar: Training und Bewegung (6), Körper und Gesundheit (6), Spielen 1 (Zielschussspiele) (5), Spielen 2 (Rückschlagspiele) (5) ve Bewegen im Wasser und Laufen, Springen, Werfen (6). Kalan 6 ECTS, Bewegungsfelder A, B veya C arasından seçilen bir Wahlpflichtmodul'dür (M13b, M14b, M15b, her biri 6 ECTS). 2026/27 kış dönemi listesi bu üçünü Modul 13a, Modul 14a ve Modul 15a başlıklarıyla sunar; bu kural, sunulan modüller eşleşsin diye bu başlıkları kullanır.",
+  "de": "Diese Regeln folgen der Fachprüfungsordnung für das Zweitfach Sport vom 5. Juni 2025, in Kraft ab dem Wintersemester 2025/26; die Anlage zum Studienplan ist mit PO-2024 gekennzeichnet. Das Feld po behält den Programmnamen der App Bachelor Berufliche Schulen Sport (2014) Nebenfach. Nach § 6 umfasst das Zweitfach Sport in den Bachelorstudiengängen der Berufs- und Wirtschaftspädagogik insgesamt 34 ECTS. Fünf Pflichtmodule ergeben 28 ECTS: Training und Bewegung (6), Körper und Gesundheit (6), Spielen 1 (Zielschussspiele) (5), Spielen 2 (Rückschlagspiele) (5) und Bewegen im Wasser und Laufen, Springen, Werfen (6). Die übrigen 6 ECTS sind ein Wahlpflichtmodul aus den Bewegungsfeldern A, B oder C (M13b, M14b, M15b, je 6 ECTS). Die Liste für das Wintersemester 2026/27 bietet diese drei unter den Titeln Modul 13a, Modul 14a und Modul 15a an; diese Regel verwendet diese Titel, damit die angebotenen Module übereinstimmen."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28682&token=8610fd463463c8e264f6f787f6a4f0b1d34b9340"
+ ],
+ "sections": [
+  {
+   "id": "Zweites Unterrichtsfach Sport",
+   "name": "Second Teaching Subject Sport",
+   "nameDe": "Zweites Unterrichtsfach Sport"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Vorbesprechung Ski und Snowboard": {
+   "en": "Kick-off meeting Ski and Snowboard",
+   "tr": "Ski ve Snowboard ön görüşmesi"
+  },
+  "+ Kompakttag mit soz.em. Schwerpunkt an einem Donnerstag von 8-14 Uhr !": {
+   "en": "+ Compact day with a social-emotional focus on a Thursday from 8-14!",
+   "tr": "+ Sosyal-duygusal ağırlıklı kompakt gün, bir perşembe günü saat 8-14!"
+  },
+  "Kompakttag": {
+   "en": "Compact day",
+   "tr": "Kompakt gün"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Zweites Unterrichtsfach Sport": "Second Teaching Subject Sport"
+ },
+ "modules": [
+  {
+   "id": "m3350",
+   "title": "Modul 11: Schwimmen und Leichtathletik",
+   "titleEn": "Module 11: Swimming and Track and Field",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": false,
+   "courseIds": [
+    "63348",
+    "63736",
+    "63728"
+   ]
+  },
+  {
+   "id": "m3328",
+   "title": "Modul 13a: Bewegungsfelder A",
+   "titleEn": "Module 13a: Movement Fields A",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [
+    "wahlpflicht-bewegungsfelder"
+   ],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "71617",
+    "71619",
+    "71648"
+   ]
+  },
+  {
+   "id": "m3334",
+   "title": "Modul 14a: Bewegungsfelder B",
+   "titleEn": "Module 14a: Movement Fields B",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [
+    "wahlpflicht-bewegungsfelder"
+   ],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "71650",
+    "71651",
+    "71663",
+    "71664",
+    "71665",
+    "71666"
+   ]
+  },
+  {
+   "id": "m3326",
+   "title": "Modul 15a: Bewegungsfelder C",
+   "titleEn": "Module 15a: Movement Fields C",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [
+    "wahlpflicht-bewegungsfelder"
+   ],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": false,
+   "courseIds": [
+    "71754",
+    "71763"
+   ]
+  },
+  {
+   "id": "m3339",
+   "title": "Modul 2c: Training und Bewegung",
+   "titleEn": "Module 2c: Training and Movement",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": false,
+   "courseIds": [
+    "70979"
+   ]
+  },
+  {
+   "id": "m3336",
+   "title": "Modul 5c: Körper und Gesundheit",
+   "titleEn": "Module 5c: Body and Health",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": false,
+   "courseIds": [
+    "70984"
+   ]
+  },
+  {
+   "id": "m3338",
+   "title": "Modul 8: Spielen 1 (Zielschussspiele)",
+   "titleEn": "Module 8: Playing 1 (Goal-Shooting Games)",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": false,
+   "courseIds": [
+    "71598",
+    "63718",
+    "63720"
+   ]
+  },
+  {
+   "id": "m3343",
+   "title": "Modul 9: Spielen 2 (Rückschlagspiele)",
+   "titleEn": "Module 9: Playing 2 (Net/Wall Games)",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Zweites Unterrichtsfach Sport"
+   ],
+   "categories": [],
+   "section": "Zweites Unterrichtsfach Sport",
+   "pickOne": false,
+   "courseIds": [
+    "71599"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "70979",
+   "title": "Einführung in die Trainings- und Bewegungswissenschaft",
+   "number": "FB05.SPO.4",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Lisa Maurer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0110-0130 (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70979&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24994",
+    "key": false
+   },
+   "titleEn": "Introduction to Training Science and Movement Science",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70984",
+   "title": "Einführung in die Sportmedizin und Sportbiologie",
+   "number": "FB05.SPO.5",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Hans-Herbert Vater",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0110-0130 (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70984&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introduction to Sports Medicine and Sports Biology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71598",
+   "title": "Zielschussspiele / Grundkurs",
+   "number": "FB05.SPO.19",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Kristina Isermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Kristina Isermann"
+       ],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Albert"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:30",
+       "end": "17:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Albert"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71598&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24237",
+    "key": false
+   },
+   "titleEn": "Goal-Shooting Games / Basic Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "63718",
+   "title": "Basketball / Aufbaukurs",
+   "number": "FB05.SPO.32",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Kristina Isermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "09:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63718&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Basketball / Intermediate Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "63720",
+   "title": "Handball / Aufbaukurs",
+   "number": "FB05.SPO.33",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dirk Wetekam",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63720&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Handball / Intermediate Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71599",
+   "title": "Rückschlagspiele / Grundkurs",
+   "number": "FB05.SPO.21",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Andreas Albert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "09:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71599&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24238",
+    "key": false
+   },
+   "titleEn": "Net/Wall Games / Basic Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "63348",
+   "title": "Leichtathletik - Grundkurs",
+   "number": "FB05.SPO.29",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Kristina Isermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63348&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "25014",
+    "key": false
+   },
+   "titleEn": "Track and Field - Basic Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "63736",
+   "title": "Leichtathletik - Aufbaukurs",
+   "number": "FB05.SPO.41",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Kristina Isermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63736&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Athletics - Intermediate Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "63728",
+   "title": "Schwimmen / Aufbaukurs",
+   "number": "FB05.SPO.38",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Andreas Albert, Sebastian Fischer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "07:00",
+       "end": "08:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Sebastian Fischer",
+        "Dr. Andreas Albert"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "14:30",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Sebastian Fischer",
+        "Dr. Andreas Albert"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63728&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Swimming / Intermediate Course",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71617",
+   "title": "Volleyball / WPM",
+   "number": "FB05.SPO.30",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Andreas Albert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "13:30",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71617&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24240",
+    "key": false
+   },
+   "titleEn": "Volleyball / WPM",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71619",
+   "title": "Tischtennis /WPM",
+   "number": "FB05.SPO.31",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Ola Einarsson",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71619&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Table Tennis / WPM",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71648",
+   "title": "Badminton /WPM",
+   "number": "FB05.SPO.34",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Danny Pohl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71648&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Badminton / WPM",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71650",
+   "title": "Ski Alpin (Einführung)",
+   "number": "FB05.SPO.35",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Andreas Albert, Dr. Julia Limmeroth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "startDate": "2026-11-05",
+       "endDate": "2026-11-05",
+       "cancelled": [],
+       "note": "Vorbesprechung Ski und Snowboard",
+       "instructors": [],
+       "room": "Raum 0110-0130 (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71650&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Alpine Skiing (Introduction)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71651",
+   "title": "Ski Alpin (Vertiefung) (Folgeveranstaltung aus dem WS 2025/26)",
+   "number": "FB05.SPO.36",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Andreas Albert, Dr. Julia Limmeroth",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71651&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Alpine Skiing (Advanced) (Follow-up Course from WS 2025/26)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71663",
+   "title": "Snowboard (Einführung)",
+   "number": "FB05.SPO.37",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Andreas Albert, Dr. Julia Limmeroth",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71663&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24242",
+    "key": false
+   },
+   "titleEn": "Snowboarding (Introduction)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71664",
+   "title": "Snowboard (Vertiefung) (Folgeveranstaltung aus dem WS 2025/26)",
+   "number": "FB05.SPO.42",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Andreas Albert, Dr. Julia Limmeroth",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71664&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Snowboarding (Advanced) (Follow-up Course from WS 2025/26)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71665",
+   "title": "Trailrunning im Naturpark Habichtswald",
+   "number": "FB05.SPO.43",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Kristina Isermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "15:00",
+       "startDate": "2027-03-04",
+       "endDate": "2027-03-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "15:00",
+       "startDate": "2027-03-11",
+       "endDate": "2027-03-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "15:00",
+       "startDate": "2027-03-20",
+       "endDate": "2027-03-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71665&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Trail Running in Naturpark Habichtswald",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71666",
+   "title": "Skateboard in der Schule",
+   "number": "FB05.SPO.46",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Sebastian Fischer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2026-10-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2026-11-05",
+       "endDate": "2026-11-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2026-11-19",
+       "endDate": "2026-11-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2026-12-03",
+       "endDate": "2026-12-03",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2026-12-17",
+       "endDate": "2026-12-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2027-01-14",
+       "endDate": "2027-01-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2027-01-28",
+       "endDate": "2027-01-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2027-02-11",
+       "endDate": "2027-02-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71666&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Skateboarding in School",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71754",
+   "title": "Mit und gegen Partner:innen kämpfen",
+   "number": "FB05.SPO.48",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Frauke Mutschall",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-10-22",
+       "endDate": "2026-12-03",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "10:00",
+       "end": "15:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "10:00",
+       "end": "15:00",
+       "startDate": "2027-02-06",
+       "endDate": "2027-02-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2027-02-18",
+       "endDate": "2027-02-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71754&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24255",
+    "key": false
+   },
+   "titleEn": "Fighting with and against Partners",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71763",
+   "title": "Bewegungsräume als Entwicklungsräume: Förderung emotionaler und sozialer Kompetenzen im inklusiven Sportunterricht",
+   "number": "FB05.SPO.50",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Frauke Mutschall",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "+ Kompakttag mit soz.em. Schwerpunkt an einem Donnerstag von 8-14 Uhr !",
+       "instructors": [
+        "Frauke Mutschall"
+       ],
+       "room": "Sporthalle (Damaschkestraße 25)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "08:00",
+       "end": "14:00",
+       "startDate": "2026-11-26",
+       "endDate": "2026-11-26",
+       "cancelled": [],
+       "note": "Kompakttag",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71763&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23507",
+    "key": false
+   },
+   "titleEn": "Movement Spaces as Developmental Spaces: Promoting Emotional and Social Competencies in Inclusive Physical Education",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

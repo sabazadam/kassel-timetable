@@ -1,0 +1,3411 @@
+{
+ "generatedAt": "2026-10-19T21:03:44.693Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt an Gymnasien Evangelische Religion (2023)",
+ "programEn": "Teacher Training Gymnasium: Protestant Religion (2023)",
+ "slug": "la-gym-evangelische-religion",
+ "degree": "lehramt",
+ "themes": [
+  {
+   "id": "biblical-theology",
+   "modules": [
+    "m23525",
+    "m23528",
+    "m23534"
+   ],
+   "text": {
+    "tr": [
+     "Kutsal Kitap Teolojisi",
+     "Kutsal Kitap bilimlerinin temellerini, gelenek metinlerini ve özel konularını öğrenerek din dersinde Kutsal Kitap çalışmasına hazırlanırsın."
+    ],
+    "en": [
+     "Biblical Theology",
+     "You learn biblical studies from the foundations through texts of the tradition to specialized topics for teaching the Bible."
+    ],
+    "de": [
+     "Biblische Theologie",
+     "Du lernst Bibelwissenschaften von den Grundlagen über die Texte der Tradition bis zu Schwerpunktthemen für den Religionsunterricht."
+    ]
+   }
+  },
+  {
+   "id": "systematic-theology",
+   "modules": [
+    "m23513",
+    "m23518",
+    "m23514"
+   ],
+   "text": {
+    "tr": [
+     "Sistematik Teoloji",
+     "Sistematik teolojinin temellerini, geliştirilmesini ve uzmanlık modülünü öğrenirsin."
+    ],
+    "en": [
+     "Systematic Theology",
+     "You study systematic theology from its foundations through its development to the specialization."
+    ],
+    "de": [
+     "Systematische Theologie",
+     "Du lernst systematische Theologie von den Grundlagen über die Entfaltung bis zum Schwerpunkt."
+    ]
+   }
+  },
+  {
+   "id": "theology-in-teaching",
+   "modules": [
+    "m23516",
+    "m23547",
+    "m23544"
+   ],
+   "text": {
+    "tr": [
+     "Öğretimde Teoloji",
+     "Protestan teolojiye didaktik açıdan bakmayı, din pedagojisi ve ders uygulamasının temelleriyle birlikte öğrenirsin."
+    ],
+    "en": [
+     "Theology in Teaching",
+     "You learn to see Protestant theology from a didactic perspective, with the foundations of religious pedagogy and classroom practice."
+    ],
+    "de": [
+     "Theologie im Unterricht",
+     "Du lernst evangelische Theologie in didaktischer Perspektive, zusammen mit den Grundlagen der Religionspädagogik und der Unterrichtspraxis."
+    ]
+   }
+  },
+  {
+   "id": "practice-and-didactics",
+   "modules": [
+    "m23554",
+    "m23544",
+    "m20488"
+   ],
+   "text": {
+    "tr": [
+     "Uygulama ve Didaktik",
+     "Ders uygulaması, uygulama dönemi ve Protestan teoloji didaktiğiyle okulda din dersi vermeye hazırlanırsın."
+    ],
+    "en": [
+     "Practice and Didactics",
+     "You prepare to teach religion in school through classroom practice, the practical semester, and the didactics of Protestant theology."
+    ],
+    "de": [
+     "Praxis und Didaktik",
+     "Du bereitest dich mit Unterrichtspraxis, Praxissemester und der Didaktik der evangelischen Theologie auf den Religionsunterricht in der Schule vor."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik",
+   "group": "area",
+   "name": "Religious education focus (I or II)",
+   "nameDe": "Schwerpunkt Religionspädagogik I oder II (Modul 3.11a oder 3.11b)",
+   "short": "RelPäd focus",
+   "count": 1,
+   "note": "One 12-ECTS module",
+   "nameTr": "Din pedagojisi uzmanlık alanı (I veya II)",
+   "noteTr": "Bir adet 12 ECTS'lik modül",
+   "noteDe": "Ein Modul im Umfang von 12 ECTS"
+  }
+ ],
+ "rulesSummary": {
+  "en": "Modulprüfungsordnung Evangelische Religion L3 of 30.01.2023, section 4: modules 3.01 to 3.10 are compulsory; choose Schwerpunkt Religionspädagogik I or II (12 ECTS).",
+  "tr": "Modulprüfungsordnung Evangelische Religion L3, 30.01.2023, madde 4: 3.01–3.10 modülleri zorunludur; Schwerpunkt Religionspädagogik I veya II seçilir (12 ECTS).",
+  "de": "Modulprüfungsordnung Evangelische Religion L3 vom 30.01.2023, § 4: Die Module 3.01 bis 3.10 sind Pflichtmodule; zu wählen ist Schwerpunkt Religionspädagogik I oder II (12 ECTS)."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20544&token=9e401b463e100bc2c457fc150582cb89c1cea902"
+ ],
+ "sections": [
+  {
+   "id": "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik",
+   "name": "Module 11 3.11 Elective Module 3.11 Religious Pedagogy: Specialization Religious Pedagogy",
+   "nameDe": "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik"
+  },
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "An diesem Tag findet der religionspädagogisch-theologische Studientag statt. Details zu genauen Zeiten, Räumen und Programm werden noch bekanntgegeben.": {
+   "en": "On this day the religious pedagogy and theology study day takes place. Details on the exact times, rooms and program will be announced later.",
+   "tr": "Bu tarihte din pedagojisi ve teoloji çalışma günü yapılıyor. Kesin saatler, odalar ve programla ilgili ayrıntılar daha sonra duyurulacak."
+  },
+  "Die Veranstaltung findet in Raum 1127, Henschelstr. 2, statt.": {
+   "en": "The course takes place in Room 1127, Henschelstr. 2.",
+   "tr": "Ders, Henschelstr. 2, Oda 1127'de yapılmaktadır."
+  },
+  "An diesem Tag findet das Seminar im Raum 1127, Henschelstraße 2, statt.": {
+   "en": "On this day the seminar takes place in Room 1127, Henschelstraße 2.",
+   "tr": "Bu tarihte seminer, Henschelstraße 2 adresindeki 1127 numaralı odada yapılır."
+  },
+  "Tutorium zur Einführung in die Systematische TheologieTutor: Thomas Messerschmidt": {
+   "en": "Tutorial for Introduction to Systematic Theology. Tutor: Thomas Messerschmidt",
+   "tr": "Sistematik Teolojiye Giriş için tutorial. Tutor: Thomas Messerschmidt"
+  },
+  "Blocken des Raums /": {
+   "en": "Blocking of the room /",
+   "tr": "Odanın bloke edilmesi /"
+  },
+  "Seminar findet in der SWET statt (R. 1001, KW 5).": {
+   "en": "The seminar takes place in the SWET (Room 1001, KW 5).",
+   "tr": "Seminer SWET'te yapılmaktadır (Oda 1001, KW 5)."
+  },
+  "Freiwillige offene Sprechstunde (digital: MS Teams) - den Link finden Sie im Moodle-Kurs.": {
+   "en": "Voluntary open office hour (digital: MS Teams). You will find the link in the Moodle course.",
+   "tr": "İsteğe bağlı açık danışma saati (dijital: MS Teams). Bağlantıyı Moodle kursunda bulabilirsiniz."
+  },
+  "Das ist der Termin für die Vorbesprechung in der Anmeldephase. Der Termin findet digital (via MS Teams) statt.": {
+   "en": "This is the appointment for the kick-off meeting during the registration phase. The appointment takes place digitally (via MS Teams).",
+   "tr": "Bu, kayıt dönemindeki ön görüşme randevusudur. Randevu dijital olarak (MS Teams üzerinden) yapılır."
+  },
+  "Freiwillige offene Sprechstunde (digital: MS Teams)": {
+   "en": "Voluntary open office hour (digital: MS Teams)",
+   "tr": "İsteğe bağlı açık danışma saati (dijital: MS Teams)"
+  },
+  "Dieser Blocktermin findet im Bildungsforum St. Michael, Die Freiheit 2, 34117 Kassel, statt.": {
+   "en": "This block appointment takes place at Bildungsforum St. Michael, Die Freiheit 2, 34117 Kassel.",
+   "tr": "Bu blok oturumu Bildungsforum St. Michael, Die Freiheit 2, 34117 Kassel adresinde gerçekleşir."
+  },
+  "Das Seminar findet in der Studienwerkstatt, Henschelstraße 2, Raum 1127, statt.Zusätzlich wird es nach Vereinbarung Treffen mit der Forschungsgruppe zur Erhebung von Daten geben.": {
+   "en": "The seminar takes place in the Studienwerkstatt, Henschelstraße 2, room 1127. In addition, there will be meetings by arrangement with the research group to collect data.",
+   "tr": "Seminer Studienwerkstatt'ta, Henschelstraße 2, 1127 numaralı odada yapılıyor. Ayrıca veri toplamak için araştırma grubuyla anlaşmaya göre buluşmalar olacak."
+  },
+  "Die Veranstaltung findet digital statt.": {
+   "en": "The event takes place digitally.",
+   "tr": "Etkinlik dijital olarak yapılıyor."
+  },
+  "Einführungsveranstaltung": {
+   "en": "Introductory session",
+   "tr": "Giriş oturumu"
+  },
+  "An diesem Termin findet eine Exkursion zum Jüdischen Friedhof Kassel statt.": {
+   "en": "On this date there is an excursion to the Jewish Cemetery in Kassel.",
+   "tr": "Bu tarihte Kassel'deki Yahudi Mezarlığı'na bir gezi yapılmaktadır."
+  },
+  "An diesem Termin findet eine Exkursion mit Stadtführung „Auf den Spuren jüdischen Lebens in Kassel“ sowie ein Besuch der Synagoge statt.": {
+   "en": "On this date there is an excursion with the city tour \"Auf den Spuren jüdischen Lebens in Kassel\" and a visit to the synagogue.",
+   "tr": "Bu tarihte \"Auf den Spuren jüdischen Lebens in Kassel\" şehir turunu içeren bir gezi ve sinagog ziyareti yapılmaktadır."
+  },
+  "Dieser Termin findet im Sara Nussbaum Zentrum, Ludwig-Mond-Straße 127, 34121 Kassel, statt.": {
+   "en": "This session takes place at the Sara Nussbaum Zentrum, Ludwig-Mond-Straße 127, 34121 Kassel.",
+   "tr": "Bu oturum Sara Nussbaum Zentrum, Ludwig-Mond-Straße 127, 34121 Kassel adresinde yapılmaktadır."
+  },
+  "Dies ist der Termin für die Vorbesprechung. Diese findet online statt (Zoom-Link wird über Moodle bekanntgegeben).Die genauen weiteren Terminabsprachen (Präsenz- und Online-Termine sowie der Blocktag vor Ort) erfolgen in dieser ersten Sitzung in Abstimmung mit den Studierenden. Der Termin für den Exkursions- und Workshoptag in Breitenau richtet sich zudem nach den zeitlichen Kapazitäten des externen Partners vor Ort.": {
+   "en": "This is the appointment for the kick-off meeting. It takes place online (the Zoom link will be announced via Moodle). The exact further scheduling (in-person and online appointments as well as the on-site block day) will be agreed in this first session in consultation with the students. The date for the excursion and workshop day in Breitenau also depends on the time availability of the external partner on site.",
+   "tr": "Bu, ön görüşme randevusudur. Ön görüşme online yapılır (Zoom bağlantısı Moodle üzerinden duyurulacaktır). Sonraki tarihlerin kesin olarak kararlaştırılması (yüz yüze ve online randevular ile yerinde blok günü) bu ilk oturumda öğrencilerle birlikte yapılır. Breitenau'daki gezi ve çalıştay gününün tarihi, ayrıca yerindeki dış ortağın zaman olanaklarına bağlıdır."
+  },
+  "ESG, Möncheberstr. 29": {
+   "en": "ESG, Möncheberstr. 29",
+   "tr": "ESG, Möncheberstr. 29"
+  },
+  "Do.-Termine finden online statt.": {
+   "en": "Thursday sessions take place online.",
+   "tr": "Perşembe oturumları çevrimiçi gerçekleşir."
+  },
+  "Seminar findet in der SWET statt (R.1001, KW5).": {
+   "en": "The seminar takes place in the SWET (Room 1001, KW5).",
+   "tr": "Seminer SWET'te yapılmaktadır (Oda 1001, KW5)."
+  },
+  "obligatorisches Vortreffen": {
+   "en": "Mandatory preliminary meeting",
+   "tr": "Zorunlu ön toplantı"
+  },
+  "Die Veranstaltung beginnt am Fr. um 15 Uhr. Sie endet am So. um 13 Uhr.": {
+   "en": "The event begins on Fri. at 15:00. It ends on Sun. at 13:00.",
+   "tr": "Etkinlik Cuma günü saat 15.00'te başlar. Pazar günü saat 13.00'te sona erer."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General",
+  "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik": "Module 11 3.11 Elective Module 3.11 Religious Pedagogy: Specialization Religious Pedagogy"
+ },
+ "modules": [
+  {
+   "id": "m23525",
+   "title": "Modul 1 3.01 Biblische Theologie: Grundlagen der Bibelwissenschaften",
+   "titleEn": "Module 1 3.01 Biblical Theology: Fundamentals of Biblical Studies",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "59682",
+    "57404",
+    "64250",
+    "68944",
+    "68945",
+    "71994",
+    "69190",
+    "70092",
+    "69742",
+    "70508"
+   ]
+  },
+  {
+   "id": "m23514",
+   "title": "Modul 10 3.10 Systematische Theologie: Schwerpunkt Systematische Theologie",
+   "titleEn": "Module 10 3.10 Systematic Theology: Specialization Systematic Theology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69189",
+    "69242"
+   ]
+  },
+  {
+   "id": "m23516",
+   "title": "Modul 11 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik I",
+   "titleEn": "Module 11 3.11 Religious Pedagogy: Specialization Religious Pedagogy I",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik"
+   ],
+   "categories": [
+    "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik"
+   ],
+   "section": "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "64254",
+    "66273",
+    "70092",
+    "70090",
+    "69733",
+    "69217",
+    "74251",
+    "70564",
+    "74099",
+    "69731",
+    "74141"
+   ]
+  },
+  {
+   "id": "m23554",
+   "title": "Modul 11 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik II",
+   "titleEn": "Module 11 3.11 Religious Pedagogy: Specialization Religious Pedagogy II",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik"
+   ],
+   "categories": [
+    "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik"
+   ],
+   "section": "Modul 11 3.11 Wahlmodul 3.11 Religionspädagogik: Schwerpunkt Religionspädagogik",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "59911",
+    "70091",
+    "64254",
+    "70564",
+    "74275"
+   ]
+  },
+  {
+   "id": "m23513",
+   "title": "Modul 2 3.02 Systematische Theologie/Kirchengeschichte: Grundlagen der Systematischen Theologie, der Kirchen- und Dogmengeschichte",
+   "titleEn": "Module 2 3.02 Systematic Theology/Church History: Fundamentals of Systematic Theology, Church History and the History of Dogma",
+   "code": null,
+   "ects": 7,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69240",
+    "57602"
+   ]
+  },
+  {
+   "id": "m23547",
+   "title": "Modul 3 3.03 Religionspädagogik: Grundlagen der Religionspädagogik",
+   "titleEn": "Module 3 3.03 Religious Pedagogy: Fundamentals of Religious Pedagogy",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69214",
+    "57251"
+   ]
+  },
+  {
+   "id": "m23528",
+   "title": "Modul 4 3.04 Biblische Theologie: Texte der biblischen Tradition",
+   "titleEn": "Module 4 3.04 Biblical Theology: Texts of the Biblical Tradition",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "59682",
+    "57404",
+    "64250",
+    "68944",
+    "68945",
+    "71994",
+    "69742",
+    "70508"
+   ]
+  },
+  {
+   "id": "m23518",
+   "title": "Modul 5 3.05 Systematische Theologie: Entfaltung der Systematischen Theologie",
+   "titleEn": "Module 5 3.05 Systematic Theology: Development of Systematic Theology",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69189",
+    "69242",
+    "69244"
+   ]
+  },
+  {
+   "id": "m23544",
+   "title": "Modul 6 3.06 Religionspädagogik: Grundlagen der Unterrichtspraxis",
+   "titleEn": "Module 6 3.06 Religious Pedagogy: Fundamentals of Teaching Practice",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "59269",
+    "70091",
+    "59911",
+    "74275"
+   ]
+  },
+  {
+   "id": "m23534",
+   "title": "Modul 7 3.07 Biblische Theologie: Schwerpunkt Bibelwissenschaften: Themen der biblischen Tradition",
+   "titleEn": "Module 7 3.07 Biblical Theology: Specialization Biblical Studies: Topics of the Biblical Tradition",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "59682",
+    "64250",
+    "57404",
+    "68944",
+    "68945",
+    "71994"
+   ]
+  },
+  {
+   "id": "m23549",
+   "title": "Modul 8 3.08 Systematische Theologie/Kirchen- und Dogmengeschichte: Entfaltung Kirchen- und Dogmengeschichte",
+   "titleEn": "Module 8 3.08 Systematic Theology/Church History and the History of Dogma: Development of Church History and the History of Dogma",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69941",
+    "57603",
+    "69230",
+    "70213",
+    "69223"
+   ]
+  },
+  {
+   "id": "m20488",
+   "title": "Modul 9 3.09 Praxissemester im Fach Evangelische Religion",
+   "titleEn": "Module 9 3.09 Practical Semester in Protestant Religion",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "57251",
+    "74280",
+    "59274",
+    "69214",
+    "69217",
+    "74275"
+   ]
+  },
+  {
+   "id": "t:Orientierungstage der evangelischen Theologie",
+   "title": "Orientierungstage der evangelischen Theologie",
+   "titleEn": "Orientierungstage der evangelischen Theologie",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "74282"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "59682",
+   "title": "Vorlesung Bibelwissenschaften",
+   "number": "ETh.001",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Martin Bauspieß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 6 (Raum 2113) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59682&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Biblical Studies Lecture",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57404",
+   "title": "Seminar Elsner 1",
+   "number": "ETh.003",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Ramona Elsner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-10-31",
+       "endDate": "2026-10-31",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1112, Seminarraum 3 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57404&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Elsner 1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "64250",
+   "title": "Seminar Müllner 1 Texte und Themen des AT",
+   "number": "KTh-0000-S-018",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ilse Müllner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-04",
+       "cancelled": [
+        "2026-10-29",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-02-11"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ilse Müllner"
+       ],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "15:00",
+       "end": "20:00",
+       "startDate": "2026-12-15",
+       "endDate": "2026-12-15",
+       "cancelled": [],
+       "note": "An diesem Tag findet der religionspädagogisch-theologische Studientag statt. Details zu genauen Zeiten, Räumen und Programm werden noch bekanntgegeben.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64250&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Müllner 1 Texts and Topics of the Old Testament",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68944",
+   "title": "Seminar Herr Bauspieß",
+   "number": "ETh.002",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Martin Bauspieß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Martin Bauspieß"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68944&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Mr. Bauspieß",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68945",
+   "title": "Seminar II Herr Bauspieß",
+   "number": "ETh.005",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Martin Bauspieß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Martin Bauspieß"
+       ],
+       "room": "Raum 0404 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68945&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar II Mr. Bauspieß",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71994",
+   "title": "Übersetzungsübung: Ausgewählte Texte aus dem Neuen Testament",
+   "number": "ETh.004",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Martin Bauspieß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Veranstaltung findet in Raum 1127, Henschelstr. 2, statt.",
+       "instructors": [
+        "Prof. Dr. Martin Bauspieß"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71994&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23229",
+    "key": true
+   },
+   "titleEn": "Translation Exercise: Selected Texts from the New Testament",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69190",
+   "title": "Einführung in die Geschichte des biblischen Israel und des frühen Christentums",
+   "number": "KTh-0000-V-001",
+   "type": "Einführungsvorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ilse Müllner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ilse Müllner"
+       ],
+       "room": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69190&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23182",
+    "key": true
+   },
+   "titleEn": "Introduction to the History of Biblical Israel and Early Christianity",
+   "typeEn": "Introductory Lecture"
+  },
+  {
+   "id": "70092",
+   "title": "Blockveranstaltung Dennis Wickersheim",
+   "number": "ETh.007",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Dennis Wickersheim",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dennis Wickersheim"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 7,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-25",
+       "endDate": "2026-10-25",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dennis Wickersheim"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dennis Wickersheim"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70092&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Block Course Dennis Wickersheim",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "69742",
+   "title": "Eine Bibel - verschiedene Zugänge und Leseweisen",
+   "number": "KTh-0000-S-015",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ilse Müllner, Theresa Michel-Heldt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Theresa Michel-Heldt"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "An diesem Tag findet das Seminar im Raum 1127, Henschelstraße 2, statt.",
+       "instructors": [
+        "Theresa Michel-Heldt"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "16:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Theresa Michel-Heldt"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69742&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "17240",
+    "key": true
+   },
+   "titleEn": "One Bible - Different Approaches and Ways of Reading",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70508",
+   "title": "Vorlesung / Seminar zu Nachhaltigkeit und Gerechtigkeit - frei wählbar",
+   "number": "KTh-0000-S-037",
+   "type": "Vorlesung / Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ilse Müllner, Lara Mayer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lara Mayer"
+       ],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lara Mayer"
+       ],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lara Mayer"
+       ],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lara Mayer"
+       ],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70508&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Lecture / Seminar on Sustainability and Justice - Freely Selectable",
+   "typeEn": "Lecture / Seminar"
+  },
+  {
+   "id": "69240",
+   "title": "Einführung in die Systematische Theologie",
+   "number": "ETh.020",
+   "type": "Einführungsseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Margit Ernst-Habib",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Margit Ernst-Habib"
+       ],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium zur Einführung in die Systematische TheologieTutor: Thomas Messerschmidt",
+       "instructors": [],
+       "room": "Raum 0401 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69240&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24357",
+    "key": true
+   },
+   "titleEn": "Introduction to Systematic Theology",
+   "typeEn": "Introductory Seminar"
+  },
+  {
+   "id": "57602",
+   "title": "Einführung Kirchengeschichte",
+   "number": "ETh.017",
+   "type": "Einführungsseminar",
+   "language": "deutsch",
+   "responsible": "Dr. Susanne Schuster",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Susanne Schuster"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57602&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23557",
+    "key": true
+   },
+   "titleEn": "Introduction to Church History",
+   "typeEn": "Introductory Seminar"
+  },
+  {
+   "id": "69214",
+   "title": "Seminar Freudenberger-Lötz",
+   "number": "ETh.015",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Petra Freudenberger-Lötz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Petra Freudenberger-Lötz"
+       ],
+       "room": "Raum 1140 (Schreibbretter) (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69214&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Freudenberger-Lötz",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57251",
+   "title": "Lernen an außergewöhnlichen Biografien",
+   "number": "ETh.028",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Guillaume Dondainas",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Guillaume Dondainas"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57251&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Learning from Extraordinary Biographies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69189",
+   "title": "Seminar evangelische Ethik",
+   "number": "ETh.018",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Margit Ernst-Habib",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Margit Ernst-Habib"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69189&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24508",
+    "key": true
+   },
+   "titleEn": "Seminar Protestant Ethics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69242",
+   "title": "Seminar 2 Systematik",
+   "number": "ETh.021",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Margit Ernst-Habib",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Margit Ernst-Habib"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69242&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar 2 Systematic Theology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69244",
+   "title": "Vorlesung Systematische Theologie",
+   "number": "ETh.013",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Margit Ernst-Habib",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Margit Ernst-Habib"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69244&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24357",
+    "key": true
+   },
+   "titleEn": "Lecture Systematic Theology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "59269",
+   "title": "RU planen und gestalten",
+   "number": "ETh.022",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Florian Schmitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Florian Schmitz"
+       ],
+       "room": "Saal (Möncheberg 29, ESG)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59269&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Planning and Designing RU",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70091",
+   "title": "Blockseminar Johanna Kallies-Bothmann",
+   "number": "ETh.010",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Dr. Johanna Kallies-Bothmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2026-10-17",
+       "endDate": "2026-10-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Johanna Kallies-Bothmann"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Johanna Kallies-Bothmann"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2026-11-21",
+       "endDate": "2026-11-21",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Johanna Kallies-Bothmann"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70091&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Block Seminar Johanna Kallies-Bothmann",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "59911",
+   "title": "Seminar Religionspädagogik Krasenbrink",
+   "number": "KTh-0000-S-011",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Tina Krasenbrink",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Tina Krasenbrink"
+       ],
+       "room": "Raum 1215 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59911&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar on Religious Pedagogy Krasenbrink",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74275",
+   "title": "Seminar PäMi FS etc",
+   "number": "ETh.023",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Nina Jäger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "08:00",
+       "end": "20:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-03-31",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31",
+        "2027-01-01",
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-06",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-03-26",
+        "2027-03-29"
+       ],
+       "note": "Blocken des Raums /",
+       "instructors": [],
+       "room": "Raum 1001 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-12-11",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "Seminar findet in der SWET statt (R. 1001, KW 5).",
+       "instructors": [
+        "Nina Jäger"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "Seminar findet in der SWET statt (R. 1001, KW 5).",
+       "instructors": [
+        "Nina Jäger"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "Seminar findet in der SWET statt (R. 1001, KW 5).",
+       "instructors": [
+        "Nina Jäger"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "Seminar findet in der SWET statt (R. 1001, KW 5).",
+       "instructors": [
+        "Nina Jäger"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74275&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar PäMi FS etc",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69941",
+   "title": "Kirchengeschichte Prof. Dr. Hein",
+   "number": null,
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Martin Hein",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-11-06",
+       "endDate": "2026-11-06",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69941&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Church History Prof. Dr. Hein",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57603",
+   "title": "Kirchengeschichte I",
+   "number": "ETh.016",
+   "type": "Vorlesung / Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Susanne Schuster",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Susanne Schuster"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57603&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Church History I",
+   "typeEn": "Lecture / Seminar"
+  },
+  {
+   "id": "69230",
+   "title": "Kirchengeschichte Seminar/Werkstatt III",
+   "number": "ETh.032",
+   "type": "Werkstatt-Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Susanne Schuster",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Susanne Schuster"
+       ],
+       "room": "Raum 1219 (Nora-Platiel 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69230&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23560",
+    "key": true
+   },
+   "titleEn": "Church History Seminar/Workshop III",
+   "typeEn": "Workshop Seminar"
+  },
+  {
+   "id": "70213",
+   "title": "Seminar Historische Theologie - Ausgewählte Themen der Kirchen- und Theologiegeschichte",
+   "number": "KTh-0000-S-046",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Mirja Kutzer, Ulrich Hausmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-09-10",
+       "endDate": "2026-09-10",
+       "cancelled": [],
+       "note": "Freiwillige offene Sprechstunde (digital: MS Teams) - den Link finden Sie im Moodle-Kurs.",
+       "instructors": [
+        "Ulrich Hausmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-09-16",
+       "endDate": "2026-09-16",
+       "cancelled": [],
+       "note": "Das ist der Termin für die Vorbesprechung in der Anmeldephase. Der Termin findet digital (via MS Teams) statt.",
+       "instructors": [
+        "Ulrich Hausmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-10-17",
+       "endDate": "2026-10-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ulrich Hausmann"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-11-07",
+       "endDate": "2026-11-07",
+       "cancelled": [],
+       "note": "Freiwillige offene Sprechstunde (digital: MS Teams)",
+       "instructors": [
+        "Ulrich Hausmann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "Dieser Blocktermin findet im Bildungsforum St. Michael, Die Freiheit 2, 34117 Kassel, statt.",
+       "instructors": [
+        "Ulrich Hausmann"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70213&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Historical Theology - Selected Topics in Church History and the History of Theology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69223",
+   "title": "Kirchengeschichte Seminar II",
+   "number": "ETh.031",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Susanne Schuster",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Susanne Schuster"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69223&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Church History Seminar II",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "64254",
+   "title": "Seminar Religionspädagogik Reese-Schnitker 1",
+   "number": "KTh-0000-S-009",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Annegret Reese-Schnitker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-01",
+       "cancelled": [
+        "2026-12-07",
+        "2026-12-21",
+        "2027-01-04"
+       ],
+       "note": "Das Seminar findet in der Studienwerkstatt, Henschelstraße 2, Raum 1127, statt.Zusätzlich wird es nach Vereinbarung Treffen mit der Forschungsgruppe zur Erhebung von Daten geben.",
+       "instructors": [
+        "Prof. Dr. Annegret Reese-Schnitker"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64254&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar on Religious Pedagogy Reese-Schnitker 1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "66273",
+   "title": "Glaube und Behinderung",
+   "number": "ETh.030",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Guillaume Dondainas",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Guillaume Dondainas"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66273&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24373",
+    "key": false
+   },
+   "titleEn": "Faith and Disability",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70090",
+   "title": "Blockseminar Alexander Lohner",
+   "number": "ETh. 008",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Dr. Alexander Lohner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "20:00",
+       "startDate": "2026-11-07",
+       "endDate": "2026-11-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 7,
+       "start": "09:00",
+       "end": "20:00",
+       "startDate": "2026-11-08",
+       "endDate": "2026-11-08",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70090&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Block Seminar Alexander Lohner",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "69733",
+   "title": "Seminar II (Interreligiöses Lernen) Gaida",
+   "number": "ETh.025",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Katharina Gaida",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Katharina Gaida"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69733&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar II (Interreligious Learning) Gaida",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69217",
+   "title": "Freudenberger-Lötz Seminar",
+   "number": "ETh.014",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Petra Freudenberger-Lötz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Petra Freudenberger-Lötz"
+       ],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69217&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Freudenberger-Lötz Seminar",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74251",
+   "title": "Inklusion (digitales Seminar)",
+   "number": "ETh.029",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Guillaume Dondainas",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Veranstaltung findet digital statt.",
+       "instructors": [
+        "Guillaume Dondainas"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74251&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24371",
+    "key": false
+   },
+   "titleEn": "Inclusion (Digital Seminar)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70564",
+   "title": "frei wählbare Veranstaltung zur Ökumene / interreligiösen Kompetenz",
+   "number": "KTh-0000-S-036",
+   "type": "Vorlesung / Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Mirja Kutzer, Prof. Dr. Ilse Müllner, Prof. Dr. Annegret Reese-Schnitker, Elena Padva",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2027-01-18",
+       "endDate": "2027-01-18",
+       "cancelled": [],
+       "note": "Einführungsveranstaltung",
+       "instructors": [
+        "Elena Padva"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2027-01-20",
+       "endDate": "2027-01-20",
+       "cancelled": [],
+       "note": "An diesem Termin findet eine Exkursion zum Jüdischen Friedhof Kassel statt.",
+       "instructors": [
+        "Elena Padva"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "15:00",
+       "end": "19:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "An diesem Termin findet eine Exkursion mit Stadtführung „Auf den Spuren jüdischen Lebens in Kassel“ sowie ein Besuch der Synagoge statt.",
+       "instructors": [
+        "Elena Padva"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-30",
+       "cancelled": [],
+       "note": "Dieser Termin findet im Sara Nussbaum Zentrum, Ludwig-Mond-Straße 127, 34121 Kassel, statt.",
+       "instructors": [
+        "Elena Padva"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 7,
+       "start": "09:00",
+       "end": "15:00",
+       "startDate": "2027-01-31",
+       "endDate": "2027-01-31",
+       "cancelled": [],
+       "note": "Dieser Termin findet im Sara Nussbaum Zentrum, Ludwig-Mond-Straße 127, 34121 Kassel, statt.",
+       "instructors": [
+        "Elena Padva"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70564&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Freely Elective Course on Ecumenism / Interreligious Competence",
+   "typeEn": "Lecture / Seminar"
+  },
+  {
+   "id": "74099",
+   "title": "Seminar interreligiöses Lernen_Antisemitismusprävention (im RU)",
+   "number": "KTh-0000-S-047",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Annegret Reese-Schnitker, Dr. Marcel Franzmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-16",
+       "endDate": "2026-10-16",
+       "cancelled": [],
+       "note": "Dies ist der Termin für die Vorbesprechung. Diese findet online statt (Zoom-Link wird über Moodle bekanntgegeben).Die genauen weiteren Terminabsprachen (Präsenz- und Online-Termine sowie der Blocktag vor Ort) erfolgen in dieser ersten Sitzung in Abstimmung mit den Studierenden. Der Termin für den Exkursions- und Workshoptag in Breitenau richtet sich zudem nach den zeitlichen Kapazitäten des externen Partners vor Ort.",
+       "instructors": [
+        "Dr. Marcel Franzmann"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74099&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Interreligious Learning_Antisemitism Prevention (in Religious Instruction)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69731",
+   "title": "Seminar I (Diklusion) Gaida",
+   "number": "ETh.024",
+   "type": "Blockveranstaltung",
+   "language": "deutsch",
+   "responsible": "Dr. Katharina Gaida",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katharina Gaida"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katharina Gaida"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-02-12",
+       "endDate": "2027-02-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katharina Gaida"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-02-13",
+       "endDate": "2027-02-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Katharina Gaida"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69731&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "18635",
+    "key": true
+   },
+   "titleEn": "Seminar I (Diklusion) Gaida",
+   "typeEn": "Block Course"
+  },
+  {
+   "id": "74141",
+   "title": "Atem und Stille – Forschungswerkstatt zum kontemplativen Gebet mit Kindern und Jugendlichen",
+   "number": "ETh.006",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Petra Freudenberger-Lötz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "09:00",
+       "end": "17:00",
+       "startDate": "2026-10-07",
+       "endDate": "2026-10-09",
+       "cancelled": [],
+       "note": "ESG, Möncheberstr. 29",
+       "instructors": [
+        "Prof. Dr. Petra Freudenberger-Lötz"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "20:30",
+       "end": "21:30",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Do.-Termine finden online statt.",
+       "instructors": [
+        "Prof. Dr. Petra Freudenberger-Lötz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74141&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24580",
+    "key": false
+   },
+   "titleEn": "Breath and Silence – Research Workshop on Contemplative Prayer with Children and Adolescents",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74280",
+   "title": "Begleitseminar zu Praxissemester (L2 und L5)",
+   "number": "ETh.027",
+   "type": "Begleitseminar",
+   "language": null,
+   "responsible": "Nina Jäger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Seminar findet in der SWET statt (R.1001, KW5).",
+       "instructors": [
+        "Nina Jäger"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74280&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Accompanying Seminar for the Practical Semester (L2 and L5)",
+   "typeEn": "Accompanying Seminar"
+  },
+  {
+   "id": "59274",
+   "title": "Begleitseminar zu den Schulpraktischen Studien (SPS II)",
+   "number": "ETh.026",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Florian Schmitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-09-15",
+       "endDate": "2026-09-15",
+       "cancelled": [],
+       "note": "obligatorisches Vortreffen",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Florian Schmitz"
+       ],
+       "room": "Saal (Möncheberg 29, ESG)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59274&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2462",
+    "key": true
+   },
+   "titleEn": "Accompanying Seminar for the School Practical Studies (SPS II)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "74282",
+   "title": "Orientierungstage der evangelischen Theologie",
+   "number": "ETh.040",
+   "type": "Orientierungsveranstaltung",
+   "language": "deutsch",
+   "responsible": "Dr. Florian Schmitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "15:00",
+       "end": "20:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-11-01",
+       "cancelled": [],
+       "note": "Die Veranstaltung beginnt am Fr. um 15 Uhr. Sie endet am So. um 13 Uhr.",
+       "instructors": [
+        "Dr. Florian Schmitz"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "15:00",
+       "end": "20:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Florian Schmitz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74282&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Orientierungstage der evangelischen Theologie",
+   "typeEn": "Orientation Session"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

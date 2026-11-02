@@ -1,0 +1,68 @@
+{
+  "slug": "msc-germanistik-mit-binationaler-option",
+  "po": "Master Germanistik mit binationaler Option",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=11348&token=a4ef4435fc0a5edec2c729db1524012c9a821664"
+  ],
+  "categories": [
+    {
+      "id": "modul-5",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Theorien und Methoden der Sprachwissenschaft II"
+        },
+        {
+          "type": "module",
+          "id": "Theorien und Methoden der Älteren / Neueren Literaturwissenschaft II"
+        }
+      ],
+      "name": "Module 5: theories and methods II",
+      "nameDe": "Modul 5a oder 5b",
+      "short": "Modul 5",
+      "note": "Linguistics (5a) or literature (5b), 12 ECTS"
+    },
+    {
+      "id": "modul-6",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Aktuelle Forschungsfragen der Sprachwissenschaft II"
+        },
+        {
+          "type": "module",
+          "id": "Aktuelle Forschungsfragen der Älteren / Neueren Literaturwissenschaft II"
+        }
+      ],
+      "name": "Module 6: current research questions II",
+      "nameDe": "Modul 6a oder 6b",
+      "short": "Modul 6",
+      "note": "Linguistics (6a) or literature (6b), 12 ECTS"
+    },
+    {
+      "id": "modul-7-8",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Forschungsorientierung Sprachwissenschaft"
+        },
+        {
+          "type": "module",
+          "id": "Forschungsorientierung Ältere / Neuere Literaturwissenschaft / Medienwissenschaft"
+        }
+      ],
+      "name": "Module 7 or practice module 8",
+      "nameDe": "Modul 7a/7b oder Modul 8 (Praxismodul)",
+      "short": "Modul 7/8",
+      "note": "Research orientation (7a or 7b) or the practice module 8 (not offered in this semester's data), 12 ECTS"
+    }
+  ],
+  "pickOne": [],
+  "summary": "PO of 08.07.2020, section 8 (without semester abroad): compulsory modules 1 to 4, one of 5a/5b, one of 6a/6b, one of 7a/7b or the practice module 8, key competencies and the thesis; section 9 regulates the double degree with Szeged."
+}

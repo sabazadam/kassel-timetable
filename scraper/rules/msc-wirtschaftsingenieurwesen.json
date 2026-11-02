@@ -1,0 +1,144 @@
+{
+  "summary": "PO 2020 section 7: 30 ECTS from one economics specialization (from Business Studies, Nachhaltiges Wirtschaften or Economic Behaviour and Governance), 24 ECTS integrative area (18 ECTS Wahlpflicht Integration from listed FB 15/FB 07 fields plus 6 ECTS key competencies), Höhere Mathematik IV and a research methods elective (12 ECTS), 30 ECTS from one technical specialization (civil, electrical or mechanical engineering) with an approved study plan, and the 24 ECTS thesis. Some specializations offer fewer than 30 ECTS this semester, and Baubetrieb Ergänzung modules are in a separate eCampus area that is not its own specialization.",
+  "categories": [
+    {
+      "id": "Schlüsselqualifikationen",
+      "group": "module",
+      "name": "Key competencies",
+      "nameDe": "Schlüsselkompetenzen",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 6,
+      "note": "MI2 is 6 ECTS. Counted work is additive key competencies and student engagement under the university framework, language courses, and master's courses without an economics or technical focus, including study abroad, provided they do not repeat another module.",
+      "compulsory": true
+    },
+    {
+      "id": "Wahlpflicht Forschungsmethoden",
+      "group": "module",
+      "name": "Research methods elective",
+      "nameDe": "Wahlpflicht Forschungsmethoden",
+      "short": "Research methods",
+      "count": 1,
+      "ects": 6,
+      "note": "MM2 is 6 ECTS from the research-methods electives in the current M.Sc. Business Studies examination regulations."
+    },
+    {
+      "id": "econ-spec",
+      "group": "oneOf",
+      "name": "One economics specialization",
+      "nameDe": "Wirtschaftswissenschaftliche Vertiefungsrichtung",
+      "short": "Econ. specialization",
+      "count": 1,
+      "ects": 30,
+      "note": "Take 30 ECTS from one specialization: FACT, Management und Marketing, Digital Business, Sustainability Management, or Economic Behaviour and Governance. The first passed exam that counts toward a track fixes that choice; FACT and Sustainability Management have no modules this semester, and Digital Business and Management und Marketing offer only 24 ECTS.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftliche Vertiefungsrichtung > Digital Business"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftliche Vertiefungsrichtung > Economic Behaviour and Governance"
+        },
+        {
+          "type": "area",
+          "id": "Wirtschaftswissenschaftliche Vertiefungsrichtung > Management und Marketing"
+        }
+      ]
+    },
+    {
+      "id": "tech-spec",
+      "group": "oneOf",
+      "name": "One technical specialization",
+      "nameDe": "Technische Vertiefungsrichtung",
+      "short": "Tech. specialization",
+      "count": 1,
+      "ects": 30,
+      "note": "Take 30 ECTS from one specialization in civil, electrical, or mechanical engineering; an approved study plan is required, module sizes vary, and Verkehrswegebau und Geotechnik and Energie-Umwelt-Technik are the eCampus names of Straßenbau and Energietechnik. Baubetrieb und Baumanagement offers only 18 ECTS on the Vertiefung path this semester, and the Ergänzung area (Bauabfälle und Deponien, Arbeitssicherheit im Baubetrieb, Spezialfragen der Geotechnik 1, Konstruktiver Verkehrswegebau) cannot be added to that same option because each option has one area path; whether those exams count is set by the Bauingenieurwesen PO, which is not in the source.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Bauingenieurwesen > Vertiefung Baubetrieb und Baumanagement"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Bauingenieurwesen > Vertiefung Konstruktiver Ingenieurbau"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Bauingenieurwesen > Vertiefung Numerische Methoden der Tragwerksanalyse"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Bauingenieurwesen > Vertiefung Verkehr"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Bauingenieurwesen > Vertiefung Verkehrswegebau und Geotechnik"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Bauingenieurwesen > Vertiefung Wasser"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Bauingenieurwesen > Vertiefung Werkstoffe"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Elektrotechnik > Schwerpunktmodule Elektrische Energiesysteme"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Elektrotechnik > Schwerpunktmodule Elektronik und Photonik"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Elektrotechnik > Schwerpunktmodule Informations- und Kommunikationstechnik"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Elektrotechnik > Schwerpunktmodule Mess-, Steuerungs- und Regelungstechnik"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Maschinenbau > Schwerpunkt Energie-Umwelt-Technik"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Maschinenbau > Studienschwerpunkt Produktionstechnik und Arbeitswissenschaft"
+        },
+        {
+          "type": "area",
+          "id": "Technischer Studienbereich > Vertiefungsrichtung Maschinenbau > Studienschwerpunkt Werkstoffe und Konstruktion"
+        }
+      ]
+    },
+    {
+      "id": "integration",
+      "group": "anyOf",
+      "name": "Integration electives",
+      "nameDe": "Wahlpflicht Integration (MI1)",
+      "short": "Integration",
+      "count": 1,
+      "ects": 18,
+      "note": "Take 18 ECTS in MI1 from FB 15 (Projektmanagement, Qualitäts- und Prozessmanagement, Arbeitswissenschaften, Mensch-Maschine-Systemtechnik) and/or FB 07 (Technologie- und Innovationsmanagement sowie Entrepreneurship, Betriebswirtschaftliches Technologiemanagement, Management der digitalen Transformation).",
+      "options": [
+        {
+          "type": "area",
+          "id": "Integrativer Studienbereich > Integrativer Studienbereich FB07"
+        },
+        {
+          "type": "area",
+          "id": "Integrativer Studienbereich > Integrativer Studienbereich FB15"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-wirtschaftsingenieurwesen",
+  "po": "Master Wirtschaftsingenieurwesen (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=11352&token=9afc91784029d79ac5734e883cecfa0fe1e10d50"
+  ]
+}

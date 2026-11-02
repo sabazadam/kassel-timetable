@@ -1,0 +1,5503 @@
+{
+ "generatedAt": "2026-11-02T13:04:33.120Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Mathematics (2020)",
+ "programEn": "Master Mathematics (2020)",
+ "slug": "msc-mathematics",
+ "degree": "master",
+ "themes": false,
+ "categories": [
+  {
+   "id": "wp-math",
+   "group": "anyOf",
+   "count": 6,
+   "options": [
+    {
+     "type": "area",
+     "id": "Wahlpflichtbereich > WP Algebra"
+    },
+    {
+     "type": "area",
+     "id": "Wahlpflichtbereich > WP Analysis"
+    },
+    {
+     "type": "area",
+     "id": "Wahlpflichtbereich > WP Diskrete Mathematik"
+    },
+    {
+     "type": "area",
+     "id": "Wahlpflichtbereich > WP Numerik"
+    },
+    {
+     "type": "area",
+     "id": "Wahlpflichtbereich > WP Stochastik"
+    }
+   ],
+   "name": "Six mathematics electives",
+   "nameDe": "Sechs Wahlpflichtmodule",
+   "short": "Math electives",
+   "note": "Six modules, 60 ECTS, from Analysis, Algebra, Diskrete Mathematik, Numerik and Stochastik. At least three of the five areas, and 10 to 30 ECTS in each area used; modules already taken in the Bachelor cannot be chosen. The area spread is not checked.",
+   "nameTr": "Altı matematik seçmelisi",
+   "noteTr": "Analysis, Algebra, Diskrete Mathematik, Numerik ve Stochastik alanlarından altı modül, 60 ECTS. Beş alandan en az üçü kullanılır ve kullanılan her alanda 10 ile 30 ECTS yer alır; Bachelor'da daha önce alınmış modüller seçilemez. Alan dağılımı denetlenmez.",
+   "noteDe": "Sechs Module mit 60 ECTS aus Analysis, Algebra, Diskrete Mathematik, Numerik und Stochastik. Mindestens drei der fünf Bereiche und in jedem genutzten Bereich 10 bis 30 ECTS; Module, die bereits im Bachelor belegt wurden, können nicht gewählt werden. Die Verteilung auf die Bereiche wird nicht geprüft."
+  },
+  {
+   "id": "application-spec",
+   "group": "oneOf",
+   "count": 1,
+   "ects": 18,
+   "options": [
+    {
+     "type": "area",
+     "id": "Anwendungsschwerpunkt > ASP 1 Informatik"
+    },
+    {
+     "type": "area",
+     "id": "Anwendungsschwerpunkt > ASP 2 Physik"
+    },
+    {
+     "type": "area",
+     "id": "Anwendungsschwerpunkt > ASP 4 Nanostrukturwissenschaften"
+    }
+   ],
+   "name": "One application specialization",
+   "nameDe": "Anwendungsschwerpunkt (eine Wahl)",
+   "short": "Application spec.",
+   "note": "One specialization of 18 ECTS (PO section 3(2) and section 8(1)c). Study plans usually use three modules; in Nanostrukturwissenschaften, N01 (12 ECTS) plus one 6-ECTS module also reaches 18. ASP 3 Wirtschaftswissenschaften is in the PO but has no modules this semester.",
+   "nameTr": "Bir uygulama uzmanlık alanı",
+   "noteTr": "18 ECTS'lik bir uzmanlık alanı (PO madde 3(2) ve madde 8(1)c). Çalışma planlarında genellikle üç modül yer alır; Nanostrukturwissenschaften alanında N01 (12 ECTS) ile bir 6 ECTS'lik modül de 18 ECTS'e ulaşır. ASP 3 Wirtschaftswissenschaften PO'da vardır, ancak bu dönem hiç modülü yoktur.",
+   "noteDe": "Ein Schwerpunkt mit 18 ECTS (PO § 3 (2) und § 8 (1) c). Studienpläne sehen in der Regel drei Module vor; in den Nanostrukturwissenschaften erreichen auch N01 (12 ECTS) plus ein Modul mit 6 ECTS die 18 ECTS. ASP 3 Wirtschaftswissenschaften steht in der PO, hat in diesem Semester jedoch keine Module."
+  }
+ ],
+ "rulesSummary": {
+  "en": "PO 2020 section 8: compulsory advanced seminar (6 ECTS) and 6 ECTS additive key competencies, six 10-ECTS electives covering at least three of five areas, one application specialization of 18 ECTS, and the thesis.",
+  "tr": "PO 2020, madde 8: zorunlu ileri seminer (6 ECTS) ve 6 ECTS ek anahtar yetkinlik, beş alandan en az üçünü kapsayan altı adet 10 ECTS'lik seçmeli, 18 ECTS'lik bir uygulama uzmanlık alanı ve tez.",
+  "de": "PO 2020, § 8: verpflichtendes Aufbauseminar (6 ECTS) und 6 ECTS additive Schlüsselkompetenzen, sechs Wahlmodule zu je 10 ECTS aus mindestens drei von fünf Bereichen, ein Anwendungsschwerpunkt mit 18 ECTS und die Thesis."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8911&token=ad13788362a88c8be63f3def05519ac924088abd"
+ ],
+ "sections": [
+  {
+   "id": "Pflichtmodule",
+   "name": "Compulsory Modules",
+   "nameDe": "Pflichtmodule"
+  },
+  {
+   "id": "Wahlpflichtbereich",
+   "name": "Elective Area",
+   "nameDe": "Wahlpflichtbereich"
+  },
+  {
+   "id": "Anwendungsschwerpunkt",
+   "name": "Application Focus Area",
+   "nameDe": "Anwendungsschwerpunkt"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Raum nach vorheriger Vereinbarung": {
+   "en": "Room by prior arrangement",
+   "tr": "Oda önceden anlaşmaya göre"
+  },
+  "Durch Wechsel der Lehrperson können die Zeiten der Vorlesungen sich bis zum Semesterbeginn noch verändern.": {
+   "en": "Due to a change of instructor, the lecture times may still change until the start of the semester.",
+   "tr": "Öğretim elemanının değişmesi nedeniyle ders saatleri dönem başlangıcına kadar değişebilir."
+  },
+  "Raum 1304 im Fachgebiet": {
+   "en": "Room 1304 in the department",
+   "tr": "Bölümde oda 1304"
+  },
+  "Der Termin wird in der ersten Vorlesung \"Begriffliche Datenanalyse\" bekannt gegeben.": {
+   "en": "The date is announced in the first lecture of \"Conceptual Data Analysis\".",
+   "tr": "Tarih, \"Conceptual Data Analysis\" dersinin ilk oturumunda duyurulur."
+  },
+  "Die Studierenden müssen sich bitte im entsprechenden Moodle-Kurs eintragen. Teilnehmerzahl kann begrenzt werden.": {
+   "en": "Students must please register in the corresponding Moodle course. The number of participants may be limited.",
+   "tr": "Öğrencilerin lütfen ilgili Moodle kursuna kayıt olmaları gerekmektedir. Katılımcı sayısı sınırlandırılabilir."
+  },
+  "1. Gruppe, Raum 0303c im Fachgebiet": {
+   "en": "1st group, Room 0303c in the department",
+   "tr": "1. grup, anabilim dalında Oda 0303c"
+  },
+  "2. Gruppe, Raum 0303c im Fachgebiet": {
+   "en": "2nd group, Room 0303c in the department",
+   "tr": "2. grup, anabilim dalında Oda 0303c"
+  },
+  "Raum im Fachgebiet": {
+   "en": "Room in the department.",
+   "tr": "Bölümdeki bir oda."
+  },
+  "Infos finden Sie im Moodle-Kurs.": {
+   "en": "Information is in the Moodle course.",
+   "tr": "Bilgiler Moodle kursunda."
+  },
+  "No lecture on 18.12.2026.Time was shifted to 14:15 to avoid overlap with nanophysics.Room is IBC3112": {
+   "en": "No lecture on 18.12.2026.Time was shifted to 14:15 to avoid overlap with nanophysics.Room is IBC3112",
+   "tr": "18.12.2026 tarihinde ders yoktur. Nanofizik ile çakışmayı önlemek için saat 14:15'e alınmıştır. Oda IBC3112'dir."
+  },
+  "Further appointments by arrangement": {
+   "en": "Further appointments by arrangement",
+   "tr": "Diğer randevular anlaşmaya göredir."
+  },
+  "Übung im CEC": {
+   "en": "Exercise in the CEC",
+   "tr": "Alıştırma CEC'de"
+  },
+  "Findet in der Mönchebergstraße 7, Raum 3716 statt.": {
+   "en": "Takes place at Mönchebergstraße 7, room 3716.",
+   "tr": "Mönchebergstraße 7, 3716 numaralı odada yapılır."
+  },
+  "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​​https://moodle.uni-kassel.de/course/view.php?id=1070": {
+   "en": "The introductory event for Bachelor and Master students in the specialization Energie-Umwelt-Technik takes place on Monday, 19.10.2026 in Room 1120 in KW3. Registration for the Moodle course by e-mail to ttk-lehre@uni-kassel.de https://moodle.uni-kassel.de/course/view.php?id=1070",
+   "tr": "Energie-Umwelt-Technik uzmanlık alanındaki lisans ve yüksek lisans öğrencileri için tanıtım etkinliği 19.10.2026 Pazartesi günü KW3'te Oda 1120'de gerçekleşir. Moodle kursuna kayıt, ttk-lehre@uni-kassel.de adresine e-posta ile yapılır. https://moodle.uni-kassel.de/course/view.php?id=1070"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Pflichtmodule": "Compulsory Modules",
+  "Wahlpflichtbereich": "Elective Area",
+  "WP Analysis": "Compulsory Elective Analysis",
+  "WP Algebra": "Compulsory Elective Algebra",
+  "WP Numerik": "Compulsory Elective Numerics",
+  "WP Stochastik": "Compulsory Elective Stochastics",
+  "WP Diskrete Mathematik": "Compulsory Elective Discrete Mathematics",
+  "Anwendungsschwerpunkt": "Application Focus Area",
+  "ASP 1 Informatik": "ASP 1 Computer Science",
+  "ASP 2 Physik": "ASP 2 Physics",
+  "ASP 4 Nanostrukturwissenschaften": "ASP 4 Nanostructure Sciences"
+ },
+ "modules": [
+  {
+   "id": "m13329",
+   "title": "Angewandte Funktionalanalysis",
+   "titleEn": "Applied Functional Analysis",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Analysis"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "54144",
+    "70489"
+   ]
+  },
+  {
+   "id": "m13313",
+   "title": "Applied Physical Chemistry",
+   "titleEn": "Applied Physical Chemistry",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 4 Nanostrukturwissenschaften"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "54514",
+    "54515"
+   ]
+  },
+  {
+   "id": "m13366",
+   "title": "Angewandte Statistik",
+   "titleEn": "Applied Statistics",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Stochastik"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "54160",
+    "54161"
+   ]
+  },
+  {
+   "id": "m13375",
+   "title": "Variationsrechnung und Ihre Anwendungen I",
+   "titleEn": "Calculus of Variations and Its Applications I",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Analysis"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "71933",
+    "71934"
+   ]
+  },
+  {
+   "id": "m13415",
+   "title": "Schaltkreiskomplexität",
+   "titleEn": "Circuit Complexity",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "69495",
+    "69496"
+   ]
+  },
+  {
+   "id": "m9154",
+   "title": "Communication Technologies II",
+   "titleEn": "Communication Technologies II",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "70067",
+    "70068"
+   ]
+  },
+  {
+   "id": "m13247",
+   "title": "Computeralgebra I (Algebra)",
+   "titleEn": "Computer Algebra I (Algebra)",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Algebra"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "71013",
+    "71015"
+   ]
+  },
+  {
+   "id": "m13410",
+   "title": "Regelungstechnik: Zustandsraummethoden und Mehrgrößensysteme",
+   "titleEn": "Control Engineering: State-Space Methods and Multivariable Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68813"
+   ]
+  },
+  {
+   "id": "m13081",
+   "title": "Gekoppelte Mehrfeldprobleme und multifunktionale Werkstoffe",
+   "titleEn": "Coupled Multi-Field Problems and Multifunctional Materials",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68934"
+   ]
+  },
+  {
+   "id": "m13340",
+   "title": "Entwurf und Analyse effizienter Algorithmen",
+   "titleEn": "Design and Analysis of Efficient Algorithms",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "57535",
+    "57536"
+   ]
+  },
+  {
+   "id": "m13236",
+   "title": "Design Patterns",
+   "titleEn": "Design Patterns",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "69642",
+    "69644"
+   ]
+  },
+  {
+   "id": "m13179",
+   "title": "Digitale Systeme",
+   "titleEn": "Digital Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "57518",
+    "57519"
+   ]
+  },
+  {
+   "id": "m13232",
+   "title": "Diskrete Mathematik I",
+   "titleEn": "Discrete Mathematics I",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Diskrete Mathematik"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "54178",
+    "54193"
+   ]
+  },
+  {
+   "id": "m13320",
+   "title": "Finite Element Methode - Grundlagen und Anwendung",
+   "titleEn": "Finite Element Method - Fundamentals and Application",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68940"
+   ]
+  },
+  {
+   "id": "m13363",
+   "title": "Finite-Elemente-Methoden",
+   "titleEn": "Finite Element Methods",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Numerik"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "71683",
+    "54172"
+   ]
+  },
+  {
+   "id": "m13136",
+   "title": "Begriffliche Datenanalyse",
+   "titleEn": "Formal Concept Analysis",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "70206",
+    "70207"
+   ]
+  },
+  {
+   "id": "m11865",
+   "title": "Grundlagen und numerische Anwendungen der Bruchmechanik",
+   "titleEn": "Fundamentals and Numerical Applications of Fracture Mechanics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "69045"
+   ]
+  },
+  {
+   "id": "m13103",
+   "title": "Einführung in die formale Verifikaton",
+   "titleEn": "Introduction to Formal Verification",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "70516",
+    "70517"
+   ]
+  },
+  {
+   "id": "m13142",
+   "title": "Lineare Schwingungen",
+   "titleEn": "Linear Vibrations",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68275"
+   ]
+  },
+  {
+   "id": "m13367",
+   "title": "Maschinen- und Rotordynamik",
+   "titleEn": "Machine and Rotor Dynamics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68282"
+   ]
+  },
+  {
+   "id": "m13095",
+   "title": "Maß- und Wahrscheinlichkeitstheorie",
+   "titleEn": "Measure and Probability Theory",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Stochastik"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "70954",
+    "70955"
+   ]
+  },
+  {
+   "id": "m13309",
+   "title": "MscMath N01 Research Internship Mathematics in Nanoscience",
+   "titleEn": "MscMath N01 Research Internship Mathematics in Nanoscience",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 4 Nanostrukturwissenschaften"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "54572"
+   ]
+  },
+  {
+   "id": "m13188",
+   "title": "MscMath N02 Nanochemistry of Polymers and Colloids",
+   "titleEn": "MscMath N02 Nanochemistry of Polymers and Colloids",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 4 Nanostrukturwissenschaften"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "54631"
+   ]
+  },
+  {
+   "id": "m13319",
+   "title": "Nanobiology",
+   "titleEn": "Nanobiology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 4 Nanostrukturwissenschaften"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "54495"
+   ]
+  },
+  {
+   "id": "m13243",
+   "title": "Nichtlineare Schwingungen",
+   "titleEn": "Nonlinear Oscillations",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68276"
+   ]
+  },
+  {
+   "id": "m11617",
+   "title": "Numerische Berechnung von Strömungen",
+   "titleEn": "Numerical Calculation of Flows",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "69229"
+   ]
+  },
+  {
+   "id": "m13121",
+   "title": "Numerik Gewöhnlicher Differentialgleichungen",
+   "titleEn": "Numerics of Ordinary Differential Equations",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Numerik"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "54169",
+    "70957"
+   ]
+  },
+  {
+   "id": "m13138",
+   "title": "Betriebssysteme und Systemprogrammierung",
+   "titleEn": "Operating Systems and Systems Programming",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "70185",
+     "70186"
+    ]
+   },
+   "courseIds": [
+    "70186",
+    "70185",
+    "70187",
+    "70188"
+   ]
+  },
+  {
+   "id": "m13217",
+   "title": "Paralelle Programmierung",
+   "titleEn": "Parallel Programming",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "59378",
+    "59377"
+   ]
+  },
+  {
+   "id": "m13154",
+   "title": "Pattern Recognition and Machine Learning I",
+   "titleEn": "Pattern Recognition and Machine Learning I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "71815",
+    "71816"
+   ]
+  },
+  {
+   "id": "m13322",
+   "title": "PMP 3 Theoretical Physics Seminar",
+   "titleEn": "PMP 3 Theoretical Physics Seminar",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 2 Physik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": true,
+   "courseIds": [
+    "54319",
+    "54716",
+    "70229"
+   ]
+  },
+  {
+   "id": "m13359",
+   "title": "PMWE 5 Molecular Physics and Spectroscopy I",
+   "titleEn": "PMWE 5 Molecular Physics and Spectroscopy I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 2 Physik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "54313",
+    "54424"
+   ]
+  },
+  {
+   "id": "m13334",
+   "title": "PMWT 2 Quantum Mechanics II",
+   "titleEn": "PMWT 2 Quantum Mechanics II",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 2 Physik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "54344",
+    "54345"
+   ]
+  },
+  {
+   "id": "m13224",
+   "title": "PMWT 4 Reviews of Modern Theoretical Physics",
+   "titleEn": "PMWT 4 Reviews of Modern Theoretical Physics",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 2 Physik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "54687",
+    "54344",
+    "71991",
+    "54632",
+    "54345",
+    "71992"
+   ]
+  },
+  {
+   "id": "m13294",
+   "title": "PMWT 5 Advanced Methods in Theoretical Physics",
+   "titleEn": "PMWT 5 Advanced Methods in Theoretical Physics",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 2 Physik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": true,
+   "courseIds": [
+    "54713",
+    "54632",
+    "54634",
+    "71991",
+    "71992"
+   ]
+  },
+  {
+   "id": "m13123",
+   "title": "Labor Qualitative Datenanalyse",
+   "titleEn": "Qualitative Data Analysis Lab",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "70208"
+   ]
+  },
+  {
+   "id": "m13272",
+   "title": "Quantenmechanik I",
+   "titleEn": "Quantum Mechanics I",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 2 Physik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "54470",
+    "54343"
+   ]
+  },
+  {
+   "id": "m13213",
+   "title": "SAT-Solver",
+   "titleEn": "SAT-Solver",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "57606"
+   ]
+  },
+  {
+   "id": "m13150",
+   "title": "Seminar",
+   "titleEn": "Seminar",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": true,
+   "courseIds": [
+    "54187",
+    "54189"
+   ]
+  },
+  {
+   "id": "m13177",
+   "title": "Spezialvorlesung Stochastik",
+   "titleEn": "Special Lecture in Stochastics",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Stochastik"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "54160",
+    "54161"
+   ]
+  },
+  {
+   "id": "m12667",
+   "title": "Stochastische Modellierung und Simulation",
+   "titleEn": "Stochastic Modeling and Simulation",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Wahlpflichtbereich > WP Stochastik"
+   ],
+   "categories": [
+    "wp-math"
+   ],
+   "section": "Wahlpflichtbereich",
+   "pickOne": false,
+   "courseIds": [
+    "54160",
+    "54161"
+   ]
+  },
+  {
+   "id": "m9049",
+   "title": "Synthese und Optimierung mikroelektronischer Systeme",
+   "titleEn": "Synthesis and Optimization of Microelectronic Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "70195",
+    "70196"
+   ]
+  },
+  {
+   "id": "m13411",
+   "title": "Systemidentifikation",
+   "titleEn": "System Identification",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68819"
+   ]
+  },
+  {
+   "id": "m13317",
+   "title": "Theoretische Mechanik",
+   "titleEn": "Theoretical Mechanics",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 2 Physik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "70961",
+    "70964"
+   ]
+  },
+  {
+   "id": "m11683",
+   "title": "Thermodynamik der Gemische",
+   "titleEn": "Thermodynamics of Mixtures",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt"
+   ],
+   "categories": [],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "68684"
+   ]
+  },
+  {
+   "id": "m13327",
+   "title": "Verifikation eingebetteter Systeme",
+   "titleEn": "Verification of Embedded Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Anwendungsschwerpunkt > ASP 1 Informatik"
+   ],
+   "categories": [
+    "application-spec"
+   ],
+   "section": "Anwendungsschwerpunkt",
+   "pickOne": false,
+   "courseIds": [
+    "70518",
+    "70519"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "54187",
+   "title": "Oberseminar Analysis und Angewandte Mathematik",
+   "number": "FB1017.402",
+   "type": "Oberseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Karoline Disser, Prof. Dr. Elfriede Friedmann, Prof. Dr. Amru Hussein, Prof. Dr. Dorothee Knees, Prof. Dr. Felix Lindner, Prof. Dr. Andreas Meister",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Karoline Disser",
+        "Prof. Dr. Elfriede Friedmann",
+        "Prof. Dr. Amru Hussein",
+        "Prof. Dr. Dorothee Knees",
+        "Prof. Dr. Felix Lindner",
+        "Prof. Dr. Andreas Meister"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54187&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Seminar on Analysis and Applied Mathematics",
+   "typeEn": "Advanced Seminar"
+  },
+  {
+   "id": "54189",
+   "title": "Oberseminar Algebra",
+   "number": "FB1017.406",
+   "type": "Oberseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Werner M. Seiler, Prof. Dr. Andreas Bley, Prof. Dr. Torsten Mütze",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Raum nach vorheriger Vereinbarung",
+       "instructors": [
+        "Prof. Dr. Werner M. Seiler",
+        "Prof. Dr. Andreas Bley",
+        "Prof. Dr. Torsten Mütze"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54189&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Seminar on Algebra",
+   "typeEn": "Advanced Seminar"
+  },
+  {
+   "id": "54144",
+   "title": "Funktionalanalysis",
+   "number": "FB1017.2125w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Vertr.-Prof. Dr. Mario Fuest",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Vertr.-Prof. Dr. Mario Fuest"
+       ],
+       "room": "Raum 0450 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Vertr.-Prof. Dr. Mario Fuest"
+       ],
+       "room": "Raum 0450 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54144&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23631",
+    "key": false
+   },
+   "titleEn": "Functional Analysis",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70489",
+   "title": "Übungen zu Funktionalanalysis",
+   "number": "FB1017.2126w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Vertr.-Prof. Dr. Mario Fuest, Dominik Spyrka",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dominik Spyrka"
+       ],
+       "room": "Raum 0450 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70489&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23631",
+    "key": false
+   },
+   "titleEn": "Exercises for Functional Analysis",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71933",
+   "title": "Variationsrechnung / Calculus of Variations",
+   "number": "FB1017.2143w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Dorothee Knees",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Dorothee Knees"
+       ],
+       "room": "Raum 0421 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Dorothee Knees"
+       ],
+       "room": "Raum 2420 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71933&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23423",
+    "key": true
+   },
+   "titleEn": "Variationsrechnung / Calculus of Variations",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71934",
+   "title": "Übung Variationsrechnung / Calculus of Variations",
+   "number": "FB1017.2144w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Viktor Shcherbakov",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Viktor Shcherbakov"
+       ],
+       "room": "Raum 0450 A (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71934&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23423",
+    "key": true
+   },
+   "titleEn": "Exercise in Calculus of Variations / Calculus of Variations",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71013",
+   "title": "Computeralgebra I (nur Teil B)",
+   "number": "FB1017.2203",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Werner M. Seiler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Werner M. Seiler"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71013&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Computer Algebra I (Part B only)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71015",
+   "title": "Übungen zu Computeralgebra I (Teil B)",
+   "number": "FB1017.2204",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Werner M. Seiler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Werner M. Seiler"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71015&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Computer Algebra I Exercises (Part B)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "71683",
+   "title": "Finite Elemente Methoden",
+   "number": "FB1017.2411w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Elfriede Friedmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elfriede Friedmann"
+       ],
+       "room": "Raum 0450 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elfriede Friedmann"
+       ],
+       "room": "Raum 0421 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71683&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23849",
+    "key": false
+   },
+   "titleEn": "Finite Element Methods",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54172",
+   "title": "Übung zu Finite Elemente Methoden",
+   "number": "FB1017.2412w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Elfriede Friedmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elfriede Friedmann"
+       ],
+       "room": "Raum 0450 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Elfriede Friedmann"
+       ],
+       "room": "Raum 2421 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54172&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23849",
+    "key": false
+   },
+   "titleEn": "Exercise for Finite Element Methods",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54169",
+   "title": "Numerik gewöhnlicher Differentialgleichungen / Numerics of ordinary differential equations",
+   "number": "FB1017.2405w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Andreas Meister",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Meister"
+       ],
+       "room": "Raum 2034 (Untere Königsstraße 86)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Andreas Meister"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54169&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23158",
+    "key": false
+   },
+   "titleEn": "Numerics of Ordinary Differential Equations / Numerics of ordinary differential equations",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70957",
+   "title": "Übungen zu Numerik gewöhnlicher Differentialgleichungen",
+   "number": "FB1017.2406w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Andreas Meister, Janina Morin Bender",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Janina Morin Bender"
+       ],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70957&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23158",
+    "key": false
+   },
+   "titleEn": "Exercises for Numerics of Ordinary Differential Equations",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54160",
+   "title": "Angewandte Statistik/Applied Statistics",
+   "number": "FB1017.2315",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Markus Antoni",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Durch Wechsel der Lehrperson können die Zeiten der Vorlesungen sich bis zum Semesterbeginn noch verändern.",
+       "instructors": [
+        "Dr. Markus Antoni"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Durch Wechsel der Lehrperson können die Zeiten der Vorlesungen sich bis zum Semesterbeginn noch verändern.",
+       "instructors": [
+        "Dr. Markus Antoni"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54160&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24301",
+    "key": false
+   },
+   "titleEn": "Applied Statistics/Applied Statistics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54161",
+   "title": "Übungen zu Angewandte Statistik",
+   "number": "FB1017.2316w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Paul Tobias Werner, Dr. Markus Antoni",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Paul Tobias Werner"
+       ],
+       "room": "Raum 0421 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54161&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24301",
+    "key": false
+   },
+   "titleEn": "Exercises for Applied Statistics",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70954",
+   "title": "Maß- und Wahrscheinlichkeitstheorie",
+   "number": "FB1017.2311w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Felix Lindner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Felix Lindner"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Felix Lindner"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70954&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24690",
+    "key": false
+   },
+   "titleEn": "Measure and Probability Theory",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70955",
+   "title": "Übungen zu Maß- und Wahrscheinlichkeitstheorie",
+   "number": "FB1017.2312w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Felix Lindner, Felipe Trolldenier",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Felipe Trolldenier"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70955&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24690",
+    "key": false
+   },
+   "titleEn": "Exercises for Measure and Probability Theory",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54178",
+   "title": "Diskrete Mathematik I",
+   "number": "FB1017.2451w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Torsten Mütze",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "All lectures will be made accessible from remotely (live broadcast and recordings via Moodle), to encourage participation from students in other departments (incl. Computer Science).",
+       "instructors": [
+        "Prof. Dr. Torsten Mütze"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "All lectures will be made accessible from remotely (live broadcast and recordings via Moodle), to encourage participation from students in other departments (incl. Computer Science).",
+       "instructors": [
+        "Prof. Dr. Torsten Mütze"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54178&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23163",
+    "key": false
+   },
+   "titleEn": "Discrete Mathematics I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54193",
+   "title": "Übung zu Diskrete Mathematik I (Graphentheorie) (Teil A und B)",
+   "number": "FB1017.2452w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Torsten Mütze, Pia Herkenrath",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Pia Herkenrath"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54193&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23163",
+    "key": false
+   },
+   "titleEn": "Discrete Mathematics I Exercises (Graph Theory) (Parts A and B)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70186",
+   "title": "Betriebssysteme und Systemprogrammierung",
+   "number": "Inform-3750-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Oliver Hohlfeld",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70186&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24248",
+    "key": false
+   },
+   "titleEn": "Operating Systems and Systems Programming",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70185",
+   "title": "Betriebssysteme und Systemprogrammierung",
+   "number": "Inform-3750-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Oliver Hohlfeld",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70185&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24248",
+    "key": false
+   },
+   "titleEn": "Operating Systems and Systems Programming",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70187",
+   "title": "Betriebssysteme und Systemprogrammierung",
+   "number": "Inform-3750-V2",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Oliver Hohlfeld",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70187&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24248",
+    "key": false
+   },
+   "titleEn": "Operating Systems and Systems Programming",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70188",
+   "title": "Betriebssysteme und Systemprogrammierung",
+   "number": "Inform-3750-S2",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Oliver Hohlfeld",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1332 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70188&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24248",
+    "key": false
+   },
+   "titleEn": "Operating Systems and Systems Programming",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70067",
+   "title": "Communication Technologies 2 - Maschinelles Lernen und Kontexterkennung 2",
+   "number": "Inform-2050-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Klaus David",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "12:30",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1605 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70067&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23806",
+    "key": false
+   },
+   "titleEn": "Communication Technologies 2 - Machine Learning and Context Recognition 2",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70068",
+   "title": "Communication Technologies 2 - Maschinelles Lernen und Kontexterkennung 2",
+   "number": "Inform-2050-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Klaus David",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:30",
+       "end": "13:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dipl.-Ing. Alexander Bolz",
+        "Dr. Judith Heinisch"
+       ],
+       "room": "Raum -1605 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70068&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23806",
+    "key": false
+   },
+   "titleEn": "Communication Technologies 2 - Machine Learning and Context Recognition 2",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69642",
+   "title": "Design Patterns",
+   "number": "Inform-3030-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Joel Greenyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "10:30",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "09:00",
+       "end": "10:30",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69642&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24737",
+    "key": false
+   },
+   "titleEn": "Design Patterns",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69644",
+   "title": "Design Patterns",
+   "number": "Inform-3030-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Joel Greenyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:30",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-11-13",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1607 (WA-Neubau (Emilien))"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:30",
+       "end": "12:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1201 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69644&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24737",
+    "key": false
+   },
+   "titleEn": "Design Patterns",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57518",
+   "title": "Digitale Systeme",
+   "number": "Inform-1320-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57518&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24264",
+    "key": false
+   },
+   "titleEn": "Digital Systems",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "57519",
+   "title": "Digitale Systeme",
+   "number": "Inform-1320-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57519&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24264",
+    "key": false
+   },
+   "titleEn": "Digital Systems",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70516",
+   "title": "Einführung in die formale Verifikation",
+   "number": "Inform-3280-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Martin Lange",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Raum 1304 im Fachgebiet",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70516&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23684",
+    "key": false
+   },
+   "titleEn": "Introduction to Formal Verification",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70517",
+   "title": "Einführung in die formale Verifikation",
+   "number": "Inform-3280-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Martin Lange",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Raum 1304 im Fachgebiet",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70517&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23684",
+    "key": false
+   },
+   "titleEn": "Introduction to Formal Verification",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57535",
+   "title": "Entwurf und Analyse effizienter Algorithmen",
+   "number": "Inform-3510-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. Stefan Göller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57535&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23302",
+    "key": false
+   },
+   "titleEn": "Design and Analysis of Efficient Algorithms",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57536",
+   "title": "Entwurf und Analyse effizienter Algorithmen",
+   "number": "Inform-3510-S1",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. Stefan Göller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "M.Sc. Anna Maiworm"
+       ],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57536&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23302",
+    "key": false
+   },
+   "titleEn": "Design and Analysis of Efficient Algorithms",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70206",
+   "title": "Begriffliche Datenanalyse",
+   "number": "Inform-4030-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Gerd Stumme",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:15",
+       "end": "11:45",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70206&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24685",
+    "key": false
+   },
+   "titleEn": "Formal Concept Analysis",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70207",
+   "title": "Begriffliche Datenanalyse",
+   "number": "Inform-4030-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Gerd Stumme",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70207&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24685",
+    "key": false
+   },
+   "titleEn": "Formal Concept Analysis",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70208",
+   "title": "Labor Qualitative Datenanalyse",
+   "number": "Inform-4070-V1",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Gerd Stumme",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Der Termin wird in der ersten Vorlesung \"Begriffliche Datenanalyse\" bekannt gegeben.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70208&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Qualitative Data Analysis Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "59378",
+   "title": "Parallele Programmierung",
+   "number": "Inform-2540-V2",
+   "type": "Projektarbeit",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Fohry",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Fohry",
+        "M.Sc. Rüdiger Nather"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59378&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23144",
+    "key": false
+   },
+   "titleEn": "Parallel Programming",
+   "typeEn": "Project Work"
+  },
+  {
+   "id": "59377",
+   "title": "Parallele Programmierung",
+   "number": "Inform-2540-V1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Claudia Fohry",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Fohry",
+        "M.Sc. Rüdiger Nather"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Fohry",
+        "M.Sc. Rüdiger Nather"
+       ],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59377&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23144",
+    "key": false
+   },
+   "titleEn": "Parallel Programming",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71815",
+   "title": "Pattern Recognition and Machine Learning I",
+   "number": "Inform-1770-V1",
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. rer. nat. Bernhard Sick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-19",
+       "endDate": "2026-10-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0425 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-26",
+       "endDate": "2026-10-26",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-11-02",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Studierenden müssen sich bitte im entsprechenden Moodle-Kurs eintragen. Teilnehmerzahl kann begrenzt werden.",
+       "instructors": [],
+       "room": "Hörsaal 0315 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71815&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23482",
+    "key": false
+   },
+   "titleEn": "Pattern Recognition and Machine Learning I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71816",
+   "title": "Pattern Recognition and Machine Learning I",
+   "number": "Inform-1770-S1",
+   "type": "Übung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. rer. nat. Bernhard Sick",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:30",
+       "end": "10:00",
+       "startDate": "2026-11-04",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "1. Gruppe, Raum 0303c im Fachgebiet",
+       "instructors": [
+        "M.Sc. Denis Huseljic"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "startDate": "2026-11-04",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "2. Gruppe, Raum 0303c im Fachgebiet",
+       "instructors": [
+        "Marek Herde"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71816&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23482",
+    "key": false
+   },
+   "titleEn": "Pattern Recognition and Machine Learning I",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "57606",
+   "title": "SAT-Solver",
+   "number": "Inform-3320-V1",
+   "type": "Praktikum",
+   "language": "bilingual",
+   "responsible": "Prof. Dr. Martin Lange",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "bilingual",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Raum im Fachgebiet",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Raum im Fachgebiet",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57606&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23685",
+    "key": false
+   },
+   "titleEn": "SAT-Solver",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "69495",
+   "title": "Schaltkreiskomplexität",
+   "number": "Inform-3540-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Stefan Göller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69495&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23303",
+    "key": false
+   },
+   "titleEn": "Circuit Complexity",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69496",
+   "title": "Schaltkreiskomplexität",
+   "number": "Inform-3540-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. nat. Stefan Göller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 0446 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69496&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23303",
+    "key": false
+   },
+   "titleEn": "Circuit Complexity",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70195",
+   "title": "Synthese und Optimierung mikroelektronischer Systeme",
+   "number": "Inform-1260-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Infos finden Sie im Moodle-Kurs.",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70195&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24261",
+    "key": false
+   },
+   "titleEn": "Synthesis and Optimization of Microelectronic Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70196",
+   "title": "Synthese und Optimierung mikroelektronischer Systeme",
+   "number": "Inform-1260-V2",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Zipf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Infos finden Sie im Moodle-Kurs.",
+       "instructors": [],
+       "room": "Raum -1606 (WA-Neubau (Emilien))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70196&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24261",
+    "key": false
+   },
+   "titleEn": "Synthesis and Optimization of Microelectronic Systems",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70518",
+   "title": "Verifikation eingebetteter Systeme",
+   "number": "Inform-3310-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Martin Lange",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 2104 (WA-altes Gebäude (WA 71))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70518&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23687",
+    "key": false
+   },
+   "titleEn": "Verification of Embedded Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70519",
+   "title": "Verifikation eingebetteter Systeme",
+   "number": "Inform-3310-S1",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Martin Lange",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Wiss. Mitarbeitende"
+       ],
+       "room": "Hörsaal -1319 (WA-altes Gebäude (WA 73))"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70519&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23687",
+    "key": false
+   },
+   "titleEn": "Verification of Embedded Systems",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70961",
+   "title": "Theoretische Mechanik",
+   "number": "FB1018.4310w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Stefan Yoshi Buhmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70961&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23162",
+    "key": false
+   },
+   "titleEn": "Theoretical Mechanics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70964",
+   "title": "Übungen zur Theoretischen Mechanik",
+   "number": "FB1018.4315w",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Stefan Yoshi Buhmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70964&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23162",
+    "key": false
+   },
+   "titleEn": "Exercises for Theoretical Mechanics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "54470",
+   "title": "Quantenmechanik I",
+   "number": "FB1018.4327w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Martin E. Garcia",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Martin E. Garcia"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Martin E. Garcia"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54470&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24131",
+    "key": false
+   },
+   "titleEn": "Quantum Mechanics I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54343",
+   "title": "Übungen zur Quantenmechanik I",
+   "number": "FB1018.4328w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Martin E. Garcia",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Martin E. Garcia"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54343&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24131",
+    "key": false
+   },
+   "titleEn": "Exercises for Quantum Mechanics I",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54344",
+   "title": "Quantum Mechanics II",
+   "number": "FB1018.4320w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Gustavo Miguel Pastor",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-11-19",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Gustavo Miguel Pastor"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-11-03",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Gustavo Miguel Pastor"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-11-04",
+       "endDate": "2026-12-16",
+       "cancelled": [
+        "2026-11-11",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Gustavo Miguel Pastor"
+       ],
+       "room": "Raum 2131 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54344&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23595",
+    "key": false
+   },
+   "titleEn": "Quantum Mechanics II",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54345",
+   "title": "Excercises in Quantum Mechanics II",
+   "number": "FB1018.4325w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Gustavo Miguel Pastor",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Gustavo Miguel Pastor"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54345&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23595",
+    "key": false
+   },
+   "titleEn": "Excercises in Quantum Mechanics II",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54687",
+   "title": "Advanced Methods in Dynamical Systems and Machine Learning",
+   "number": "FB1018.4330s",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Pedro Pablo Rojas",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54687&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Methods in Dynamical Systems and Machine Learning",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "71991",
+   "title": "Theoretical Quantum Optics",
+   "number": "FB1018.4386w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Omar Jesús Franca Santiago",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Omar Jesús Franca Santiago"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2026-10-21",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Omar Jesús Franca Santiago"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "14-täglich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-12-23",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Omar Jesús Franca Santiago"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71991&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23290",
+    "key": false
+   },
+   "titleEn": "Theoretical Quantum Optics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54632",
+   "title": "Recent progress in Atomic and Molecular Spectroscopy",
+   "number": "FB1018.4090",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Philipp Demekhin",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Philipp Demekhin"
+       ],
+       "room": "Raum 0181 (Schlagzeugraum) (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54632&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Recent progress in Atomic and Molecular Spectroscopy",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71992",
+   "title": "Theoretical Quantum Optics (Seminar)",
+   "number": "FB1018.4387w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Omar Jesús Franca Santiago",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-11-04",
+       "endDate": "2027-01-27",
+       "cancelled": [
+        "2026-12-30"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Omar Jesús Franca Santiago"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71992&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23290",
+    "key": false
+   },
+   "titleEn": "Theoretical Quantum Optics (Seminar)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54713",
+   "title": "Advances in Theoretical Physics at the Nanoscale",
+   "number": "FB1018.4368",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Gustavo Miguel Pastor",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Gustavo Miguel Pastor"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54713&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advances in Theoretical Physics at the Nanoscale",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54634",
+   "title": "Current topics in Macroscopic Quantum Electrodynanmics",
+   "number": "FB1018.4399w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Stefan Yoshi Buhmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 1276 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54634&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Current topics in Macroscopic Quantum Electrodynanmics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54319",
+   "title": "Seminar Biophysik",
+   "number": "FB1018.0111",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jörg Helmut Kleinschmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörg Helmut Kleinschmidt"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54319&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Biophysics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54716",
+   "title": "Theorieseminar für Studierende: Journal Club",
+   "number": "FB1018.4379",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Stefan Yoshi Buhmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefan Yoshi Buhmann"
+       ],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54716&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "3853",
+    "key": false
+   },
+   "titleEn": "Theory Seminar for Students: Journal Club",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70229",
+   "title": "Current topics in Biophysics",
+   "number": "FB1018.4425w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Jörg Helmut Kleinschmidt, Prof. Dr. Martin E. Garcia",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörg Helmut Kleinschmidt",
+        "Prof. Dr. Martin E. Garcia"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70229&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Current topics in Biophysics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54313",
+   "title": "Molecular Physics and Spectroscopy I (Molekülphysik und Spektroskopie I)",
+   "number": "FB1018.5522w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Guido Fuchs, Prof. Dr. Thomas Giesen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Guido Fuchs",
+        "Prof. Dr. Thomas Giesen"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54313&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24294",
+    "key": false
+   },
+   "titleEn": "Molecular Physics and Spectroscopy I (Molecular Physics and Spectroscopy I)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54424",
+   "title": "Exercises on Molecular Physics and Spectroscopy I (Übung zur Molekülphysik und Spektroskopie I)",
+   "number": "FB1018.5523w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Doris Herberth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Doris Herberth"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54424&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24294",
+    "key": false
+   },
+   "titleEn": "Exercises on Molecular Physics and Spectroscopy I (Exercise for Molecular Physics and Spectroscopy I)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54572",
+   "title": "Research Internship Physical Chemistry",
+   "number": "FB1018.3240",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker, Prof. Dr. Claudia Backes, Foad Ghasemi",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+        "Prof. Dr. Claudia Backes",
+        "Foad Ghasemi"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54572&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Physical Chemistry",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54631",
+   "title": "Nanochemistry I",
+   "number": "FB1018.3265w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker"
+       ],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54631&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "366",
+    "key": false
+   },
+   "titleEn": "Nanochemistry I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54495",
+   "title": "Nanobiology I (Nanostrukturen aus biologischer Sicht I)",
+   "number": "FB1018.1280",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Susanne Neupert, Prof. Dr. Jörg Helmut Kleinschmidt, Dr. Katja Kapp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Susanne Neupert",
+        "Prof. Dr. Jörg Helmut Kleinschmidt",
+        "Dr. Katja Kapp"
+       ],
+       "room": "Raum 0100 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54495&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23200",
+    "key": false
+   },
+   "titleEn": "Nanobiology I (Nanostructures from a Biological Perspective I)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54514",
+   "title": "Lecture Applied Physical Chemistry",
+   "number": "FB1018.3280w",
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Claudia Backes, Foad Ghasemi",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "No lecture on 18.12.2026.Time was shifted to 14:15 to avoid overlap with nanophysics.Room is IBC3112",
+       "instructors": [
+        "Prof. Dr. Claudia Backes",
+        "Foad Ghasemi"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54514&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "16036",
+    "key": false
+   },
+   "titleEn": "Lecture Applied Physical Chemistry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54515",
+   "title": "Seminar Applied Physical Chemistry",
+   "number": "FB1018.3281w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Claudia Backes, Foad Ghasemi",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "12:00",
+       "end": "17:00",
+       "startDate": "2027-03-03",
+       "endDate": "2027-03-04",
+       "cancelled": [],
+       "note": "Further appointments by arrangement",
+       "instructors": [
+        "Prof. Dr. Claudia Backes",
+        "Foad Ghasemi"
+       ],
+       "room": "Raum 3112 (IBC) (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54515&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "16036",
+    "key": false
+   },
+   "titleEn": "Seminar Applied Physical Chemistry",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68940",
+   "title": "FEM (Finite Element Methode)",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Adrian Rienäcker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Adrian Rienäcker"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Übung im CEC",
+       "instructors": [
+        "Prof. Dr.-Ing. Adrian Rienäcker"
+       ],
+       "room": "Raum 2400 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68940&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "FEM (Finite Element Method)",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68275",
+   "title": "Lineare Schwingungen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Hartmut Hetzler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Hartmut Hetzler"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Hartmut Hetzler"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68275&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23206",
+    "key": false
+   },
+   "titleEn": "Linear Vibrations",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69045",
+   "title": "Grundlagen und numerische Anwendungen der Bruchmechanik",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andreas Ricoeur",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andreas Ricoeur"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andreas Ricoeur"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69045&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24945",
+    "key": true
+   },
+   "titleEn": "Fundamentals and Numerical Applications of Fracture Mechanics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68282",
+   "title": "Maschinen- und Rotordynamik",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Hartmut Hetzler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in der Mönchebergstraße 7, Raum 3716 statt.",
+       "instructors": [
+        "Prof. Dr.-Ing. Hartmut Hetzler"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Hartmut Hetzler"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68282&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23208",
+    "key": false
+   },
+   "titleEn": "Machine and Rotor Dynamics",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68276",
+   "title": "Nichtlineare Schwingungen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. Hartmut Hetzler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Hartmut Hetzler"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Hartmut Hetzler"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68276&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23207",
+    "key": false
+   },
+   "titleEn": "Nonlinear Oscillations",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68934",
+   "title": "Gekoppelte Mehrfeldprobleme und multifunktionale Werkstoffe",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andreas Ricoeur",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andreas Ricoeur"
+       ],
+       "room": "Raum 0112 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68934&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Coupled Multi-Field Problems and Multifunctional Materials",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69229",
+   "title": "Numerische Berechnungen von Strömungen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Olaf Wünsch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Olaf Wünsch"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69229&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24650",
+    "key": true
+   },
+   "titleEn": "Numerical Calculations of Flows",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68684",
+   "title": "Thermodynamik der Gemische",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr.-Ing. habil. Andrea Luke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-12",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Die Einführungsveranstaltung für Bachelor und Master in der Vertiefungsrichtung Energie-Umwelt-Technik findet am Montag, den 19.10.2026 im Raum 1120 in der KW3 statt.Anmeldung in den Moodle Kurs per Mail an ttk-lehre@uni-kassel.de​​https://moodle.uni-kassel.de/course/view.php?id=1070",
+       "instructors": [
+        "Prof. Dr.-Ing. habil. Andrea Luke"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68684&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "1070",
+    "key": false
+   },
+   "titleEn": "Thermodynamics of Mixtures",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68813",
+   "title": "Regelungstechnik: Zustandsraummethoden und Mehrgrößensysteme",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ing. Andreas Kroll",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dipl.-Ing. Konrad Lange",
+        "Prof. Dr. Ing. Andreas Kroll"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dipl.-Ing. Konrad Lange",
+        "Prof. Dr. Ing. Andreas Kroll"
+       ],
+       "room": "Raum 0408 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68813&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23607",
+    "key": true
+   },
+   "titleEn": "Control Engineering: State-Space Methods and Multivariable Systems",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68819",
+   "title": "Systemidentifikation",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Ing. Andreas Kroll",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ing. Andreas Kroll",
+        "Massimiliano Pandolfo"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ing. Andreas Kroll",
+        "Massimiliano Pandolfo"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68819&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23606",
+    "key": true
+   },
+   "titleEn": "System Identification",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

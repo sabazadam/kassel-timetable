@@ -1,0 +1,2618 @@
+{
+ "generatedAt": "2026-10-19T21:04:02.887Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Mobilität, Verkehr und Infrastruktur (2020)",
+ "programEn": "Master Mobility, Transport and Infrastructure (2020)",
+ "slug": "msc-mobilitaet-verkehr-und-infrastruktur",
+ "degree": "master",
+ "themes": false,
+ "categories": [
+  {
+   "id": "Vertiefung Mathematik/Informatik",
+   "group": "area",
+   "name": "Advanced mathematics/computer science",
+   "nameDe": "Vertiefung Mathematik/Informatik",
+   "short": "Math/CS",
+   "count": 1,
+   "ects": 12,
+   "note": "12 ECTS of elective modules from advanced mathematics/computer science (section 8 (3)).",
+   "nameTr": "İleri matematik/bilişim",
+   "noteTr": "İleri matematik/bilişimden seçmeli modüller, 12 ECTS (madde 8 (3)).",
+   "noteDe": "12 ECTS Wahlmodule aus höherer Mathematik/Informatik (§ 8 (3))."
+  },
+  {
+   "id": "Ökonomie",
+   "group": "area",
+   "name": "Economics",
+   "nameDe": "Ökonomie",
+   "short": "Economics",
+   "count": 1,
+   "ects": 6,
+   "note": "One module examination of 6 ECTS from Economics (section 8 (3)). A 3-ECTS course does not complete this area on its own.",
+   "nameTr": "İktisat",
+   "noteTr": "İktisat alanından 6 ECTS'lik bir modül sınavı (madde 8 (3)). 3 ECTS'lik bir ders bu alanı tek başına tamamlamaz.",
+   "noteDe": "Eine Modulprüfung im Umfang von 6 ECTS aus der Volkswirtschaftslehre (§ 8 Abs. 3). Eine Lehrveranstaltung im Umfang von 3 ECTS schließt diesen Bereich für sich genommen nicht ab."
+  },
+  {
+   "id": "Recht in Verkehrswesen",
+   "group": "area",
+   "name": "Transport law",
+   "nameDe": "Recht im Verkehrswesen",
+   "short": "Transport law",
+   "count": 1,
+   "ects": 6,
+   "note": "One module examination of 6 ECTS in transport law (section 8 (3)). eCampus lists it as two 3-ECTS parts, which together make the 6 ECTS.",
+   "nameTr": "Ulaştırma hukuku",
+   "noteTr": "Ulaştırma hukukunda 6 ECTS'lik bir modül sınavı (madde 8 (3)). eCampus bunu, birlikte 6 ECTS tutan iki adet 3 ECTS'lik parça olarak gösterir.",
+   "noteDe": "Eine Modulprüfung im Umfang von 6 ECTS im Verkehrsrecht (§ 8 Abs. 3). eCampus weist sie als zwei Teile zu je 3 ECTS aus, die zusammen 6 ECTS ergeben."
+  },
+  {
+   "id": "Wahlpflicht > Verkehr Ergänzung",
+   "group": "area",
+   "name": "Supplementary electives",
+   "nameDe": "Wahlpflichtmodule Verkehr Ergänzung",
+   "short": "Electives",
+   "count": 1,
+   "ects": 12,
+   "note": "12 ECTS of electives from the rest of the program (section 8 (2)). Specialization courses count only when they were not already taken in either Schwerpunkt.",
+   "nameTr": "Tamamlayıcı seçmeliler",
+   "noteTr": "Programın geri kalanından 12 ECTS seçmeli (madde 8 (2)). Uzmanlık dersleri, ancak iki Schwerpunkt'tan hiçbirinde daha önce alınmamışlarsa sayılır.",
+   "noteDe": "12 ECTS Wahlpflichtmodule aus dem übrigen Studiengang (§ 8 Abs. 2). Module aus den Schwerpunkten zählen nur, wenn sie nicht bereits in einem der beiden Schwerpunkte belegt wurden."
+  },
+  {
+   "id": "spec-a",
+   "group": "oneOf",
+   "name": "Specialization A",
+   "nameDe": "Schwerpunktmodul A",
+   "short": "Spec. A",
+   "count": 1,
+   "ects": 12,
+   "note": "12 ECTS in one of the six specializations; if that specialization offers more than 12 ECTS, its modules are freely chosen up to 12 (section 8 (1)). The area must differ from Specialization B, and a module cannot count toward both specialization slots.",
+   "options": [
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Integrierte Verkehrsplanung"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Radverkehr und Nahmobilität"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Straßenentwurf und Straßenraumgestaltung"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Verkehrsinfrastruktur"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Verkehrstechnik"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Öffentlicher Verkehr"
+    }
+   ],
+   "nameTr": "Uzmanlık alanı A",
+   "noteTr": "Altı uzmanlık alanından birinde 12 ECTS. Bu uzmanlık alanı 12 ECTS'ten fazlasını sunuyorsa, modülleri 12 ECTS'e kadar serbestçe seçilir (madde 8 (1)). Alan, uzmanlık alanı B'den farklı olmalıdır ve bir modül her iki uzmanlık alanı için birden sayılamaz.",
+   "noteDe": "12 ECTS in einem von sechs Schwerpunkten; bietet dieser Schwerpunkt mehr als 12 ECTS, werden seine Module bis zu 12 ECTS frei gewählt (§ 8 Abs. 1). Der Bereich muss sich von Schwerpunkt B unterscheiden, und ein Modul darf nicht auf beide Schwerpunktplätze angerechnet werden."
+  },
+  {
+   "id": "spec-b",
+   "group": "oneOf",
+   "name": "Specialization B",
+   "nameDe": "Schwerpunktmodul B",
+   "short": "Spec. B",
+   "count": 1,
+   "ects": 12,
+   "note": "12 ECTS in one of the six specializations; if that specialization offers more than 12 ECTS, its modules are freely chosen up to 12 (section 8 (1)). The area must differ from Specialization A, and a module cannot count toward both specialization slots.",
+   "options": [
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Integrierte Verkehrsplanung"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Radverkehr und Nahmobilität"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Straßenentwurf und Straßenraumgestaltung"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Verkehrsinfrastruktur"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Verkehrstechnik"
+    },
+    {
+     "type": "area",
+     "id": "Schwerpunktmodule > Schwerpunkt Öffentlicher Verkehr"
+    }
+   ],
+   "nameTr": "Uzmanlık alanı B",
+   "noteTr": "Altı uzmanlık alanından birinde 12 ECTS. Bu uzmanlık alanı 12 ECTS'ten fazlasını sunuyorsa, modülleri 12 ECTS'e kadar serbestçe seçilir (madde 8 (1)). Alan, uzmanlık alanı A'dan farklı olmalıdır ve bir modül her iki uzmanlık alanı için birden sayılamaz.",
+   "noteDe": "12 ECTS in einem von sechs Schwerpunkten; bietet dieser Schwerpunkt mehr als 12 ECTS, werden seine Module bis zu 12 ECTS frei gewählt (§ 8 Abs. 1). Der Bereich muss sich von Schwerpunkt A unterscheiden, und ein Modul darf nicht auf beide Schwerpunktplätze angerechnet werden."
+  }
+ ],
+ "rulesSummary": {
+  "en": "PO 2020 section 8 (Mitteilungsblatt 7/2020): two different specialization modules of 12 ECTS each (24 ECTS), 12 ECTS supplementary electives from the remaining offer, 12 ECTS advanced mathematics/computer science, 6 ECTS economics, 6 ECTS transport law, 6 ECTS additive key competencies, and the 24-ECTS thesis, after an approved study plan. Each specialization is its own 12-ECTS block. The checklist cannot force the two areas to differ, or stop one module from filling two slots. Additive key competencies and the thesis are not in this semester's module list.",
+  "tr": "PO 2020, madde 8 (Mitteilungsblatt 7/2020): her biri 12 ECTS olan iki farklı uzmanlık modülü (24 ECTS), kalan sunumdan 12 ECTS tamamlayıcı seçmeli, 12 ECTS ileri matematik/bilişim, 6 ECTS iktisat, 6 ECTS ulaştırma hukuku, 6 ECTS ek anahtar yetkinlik ve onaylı bir çalışma planından sonra 24 ECTS'lik tez. Her uzmanlık alanı kendi 12 ECTS'lik bloğudur. Kontrol listesi, iki alanın farklı olmasını zorunlu kılamaz ve bir modülün iki yeri doldurmasını engelleyemez. Ek anahtar yetkinlikler ve tez bu dönemin modül listesinde yer almaz.",
+  "de": "PO 2020, § 8 (Mitteilungsblatt 7/2020): zwei unterschiedliche Schwerpunktmodule zu je 12 ECTS (24 ECTS), 12 ECTS ergänzende Wahlmodule aus dem übrigen Angebot, 12 ECTS höhere Mathematik/Informatik, 6 ECTS Wirtschaftswissenschaften, 6 ECTS Verkehrsrecht, 6 ECTS additive Schlüsselkompetenzen und die Thesis mit 24 ECTS, nach einem genehmigten Studienplan. Jeder Schwerpunkt ist ein eigener Block mit 12 ECTS. Die Checkliste kann nicht erzwingen, dass die beiden Bereiche sich unterscheiden, und kann nicht verhindern, dass ein Modul zwei Plätze füllt. Additive Schlüsselkompetenzen und die Thesis stehen nicht in der Modulliste dieses Semesters."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8972&token=b2da5aa1883b9be45a5c8a6bf19d797182bf33f4"
+ ],
+ "sections": [
+  {
+   "id": "Schwerpunktmodule",
+   "name": "Specialization Modules",
+   "nameDe": "Schwerpunktmodule"
+  },
+  {
+   "id": "Vertiefung Mathematik/Informatik",
+   "name": "Advanced Mathematics/Computer Science",
+   "nameDe": "Vertiefung Mathematik/Informatik"
+  },
+  {
+   "id": "Ökonomie",
+   "name": "Economics",
+   "nameDe": "Ökonomie"
+  },
+  {
+   "id": "Recht in Verkehrswesen",
+   "name": "Law in the Transport Sector",
+   "nameDe": "Recht in Verkehrswesen"
+  },
+  {
+   "id": "Wahlpflicht",
+   "name": "Electives",
+   "nameDe": "Wahlpflicht"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "1. Termin zusammen mit \"Wirtschaft im ÖPNV\" am 15.10.2026, Raum 2215, Mönchebergstr. 7": {
+   "en": "First session together with \"Wirtschaft im ÖPNV\" on 15.10.2026, Room 2215, Mönchebergstr. 7",
+   "tr": "İlk oturum \"Wirtschaft im ÖPNV\" ile birlikte 15.10.2026 tarihinde, Oda 2215, Mönchebergstr. 7"
+  },
+  "Wirtschaft im ÖPNV / Planung im ÖPNV im Wechsel; 1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7": {
+   "en": "Wirtschaft im ÖPNV / Planung im ÖPNV alternating; first session: 15.10.2026, Room 2215, Mönchebergstr. 7",
+   "tr": "Wirtschaft im ÖPNV / Planung im ÖPNV dönüşümlü olarak; ilk oturum: 15.10.2026, Oda 2215, Mönchebergstr. 7"
+  },
+  "1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7": {
+   "en": "First session: 15.10.2026, Room 2215, Mönchebergstr. 7",
+   "tr": "İlk oturum: 15.10.2026, Oda 2215, Mönchebergstr. 7"
+  },
+  "10:00- 13:00 Uhr": {
+   "en": "10:00- 13:00 Uhr",
+   "tr": "10:00- 13:00 Uhr"
+  },
+  "ONLINE asynchron; weitere Informationen siehe Moodle-Kurs": {
+   "en": "ONLINE asynchronous; for further information see the Moodle course",
+   "tr": "ONLINE asenkron; daha fazla bilgi için Moodle kursuna bakınız"
+  },
+  "Die Vorlesung findet grundsätzlich als Online-Veranstaltung statt. Lediglich die Auftaktveranstaltung am 15. Oktober 2026 sowie die Abschlussveranstaltung am 11. Februar 2027 finden in Präsenz statt.Weiterführende Informationen zur Vorlesung sowie Veranstaltungsunterlagen werden über den entsprechenden Moodle-Kurs bereitgestellt. Das Passwort für den Moodle-Kurs wird ausschließlich in der Auftaktveranstaltung am 15. Oktober 2026 kommuniziert.": {
+   "en": "The lecture is generally held online. Only the opening session on 15 October 2026 and the closing session on 11 February 2027 are in person. Further information and course materials are provided in the Moodle course. The Moodle password is given out only at the opening session on 15 October 2026.",
+   "tr": "Ders genel olarak online yapılır. Sadece 15 Ekim 2026'daki açılış oturumu ve 11 Şubat 2027'deki kapanış oturumu yüz yüzedir. Ek bilgiler ve ders materyalleri Moodle kursunda paylaşılır. Moodle şifresi sadece 15 Ekim 2026'daki açılış oturumunda verilir."
+  },
+  "Findet in Mö7, R. 4223 statt": {
+   "en": "Takes place in Mö7, room 4223",
+   "tr": "Mö7, oda 4223'te yapılıyor"
+  },
+  "Beginn: 10:15 Uhr": {
+   "en": "Start: 10:15",
+   "tr": "Başlangıç: 10:15"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Schwerpunktmodule": "Specialization Modules",
+  "Schwerpunkt Integrierte Verkehrsplanung": "Specialization Integrated Transport Planning",
+  "Wahlpflicht": "Electives",
+  "Verkehr Ergänzung": "Transport Supplement",
+  "Schwerpunkt Verkehrstechnik": "Specialization Traffic Engineering",
+  "Schwerpunkt Öffentlicher Verkehr": "Specialization Public Transport",
+  "Ökonomie": "Economics",
+  "Schwerpunkt Straßenentwurf und Straßenraumgestaltung": "Specialization Road Design and Street Space Design",
+  "Schwerpunkt Verkehrsinfrastruktur": "Specialization Transport Infrastructure",
+  "Schwerpunkt Radverkehr und Nahmobilität": "Specialization Cycling and Local Mobility",
+  "Vertiefung Mathematik/Informatik": "Advanced Mathematics/Computer Science",
+  "Recht in Verkehrswesen": "Law in the Transport Sector"
+ },
+ "modules": [
+  {
+   "id": "m16701",
+   "title": "Vertiefung Straßenentwurf",
+   "titleEn": "Advanced Road Design",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Straßenentwurf und Straßenraumgestaltung",
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68868"
+   ]
+  },
+  {
+   "id": "m4806",
+   "title": "ASL International",
+   "titleEn": "ASL International",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Radverkehr und Nahmobilität",
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "69141"
+   ]
+  },
+  {
+   "id": "m10137",
+   "title": "BWL III: Controlling und Marketing",
+   "titleEn": "BWL III: Controlling and Marketing",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Ökonomie"
+   ],
+   "categories": [
+    "Ökonomie"
+   ],
+   "section": "Ökonomie",
+   "pickOne": false,
+   "courseIds": [
+    "55571",
+    "56236"
+   ]
+  },
+  {
+   "id": "m16754",
+   "title": "Wirtschaft im ÖPNV",
+   "titleEn": "Economics of Local Public Transport",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Öffentlicher Verkehr",
+    "Wahlpflicht > Verkehr Ergänzung",
+    "Ökonomie"
+   ],
+   "categories": [
+    "Ökonomie",
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68833"
+   ]
+  },
+  {
+   "id": "m16600",
+   "title": "Geoinformationssysteme",
+   "titleEn": "Geographic Information Systems",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Radverkehr und Nahmobilität",
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "59364",
+    "68649"
+   ]
+  },
+  {
+   "id": "m9376",
+   "title": "Höhere Mathematik 4 - Stochastik für Ingenieure",
+   "titleEn": "Higher Mathematics 4 - Stochastics for Engineers",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Vertiefung Mathematik/Informatik"
+   ],
+   "categories": [
+    "Vertiefung Mathematik/Informatik"
+   ],
+   "section": "Vertiefung Mathematik/Informatik",
+   "pickOne": false,
+   "courseIds": [
+    "69201",
+    "69202"
+   ]
+  },
+  {
+   "id": "m16740",
+   "title": "Recht Wahl",
+   "titleEn": "Law Elective",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Recht in Verkehrswesen"
+   ],
+   "categories": [
+    "Recht in Verkehrswesen"
+   ],
+   "section": "Recht in Verkehrswesen",
+   "pickOne": false,
+   "courseIds": [
+    "59233"
+   ]
+  },
+  {
+   "id": "m16750",
+   "title": "Recht im Verkehrswesen",
+   "titleEn": "Law in the Transport Sector",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Recht in Verkehrswesen"
+   ],
+   "categories": [
+    "Recht in Verkehrswesen"
+   ],
+   "section": "Recht in Verkehrswesen",
+   "pickOne": false,
+   "courseIds": [
+    "68864"
+   ]
+  },
+  {
+   "id": "m16723",
+   "title": "Planung des ÖPNV",
+   "titleEn": "Local Public Transport Planning",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Öffentlicher Verkehr"
+   ],
+   "categories": [
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68831"
+   ]
+  },
+  {
+   "id": "m11901",
+   "title": "Modellierung der Verkehrsnachfrage",
+   "titleEn": "Modeling of Transport Demand",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Integrierte Verkehrsplanung",
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68825"
+   ]
+  },
+  {
+   "id": "m16721",
+   "title": "Operations Research",
+   "titleEn": "Operations Research",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Vertiefung Mathematik/Informatik"
+   ],
+   "categories": [
+    "Vertiefung Mathematik/Informatik"
+   ],
+   "section": "Vertiefung Mathematik/Informatik",
+   "pickOne": false,
+   "courseIds": [
+    "68822"
+   ]
+  },
+  {
+   "id": "m16722",
+   "title": "Projektmanagement 1: Einführung und Grundlagen",
+   "titleEn": "Project Management 1: Introduction and Fundamentals",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Ökonomie"
+   ],
+   "categories": [
+    "Ökonomie"
+   ],
+   "section": "Ökonomie",
+   "pickOne": false,
+   "courseIds": [
+    "68077",
+    "69848"
+   ]
+  },
+  {
+   "id": "t:Seminar Verkehrswesen",
+   "title": "Seminar Verkehrswesen",
+   "titleEn": "Seminar Verkehrswesen",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "section": "Wahlpflicht",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "57258"
+   ]
+  },
+  {
+   "id": "m16702",
+   "title": "Konstruktiver Verkehrswegebau",
+   "titleEn": "Structural Highway Engineering",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Verkehrsinfrastruktur",
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68947",
+    "68930"
+   ]
+  },
+  {
+   "id": "m16707",
+   "title": "Nachhaltige Nahmobilität",
+   "titleEn": "Sustainable Local Mobility",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Radverkehr und Nahmobilität"
+   ],
+   "categories": [
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68660"
+   ]
+  },
+  {
+   "id": "m11642",
+   "title": "Telematikunterstützter Personen- und Güterverkehr",
+   "titleEn": "Telematics-Supported Passenger and Freight Transport",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Verkehrstechnik",
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68832",
+    "68650"
+   ]
+  },
+  {
+   "id": "m11667",
+   "title": "Verkehrstechnik II",
+   "titleEn": "Traffic Engineering II",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Verkehrstechnik",
+    "Wahlpflicht > Verkehr Ergänzung"
+   ],
+   "categories": [
+    "Wahlpflicht > Verkehr Ergänzung",
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "courseIds": [
+    "68650"
+   ]
+  },
+  {
+   "id": "t:Verkehrsdienstleistungsmarketing",
+   "title": "Verkehrsdienstleistungsmarketing",
+   "titleEn": "Verkehrsdienstleistungsmarketing",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Schwerpunktmodule > Schwerpunkt Öffentlicher Verkehr"
+   ],
+   "categories": [
+    "spec-a",
+    "spec-b"
+   ],
+   "section": "Schwerpunktmodule",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "73617"
+   ]
+  },
+  {
+   "id": "m10157",
+   "title": "VWL I: Mikroökonomik",
+   "titleEn": "VWL I: Microeconomics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Ökonomie"
+   ],
+   "categories": [
+    "Ökonomie"
+   ],
+   "section": "Ökonomie",
+   "pickOne": false,
+   "courseIds": [
+    "56777"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "68825",
+   "title": "Modellierung der Verkehrsnachfrage",
+   "number": "BauUmw-4202-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "Dipl.-ing. Jonas Harz"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "Dipl.-ing. Jonas Harz"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68825&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23965",
+    "key": true
+   },
+   "titleEn": "Modeling of Transport Demand",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68650",
+   "title": "Individuelle Leitsysteme",
+   "number": "BauUmw-4204-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Robert Hoyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Robert Hoyer"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68650&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24868",
+    "key": false
+   },
+   "titleEn": "Individual Guidance Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68832",
+   "title": "Transportlogistik",
+   "number": "BauUmw-4204-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Robert Hoyer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Robert Hoyer"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68832&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24869",
+    "key": true
+   },
+   "titleEn": "Transport Logistics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68831",
+   "title": "Planung des ÖPNV",
+   "number": "BauUmw-4201-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "1. Termin zusammen mit \"Wirtschaft im ÖPNV\" am 15.10.2026, Raum 2215, Mönchebergstr. 7",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "M.Sc. Johanna Koch"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68831&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23966",
+    "key": true
+   },
+   "titleEn": "Local Public Transport Planning",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68833",
+   "title": "Wirtschaft im ÖPNV",
+   "number": "BauUmw-4111-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Wirtschaft im ÖPNV / Planung im ÖPNV im Wechsel; 1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "M. Eng. Luka Jurisic",
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "1. Termin: 15.10.2026, Raum 2215, Mönchebergstr. 7",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "M. Eng. Luka Jurisic",
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68833&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23967",
+    "key": true
+   },
+   "titleEn": "Economics of Local Public Transport",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68868",
+   "title": "Vertiefung Straßenentwurf",
+   "number": "BauUmw-4208-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Ing. Konrad Mollenhauer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Ing. Konrad Mollenhauer"
+       ],
+       "room": "Raum 0404B (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68868&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24110",
+    "key": true
+   },
+   "titleEn": "Advanced Road Design",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68947",
+   "title": "Dimensionierung von Verkehrswegebefestigungen",
+   "number": "BauUmw-4215-V1",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Ing. Konrad Mollenhauer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Ing. Konrad Mollenhauer"
+       ],
+       "room": "Raum 0404B (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68947&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Dimensioning of Pavement Structures",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68930",
+   "title": "Qualitätssicherung im Verkehrswegebau",
+   "number": "BauUmw-4215-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Ing. Konrad Mollenhauer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Ing. Konrad Mollenhauer"
+       ],
+       "room": "Raum 0404B (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68930&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Quality Assurance in Highway Engineering",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "59364",
+   "title": "GIS-Praktikum",
+   "number": "BauUmw-4110-V2",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Dr.-Ing. Rainer Fletling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "10:00- 13:00 Uhr",
+       "instructors": [
+        "Dipl.-Ing. M.Sc. Jens Eligehausen"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59364&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "GIS Lab",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68649",
+   "title": "Geoinformationssysteme",
+   "number": "BauUmw-4207-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr.-Ing. Rainer Fletling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "ONLINE asynchron; weitere Informationen siehe Moodle-Kurs",
+       "instructors": [
+        "Dr.-Ing. Rainer Fletling"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68649&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23593",
+    "key": false
+   },
+   "titleEn": "Geographic Information Systems",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69141",
+   "title": "Heritage, Landscape and Public Spaces in Djerba: Challenges and Enhancement Strategies - Analyze, Enhance, Redevelop",
+   "number": "FB06.052",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Uwe Altrock, Mohammed Alfiky",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0103 (Gottschalk 26)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69141&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24094",
+    "key": false
+   },
+   "titleEn": "Heritage, Landscape and Public Spaces in Djerba: Challenges and Enhancement Strategies - Analyze, Enhance, Redevelop",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68660",
+   "title": "Nachhaltige Nahmobilität",
+   "number": "BauUmw-4213-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. rer. pol. Angela Francke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. rer. pol. Angela Francke"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68660&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Sustainable Local Mobility",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69201",
+   "title": "Höhere Mathematik IV: Stochastik für Ingenieur*innen",
+   "number": "FB1017.7241w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Petru Cioica-Licht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Petru Cioica-Licht"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69201&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23792",
+    "key": false
+   },
+   "titleEn": "Higher Mathematics IV: Stochastics for Engineers",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69202",
+   "title": "Übungen zur Höheren Mathematik IV: Stochastik für Ingenieur*innen",
+   "number": "FB1017.7243w",
+   "type": "Übung",
+   "language": null,
+   "responsible": "Dr. Petru Cioica-Licht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Petru Cioica-Licht"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69202&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23792",
+    "key": false
+   },
+   "titleEn": "Exercises for Higher Mathematics IV: Stochastics for Engineers",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "68822",
+   "title": "Operations Research 2",
+   "number": "BauUmw-2201-V2",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Peter Racky",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-21",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Holger Schopbach"
+       ],
+       "room": "Raum 3516 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr.-Ing. Holger Schopbach"
+       ],
+       "room": "Raum 1217 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68822&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23990",
+    "key": true
+   },
+   "titleEn": "Operations Research 2",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "55571",
+   "title": "BWL IIIa: Controlling (PO 2013)",
+   "number": null,
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Andreas Wagner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Vorlesung findet grundsätzlich als Online-Veranstaltung statt. Lediglich die Auftaktveranstaltung am 15. Oktober 2026 sowie die Abschlussveranstaltung am 11. Februar 2027 finden in Präsenz statt.Weiterführende Informationen zur Vorlesung sowie Veranstaltungsunterlagen werden über den entsprechenden Moodle-Kurs bereitgestellt. Das Passwort für den Moodle-Kurs wird ausschließlich in der Auftaktveranstaltung am 15. Oktober 2026 kommuniziert.",
+       "instructors": [
+        "Dr. Andreas Wagner"
+       ],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55571&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23309",
+    "key": true
+   },
+   "titleEn": "Business Administration III a: Management Accounting (PO 2013)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "56236",
+   "title": "Marketing",
+   "number": "WiWi-1060-V1",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Andreas Mann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Hörsaal 1 (Raum 0603) (Diagonale 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56236&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23943",
+    "key": true
+   },
+   "titleEn": "Marketing",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "68077",
+   "title": "Projektmanagement 1: Einführung und Grundlagen",
+   "number": null,
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Timo Braun",
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68077&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23401",
+    "key": false
+   },
+   "titleEn": "Project Management 1: Introduction and Fundamentals",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "69848",
+   "title": "Projektmanagement 1 - Übung",
+   "number": null,
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Braun",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-12",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Findet in Mö7, R. 4223 statt",
+       "instructors": [
+        "Eva Kirchner",
+        "Pia Hein"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69848&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Project Management 1 - Exercise",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "56777",
+   "title": "VWL I",
+   "number": "FB07-2080-V-001",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Björn Frank",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Björn Frank"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56777&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23660",
+    "key": false
+   },
+   "titleEn": "VWL I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68864",
+   "title": "Straßenverkehrsrecht",
+   "number": "BauUmw-4217-V",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "Beginn: 10:15 Uhr",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-14",
+       "cancelled": [],
+       "note": "Beginn: 10:15 Uhr",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "Beginn: 10:15 Uhr",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-12-18",
+       "endDate": "2026-12-18",
+       "cancelled": [],
+       "note": "Beginn: 10:15 Uhr",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68864&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23968",
+    "key": true
+   },
+   "titleEn": "Road Traffic Law",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "59233",
+   "title": "R4 - Umweltvölkerrecht (PO 18/PO 23)",
+   "number": null,
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Silke Ruth Laskowski, Prof. Dr. Martina Deckert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-12-11",
+       "cancelled": [
+        "2026-10-16",
+        "2026-10-23",
+        "2026-12-18",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08",
+        "2027-01-15",
+        "2027-01-22",
+        "2027-01-29",
+        "2027-02-05",
+        "2027-02-12"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Silke Ruth Laskowski"
+       ],
+       "room": "Raum 0614 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59233&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23278",
+    "key": false
+   },
+   "titleEn": "R4 - International Environmental Law (PO 18/PO 23)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57258",
+   "title": "Seminar Verkehrswesen",
+   "number": null,
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr.-Ing. Carsten Sommer",
+        "Prof. Dr.-Ing. Robert Hoyer",
+        "Prof. Dr. rer. pol. Angela Francke",
+        "apl. Prof. Dr. Ing. Konrad Mollenhauer"
+       ],
+       "room": "Raum 2215 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57258&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Verkehrswesen",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "73617",
+   "title": "Verkehrsdienstleistungsmarketing",
+   "number": "BauUmw-4219-V",
+   "type": "Vorlesung / Exkursion",
+   "language": null,
+   "responsible": "Prof. Dr.-Ing. Carsten Sommer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-02-19",
+       "endDate": "2027-02-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "16:00",
+       "startDate": "2027-02-20",
+       "endDate": "2027-02-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-03-12",
+       "endDate": "2027-03-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "16:00",
+       "startDate": "2027-03-13",
+       "endDate": "2027-03-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Honorarpro Dr. Ing. Till Ackermann"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73617&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Verkehrsdienstleistungsmarketing",
+   "typeEn": "Vorlesung / Exkursion"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

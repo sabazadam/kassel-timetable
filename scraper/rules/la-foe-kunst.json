@@ -1,0 +1,49 @@
+{
+  "slug": "la-foe-kunst",
+  "po": "Lehramt für Förderpädagogik Kunst (2024)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26609&token=44a7226a47619c89ed6275a0a8271920def760d2"
+  ],
+  "categories": [
+    {
+      "id": "modul-5-6",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Kunst- und Mediendidaktik / Ästhetische Praxis 1 mit förderpädagogischem Schwerpunkt"
+        },
+        {
+          "type": "module",
+          "id": "Kunst- und Mediendidaktik / Ästhetische Praxis 2 mit förderpädagogischem Schwerpunkt"
+        }
+      ],
+      "name": "Didactics/aesthetic practice 1 or 2",
+      "nameDe": "Modul 5 oder 6",
+      "short": "Modul 5/6",
+      "note": "6 ECTS"
+    },
+    {
+      "id": "modul-7-8",
+      "group": "anyOf",
+      "count": 1,
+      "options": [
+        {
+          "type": "module",
+          "id": "Kunst- und Mediendidaktik / Ästhetische Praxis 3"
+        },
+        {
+          "type": "module",
+          "id": "Kunst- und Mediendidaktik / Ästhetische Praxis 4"
+        }
+      ],
+      "name": "Didactics/aesthetic practice 3 or 4",
+      "nameDe": "Modul 7 oder 8",
+      "short": "Modul 7/8",
+      "note": "6 ECTS; study projects in the workshops may also count"
+    }
+  ],
+  "pickOne": [],
+  "summary": "Modulprüfungsordnung Kunst L5 of 12.12.2024, section 4: compulsory basic studies, art history, didactics, Ästhetische Praxis 5 and the practical semester; one of modules 5/6 and one of modules 7/8 (Kunst- und Mediendidaktik / Ästhetische Praxis)."
+}

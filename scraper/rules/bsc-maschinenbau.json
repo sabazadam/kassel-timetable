@@ -1,0 +1,121 @@
+{
+  "summary": "PO 2023 section 7: 113 ECTS compulsory basic phase, then in the main phase Data Science, Studienarbeit, Project III and a 15-ECTS internship, plus 7 ECTS from the elective Schlüsselkompetenzen Wahlbereich. The compulsory 3 ECTS module Einführung in Betriebswirtschaftslehre und Fabrikbetrieb is not offered this semester. One specialization of six is chosen in an individually approved specialization plan, with 12 ECTS specific foundations, 12 ECTS basic modules and 18 ECTS advanced modules. The checklist cannot link the two specialization rules to the same specialization, cannot split basic from advanced modules, and cannot enforce the 6-ECTS Integrationsfächer cap in Mensch - Organisation - Technik. Nachhaltige Fahrzeugtechnik specific foundations are not offered this semester. Main phase exams require 90 ECTS from the basic phase.",
+  "categories": [
+    {
+      "id": "Einführung in Data Science und Machine Learning",
+      "group": "module",
+      "name": "Introduction to data science and machine learning",
+      "nameDe": "Einführung in Data Science und Machine Learning",
+      "short": "Data Science",
+      "count": 1,
+      "note": "Compulsory in the main study phase, 6 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "Studienarbeit",
+      "group": "module",
+      "name": "Student research project",
+      "nameDe": "Studienarbeit",
+      "short": "Studienarbeit",
+      "count": 1,
+      "note": "Compulsory, 6 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "Projekt III - Interdisziplinäre Teamarbeit",
+      "group": "module",
+      "name": "Project III: interdisciplinary teamwork",
+      "nameDe": "Projekt III - Interdisziplinäre Teamarbeit",
+      "short": "Project III",
+      "count": 1,
+      "note": "Compulsory, 3 ECTS; pick one of the offered projects",
+      "compulsory": true
+    },
+    {
+      "id": "Schlüsselkompetenzen",
+      "group": "area",
+      "name": "Elective key competencies",
+      "nameDe": "Schlüsselkompetenzen Wahlbereich",
+      "short": "Key competencies",
+      "count": 1,
+      "ects": 7,
+      "note": "The PO requires 7 ECTS from the elective Schlüsselkompetenzen Wahlbereich. The compulsory 3 ECTS module Einführung in Betriebswirtschaftslehre und Fabrikbetrieb is not offered this semester."
+    },
+    {
+      "id": "spec-foundations",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 12,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Automatisierung und Digitale Transformation > Spezifische Grundlagen (12 CP)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Energie - Umwelt - Technik > Spezifische Grundlagen (12 CP)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Mensch - Organisation - Technik > Spezifische Grundlagen (12 CP)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Modellierung und Simulation in der Angewandten Mechanik > Spezifische Grundlagen (12 CP)"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Nachhaltige Werkstoffe und Fertigungsverfahren > Spezifische Grundlagen (12 CP)"
+        }
+      ],
+      "name": "Specialization-specific foundations",
+      "nameDe": "Spezifische Grundlagen des Schwerpunkts",
+      "short": "Spec. foundations",
+      "note": "The PO requires 12 ECTS of specific foundations from the chosen specialization (Automatisierung offers two 6-ECTS modules this semester, the other listed specializations one; Nachhaltige Fahrzeugtechnik has none offered, so it is not listed). In Mensch - Organisation - Technik at most 6 ECTS of Integrationsfächer, marked (i), may count toward the specialization."
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 30,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Automatisierung und Digitale Transformation > Basis- und Vertiefungsmodule"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Energie - Umwelt - Technik > Basis- und Vertiefungsmodule"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Mensch - Organisation - Technik > Basis- und Vertiefungsmodule"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Modellierung und Simulation in der Angewandten Mechanik > Basis- und Vertiefungsmodule"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Nachhaltige Fahrzeugtechnik > Basis- und Vertiefungsmodule"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Nachhaltige Werkstoffe und Fertigungsverfahren > Basis- und Vertiefungsmodule"
+        }
+      ],
+      "name": "Basic and advanced modules of one specialization",
+      "nameDe": "Basis- und Vertiefungsmodule des Schwerpunkts",
+      "short": "Specialization",
+      "note": "The PO requires 12 ECTS of basic modules and 18 ECTS of advanced modules from the same specialization; both are filed in one eCampus area, so the category is complete when the chosen modules reach 30 ECTS and the 12/18 split stays with the approved specialization plan. In Mensch - Organisation - Technik at most 6 ECTS of Integrationsfächer, marked (i), may count toward the specialization."
+    }
+  ],
+  "pickOne": [
+    "Projekt III - Interdisziplinäre Teamarbeit"
+  ],
+  "slug": "bsc-maschinenbau",
+  "po": "Bachelor Maschinenbau (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21963&token=cf598a9f97874e8f89110c7ff4b02fd9c18981ae"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "summary": "Section 8 of the current PO (dated 23.04.2025, eCampus labels it 2024): compulsory BWL and Wirtschaftsinformatik modules (24 ECTS), 12 ECTS computer science electives, 12 ECTS further foundations, 24 ECTS from one master profile (CIDA, DITraM or UCeDI), a 12-ECTS project seminar, 6 ECTS additive key competencies and the 30-ECTS thesis.",
+  "categories": [
+    {
+      "id": "Wahlmodule > Wahlpflicht Informatik",
+      "group": "area",
+      "name": "Computer science electives",
+      "nameDe": "Wahlpflicht Informatik",
+      "short": "WP Informatik",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS from the computer science electives (Informatik - Wahlpflicht)."
+    },
+    {
+      "id": "Wahlmodule > Weitere Grundlagen",
+      "group": "area",
+      "name": "Further foundations electives",
+      "nameDe": "Wahlpflicht Weitere Grundlagen",
+      "short": "WP Foundations",
+      "count": 1,
+      "ects": 12,
+      "note": "12 ECTS from the further foundations electives (Weitere Grundlagen - Wahlpflicht). Catalogue modules are 3, 6 or 8 ECTS, so the number of modules follows the credit total."
+    },
+    {
+      "id": "profile",
+      "group": "oneOf",
+      "name": "One master profile",
+      "nameDe": "Masterprofil (CIDA, DITraM oder UCeDI)",
+      "short": "Master profile",
+      "count": 1,
+      "ects": 24,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlmodule > Computational Intelligence and Data Analytics (CIDA)"
+        },
+        {
+          "type": "area",
+          "id": "Wahlmodule > Digital Innovation and Transformation Management (DITraM)"
+        },
+        {
+          "type": "area",
+          "id": "Wahlmodule > User Centered Design of Digital Innovations (UCeDI)"
+        }
+      ],
+      "note": "24 ECTS in one master profile (CIDA, DITraM or UCeDI). Modules of 3 or 4 ECTS can mean more than four modules are needed, and the profile is fixed by the first module credited only to that specialisation (a change needs the examination board)."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-digitale-innovation-und-transformation",
+  "po": "Master Digitale Innovation und Transformation (2024)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28691&token=f2483793d207af42f34f737c9b8718c3c36e69c0"
+  ]
+}

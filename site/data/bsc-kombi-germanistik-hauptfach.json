@@ -1,0 +1,4770 @@
+{
+ "generatedAt": "2026-10-21T14:50:14.648Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Bachelor-Kombinationsprüfung Germanistik (2020) Hauptfach",
+ "programEn": "Bachelor Combined Degree German Studies (Major) (2020)",
+ "slug": "bsc-kombi-germanistik-hauptfach",
+ "degree": "bachelor",
+ "themes": [
+  {
+   "id": "german-linguistics",
+   "modules": [
+    "m52415",
+    "m24304",
+    "m52428",
+    "m52425"
+   ],
+   "text": {
+    "tr": [
+     "Alman Dilbilimi",
+     "Öğrenci, Almancanın yapısını, tarihini ve kullanımını dilbilgisi kuramı ve ampirik sorular çerçevesinde betimlemeyi öğrenir."
+    ],
+    "en": [
+     "German Linguistics",
+     "Students learn to describe the structure, history and use of German with grammar theory and empirical questions."
+    ],
+    "de": [
+     "Germanistische Sprachwissenschaft",
+     "Studierende lernen, Struktur, Geschichte und Verwendung des Deutschen mit Grammatiktheorie und empirischen Fragen zu beschreiben."
+    ]
+   }
+  },
+  {
+   "id": "literary-studies",
+   "modules": [
+    "m52420",
+    "m52397",
+    "m24301",
+    "m24314"
+   ],
+   "text": {
+    "tr": [
+     "Edebiyat Tarihi ve Kuramı",
+     "Öğrenci, Alman edebiyatını tarihi, toplumsal ve kültürel bağlamı içinde edebiyat kuramıyla çözümlemeyi öğrenir."
+    ],
+    "en": [
+     "Literary History and Theory",
+     "Students learn to analyze German literature in its historical, social and cultural contexts and with literary theory."
+    ],
+    "de": [
+     "Literaturgeschichte und Theorie",
+     "Studierende lernen, deutsche Literatur in historischen, gesellschaftlichen und kulturellen Kontexten und mit literaturwissenschaftlicher Theorie zu analysieren."
+    ]
+   }
+  },
+  {
+   "id": "literature-and-media",
+   "modules": [
+    "m52419",
+    "m52425",
+    "m52397",
+    "m52407"
+   ],
+   "text": {
+    "tr": [
+     "Edebiyat ve Medya",
+     "Öğrenci, edebiyat, medya ve söylem ilişkilerini ve metinlerin üretim, dağıtım ve alımlanmasını incelemeyi öğrenir."
+    ],
+    "en": [
+     "Literature and Media",
+     "Students learn to examine literature, media and discourse and how texts are produced, distributed and received."
+    ],
+    "de": [
+     "Literatur und Medien",
+     "Studierende lernen, Literatur, Medien und Diskurse sowie Produktion, Distribution und Rezeption von Texten zu untersuchen."
+    ]
+   }
+  },
+  {
+   "id": "professional-text-work",
+   "modules": [
+    "m52407",
+    "m52411",
+    "m52419",
+    "m52425"
+   ],
+   "text": {
+    "tr": [
+     "Mesleki Metin Çalışması",
+     "Öğrenci, metin türleri, yazma süreçleri ve mesleğe yönelik proje çalışmasıyla metinlerle uygulamalı çalışmayı öğrenir."
+    ],
+    "en": [
+     "Professional Text Work",
+     "Students learn to work with texts in practice through text types, writing processes and a profession-related project."
+    ],
+    "de": [
+     "Berufsbezogene Textarbeit",
+     "Studierende lernen den praktischen Umgang mit Texten über Textsorten, Schreibprozesse und eine berufsfeldbezogene Projektarbeit."
+    ]
+   }
+  },
+  {
+   "id": "daf-daz",
+   "modules": [
+    "m52418",
+    "m24304",
+    "m52415",
+    "m52407"
+   ],
+   "text": {
+    "tr": [
+     "Yabancı Dil Olarak Almanca",
+     "Öğrenci, dilbilgisi, dil kullanımı ve metin becerisiyle Almancanın yabancı ve ikinci dil olarak geçtiği meslek alanına hazırlanır."
+    ],
+    "en": [
+     "German as Foreign Language",
+     "Students prepare for professional work in German as a foreign and second language through grammar, language use and text skills."
+    ],
+    "de": [
+     "Deutsch als Fremdsprache",
+     "Studierende bereiten sich mit Grammatik, Sprachgebrauch und Textkompetenz auf berufliche Tätigkeit in Deutsch als Fremdsprache und Zweitsprache vor."
+    ]
+   }
+  }
+ ],
+ "categories": [
+  {
+   "id": "wp1",
+   "group": "anyOf",
+   "count": 1,
+   "options": [
+    {
+     "type": "module",
+     "id": "Literatur und Medien"
+    },
+    {
+     "type": "module",
+     "id": "Text und Diskurs"
+    }
+   ],
+   "name": "Elective I: language and literature studies",
+   "nameDe": "Wahlpflichtbereich I: Modul 10 oder 11",
+   "short": "WP I",
+   "note": "One 10-ECTS module: Literatur und Medien or Text und Diskurs",
+   "nameTr": "Seçmeli I: dil ve edebiyat çalışmaları",
+   "noteTr": "10 ECTS'lik bir modül: Literatur und Medien veya Text und Diskurs",
+   "noteDe": "Ein Modul mit 10 ECTS: Literatur und Medien oder Text und Diskurs"
+  },
+  {
+   "id": "wp2",
+   "group": "anyOf",
+   "count": 1,
+   "options": [
+    {
+     "type": "module",
+     "id": "Praxisorientierung IIA: Berufsfeldbezogene Projektarbeit in Sprach-/Literaturwissenschaft"
+    },
+    {
+     "type": "module",
+     "id": "Praxisorientierung IIB: Berufsfeldbezogene Projektarbeit in DaF/DaZ"
+    }
+   ],
+   "name": "Elective II: practice orientation",
+   "nameDe": "Wahlpflichtbereich II: Modul 12 oder 13",
+   "short": "WP II",
+   "note": "One 9-ECTS project module: Sprach-/Literaturwissenschaft or DaF/DaZ",
+   "nameTr": "Seçmeli II: uygulama yönelimi",
+   "noteTr": "9 ECTS'lik bir proje modülü: Sprach-/Literaturwissenschaft veya DaF/DaZ",
+   "noteDe": "Ein Projektmodul im Umfang von 9 ECTS: Sprach-/Literaturwissenschaft oder DaF/DaZ"
+  }
+ ],
+ "rulesSummary": {
+  "en": "PO of 08.07.2020, section 8(2a): major of 106 ECTS with compulsory basic modules 1 to 4, advanced modules 5 to 7 and focus modules 8 and 9, plus one of modules 10/11 and one of modules 12/13; further a 40-ECTS minor, 10 ECTS additive key competencies and a 12-ECTS internship.",
+  "tr": "08.07.2020 tarihli PO, madde 8(2a): 106 ECTS'lik ana dal; zorunlu temel modüller 1 ile 4, ileri modüller 5 ile 7 ve odak modülleri 8 ve 9, ayrıca 10/11 modüllerinden biri ve 12/13 modüllerinden biri; buna ek olarak 40 ECTS'lik yan dal, 10 ECTS ek anahtar yetkinlik ve 12 ECTS'lik staj.",
+  "de": "PO vom 08.07.2020, § 8 Abs. 2a: Hauptfach im Umfang von 106 ECTS mit verpflichtenden Basismodulen 1 bis 4, Aufbaumodulen 5 bis 7 und Fokusmodulen 8 und 9 sowie einem der Module 10/11 und einem der Module 12/13; ferner ein Nebenfach mit 40 ECTS, 10 ECTS additive Schlüsselkompetenzen und ein Praktikum mit 12 ECTS."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=11347&token=f331e0aaa3306b06dcb787df1bae068188bc777f"
+ ],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Das Seminar beginnt am 20.10.2026.": {
+   "en": "The seminar begins on 20.10.2026.",
+   "tr": "Seminer 20.10.2026 tarihinde başlar."
+  },
+  "Bochum": {
+   "en": "Bochum",
+   "tr": "Bochum"
+  },
+  "Zürich": {
+   "en": "Zürich",
+   "tr": "Zürich"
+  },
+  "Kassel": {
+   "en": "Kassel",
+   "tr": "Kassel"
+  },
+  "Für die Sitzungen am 15.12.2026 und 19.01.2027 wird ein asynchrones Lehr-Lernangebot bereitgestellt.": {
+   "en": "For the sessions on 15.12.2026 and 19.01.2027, an asynchronous teaching and learning offering will be provided.",
+   "tr": "15.12.2026 ve 19.01.2027 tarihli oturumlar için eşzamansız bir öğretme ve öğrenme olanağı sunulacaktır."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m52428",
+   "title": "Vertiefung Sprachwissenschaft",
+   "titleEn": "Advanced Linguistics",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "69616",
+    "69798",
+    "69802",
+    "69790",
+    "69607"
+   ]
+  },
+  {
+   "id": "m52420",
+   "title": "Vertiefung Ältere und Neuere Literaturwissenschaft",
+   "titleEn": "Advanced Older and Modern Literary Studies",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "69783",
+    "69781",
+    "69585",
+    "69578",
+    "59392",
+    "60033",
+    "69817",
+    "56063",
+    "69590",
+    "69591",
+    "69688",
+    "69215",
+    "69246",
+    "69247",
+    "69592",
+    "69228",
+    "69589",
+    "69245",
+    "60079",
+    "69798"
+   ]
+  },
+  {
+   "id": "m52415",
+   "title": "Schwerpunktbildung Sprachwissenschaft",
+   "titleEn": "Focus Area in Linguistics",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "69513",
+    "68619",
+    "68616",
+    "69219",
+    "72026",
+    "75262"
+   ]
+  },
+  {
+   "id": "m52397",
+   "title": "Schwerpunktbildung Ältere und Neuere Literaturwissenschaft",
+   "titleEn": "Focus Area in Older and Modern Literary Studies",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "69783",
+    "69578",
+    "69225",
+    "69298",
+    "69296",
+    "69297",
+    "69590",
+    "69222",
+    "69592",
+    "69593",
+    "69794"
+   ]
+  },
+  {
+   "id": "m24313",
+   "title": "Grundlagen der Sprach- und Literaturwissenschaft I",
+   "titleEn": "Fundamentals of Linguistics and Literary Studies I",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69216"
+   ]
+  },
+  {
+   "id": "m24304",
+   "title": "Grundlagen der Sprachwissenschaft II: Das Deutsche in Geschichte und Gegenwart",
+   "titleEn": "Fundamentals of Linguistics II: The German Language in History and the Present",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69797",
+    "75255"
+   ]
+  },
+  {
+   "id": "m24301",
+   "title": "Grundlagen der Älteren und Neueren Literaturwissenschaft II",
+   "titleEn": "Fundamentals of Older and Modern Literary Studies II",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [
+     "56545"
+    ]
+   },
+   "courseIds": [
+    "69781",
+    "69585",
+    "59392",
+    "60033",
+    "69817",
+    "69591",
+    "69688",
+    "69215",
+    "69247",
+    "69228",
+    "69589",
+    "69243",
+    "56545",
+    "60079"
+   ]
+  },
+  {
+   "id": "m52419",
+   "title": "Literatur und Medien",
+   "titleEn": "Literature and Media",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "wp1"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "69787",
+    "69785",
+    "73220",
+    "69788",
+    "69789",
+    "69786",
+    "59669",
+    "69513",
+    "68619",
+    "68617",
+    "68616",
+    "69219",
+    "72026",
+    "69783",
+    "69781",
+    "69578",
+    "69298",
+    "69296",
+    "60033",
+    "69297",
+    "56063",
+    "69590",
+    "69591",
+    "69222",
+    "69215",
+    "69592",
+    "69589",
+    "69593",
+    "69245",
+    "69243",
+    "69794",
+    "75262"
+   ]
+  },
+  {
+   "id": "m24314",
+   "title": "Ältere deutsche Sprache und Literatur",
+   "titleEn": "Older German Language and Literature",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69869"
+   ]
+  },
+  {
+   "id": "m52407",
+   "title": "Praxisorientierung I: Textkompetenz, berufsbezogener Umgang mit Texten",
+   "titleEn": "Practical Orientation I: Text Competence, Profession-Related Work with Texts",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69847",
+    "71039"
+   ]
+  },
+  {
+   "id": "m52411",
+   "title": "Praxisorientierung IIA: Berufsfeldbezogene Projektarbeit in Sprach-/Literaturwissenschaft",
+   "titleEn": "Practical Orientation IIA: Professional-Field-Related Project Work in Linguistics/Literary Studies",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "wp2"
+   ],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "71621"
+   ]
+  },
+  {
+   "id": "m52418",
+   "title": "Praxisorientierung IIB: Berufsfeldbezogene Projektarbeit in DaF/DaZ",
+   "titleEn": "Practical Orientation IIB: Professional-Field-Related Project Work in DaF/DaZ",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "wp2"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "68777",
+    "68826",
+    "68823",
+    "68849",
+    "57151",
+    "68773",
+    "68968"
+   ]
+  },
+  {
+   "id": "t:Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+   "title": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+   "titleEn": "Reading Course/Canon Seminar on the 20th Century",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "60044"
+   ]
+  },
+  {
+   "id": "m52425",
+   "title": "Text und Diskurs",
+   "titleEn": "Text and Discourse",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [
+    "wp1"
+   ],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "69787",
+    "69785",
+    "73220",
+    "69788",
+    "69789",
+    "69786",
+    "59669",
+    "69513",
+    "68619",
+    "68617",
+    "68616",
+    "69219",
+    "72026",
+    "69783",
+    "69781",
+    "69578",
+    "69225",
+    "69298",
+    "69296",
+    "69297",
+    "56063",
+    "69590",
+    "69591",
+    "69222",
+    "69592",
+    "69593",
+    "69241",
+    "69794",
+    "75262"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "69216",
+   "title": "Einführung in die Sprachwissenschaft",
+   "number": "Ger: 099",
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. David Römer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-03",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. David Römer"
+       ],
+       "room": "Hörsaal 1 (Raum -1139) (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2027-02-11",
+       "endDate": "2027-02-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. David Römer"
+       ],
+       "room": "Hörsaal 2 (Raum -1122) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69216&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24145",
+    "key": false
+   },
+   "titleEn": "Introduction to Linguistics",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "69847",
+   "title": "Textkompetenz",
+   "number": "Ger: 147",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-17",
+       "endDate": "2026-10-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christopher Daniel Hofmann"
+       ],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-07",
+       "endDate": "2026-11-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christopher Daniel Hofmann"
+       ],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-05",
+       "endDate": "2026-12-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christopher Daniel Hofmann"
+       ],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christopher Daniel Hofmann"
+       ],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69847&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Text Competence",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71039",
+   "title": "Praxisorientierung I: Textkompetenz, berufsbezogener Umgang mit Texten",
+   "number": "Ger: 155",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Ulrich Drees"
+       ],
+       "room": "Raum Incon (Moritzstr. 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-12-14",
+       "endDate": "2026-12-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ulrich Drees"
+       ],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71039&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24886",
+    "key": false
+   },
+   "titleEn": "Practical Orientation I: Text Competence, Profession-Related Work with Texts",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69797",
+   "title": "Grammatik des Deutschen",
+   "number": "Ger: 143",
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Sören Stumpf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Sören Stumpf"
+       ],
+       "room": "Hörsaal 4 (Raum 1127) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69797&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23317",
+    "key": false
+   },
+   "titleEn": "Grammar of German",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "75255",
+   "title": "Sprachgeschichte",
+   "number": "Ger: 148",
+   "type": "Seminar mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Dr. Marko Neumann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-11-03",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Marko Neumann"
+       ],
+       "room": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-11-03",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Marko Neumann"
+       ],
+       "room": "Hörsaal 3 (Raum 1135) (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75255&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Language History",
+   "typeEn": "Seminar with Tutorial"
+  },
+  {
+   "id": "69781",
+   "title": "Unerhörte Begebenheiten. Novellen des 19. Jahrhunderts",
+   "number": "Ger: 131",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Christian Meierhofer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christian Meierhofer"
+       ],
+       "room": "Raum 1309 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69781&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23455",
+    "key": false
+   },
+   "titleEn": "Unheard-of Events. Novellas of the 19th Century",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69585",
+   "title": "Mediensemiotik des Videospiels",
+   "number": "Ger: 119",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Fabian Mehmel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1140 (Schreibbretter) (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69585&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23916",
+    "key": false
+   },
+   "titleEn": "Media Semiotics of the Video Game",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "59392",
+   "title": "Hörspiele",
+   "number": "Ger: 065",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Jan Sinning",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Jan Sinning"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59392&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Radio Plays",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "60033",
+   "title": "Kanonische Literatur lesen",
+   "number": "Ger: 076",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Christine-Marie Ansari",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": "Raum 0207 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60033&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23893",
+    "key": false
+   },
+   "titleEn": "Reading Canonical Literature",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69817",
+   "title": "Friedrich Dürrenmatt",
+   "number": "Ger: 146",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Christine-Marie Ansari",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-02-05",
+       "endDate": "2027-02-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-02-06",
+       "endDate": "2027-02-06",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69817&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23892",
+    "key": false
+   },
+   "titleEn": "Friedrich Dürrenmatt",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69591",
+   "title": "Mädchenliteratur um 1900",
+   "number": "Ger: 122",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Nikola Roßbach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Nikola Roßbach"
+       ],
+       "room": "Raum 0210 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69591&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23478",
+    "key": false
+   },
+   "titleEn": "Girls' Literature around 1900",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69688",
+   "title": "Das politische Theater nach Brecht",
+   "number": "Ger: 129",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Paul Bräutigam"
+       ],
+       "room": "Raum 3004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69688&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24206",
+    "key": false
+   },
+   "titleEn": "The Political Theater after Brecht",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69215",
+   "title": "Deutsche Literatur von 1848 bis 1898",
+   "number": "Ger: 098",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Holger Ehrhardt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Holger Ehrhardt"
+       ],
+       "room": "Hörsaal 0400 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69215&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23872",
+    "key": false
+   },
+   "titleEn": "German Literature from 1848 to 1898",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69247",
+   "title": "Erzähltexte der Romantik",
+   "number": "Ger: 115",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Lisa Hinterleitner",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Lisa Hinterleitner"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69247&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23382",
+    "key": false
+   },
+   "titleEn": "Narrative Texts of Romanticism",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69228",
+   "title": "Internationale Varianten der Kinder- und Hausmärchen",
+   "number": "Ger:102",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Holger Ehrhardt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Holger Ehrhardt"
+       ],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69228&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23875",
+    "key": false
+   },
+   "titleEn": "International Variants of Children's and Household Tales",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69589",
+   "title": "Literatur als Seismograph: Rechtsextremismus und NSU",
+   "number": "Ger: 120",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Sarah Engelhard",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Sarah Engelhard"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69589&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23589",
+    "key": false
+   },
+   "titleEn": "Literature as a Seismograph: Right-Wing Extremism and the NSU",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69243",
+   "title": "Leerstellen in Bild und Text: Verfahren und Diskurse",
+   "number": "Ger. 106",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Liliana Gómez",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Liliana Gómez"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69243&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23736",
+    "key": false
+   },
+   "titleEn": "Blanks in Image and Text: Procedures and Discourses",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56545",
+   "title": "Literaturwissenschaft Seminar mit Tutorrium",
+   "number": "Ger: 020",
+   "type": "Seminar mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Dr. Andreas Wicke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wicke"
+       ],
+       "room": "Raum 0210 (Nora-Platiel 6)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Jennifer Langer"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Jennifer Langer"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Jennifer Langer"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-12-11",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Jennifer Langer"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Jennifer Langer"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Christian Meierhofer"
+       ],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56545&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23876",
+    "key": false
+   },
+   "titleEn": "Literary Studies Seminar with Tutorial",
+   "typeEn": "Seminar with Tutorial"
+  },
+  {
+   "id": "60079",
+   "title": "PS LitWi Spa 01",
+   "number": "FB02-Rom-4010",
+   "type": "Proseminar / Block",
+   "language": "deutsch",
+   "responsible": "Karolin Elisa Schäfer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Karolin Elisa Schäfer"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60079&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "PS LitWi Spa 01",
+   "typeEn": "Proseminar / Block"
+  },
+  {
+   "id": "69869",
+   "title": "Einführung in die ältere deutsche Literatur und Sprache 1",
+   "number": "Ger: 150",
+   "type": "Vorlesung mit Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Michael Mecklenburg"
+       ],
+       "room": "Hörsaal 0400 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69869&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24484",
+    "key": true
+   },
+   "titleEn": "Introduction to Older German Literature and Language 1",
+   "typeEn": "Lecture with Tutorial"
+  },
+  {
+   "id": "69616",
+   "title": "Bedeutung",
+   "number": "Ger: 128",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. David Römer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. David Römer"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69616&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "11780",
+    "key": true
+   },
+   "titleEn": "Meaning",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69798",
+   "title": "Wort",
+   "number": "Ger: 135",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Clara Renée Odendahl",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Clara Renée Odendahl"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69798&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23320",
+    "key": false
+   },
+   "titleEn": "Word",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69802",
+   "title": "Satz",
+   "number": "Ger: 144",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Jonas Trochemowitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Jonas Trochemowitz"
+       ],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69802&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23318",
+    "key": false
+   },
+   "titleEn": "Sentence",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69790",
+   "title": "Text",
+   "number": "Ger: 141",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Sandra Loevenich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sandra Loevenich"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Paula Marie Nerke"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69790&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23343",
+    "key": true
+   },
+   "titleEn": "Text",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69607",
+   "title": "Gespräch",
+   "number": "Ger: 126",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Olaf Gätje",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Olaf Gätje"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69607&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24389",
+    "key": false
+   },
+   "titleEn": "Conversation",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69783",
+   "title": "Moral und Gelächter. Komödien in Barock, Aufklärung und Romantik",
+   "number": "Ger: 133",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Christian Meierhofer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Das Seminar beginnt am 20.10.2026.",
+       "instructors": [
+        "Prof. Dr. Christian Meierhofer"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69783&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23456",
+    "key": false
+   },
+   "titleEn": "Morality and Laughter. Comedies in the Baroque, the Enlightenment, and Romanticism",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69578",
+   "title": "Theatertexte des 20. und 21. Jahrhunderts: Analyse, Dramentheorie, Inszenierung",
+   "number": "Ger: 118",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Andreas Wicke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wicke"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69578&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23883",
+    "key": true
+   },
+   "titleEn": "Theater Texts of the 20th and 21st Centuries: Analysis, Drama Theory, and Staging",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56063",
+   "title": "Lyrikgeschichte",
+   "number": "Ger: 002",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Nikola Roßbach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Nikola Roßbach"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56063&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "History of Lyric Poetry",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69590",
+   "title": "Geschlechtergeschichten in der Vormoderne",
+   "number": "Ger:121",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Nikola Roßbach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Nikola Roßbach"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69590&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23477",
+    "key": false
+   },
+   "titleEn": "Gender Histories in the Premodern Era",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69246",
+   "title": "Praxisorientiert forschen an Handschriften und Drucken",
+   "number": "Ger: 108",
+   "type": "Seminar mit Exkursion",
+   "language": "deutsch",
+   "responsible": "Vivian Joanna Zoë Donath",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-02",
+        "2026-12-09",
+        "2026-12-16",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06",
+        "2027-01-13",
+        "2027-01-20"
+       ],
+       "note": "",
+       "instructors": [
+        "Vivian Joanna Zoë Donath"
+       ],
+       "room": "Raum 0607 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Vivian Joanna Zoë Donath"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Vivian Joanna Zoë Donath"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69246&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23345",
+    "key": false
+   },
+   "titleEn": "Practice-Oriented Research on Manuscripts and Printed Books",
+   "typeEn": "Seminar with Field Trip"
+  },
+  {
+   "id": "69592",
+   "title": "Liebe und Ehe in der mittelalterlichen Literatur",
+   "number": "Ger: 123",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1309 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69592&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23728",
+    "key": false
+   },
+   "titleEn": "Love and Marriage in Medieval Literature",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69245",
+   "title": "Curating in Performance, Film, Art: Aktuelle Forschung",
+   "number": "Ger: 107",
+   "type": "Seminar mit Exkursion",
+   "language": null,
+   "responsible": "Prof. Dr. Liliana Gómez",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2026-10-29",
+       "endDate": "2026-10-29",
+       "cancelled": [],
+       "note": "Bochum",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "09:00",
+       "end": "21:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "Bochum",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2026-10-31",
+       "endDate": "2026-10-31",
+       "cancelled": [],
+       "note": "Bochum",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-11-12",
+       "endDate": "2026-11-12",
+       "cancelled": [],
+       "note": "Zürich",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "09:00",
+       "end": "21:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "Zürich",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "12:00",
+       "startDate": "2026-11-14",
+       "endDate": "2026-11-14",
+       "cancelled": [],
+       "note": "Zürich",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-12-10",
+       "endDate": "2026-12-10",
+       "cancelled": [],
+       "note": "Kassel",
+       "instructors": [
+        "Prof. Dr. Liliana Gómez"
+       ],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "20:00",
+       "startDate": "2026-12-11",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Liliana Gómez"
+       ],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Liliana Gómez"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "Kassel",
+       "instructors": [
+        "Prof. Dr. Liliana Gómez"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69245&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23486",
+    "key": false
+   },
+   "titleEn": "Curating in Performance, Film, Art: Current Research",
+   "typeEn": "Seminar with Field Trip"
+  },
+  {
+   "id": "69513",
+   "title": "Grammatik im sprachlichen Handeln",
+   "number": "Ger: 117",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Jonas Trochemowitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Jonas Trochemowitz"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69513&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23319",
+    "key": false
+   },
+   "titleEn": "Grammar in Linguistic Action",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68619",
+   "title": "Sprachliche Variation, Innovation und Pejoration in Reality-Formaten",
+   "number": "Ger: 093",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Olaf Gätje",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Olaf Gätje"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68619&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24396",
+    "key": false
+   },
+   "titleEn": "Linguistic Variation, Innovation, and Pejoration in Reality Formats",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68616",
+   "title": "Pejorisierung und Hatespeech – Formen der sprachlichen Diskriminierung gesellschaftlicher Gruppen",
+   "number": "Ger: 091",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Olaf Gätje",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Olaf Gätje"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68616&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24391",
+    "key": false
+   },
+   "titleEn": "Pejorization and Hate Speech – Forms of Linguistic Discrimination against Social Groups",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69219",
+   "title": "Grammatik der digitalen Kommunikation",
+   "number": "Ger: 100",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Sören Stumpf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Sören Stumpf"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69219&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23316",
+    "key": false
+   },
+   "titleEn": "Grammar of Digital Communication",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "72026",
+   "title": "Aktuelle Tendenzen der Konstruktionsgrammatik",
+   "number": "Ger: 158",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Sören Stumpf",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Sören Stumpf"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72026&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23536",
+    "key": false
+   },
+   "titleEn": "Current Trends in Construction Grammar",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "75262",
+   "title": "Schreiben im Krieg. Soldatenbriefe des 18. und 19. Jahrhunderts",
+   "number": "Ger: 164",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Dr. Marko Neumann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marko Neumann"
+       ],
+       "room": "Raum 1020 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-21",
+       "endDate": "2026-11-21",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marko Neumann"
+       ],
+       "room": "Raum 1020 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marko Neumann"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marko Neumann"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75262&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24770",
+    "key": false
+   },
+   "titleEn": "Writing in Wartime. Soldiers' Letters of the 18th and 19th Centuries",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "69225",
+   "title": "Hoffmann von Fallersleben als Lyriker",
+   "number": "Ger: 101",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Holger Ehrhardt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Holger Ehrhardt"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69225&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23874",
+    "key": false
+   },
+   "titleEn": "Hoffmann von Fallersleben as a Lyric Poet",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69298",
+   "title": "Filmfestivals« (mit Exkursion)",
+   "number": "Ger: 113",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Stefanie Kreuzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 4,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2026-12-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefanie Kreuzer"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "14-täglich",
+       "day": 4,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2027-01-14",
+       "endDate": "2027-01-28",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69298&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23744",
+    "key": false
+   },
+   "titleEn": "Film Festivals« (with Field Trip)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69296",
+   "title": "Filmanalyse",
+   "number": "Ger: 111",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Stefanie Kreuzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefanie Kreuzer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69296&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23741",
+    "key": false
+   },
+   "titleEn": "Film Analysis",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69297",
+   "title": "Familien(konstellationen) im zeitgenössischen Kino",
+   "number": "Ger: 112",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Stefanie Kreuzer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 4,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2026-12-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Stefanie Kreuzer"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "14-täglich",
+       "day": 4,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2027-01-21",
+       "endDate": "2027-02-04",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69297&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23743",
+    "key": false
+   },
+   "titleEn": "Family (Constellations) in Contemporary Cinema",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69222",
+   "title": "Deutsche Mythologie in der Grimmwelt",
+   "number": "Ger: 160",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Holger Ehrhardt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2026-11-13",
+       "endDate": "2026-11-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-04",
+       "endDate": "2026-12-04",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0212 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69222&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23873",
+    "key": false
+   },
+   "titleEn": "German Mythology in the Grimmwelt",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "69593",
+   "title": "Alles oder nichts? Der Einsatz generativer KI und \"Großer Sprachmodelle\" in der (germanistisch-mediävstischen) Literaturwissenschaft.",
+   "number": "Ger: 124",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Michael Mecklenburg"
+       ],
+       "room": "Raum 1120 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69593&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23729",
+    "key": false
+   },
+   "titleEn": "All or Nothing? The Use of Generative AI and \"Large Language Models\" in (Germanist-Medievalist) Literary Studies.",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69794",
+   "title": "Literaturwissenschaftliches Master- und Examenskolloquium",
+   "number": "Ger: 140",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Nikola Roßbach",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Nikola Roßbach"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69794&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Literary Studies Master's and Examination Colloquium",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69787",
+   "title": "Mehrsprachigkeit untersuchen und fördern",
+   "number": "Ger: 136",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Sandra Loevenich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sandra Loevenich"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69787&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23339",
+    "key": false
+   },
+   "titleEn": "Investigating and Promoting Multilingualism",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69785",
+   "title": "Spracherwerb, Sprachkontakt, Sprachstrukturen",
+   "number": "Ger: 134",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Sandra Loevenich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sandra Loevenich"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69785&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Language Acquisition, Language Contact, and Language Structures",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "73220",
+   "title": "Liebeslyrik vom 18. bis 21. Jahrhundert",
+   "number": "Ger: 159",
+   "type": "Online",
+   "language": "deutsch",
+   "responsible": "Margit Vogt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Margit Vogt"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73220&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23535",
+    "key": false
+   },
+   "titleEn": "Love Poetry from the 18th to the 21st Century",
+   "typeEn": "Online"
+  },
+  {
+   "id": "69788",
+   "title": "Globale Perspektiven der Lesedidaktik",
+   "number": "Ger: 137",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Sandra Loevenich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sandra Loevenich"
+       ],
+       "room": "Raum 0113/0114 (Arnold-Bode 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69788&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23340",
+    "key": true
+   },
+   "titleEn": "Global Perspectives on the Didactics of Reading",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69789",
+   "title": "Schreibdidaktik - Schreibkompetenz und Schreibmotivation",
+   "number": "Ger: 139",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Sandra Loevenich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sandra Loevenich"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69789&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24081",
+    "key": false
+   },
+   "titleEn": "Didactics of Writing - Writing Competence and Writing Motivation",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69786",
+   "title": "Texte erschließen - Lesekompetenz und Lesemotivation fördern.",
+   "number": "Ger: 162",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Sandra Loevenich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sandra Loevenich"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Sandra Loevenich"
+       ],
+       "room": "Raum 4003 (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69786&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Unlocking Texts - Promoting Reading Competence and Reading Motivation.",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "59669",
+   "title": "Einführung in die Dialektologie",
+   "number": "Ger: 070",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Julia Seng-Goertz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Julia Seng-Goertz"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59669&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23641",
+    "key": false
+   },
+   "titleEn": "Introduction to Dialectology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68617",
+   "title": "Projektseminar: Sprachliche Diskriminierung als Gegenstand des Deutschunterrichts",
+   "number": "Ger: 092",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Olaf Gätje",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Olaf Gätje"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68617&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24394",
+    "key": false
+   },
+   "titleEn": "Project Seminar: Linguistic Discrimination as a Topic in German Teaching",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69241",
+   "title": "Grundlagen Kulturtheorie",
+   "number": "Ger: 105",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Liliana Gómez",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Liliana Gómez"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69241&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23488",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Cultural Theory",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "71621",
+   "title": "Praxisorientierung IIA: Berufsfeldbezogene Projektarbeit in Sprach-/Literaturwissenschaft",
+   "number": "Ger: 156",
+   "type": "Blockseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Michael Mecklenburg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-11-06",
+       "endDate": "2026-11-06",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-11-07",
+       "endDate": "2026-11-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-11-20",
+       "endDate": "2026-11-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-11-21",
+       "endDate": "2026-11-21",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2026-12-11",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": "Raum 1214 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "16:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Anna-Theresa Kölczer"
+       ],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71621&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Practical Orientation IIA: Professional-Field-Related Project Work in Linguistics/Literary Studies",
+   "typeEn": "Block Seminar"
+  },
+  {
+   "id": "68777",
+   "title": "Beobachtungen von unterrichtlichen Lehr- und Lernprozessen",
+   "number": "DaFZ-224",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Dagmara Meyer-Warneke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Dagmara Meyer-Warneke"
+       ],
+       "room": "Raum 2004 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68777&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24671",
+    "key": false
+   },
+   "titleEn": "Observations of Classroom Teaching and Learning Processes",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68826",
+   "title": "Förderung schriftlicher und mündlicher Kompetenzen durch (digitale) Medien",
+   "number": "DaFZ-333",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Tanja Fohr",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Für die Sitzungen am 15.12.2026 und 19.01.2027 wird ein asynchrones Lehr-Lernangebot bereitgestellt.",
+       "instructors": [
+        "Dr. Tanja Fohr"
+       ],
+       "room": "Raum 2004 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68826&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23203",
+    "key": true
+   },
+   "titleEn": "Promoting Written and Oral Competences through (Digital) Media",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68823",
+   "title": "Grammatik lehren und lernen",
+   "number": "DaFZ-326",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Dagmara Meyer-Warneke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Dagmara Meyer-Warneke"
+       ],
+       "room": "Raum 2004 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68823&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24670",
+    "key": false
+   },
+   "titleEn": "Teaching and Learning Grammar",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68849",
+   "title": "Kulturelle Bildung im Dialog",
+   "number": "DaFZ-334",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Tanja Fohr",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Tanja Fohr"
+       ],
+       "room": "Raum 2004 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68849&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23204",
+    "key": true
+   },
+   "titleEn": "Cultural Education in Dialogue",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57151",
+   "title": "Methoden des fremd- und zweitsprachlichen Deutschunterrichts",
+   "number": "DaFZ-222",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Tanja Fohr",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Tanja Fohr"
+       ],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-16",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Tanja Fohr"
+       ],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57151&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23201",
+    "key": true
+   },
+   "titleEn": "Methods of Teaching German as a Foreign and Second Language",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68773",
+   "title": "Mündliche Kompetenzen trainieren",
+   "number": "DaFZ-325",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Dagmara Meyer-Warneke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Dagmara Meyer-Warneke"
+       ],
+       "room": "Raum 2004 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68773&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24704",
+    "key": false
+   },
+   "titleEn": "Training Oral Competencies",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68968",
+   "title": "Szenario-Ansatz im berufsbezogenen DaFZ-Unterricht",
+   "number": "DaFZ-335",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Irina Völz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Irina Völz"
+       ],
+       "room": "Raum 2004 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68968&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24172",
+    "key": true
+   },
+   "titleEn": "Scenario Approach in Profession-Related DaFZ Teaching",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "60044",
+   "title": "Lektürekurs/Kanonseminar zum 20. Jahrhundert",
+   "number": "Ger: 077",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Christine-Marie Ansari",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Christine-Marie Ansari"
+       ],
+       "room": "Raum -1030 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60044&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Reading Course/Canon Seminar on the 20th Century",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

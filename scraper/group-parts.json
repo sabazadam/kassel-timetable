@@ -1,0 +1,313 @@
+{
+ "note": "Courses whose eCampus parallel groups are parts of one course, not alternatives. Indices are parsed groups (groups with appointments), in eCampus order. Groups not in pick are attended by everyone; the student takes one pick group (empty: all groups together); slots are groups whose weekly series are alternative times of one session. groups is the expected group count: if eCampus changes it, the scraper warns and leaves the course alone. Applied by applyGroupParts in catalog.js.",
+ "courses": {
+  "55569": {
+   "title": "Entscheidungsorientierte Unternehmensrechnung / Rechnungswesen II (PO 2020 / PO 2013)",
+   "groups": 21,
+   "pick": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): The type is Vorlesung mit Tutorium: group 0 is Wagner's four-hour lecture in Hörsaal 1, and groups 1-20 are separate two-hour slots."
+  },
+  "55765": {
+   "title": "Finanzwirtschaft",
+   "groups": 5,
+   "pick": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Group 0 is Klein's lecture in Hörsaal 6, and the headings explicitly name Tutorium 1 through Tutorium 4 as the choices."
+  },
+  "55974": {
+   "title": "BWL Ia: Unternehmensführung (PO 2013) / Strategie und Leistungsprozesse (PO 2020)",
+   "groups": 7,
+   "pick": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass medium confidence, second pass agreed): Group 0 is Eberl's lecture in Hörsaal 1, while groups 1-6 are small-room slots and every entry notes that tutorials start in calendar week 46."
+  },
+  "56402": {
+   "title": "Intermediate Microeconomics",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Group 0 is the lecture and group 1 is explicitly labeled Tutorium, and with only one tutorial the student attends both."
+  },
+  "56489": {
+   "title": "Einführung in die Umweltökonomik",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Headings separate the lecture from a single tutorial, so the student attends both."
+  },
+  "56652": {
+   "title": "Intermediate Econometrics",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Headings separate the lecture/exercise from a single tutorial, so the student attends both."
+  },
+  "56694": {
+   "title": "Mathematik für Wirtschaftswissenschaften I",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass disagreed, decided by hand): Headings split a Vorlesung on four dated meetings from a single weekly Tutorium, so everyone attends both."
+  },
+  "56907": {
+   "title": "Statistik 1",
+   "groups": 6,
+   "pick": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): One lecture-hall course is paired with five separately timed Tutorium groups."
+  },
+  "56908": {
+   "title": "Statistik 2",
+   "groups": 6,
+   "pick": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): One lecture is paired with five separately timed Tutorium groups."
+  },
+  "56934": {
+   "title": "Foundations of Experimental Economics",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Headings distinguish one lecture from one Tutorium, and each has a single weekly time."
+  },
+  "56997": {
+   "title": "Wirtschaftsprivatrecht",
+   "groups": 2,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass medium confidence, second pass agreed): The lecture meets twice weekly for everyone, while the single Übung group lists three different tutor times."
+  },
+  "57086": {
+   "title": "R5/R7 - Handels- und Gesellschaftsrecht (PO 18/ PO 23)",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Handelsrecht and Gesellschaftsrecht are differently titled components of one course, each with its own weekly time."
+  },
+  "57222": {
+   "title": "Rechnungswesen I / Bilanzielles Rechnungswesen",
+   "groups": 9,
+   "pick": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): One lecture is paired with eight tutor groups named by tutor and time."
+  },
+  "59232": {
+   "title": "R2 - Eu./Int. Wirtschaftsrecht I - Eu. Umwelteuroparecht",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): The second group is explicitly the Tutorium of the same lecture, and its single appointment is not a choice of times."
+  },
+  "64701": {
+   "title": "R13/R11 - Steuerrecht (PO 17/PO 22)",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass medium confidence, second pass agreed): Group 1 is explicitly the course Tutorien, a separate component from the Tuesday and Friday Vorlesung/Übung meetings in group 0."
+  },
+  "67014": {
+   "title": "Wirtschaftspsychologie",
+   "groups": 3,
+   "pick": [
+    1,
+    2
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): The type is lecture with tutorial: group 0 is the lecture and groups 1 and 2 are alternative tutorials."
+  },
+  "67046": {
+   "title": "Wirtschaftswissenschaften studieren: eine Einführung",
+   "groups": 5,
+   "pick": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Group 0 is the lecture and groups 1 to 4 are the same tutorial at different times."
+  },
+  "68088": {
+   "title": "R2 - Bürgerliches Recht I (PO 18 / PO 23)",
+   "groups": 2,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass disagreed, decided by hand): Group 0 is the weekly lecture and group 1 is a tutorium whose three weekly series are alternative times."
+  },
+  "68699": {
+   "title": "R9/R13 - Arbeitsrecht II (PO 18/PO 23)",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Group 0 is the lecture and group 1 is a single weekly tutorial, so students attend both."
+  },
+  "68721": {
+   "title": "R1 - Staatsrecht, Grundzüge des Europarechts (PO 18/PO 23)",
+   "groups": 2,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Group 0 is the weekly lecture and group 1 is a tutorium whose two Friday series are alternative times."
+  },
+  "68722": {
+   "title": "R1 - Wirtschaftsrecht studieren: Eine Einführung (PO 23)",
+   "groups": 3,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass medium confidence, second pass agreed): Headings split a main introduction, a Tutorium with two weekly times, and a separate one-off Nachtutorium, so students attend every part and choose one tutorial slot."
+  },
+  "68761": {
+   "title": "Grundlagen der Ökonometrie",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): The second heading is the Übung and it follows the first group the same day in the same room with the same instructors, so students attend both."
+  },
+  "68884": {
+   "title": "Grundlagen der Elektrotechnik 1 für Informatik",
+   "groups": 2,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Group 0 is a single Hörsaal meeting and group 1 lists two series marked Tutorium, so everyone attends the plenary exercise and chooses one tutorial time."
+  },
+  "69164": {
+   "title": "CAD",
+   "groups": 3,
+   "pick": [
+    1,
+    2
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): CAD Vorlesung is the shared lecture, while CAD-SL 1. Gruppe and CAD-SL 2. Gruppe are alternative practice groups; twin rooms at the same time are one slot."
+  },
+  "69499": {
+   "title": "Elektrische Messtechnik",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Headings separate a shared Übung from a Tutorium with individual online appointments, so the student attends both parts."
+  },
+  "69657": {
+   "title": "Programmierung und Modellierung",
+   "groups": 2,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Everyone attends the single Friday Übung, and the Tutorium lists six weekly times of which the student takes one."
+  },
+  "69908": {
+   "title": "Computational Photonics I",
+   "groups": 3,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Headings split the course into Vorlesung, Übung and Praktikum as complementary parts."
+  },
+  "70058": {
+   "title": "Grundlagen der Elektrotechnik I",
+   "groups": 2,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass disagreed, decided by hand): Everyone takes the Vorlesung/Übung, and the Tutorien group lists several alternative tutorial times."
+  },
+  "70122": {
+   "title": "Einführung in die Genetik",
+   "groups": 2,
+   "pick": [],
+   "slots": [
+    1
+   ],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Group 0 is marked Vorlesung and the Tutorium group lists three alternative times."
+  },
+  "70130": {
+   "title": "Mikrobiologie I",
+   "groups": 3,
+   "pick": [
+    1,
+    2
+   ],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): The professors' Friday session is shared and the two evening groups are marked Tutorium."
+  },
+  "71626": {
+   "title": "Ökologie und Einführung in Agrarsysteme",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Headings separate the weekly Ökologie course from Projektwochen Ökologie, and same-time multi-room entries are one slot."
+  },
+  "71630": {
+   "title": "Statistik, Datenverarbeitung",
+   "groups": 2,
+   "pick": [],
+   "slots": [],
+   "source": "Grok review 2026-10-21 of the eCampus group headings, notes and times (first pass high confidence, second pass agreed): Headings split the course into Datenverarbeitung and Statistik, and each group pairs a session with a separate Übung."
+  }
+ }
+}

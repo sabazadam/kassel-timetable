@@ -1,0 +1,79 @@
+{
+  "summary": "Modulprüfungsordnung Sport for the Lehramt an Hauptschulen und Realschulen of 30 January 2023 (in force from winter semester 2023/24). Wahlpflicht modules 8, 9, 10b and 11b are each obligatory (5, 5, 4 and 4 ECTS), plus one of Bewegungsfelder A, B or C (Modul 13/14/15, 5 ECTS). Compulsory modules 1, 2, 3b, 4, 5 and the practical semester (Modul 12) are not selection slots. Replacing the practical semester with a movement-field module (§ 5) applies only to extension and additional examinations.",
+  "categories": [
+    {
+      "id": "Spielen 1 (Zielschussspiele)",
+      "group": "module",
+      "name": "Playing 1 (target games)",
+      "nameDe": "Spielen 1 (Zielschussspiele) (Modul 8)",
+      "short": "Playing 1",
+      "count": 1,
+      "ects": 5,
+      "note": "Required Wahlpflicht module (Modul 8), 5 ECTS. The PO lists it on its own line, with no alternative.",
+      "compulsory": true
+    },
+    {
+      "id": "Spielen 2 (Rückschlagspiele)",
+      "group": "module",
+      "name": "Playing 2 (return games)",
+      "nameDe": "Spielen 2 (Rückschlagspiele) (Modul 9)",
+      "short": "Playing 2",
+      "count": 1,
+      "ects": 5,
+      "note": "Required Wahlpflicht module (Modul 9), 5 ECTS. The PO lists it on its own line, with no alternative.",
+      "compulsory": true
+    },
+    {
+      "id": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten",
+      "group": "module",
+      "name": "Apparatus and gymnastic, rhythmic and dance movement",
+      "nameDe": "Bewegen an und mit Geräten und Bewegung gymnastisch, rhythmisch und tänzerisch gestalten (Modul 10b)",
+      "short": "Apparatus and dance",
+      "count": 1,
+      "ects": 4,
+      "note": "Required Wahlpflicht module (Modul 10b), 4 ECTS. The PO lists it on its own line, with no alternative.",
+      "compulsory": true
+    },
+    {
+      "id": "Bewegen im Wasser und Laufen, Springen, Werfen",
+      "group": "module",
+      "name": "Movement in water and running, jumping, throwing",
+      "nameDe": "Bewegen im Wasser und Laufen, Springen, Werfen (Modul 11b)",
+      "short": "Water and athletics",
+      "count": 1,
+      "ects": 4,
+      "note": "Required Wahlpflicht module (Modul 11b), 4 ECTS. The PO lists it on its own line, with no alternative.",
+      "compulsory": true
+    },
+    {
+      "id": "bewegungsfelder",
+      "group": "anyOf",
+      "name": "Movement fields A, B or C",
+      "nameDe": "Bewegungsfelder A oder B oder C (Modul 13/14/15)",
+      "short": "Movement fields",
+      "count": 1,
+      "ects": 5,
+      "note": "One of Bewegungsfelder A, B or C (Modul 13, 14 or 15), 5 ECTS. This is the only or-choice among the Wahlpflicht modules in § 4.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Bewegungsfelder A"
+        },
+        {
+          "type": "module",
+          "id": "Bewegungsfelder B"
+        },
+        {
+          "type": "module",
+          "id": "Bewegungsfelder C"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "la-hr-sport",
+  "po": "Lehramt an Haupt- u. Realschulen Sport (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=20552&token=e676f3a0d55a25220a2fad495371068f42c4f2f0"
+  ]
+}

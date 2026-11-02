@@ -1,0 +1,76 @@
+{
+  "summary": "plusMINT regulations of 9 November 2020 (sections 3 and 7; the program name in this file stays the 2019 title): after a 30-ECTS orientation phase, the Umweltingenieurwesen focus (210 ECTS) follows the analogous bachelor regulations. Those are the environmental engineering regulations of 29 April 2014 as amended on 2 June 2020 (section 7): 84 ECTS compulsory basic phase, 57 ECTS compulsory main phase, 12 ECTS environmental engineering electives, 9 ECTS engineering electives with an approved study plan, a 16-ECTS engineering internship, three 6-ECTS key-competency modules (interdisciplinary, law, economics) and the 14-ECTS thesis module.",
+  "categories": [
+    {
+      "id": "Umweltingenieurwesen Schwerpunkt",
+      "group": "area",
+      "name": "Environmental engineering electives",
+      "nameDe": "Wahlpflicht Umweltingenieurwesen Schwerpunkt",
+      "short": "WP Env. eng.",
+      "count": 1,
+      "ects": 12,
+      "exclude": [
+        "Verkehrstechnik I"
+      ],
+      "note": "The 2020 amendment of section 7 requires 12 ECTS from the environmental engineering focus (the 2014 handbook section B2 still says 15), and section 7(5) requires an approved study plan. Verkehrstechnik I does not count here; the handbook lists it under the engineering electives."
+    },
+    {
+      "id": "Ingenieurwissenschaften Ergänzung",
+      "group": "anyOf",
+      "name": "Engineering electives",
+      "nameDe": "Wahlpflicht Ingenieurwissenschaften",
+      "short": "WP Engineering",
+      "count": 1,
+      "ects": 9,
+      "options": [
+        {
+          "type": "area",
+          "id": "Ingenieurwissenschaften Ergänzung"
+        },
+        {
+          "type": "module",
+          "id": "Verkehrstechnik I"
+        }
+      ],
+      "note": "The 2020 amendment of section 7 requires 9 ECTS from the engineering electives (the 2014 handbook section B3 still says two modules of 6 ECTS), including Verkehrstechnik I, and section 7(5) requires an approved study plan. Projektmanagement I und II is listed at 6 ECTS, but this semester only Projektmanagement 1 - Übung is offered, with unpublished ECTS, so it is not an option here."
+    },
+    {
+      "id": "Schlüsselkompetenzen (fachübergreifend)",
+      "group": "module",
+      "name": "Key competencies (interdisciplinary)",
+      "nameDe": "Schlüsselkompetenzen (fachübergreifend)",
+      "short": "Key comp. general",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS of interdisciplinary key competencies under the 2020 amendment of section 7. The amendment sets this credit total and does not list the courses inside the module."
+    },
+    {
+      "id": "Schlüsselkompetenzen (Recht)",
+      "group": "module",
+      "name": "Key competencies (law)",
+      "nameDe": "Schlüsselkompetenzen (Recht)",
+      "short": "Key comp. law",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS of additive law key competencies (section 9 and the 2020 amendment of section 7): Einführung in das Umweltrecht (3 ECTS) is compulsory, plus one of Öffentliches Recht, Zivilrecht für Wirtschaftsingenieure or Grundlagen wissenschaftlichen Schreibens (3 ECTS each). Grundlagen wissenschaftlichen Schreibens may be used in law or in economics, not in both."
+    },
+    {
+      "id": "Schlüsselkompetenzen (Wirtschaft)",
+      "group": "module",
+      "name": "Key competencies (economics)",
+      "nameDe": "Schlüsselkompetenzen (Wirtschaft)",
+      "short": "Key comp. econ.",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS of additive economics key competencies (section 9 and the 2020 amendment of section 7), from Baubetriebswirtschaft (6), Betriebliches Umweltmanagement (3), Grundlagen wissenschaftlichen Schreibens (3), Leistungsprozess und Produktion - BWL 1b (3), Projektorganisation (3 or 6) and VWL I: Mikroökonomik (6). Grundlagen wissenschaftlichen Schreibens may be used in economics or in law, not in both."
+    }
+  ],
+  "pickOne": [],
+  "slug": "bsc-plusmint-umweltingenieurwesen",
+  "po": "Bachelor plusMINT Umweltingenieurwesen (2019)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=10648&token=eb9a75fefec8172659bdfaf1d24e002460a9f9f6",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=2989&token=35f726cc15cf33dfdfd9225b39f291ffdacff0a1",
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8908&token=3d37d48d434e1ba69d23dd480f1227dd0fa12e84"
+  ]
+}

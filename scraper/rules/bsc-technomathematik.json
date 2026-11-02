@@ -1,0 +1,71 @@
+{
+  "summary": "PO 2020 section 7: compulsory mathematics and computer science modules (including proseminar and seminar), one 10-ECTS elective from the master list, one 30-ECTS application specialization (Bauingenieurwesen at least 5 modules, Elektrotechnik exactly 4, Maschinenbau at least 5, and Umweltingenieurwesen at least 5, each with its compulsory annex modules plus further electives), a 14-ECTS internship and the thesis.",
+  "categories": [
+    {
+      "id": "Wahlpflichtbereich",
+      "group": "area",
+      "name": "Elective module (master level)",
+      "nameDe": "Wahlpflichtmodul",
+      "short": "Elective",
+      "count": 1,
+      "ects": 10,
+      "note": "One 10-ECTS module from the Master Technomathematik list in section 7 (1) b). Diskrete Mathematik I is offered in this area and is absent from that list; the provided text has no section 7 (2) handbook update, so it is not excluded."
+    },
+    {
+      "id": "Proseminar",
+      "group": "module",
+      "name": "Proseminar",
+      "nameDe": "Proseminar",
+      "short": "Proseminar",
+      "count": 1,
+      "note": "Compulsory module BS1, 5 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "Seminar",
+      "group": "module",
+      "name": "Seminar",
+      "nameDe": "Seminar",
+      "short": "Seminar",
+      "count": 1,
+      "note": "Compulsory module BS2, 5 ECTS",
+      "compulsory": true
+    },
+    {
+      "id": "application-spec",
+      "group": "oneOf",
+      "name": "One application specialization",
+      "nameDe": "Anwendungsschwerpunkt (eine Wahl)",
+      "short": "Application spec.",
+      "count": 4,
+      "ects": 30,
+      "options": [
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Anwendungsschwerpunkt Bauingenieurwesen"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Anwendungsschwerpunkt Elektrotechnik"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Anwendungsschwerpunkt Maschinenbau"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > Anwendungsschwerpunkt Umweltingenieurwesen"
+        }
+      ],
+      "note": "The chosen specialization totals 30 ECTS and must include its compulsory modules plus further electives: Bauingenieurwesen requires Mechanik I, Mechanik II and Baustatik I and at least two electives totaling 12 ECTS, Elektrotechnik requires Grundlagen der Elektrotechnik I and Grundlagen der Elektrotechnik II and exactly two electives totaling 10 ECTS, Maschinenbau requires Technische Mechanik I and Technische Mechanik 2 and at least three electives totaling 18 ECTS, and Umweltingenieurwesen requires Mechanik I and Mechanik II and at least three electives totaling 18 ECTS. Other modules do not replace those compulsory modules; Mechanik II and Grundlagen der Elektrotechnik II are not offered in winter 2026/27."
+    }
+  ],
+  "pickOne": [
+    "Seminar"
+  ],
+  "slug": "bsc-technomathematik",
+  "po": "Bachelor Technomathematik (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8899&token=94faf95e18f1fefd3aaa26cf3393ed36419657bd"
+  ]
+}

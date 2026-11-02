@@ -1,0 +1,34 @@
+{
+  "slug": "la-gs-franzoesisch",
+  "po": "Lehramt an Grundschulen Französisch (2021)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=12667&token=7dd1ee436f7af7057bfc74d715ceaf62285887d8"
+  ],
+  "categories": [
+    {
+      "id": "basismodule",
+      "group": "anyOf",
+      "count": 2,
+      "options": [
+        {
+          "type": "module",
+          "id": "Modul 4 Sprachwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Modul 5 Literaturwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Modul 6 Landeswissenschaft Basismodul"
+        }
+      ],
+      "name": "Two of three subject basic modules",
+      "nameDe": "2 Wahlpflichtmodule aus Modul 4, 5 und 6",
+      "short": "Basic modules",
+      "note": "Two 6-ECTS modules from linguistics, literature and cultural studies"
+    }
+  ],
+  "pickOne": [],
+  "summary": "Modulprüfungsordnung Französisch L1 (new version of 17.02.2021), section 15: compulsory language practice, didactics modules, plus two of the three 6-ECTS basic modules in linguistics, literature and cultural studies."
+}

@@ -1,0 +1,2719 @@
+{
+ "generatedAt": "2026-10-19T21:03:24.326Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Empirische Bildungsforschung (2021)",
+ "programEn": "Master Empirical Educational Research (2021)",
+ "slug": "msc-empirische-bildungsforschung",
+ "degree": "master",
+ "themes": [
+  {
+   "id": "research-methods",
+   "modules": [
+    "m3955",
+    "m3961",
+    "m3938",
+    "m3957"
+   ],
+   "text": {
+    "tr": [
+     "Araştırma Yöntemleri",
+     "Eğitim araştırmalarında çalışma tasarlamayı, yöntem uygulamayı ve bulguları eleştirel okumayı öğrenirsin."
+    ],
+    "en": [
+     "Research Methods",
+     "You learn to design studies, apply methods, and read findings in educational research critically."
+    ],
+    "de": [
+     "Forschungsmethoden",
+     "Du lernst, Studien zu planen, Methoden anzuwenden und Befunde der Bildungsforschung kritisch zu lesen."
+    ]
+   }
+  },
+  {
+   "id": "school-classroom",
+   "modules": [
+    "m3943",
+    "m3938",
+    "m3955",
+    "m3961"
+   ],
+   "text": {
+    "tr": [
+     "Okul ve Sınıf Araştırması",
+     "Okulda ve sınıfta öğretme ile öğrenmeyi ampirik olarak incelemeyi öğrenirsin."
+    ],
+    "en": [
+     "School and Classroom",
+     "You learn to study teaching and learning in schools through empirical research."
+    ],
+    "de": [
+     "Schule und Unterricht",
+     "Du lernst, Lehren und Lernen in der Schule empirisch zu untersuchen."
+    ]
+   }
+  },
+  {
+   "id": "education-beyond-school",
+   "modules": [
+    "m3942",
+    "m3938",
+    "m3961",
+    "m3957"
+   ],
+   "text": {
+    "tr": [
+     "Okul Dışı Eğitim",
+     "Aile, akran grupları, çocukluk pedagojisi, sosyal hizmet ve gençlik ile yetişkin eğitiminde öğrenmeyi incelemeyi öğrenirsin."
+    ],
+    "en": [
+     "Education Beyond School",
+     "You learn how family, peers, childhood pedagogy, social work, and youth and adult education shape learning."
+    ],
+    "de": [
+     "Außerschulische Bildung",
+     "Du lernst, wie Familie, Gleichaltrige, Kindheitspädagogik, Soziale Arbeit sowie Jugendbildung und Erwachsenenbildung Lernen prägen."
+    ]
+   }
+  },
+  {
+   "id": "critical-reading",
+   "modules": [
+    "m3938",
+    "m3955",
+    "m3960"
+   ],
+   "text": {
+    "tr": [
+     "Eleştirel Okuma",
+     "Ampirik çalışmaları kuramları, yöntemleri ve sınırları açısından değerlendirmeyi öğrenirsin."
+    ],
+    "en": [
+     "Critical Reading",
+     "You learn to judge empirical studies by their theories, methods, and limits."
+    ],
+    "de": [
+     "Kritisches Lesen",
+     "Du lernst, empirische Studien anhand ihrer Theorie, ihrer Methode und ihrer Grenzen zu beurteilen."
+    ]
+   }
+  }
+ ],
+ "categories": [],
+ "rulesSummary": null,
+ "rulesSources": [],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Die Veranstaltung findet in dem Raum 1017, in der Kurt-Wolters-Straße 5 statt.": {
+   "en": "The event takes place in room 1017, at Kurt-Wolters-Straße 5.",
+   "tr": "Etkinlik Kurt-Wolters-Straße 5 adresindeki 1017 numaralı odada gerçekleşir."
+  },
+  "Die Veranstaltung findet in dem Raum 1215, in der Arnold-Bode 10 statt.": {
+   "en": "The event takes place in room 1215, at Arnold-Bode 10.",
+   "tr": "Etkinlik Arnold-Bode 10 adresindeki 1215 numaralı odada gerçekleşir."
+  },
+  "VorbereitungsterminDie Veranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.": {
+   "en": "Preparatory session. The event takes place in room 1108 at Nora-Platiel-Straße 5.",
+   "tr": "Hazırlık oturumu. Etkinlik, Nora-Platiel-Straße 5 adresindeki 1108 numaralı odada yapılmaktadır."
+  },
+  "Theorien, Konzepte und Befunde zum kooperativen Lernen; Kategoriensysteme zur Beobachtung kooperativen Lernens; Lösungswege bei der Bearbeitung der Schülerarbeitsaufgabe Die Veranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.": {
+   "en": "Theories, concepts and findings on cooperative learning; category systems for observing cooperative learning; solution approaches when working on the pupil work task. The event takes place in room 1108 at Nora-Platiel-Straße 5.",
+   "tr": "İşbirlikli öğrenmeye ilişkin kuramlar, kavramlar ve bulgular; işbirlikli öğrenmenin gözlemlenmesine yönelik kategori sistemleri; öğrenci çalışma görevinin işlenmesindeki çözüm yolları. Etkinlik, Nora-Platiel-Straße 5 adresindeki 1108 numaralı odada yapılmaktadır."
+  },
+  "Virtuelles Seminar: Hoch‐ und niedriginferente Beobachtungsverfahren zur Erfassung der Qualität kooperativen Lernens": {
+   "en": "Virtual seminar: High- and low-inference observation procedures for capturing the quality of cooperative learning",
+   "tr": "Sanal seminer: İşbirlikli öğrenmenin niteliğini belirlemeye yönelik yüksek ve düşük çıkarımlı gözlem yöntemleri"
+  },
+  "Virtuelles Seminar: Vorstellung der eigenen Fragestellungen und erster Ideen zur Entwicklung eines Kategoriensystems": {
+   "en": "Virtual seminar: Presentation of one's own research questions and initial ideas for developing a category system",
+   "tr": "Sanal seminer: Kendi araştırma sorularının ve bir kategori sistemi geliştirmeye yönelik ilk fikirlerin sunumu"
+  },
+  "Präsentation des Kategoriensystems und erster Zwischenergebnisse aus den Tandems Die Veranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.": {
+   "en": "Presentation of the category system and the first interim results from the tandems. The event takes place in Room 1108 at Nora-Platiel-Straße 5.",
+   "tr": "Kategori sisteminin ve tandemlerden ilk ara sonuçların sunumu. Etkinlik, Nora-Platiel-Straße 5 adresindeki 1108 numaralı odada gerçekleşir."
+  },
+  "Videokonferenz: Klärung weiterer Rückfragen zu den Forschungsvorhaben": {
+   "en": "Video conference: Clarification of further follow-up questions on the research projects",
+   "tr": "Video konferans: Araştırma projelerine ilişkin ek soruların netleştirilmesi"
+  },
+  "Videokonferenz: Präsentation der Forschungsergebnisse 1": {
+   "en": "Video conference: Presentation of the research results 1",
+   "tr": "Video konferans: Araştırma sonuçlarının sunumu 1"
+  },
+  "Videokonferenz: Präsentation der Forschungsergebnisse 2": {
+   "en": "Video conference: Presentation of the research results 2",
+   "tr": "Video konferans: Araştırma sonuçlarının sunumu 2"
+  },
+  "Block I": {
+   "en": "Block I",
+   "tr": "Blok I"
+  },
+  "Block II findet in der Offenen Schule Waldau statt.": {
+   "en": "Block II takes place at the Offene Schule Waldau.",
+   "tr": "Blok II, Offene Schule Waldau'da gerçekleşir."
+  },
+  "Block III": {
+   "en": "Block III",
+   "tr": "Blok III"
+  },
+  "Block IV": {
+   "en": "Block IV",
+   "tr": "Blok IV"
+  },
+  "Block V: PräsentationVeranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.": {
+   "en": "Block V: Presentation. The event takes place in Room 1108 at Nora-Platiel-Straße 5.",
+   "tr": "Blok V: Sunum. Etkinlik, Nora-Platiel-Straße 5 adresindeki 1108 numaralı odada gerçekleşir."
+  },
+  "Diese Einführungsveranstaltung findet per Zoom statt.": {
+   "en": "This introductory event takes place via Zoom.",
+   "tr": "Bu giriş etkinliği Zoom üzerinden gerçekleşir."
+  },
+  "Vorbesprechungstermin": {
+   "en": "Kick-off meeting session",
+   "tr": "Ön görüşme oturumu"
+  },
+  "Der digitale Vorbesprechungs-Termin findet per Zoom statt.Dies ist der folgende Zoomraum: Marianne Hirschberg lädt Sie zu einem geplanten Zoom-Meeting ein. https://uni-kassel.zoom-x.de/j/6441878381?pwd=SkZoNEVsUkxHNnJHUDNWMHZHU0RnZz09 Meeting-ID: 644 187 8381, Kenncode: zqXVW7": {
+   "en": "The digital kick-off meeting session takes place via Zoom. Online via Zoom. The meeting link, ID and passcode are in the German original.",
+   "tr": "Dijital ön görüşme oturumu Zoom üzerinden gerçekleşir. Zoom üzerinden online. Toplantı bağlantısı, kimliği ve şifresi Almanca orijinal metinde."
+  },
+  "Die Vorbesprechung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.": {
+   "en": "The kick-off meeting takes place in Room 1108 at Nora-Platiel-Straße 5.",
+   "tr": "Ön görüşme, Nora-Platiel-Straße 5 adresindeki 1108 numaralı odada gerçekleşir."
+  },
+  "Dieser Veranstaltungstermin findet Digital satt.": {
+   "en": "This event session takes place digitally.",
+   "tr": "Bu etkinlik oturumu dijital olarak gerçekleşir."
+  },
+  "Die Veranstaltung findet im Raum 1107 (blob)Universitätsplatz 9, ASL 1Gebäudenummer 7670statt.": {
+   "en": "The event takes place in Room 1107 (blob), Universitätsplatz 9, ASL 1, building number 7670.",
+   "tr": "Etkinlik, Oda 1107 (blob), Universitätsplatz 9, ASL 1, bina numarası 7670 adresinde gerçekleşir."
+  },
+  "Die Veranstaltung findet im Raum 1107 (blob), Universitätsplatz 9, ASL 1 Gebäudenummer 7670 statt.": {
+   "en": "The event takes place in Room 1107 (blob), Universitätsplatz 9, ASL 1, building number 7670.",
+   "tr": "Etkinlik, Oda 1107 (blob), Universitätsplatz 9, ASL 1, bina numarası 7670 adresinde gerçekleşir."
+  },
+  "Interessierte Studierende der Lehrämter L1/L2/L3/L4/L5 und des Studiengangs empirische Bildungsforschung können bei Interesse bis zum 01.10.2026 eine Mail an eichler@mathematik.uni-kassel.de und dcstylianou@mathematik.de mit Motivationsschreiben für das Seminar und einer Notenübersicht senden.": {
+   "en": "Interested students of the teaching degree programs L1/L2/L3/L4/L5 and of the degree program in empirical educational research may, if interested, send an email by 01.10.2026 to eichler@mathematik.uni-kassel.de and dcstylianou@mathematik.de with a letter of motivation for the seminar and a grade overview.",
+   "tr": "L1/L2/L3/L4/L5 öğretmenlik programları ile ampirik eğitim araştırması programının ilgili öğrencileri, ilgilenmeleri halinde 01.10.2026 tarihine kadar eichler@mathematik.uni-kassel.de ve dcstylianou@mathematik.de adreslerine seminer için bir motivasyon yazısı ve bir not özeti içeren bir e-posta gönderebilir."
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "m3960",
+   "title": "Aktuelle Themen und Herausforderungen der Empirischen Bildungsforschung",
+   "titleEn": "Current Topics and Challenges in Empirical Educational Research",
+   "code": null,
+   "ects": 15,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "63384",
+    "61793",
+    "69279",
+    "56549",
+    "54175",
+    "70102"
+   ]
+  },
+  {
+   "id": "m3938",
+   "title": "Grundlagen der Empirischen Bildungsforschung",
+   "titleEn": "Fundamentals of Empirical Educational Research",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69280",
+    "69283",
+    "70290"
+   ]
+  },
+  {
+   "id": "m3955",
+   "title": "Methoden und Methodologie der Empirischen Bildungsforschung  Einführung und Vertiefung",
+   "titleEn": "Methods and Methodology of Empirical Educational Research - Introduction and Advanced Topics",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69358",
+    "67114",
+    "68922",
+    "70173",
+    "70336"
+   ]
+  },
+  {
+   "id": "m3961",
+   "title": "Methoden und Methodologie der Empirischen Bildungsforschung Projektseminar und Anwendung",
+   "titleEn": "Methods and Methodology of Empirical Educational Research Project Seminar and Application",
+   "code": null,
+   "ects": 15,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "68890"
+   ]
+  },
+  {
+   "id": "m3957",
+   "title": "Forschungspraktikum",
+   "titleEn": "Research Practicum",
+   "code": null,
+   "ects": 18,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69086"
+   ]
+  },
+  {
+   "id": "m3943",
+   "title": "Schul- und Unterrichtsforschung",
+   "titleEn": "School and Classroom Research",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "67161",
+    "69097",
+    "68623",
+    "69110",
+    "68269",
+    "70102"
+   ]
+  },
+  {
+   "id": "m3942",
+   "title": "Gesellschaftliche Bedingungen, Prozesse und Ergebnisse formaler, non-formaler und informeller Bildung",
+   "titleEn": "Societal Conditions, Processes and Outcomes of Formal, Non-Formal and Informal Education",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "59703",
+    "69294",
+    "69843",
+    "69840"
+   ]
+  },
+  {
+   "id": "t:Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil I",
+   "title": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil I",
+   "titleEn": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil I",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "69286"
+   ]
+  },
+  {
+   "id": "t:Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil II",
+   "title": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil II",
+   "titleEn": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil II",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "69292"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "69280",
+   "title": "Theoretische Grundlagen der Empirischen Bildungsforschung",
+   "number": "ErWi-2230-Seminar5",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Hedda Bennewitz, Dr. Sebastian Vogel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hedda Bennewitz"
+       ],
+       "room": "Raum 1215 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69280&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Theoretical Fundamentals of Empirical Educational Research",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69283",
+   "title": "Ringvorlesung: Einführung in die Emprische Bildungsforschung",
+   "number": "ErWi-2230-Vorlesung1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Hedda Bennewitz, Dr. Sebastian Vogel",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hedda Bennewitz"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69283&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24310",
+    "key": true
+   },
+   "titleEn": "Lecture Series: Introduction to Empirical Educational Research",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70290",
+   "title": "Einsemestriger Verbund: Einführung in die Empirische Bildungsforschung (Ringvorlesung und theoretische Grundlagen)",
+   "number": "ErWi-2100-Forschungsseminar1",
+   "type": "Forschungsseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Hedda Bennewitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Veranstaltung findet in dem Raum 1017, in der Kurt-Wolters-Straße 5 statt.",
+       "instructors": [
+        "Prof. Dr. Hedda Bennewitz",
+        "Dr. Sebastian Vogel"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Die Veranstaltung findet in dem Raum 1215, in der Arnold-Bode 10 statt.",
+       "instructors": [
+        "Prof. Dr. Hedda Bennewitz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70290&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Einsemestriger Verbund: Einführung in die Empirische Bildungsforschung (Ringvorlesung und theoretische Grundlagen)",
+   "typeEn": "Research Seminar"
+  },
+  {
+   "id": "67161",
+   "title": "Einsemestriger Verbund: Kooperatives Lernen beobachten und sichtbar machen",
+   "number": "ErWi-2230-Lehrforschungsprojekt1",
+   "type": "Lehrforschungsprojekt",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Frank Lipowsky",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-10-28",
+       "cancelled": [],
+       "note": "VorbereitungsterminDie Veranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2026-10-31",
+       "endDate": "2026-10-31",
+       "cancelled": [],
+       "note": "Theorien, Konzepte und Befunde zum kooperativen Lernen; Kategoriensysteme zur Beobachtung kooperativen Lernens; Lösungswege bei der Bearbeitung der Schülerarbeitsaufgabe Die Veranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "21:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "Virtuelles Seminar: Hoch‐ und niedriginferente Beobachtungsverfahren zur Erfassung der Qualität kooperativen Lernens",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "21:00",
+       "startDate": "2026-12-18",
+       "endDate": "2026-12-18",
+       "cancelled": [],
+       "note": "Virtuelles Seminar: Vorstellung der eigenen Fragestellungen und erster Ideen zur Entwicklung eines Kategoriensystems",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "16:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-16",
+       "cancelled": [],
+       "note": "Präsentation des Kategoriensystems und erster Zwischenergebnisse aus den Tandems Die Veranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "21:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "Videokonferenz: Klärung weiterer Rückfragen zu den Forschungsvorhaben",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:00",
+       "startDate": "2027-02-10",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Videokonferenz: Präsentation der Forschungsergebnisse 1",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:00",
+       "startDate": "2027-02-11",
+       "endDate": "2027-02-11",
+       "cancelled": [],
+       "note": "Videokonferenz: Präsentation der Forschungsergebnisse 2",
+       "instructors": [
+        "Prof. Dr. Frank Lipowsky"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67161&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23344",
+    "key": true
+   },
+   "titleEn": "One-Semester Combined Course: Observing Cooperative Learning and Making It Visible",
+   "typeEn": "Teaching-Research Project"
+  },
+  {
+   "id": "69097",
+   "title": "Zweisemestriger Verbund: Schule und Familie - Teil 2",
+   "number": "ErWi-2230-Lehrforschungsprojekt3",
+   "type": "Lehrforschungsprojekt",
+   "language": "deutsch",
+   "responsible": "Max Frederic Remmert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Max Frederic Remmert"
+       ],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69097&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "18402",
+    "key": true
+   },
+   "titleEn": "Two-Semester Combined Course: School and Family - Part 2",
+   "typeEn": "Teaching-Research Project"
+  },
+  {
+   "id": "68623",
+   "title": "Visuelle Wahrnehmung und Aufmerksamkeit von Lehrkräften: Ein Seminar zu Erkenntnissen aus der Welt des Eye-Trackings",
+   "number": "BeWiPd-6560-V3",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Alina Gierosz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Alina Gierosz"
+       ],
+       "room": "Raum 1120 A (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68623&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24673",
+    "key": true
+   },
+   "titleEn": "Visual Perception and Attention of Teachers: A Seminar on Findings from the World of Eye-Tracking",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69110",
+   "title": "Frei kombinierbar: Auditiv mit Bildungsmythen aufräumen – Konzeptwechsel durch Podcasts",
+   "number": "ErWi-2230-Projektseminar6",
+   "type": "Projektseminar",
+   "language": "deutsch",
+   "responsible": "Julia Götzfried",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Julia Götzfried"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69110&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Freely Combinable: Debunking Educational Myths through Audio – Conceptual Change through Podcasts",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "68269",
+   "title": "Einsemestriger Verbund: Barcamp \"Zukunftsfähige Schulentwicklung gemeinsam gestalten - Kurs A\" - Dr. Julia Zimmermann",
+   "number": "ErWi-2230-Lehrforschungsprojekt2",
+   "type": "Lehrforschungsprojekt",
+   "language": "deutsch",
+   "responsible": "Dr. Julia Zimmermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "Block I",
+       "instructors": [
+        "Dr. Julia Zimmermann"
+       ],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2026-10-31",
+       "endDate": "2026-10-31",
+       "cancelled": [],
+       "note": "Block II findet in der Offenen Schule Waldau statt.",
+       "instructors": [
+        "Dr. Julia Zimmermann"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "Block III",
+       "instructors": [
+        "Dr. Julia Zimmermann"
+       ],
+       "room": "Raum 1219 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-02-26",
+       "endDate": "2027-02-26",
+       "cancelled": [],
+       "note": "Block IV",
+       "instructors": [
+        "Dr. Julia Zimmermann"
+       ],
+       "room": "Raum 1219 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "16:00",
+       "end": "20:00",
+       "startDate": "2027-06-18",
+       "endDate": "2027-06-18",
+       "cancelled": [],
+       "note": "Block V: PräsentationVeranstaltung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68269&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23464",
+    "key": true
+   },
+   "titleEn": "One-Semester Combined Course: Barcamp \"Shaping Future-Proof School Development Together - Course A\" - Dr. Julia Zimmermann",
+   "typeEn": "Teaching-Research Project"
+  },
+  {
+   "id": "70102",
+   "title": "Einsemestriger Verbund: Beobachten, Beraten und Fördern im Kontext von Inklusion: Interviewführung",
+   "number": "ErWi-2100-Lehrforschungsprojekt8",
+   "type": "Forschungsseminar",
+   "language": "deutsch",
+   "responsible": "Christian Schaub",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "Diese Einführungsveranstaltung findet per Zoom statt.",
+       "instructors": [
+        "Christian Schaub"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christian Schaub"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 7,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-10-25",
+       "endDate": "2026-10-25",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christian Schaub"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-21",
+       "endDate": "2026-11-21",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christian Schaub"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 7,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-11-22",
+       "endDate": "2026-11-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Christian Schaub"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70102&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "One-Semester Combined Course: Observing, Counseling and Supporting in the Context of Inclusion: Conducting Interviews",
+   "typeEn": "Research Seminar"
+  },
+  {
+   "id": "59703",
+   "title": "Schule und soziale Ungleichheit",
+   "number": "ErWi-2230-Projektseminar3",
+   "type": "Projektseminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Hans-Peter Kuhn",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-22",
+       "endDate": "2026-10-22",
+       "cancelled": [],
+       "note": "Vorbesprechungstermin",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-11-05",
+       "endDate": "2026-11-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2027-01-14",
+       "endDate": "2027-01-14",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-02-06",
+       "endDate": "2027-02-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": "Raum 0005 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-02-06",
+       "endDate": "2027-02-07",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59703&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24219",
+    "key": false
+   },
+   "titleEn": "School and Social Inequality",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "69294",
+   "title": "Es gibt freie Plätze * Einsemestriger Verbund: Inklusion und Nachhaltigkeit in der Lehrer:innenbildung / Inclusive Education and Sustainability in Teacher Education",
+   "number": "ErWi-2230-Projektseminar7",
+   "type": "Projektseminar",
+   "language": "deutsch",
+   "responsible": "Dr. Nina Blasse",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Nina Blasse"
+       ],
+       "room": "Saal (Möncheberg 29, ESG)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69294&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23834",
+    "key": true
+   },
+   "titleEn": "There Are Open Places * One-Semester Combined Course: Inclusion and Sustainability in Teacher Education / Inclusive Education and Sustainability in Teacher Education",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "69843",
+   "title": "Einführung in die Disability Studies: Behinderung und Nichtbehinderung neu denken",
+   "number": "IfS-MA DFSA M2 Hirschberg",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Marianne Hirschberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-12-01",
+       "endDate": "2026-12-01",
+       "cancelled": [],
+       "note": "Der digitale Vorbesprechungs-Termin findet per Zoom statt.Dies ist der folgende Zoomraum: Marianne Hirschberg lädt Sie zu einem geplanten Zoom-Meeting ein. https://uni-kassel.zoom-x.de/j/6441878381?pwd=SkZoNEVsUkxHNnJHUDNWMHZHU0RnZz09 Meeting-ID: 644 187 8381, Kenncode: zqXVW7",
+       "instructors": [
+        "Prof. Dr. Marianne Hirschberg"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "18:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Marianne Hirschberg"
+       ],
+       "room": "Raum 1214 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Blockveranstaltung + Sa und So",
+       "day": null,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-01-16",
+       "endDate": "2027-01-17",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Marianne Hirschberg"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69843&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24292",
+    "key": false
+   },
+   "titleEn": "Introduction to Disability Studies: Rethinking Disability and Non-Disability",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69840",
+   "title": "In den Disability Studies von Postkolonialen, Dekolonialen und Indigenen Studien lernen. Ein Scoping Review.",
+   "number": "IfS-MA DFSA M2 Wechuli",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Marianne Hirschberg, Dr. phil. Yvonne Wechuli",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. phil. Yvonne Wechuli",
+        "Prof. Dr. Marianne Hirschberg"
+       ],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69840&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24336",
+    "key": false
+   },
+   "titleEn": "Learning from Postcolonial, Decolonial and Indigenous Studies in Disability Studies. A Scoping Review.",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69358",
+   "title": "Einführung in die qualitativen Methoden",
+   "number": "ErWi-6400-Seminar3",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Steffen Wittig",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-14",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Steffen Wittig"
+       ],
+       "room": "Raum 0409 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69358&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introduction to Qualitative Methods",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "67114",
+   "title": "Einführung in Quantitative Forschungsmethoden",
+   "number": "ErWi-6400-Seminar1",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Hans-Peter Kuhn",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2026-10-22",
+       "cancelled": [],
+       "note": "Die Vorbesprechung findet im Raum 1108 in der Nora-Platiel-Straße 5 statt.",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "17:00",
+       "startDate": "2026-12-05",
+       "endDate": "2026-12-05",
+       "cancelled": [],
+       "note": "Dieser Veranstaltungstermin findet Digital satt.",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": "Raum 0105 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 7,
+       "start": "10:00",
+       "end": "16:00",
+       "startDate": "2027-01-24",
+       "endDate": "2027-01-24",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hans-Peter Kuhn"
+       ],
+       "room": "Raum 0105 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67114&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24218",
+    "key": false
+   },
+   "titleEn": "Introduction to Quantitative Research Methods",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "68922",
+   "title": "Statistik II",
+   "number": "ErWi-6400-Seminar2",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Jennifer Lorenz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-11-26",
+       "endDate": "2027-02-18",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Veranstaltung findet im Raum 1107 (blob)Universitätsplatz 9, ASL 1Gebäudenummer 7670statt.",
+       "instructors": [
+        "Dr. Jennifer Lorenz"
+       ],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2027-02-20",
+       "endDate": "2027-02-20",
+       "cancelled": [],
+       "note": "Die Veranstaltung findet im Raum 1107 (blob)Universitätsplatz 9, ASL 1Gebäudenummer 7670statt.",
+       "instructors": [
+        "Dr. Jennifer Lorenz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68922&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Statistics II",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70173",
+   "title": "Statistik II Übung",
+   "number": "ErWi-6400-Übung1",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Dr. Jennifer Lorenz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Veranstaltung findet im Raum 1107 (blob)Universitätsplatz 9, ASL 1Gebäudenummer 7670statt.",
+       "instructors": [
+        "Dr. Jennifer Lorenz"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70173&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Statistics II Exercise",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70336",
+   "title": "Statistik Vorkurs",
+   "number": "ErWi-6400-Vorkurs1",
+   "type": "Vorkurs",
+   "language": "deutsch",
+   "responsible": "Marius Mähler",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Die Veranstaltung findet im Raum 1107 (blob), Universitätsplatz 9, ASL 1 Gebäudenummer 7670 statt.",
+       "instructors": [
+        "Marius Mähler"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70336&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Statistics Preparatory Course",
+   "typeEn": "Preparatory Course"
+  },
+  {
+   "id": "68890",
+   "title": "Anwendung quantitativer Forschungsmethoden Teil 2a",
+   "number": "ErWi-6500-Seminar1",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Natalie Fischer",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68890&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Application of Quantitative Research Methods Part 2a",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "63384",
+   "title": "Grundfragen ästhetischer Bildung - Forschungskolloquium",
+   "number": "ÄsthBildung-VF4",
+   "type": "Forschungskolloquium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Verena Freytag",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-02",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Verena Freytag"
+       ],
+       "room": "Raum 0012 Seminarraum I (Möncheberg 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63384&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "16382",
+    "key": false
+   },
+   "titleEn": "Fundamental Questions of Aesthetic Education - Research Colloquium",
+   "typeEn": "Research Colloquium"
+  },
+  {
+   "id": "61793",
+   "title": "Angewandte Forschungsprojekte im Kontext des Radfahrens",
+   "number": "FB05.SPO.20",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Lisa Claußen, Samuel Seip",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "15:45",
+       "end": "17:15",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Lisa Claußen",
+        "Samuel Seip"
+       ],
+       "room": "Raum 0110-0130 (Damaschkestraße 25)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61793&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Angewandte Forschungsprojekte im Kontext des Radfahrens",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69279",
+   "title": "Schreibkompetenz fördern",
+   "number": "Ger: 109",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Miriam Langlotz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-10-21",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Miriam Langlotz"
+       ],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69279&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23907",
+    "key": false
+   },
+   "titleEn": "Fostering Writing Competence",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56549",
+   "title": "Literatur- und Mediendidaktik",
+   "number": "Ger: 025",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Andreas Wicke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wicke"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wicke"
+       ],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wicke"
+       ],
+       "room": "Raum 1311 (Nora-Platiel 1)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Andreas Wicke"
+       ],
+       "room": "Raum 0020 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56549&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Literature and Media Didactics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54175",
+   "title": "Fachdidaktisches Seminar Matheforscher:innen",
+   "number": "FB1017.5221w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Andreas Eichler, Dr. Dorothee Cosima Stylianou",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Interessierte Studierende der Lehrämter L1/L2/L3/L4/L5 und des Studiengangs empirische Bildungsforschung können bei Interesse bis zum 01.10.2026 eine Mail an eichler@mathematik.uni-kassel.de und dcstylianou@mathematik.de mit Motivationsschreiben für das Seminar und einer Notenübersicht senden.",
+       "instructors": [
+        "Prof. Dr. Andreas Eichler"
+       ],
+       "room": "Raum 0421 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54175&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24923",
+    "key": false
+   },
+   "titleEn": "Subject Didactics Seminar Mathematics Researchers",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69086",
+   "title": "Tutorium Master Empirische Bildungsforschung",
+   "number": "ErWi-6700-Tutorium1",
+   "type": "Tutorium",
+   "language": "deutsch",
+   "responsible": "Kristin Löwenberger",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Kristin Löwenberger"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69086&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Tutorial Master Empirical Educational Research",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "69286",
+   "title": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil I",
+   "number": "ErWi-2230-Lehrforschungsprojekt6",
+   "type": "Lehrforschungsprojekt",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Hedda Bennewitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hedda Bennewitz"
+       ],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69286&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil I",
+   "typeEn": "Teaching-Research Project"
+  },
+  {
+   "id": "69292",
+   "title": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil II",
+   "number": "ErWi-2230-Lehrforschungsprojekt7",
+   "type": "Lehrforschungsprojekt",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Hedda Bennewitz",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Hedda Bennewitz"
+       ],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69292&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Zweisemestriger Verbund: Ethnografie betreiben: Studien in Familie, Schule und Unterricht - Teil II",
+   "typeEn": "Teaching-Research Project"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

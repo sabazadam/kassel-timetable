@@ -1,0 +1,39 @@
+{
+  "summary": "PO 2023 section 8: all compulsory modules B1 to B5 and S1 to S7 (including Project and Seminar), plus 18 ECTS (three modules W1 to W3) from one chosen specialization (System and Control, Mathematical Models and Software Technology, Sensor and Communication, Safety Structures for Vehicles), and the thesis. The specialization may be changed once. A student who already has the Social Communication content at admission takes 6 ECTS from the elective area instead of that module.",
+  "categories": [
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (eine Wahl)",
+      "short": "Specialization",
+      "count": 3,
+      "ects": 18,
+      "note": "Three modules (W1 to W3, 18 ECTS) from one specialization; the specialization may be changed once. Credits from specialization modules beyond those 18 ECTS count only as additional credits, up to a further 18 ECTS.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule Mathematical moduls and Software technology"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule Sensor und Communication"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunktmodule System and Control"
+        },
+        {
+          "type": "area",
+          "id": "Main Subject Modules Safety structures for Vehicles"
+        }
+      ]
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-fse",
+  "po": "Master Functional Safety Engineering (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21975&token=7dfd6a031b76f9498c9ceb2b0b9ea7f91544bd59"
+  ]
+}

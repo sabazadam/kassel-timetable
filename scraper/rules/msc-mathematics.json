@@ -1,0 +1,66 @@
+{
+  "summary": "PO 2020 section 8: compulsory advanced seminar (6 ECTS) and 6 ECTS additive key competencies, six 10-ECTS electives covering at least three of five areas, one application specialization of 18 ECTS, and the thesis.",
+  "categories": [
+    {
+      "id": "wp-math",
+      "group": "anyOf",
+      "count": 6,
+      "options": [
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Algebra"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Analysis"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Diskrete Mathematik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Numerik"
+        },
+        {
+          "type": "area",
+          "id": "Wahlpflichtbereich > WP Stochastik"
+        }
+      ],
+      "name": "Six mathematics electives",
+      "nameDe": "Sechs Wahlpflichtmodule",
+      "short": "Math electives",
+      "note": "Six modules, 60 ECTS, from Analysis, Algebra, Diskrete Mathematik, Numerik and Stochastik. At least three of the five areas, and 10 to 30 ECTS in each area used; modules already taken in the Bachelor cannot be chosen. The area spread is not checked."
+    },
+    {
+      "id": "application-spec",
+      "group": "oneOf",
+      "count": 1,
+      "ects": 18,
+      "options": [
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > ASP 1 Informatik"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > ASP 2 Physik"
+        },
+        {
+          "type": "area",
+          "id": "Anwendungsschwerpunkt > ASP 4 Nanostrukturwissenschaften"
+        }
+      ],
+      "name": "One application specialization",
+      "nameDe": "Anwendungsschwerpunkt (eine Wahl)",
+      "short": "Application spec.",
+      "note": "One specialization of 18 ECTS (PO section 3(2) and section 8(1)c). Study plans usually use three modules; in Nanostrukturwissenschaften, N01 (12 ECTS) plus one 6-ECTS module also reaches 18. ASP 3 Wirtschaftswissenschaften is in the PO but has no modules this semester."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-mathematics",
+  "po": "Master Mathematics (2020)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=8911&token=ad13788362a88c8be63f3def05519ac924088abd"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "summary": "PO 2025 (26 June 2025) section 8: 36 ECTS basic areas (Mathematics 6, Sustainability 6, Mobility 6, lecture series and practical project 18), 0 to 30 ECTS bridging modules (Angleichmodule) depending on admission, at most 12 ECTS cross-specialization (Angleichmodule Schwerpunktübergreifend) and at most 18 ECTS in Angleichmodule Schwerpunkt, 24 ECTS in one specialization and 0 to 30 ECTS electives, 90 ECTS in total plus the 30-ECTS thesis. The lecture series and practical project is three compulsory 6-ECTS parts, so it is not a choice slot. No cross-specialization bridging module is offered this semester. The Mobility basic area has no modules in this semester's data. Smart Vehicular Information Technologies offers only one 6-ECTS module this semester, so its 24 ECTS cannot be completed from this list.",
+  "categories": [
+    {
+      "id": "Basisbereiche > Basisbereich Mathematik",
+      "group": "area",
+      "name": "Basic area: Mathematics",
+      "nameDe": "Basisbereich Mathematik",
+      "short": "Base: Math",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS from the Mathematics basic area (one Wahlpflicht module)."
+    },
+    {
+      "id": "Basisbereiche > Basisbereich Nachhaltigkeit",
+      "group": "area",
+      "name": "Basic area: Sustainability",
+      "nameDe": "Basisbereich Nachhaltigkeit",
+      "short": "Base: Sustainab.",
+      "count": 1,
+      "ects": 6,
+      "note": "6 ECTS from the Sustainability basic area (one Wahlpflicht module)."
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (eine Wahl)",
+      "short": "Specialization",
+      "count": 4,
+      "ects": 24,
+      "note": "24 ECTS (4 modules of 6 ECTS) in one specialization. This semester Electric Powertrain and Infrastructure and Vehicle Systems and Dynamics each offer 5 modules. Smart Vehicular Information Technologies offers 1 module, so its 24 ECTS cannot be completed from this semester's list.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Electric Powertrain and Infrastructure"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Smart Vehicular Information Technologies"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt > Schwerpunkt Vehicle Systems and Dynamics"
+        }
+      ]
+    },
+    {
+      "id": "angleich-schwerpunkt",
+      "group": "anyOf",
+      "name": "Specialization bridging modules",
+      "nameDe": "Angleichmodule Schwerpunkt",
+      "short": "Bridge: Spec.",
+      "count": 0,
+      "ects": 18,
+      "note": "0-18 ECTS only if admission imposes bridging (section 6 (3) and section 8 (3)), inside the 0-30 Angleich total and not compulsory for every student. Section 8 (3) is one shared area, so modules may come from any specialization bridging list up to 18 ECTS. These credits reduce how many electives are needed to reach 90 ECTS.",
+      "options": [
+        {
+          "type": "area",
+          "id": "Angleich- und Wahlpflichtmodule > Angleichmodule Schwerpunkt Schwerpunkt Electric Powertrain and Infrastructure"
+        },
+        {
+          "type": "area",
+          "id": "Angleich- und Wahlpflichtmodule > Angleichmodule Schwerpunkt Smart Vehicular Information Technologies"
+        },
+        {
+          "type": "area",
+          "id": "Angleich- und Wahlpflichtmodule > Angleichmodule Schwerpunkt Vehicle Systems and Dynamics"
+        }
+      ]
+    },
+    {
+      "id": "Angleich- und Wahlpflichtmodule > Wahlpflichtbereich",
+      "group": "area",
+      "name": "Electives",
+      "nameDe": "Wahlpflichtmodule",
+      "short": "Electives",
+      "count": 0,
+      "ects": 30,
+      "note": "0-30 ECTS (section 8 (5)). With bridging modules this fills the gap from 36 ECTS basic areas plus 24 ECTS specialization up to 90 ECTS (section 8 (7)); a full 30-ECTS bridging load leaves no electives. The legal catalog is wider than this area: unused Mathematics, Sustainability or Mobility basic modules, specialization modules not counted in the chosen specialization, and modules the examination board approves also count, and a module must not be counted twice."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-elektromobilitaet",
+  "po": "Master Nachhaltige Elektromobilität (2025)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=28716&token=94bbc45a751de56182f157fdc2ac87754bd54beb"
+  ]
+}

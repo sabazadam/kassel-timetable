@@ -1,0 +1,46 @@
+{
+  "summary": "Section 8 of the examination regulations of 17 May 2023 (Mitteilungsblatt 18/2023): 66 ECTS compulsory modules (nanostructure analysis, nanochemistry, nanophysics, nanobiology, preparatory project, thesis), at least one 8-ECTS specialization module (S01 to S04), and 46 ECTS further electives with at least 12 ECTS from course modules and at least 12 ECTS from research internships. The app program name remains Master Nanoscience (2023).",
+  "categories": [
+    {
+      "id": "Wahlpflichtmodule > Schwerpunktmodule",
+      "group": "area",
+      "name": "Specialization module",
+      "nameDe": "Schwerpunktmodule",
+      "short": "Specialization",
+      "count": 1,
+      "ects": 8,
+      "note": "At least one specialization module (S01 to S04), worth 8 ECTS. Further specialization modules may be credited as electives."
+    },
+    {
+      "id": "Wahlpflichtmodule > Kursmodule",
+      "group": "area",
+      "name": "Course modules",
+      "nameDe": "Kursmodule",
+      "short": "Course modules",
+      "count": 1,
+      "ects": 12,
+      "exclude": [
+        "Advanced Biochemistry & Microbiology",
+        "Advanced Nanophysics",
+        "Advanced Synthetic Chemistry"
+      ],
+      "note": "At least 12 ECTS from modules the PO designates as course modules, which takes more than one module this semester because none is worth 12 ECTS. Specialization modules do not count toward this minimum, even where eCampus also lists them under course modules."
+    },
+    {
+      "id": "Wahlpflichtmodule > Internshipmodule",
+      "group": "area",
+      "name": "Research internships",
+      "nameDe": "Internshipmodule",
+      "short": "Internships",
+      "count": 1,
+      "ects": 12,
+      "note": "At least 12 ECTS from research internships. The PO allows a short variant of 6 ECTS and a long variant of 12 ECTS; this semester every internship that carries credits is the 12-ECTS variant, so one of those meets the minimum."
+    }
+  ],
+  "pickOne": [],
+  "slug": "msc-nanoscience",
+  "po": "Master Nanoscience (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21974&token=866f5320657d97dadfd806c9589d2e441b9140e8"
+  ]
+}

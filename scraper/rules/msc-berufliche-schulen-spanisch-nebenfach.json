@@ -1,0 +1,59 @@
+{
+  "slug": "msc-berufliche-schulen-spanisch-nebenfach",
+  "po": "Master Berufliche Schulen Spanisch (2024) Nebenfach",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=26961&token=7b10c7a8110e1f0abf9b661385daee9adfa61a19"
+  ],
+  "summary": "The second subject Spanish in the Master programmes Berufspädagogik and Wirtschaftspädagogik (PO 2024) has four compulsory modules worth 28 ECTS: Sprachpraxis Spanisch Aufbaumodul (6), Sprachpraxis Spanisch Vertiefungsmodul (6), Schulpraktische Studien (6) and Fachdidaktik Vertiefungsmodul (10). In the elective area the student completes the one basic module among Spanish linguistics, literature and regional and cultural studies (modules 4, 5 and 6, 6 ECTS each) that was not already completed in the Bachelor. The student must also complete two of the three advanced modules 7, 8 and 9 (6 ECTS each, 12 ECTS).",
+  "pickOne": [],
+  "categories": [
+    {
+      "id": "wp-basismodul",
+      "group": "anyOf",
+      "name": "One basic module not taken in the Bachelor",
+      "nameDe": "Ein noch nicht absolviertes Basismodul",
+      "short": "One basic module",
+      "count": 1,
+      "ects": 6,
+      "note": "Section 5 requires the one module among Spanische Sprachwissenschaft Basismodul, Spanische Literaturwissenschaft Basismodul and Spanische Landes- und Kulturwissenschaften Basismodul (modules 4, 5 and 6, 6 ECTS each) that was not already completed in the Bachelor programme.",
+      "options": [
+        {
+          "type": "module",
+          "id": "Spanische Sprachwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Spanische Literaturwissenschaft Basismodul"
+        },
+        {
+          "type": "module",
+          "id": "Spanische Landes- und Kulturwissenschaften Basismodul"
+        }
+      ]
+    },
+    {
+      "id": "wp-aufbaumodule",
+      "group": "anyOf",
+      "name": "Two advanced subject modules",
+      "nameDe": "Zwei Aufbaumodule I (Vertiefung)",
+      "short": "Two advanced modules",
+      "count": 2,
+      "ects": 12,
+      "note": "Section 5 requires two modules from Spanische Sprachwissenschaft Aufbaumodul I (Vertiefung), Spanische Literaturwissenschaft Aufbaumodul I (Vertiefung) and Spanische Landes- und Kulturwissenschaften Aufbaumodul I (Vertiefung) (modules 7, 8 and 9, 6 ECTS each).",
+      "options": [
+        {
+          "type": "module",
+          "id": "Spanische Sprachwissenschaft Aufbaumodul I (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Spanische Literaturwissenschaft Aufbaumodul I (Vertiefung)"
+        },
+        {
+          "type": "module",
+          "id": "Spanische Landes- und Kulturwissenschaften Aufbaumodul I (Vertiefung)"
+        }
+      ]
+    }
+  ]
+}

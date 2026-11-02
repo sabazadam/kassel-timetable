@@ -1,0 +1,3323 @@
+{
+ "generatedAt": "2026-10-19T21:03:23.810Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Lehramt für Förderpädagogik Förder- und Inklusionspädagogik (2023)",
+ "programEn": "Teacher Training Special Education: Special and Inclusive Education (2023)",
+ "slug": "la-foe-foerder-und-inklusionspaedagogik",
+ "degree": "lehramt",
+ "themes": [
+  {
+   "id": "learning-support",
+   "modules": [
+    "m24232",
+    "m24281",
+    "m24298"
+   ],
+   "text": {
+    "tr": [
+     "Öğrenme Güçlüğü Desteği",
+     "Öğrenme gelişimini tanılama, destek planlama ve farklı başlangıç düzeylerinde temel matematik becerilerini geliştirme öğrenilir."
+    ],
+    "en": [
+     "Learning Support Focus",
+     "Students learn to diagnose learning development, plan support, and build basic mathematical skills from different starting points."
+    ],
+    "de": [
+     "Förderschwerpunkt Lernen",
+     "Lernentwicklung wird diagnostiziert und gefördert, einschließlich mathematischer Basiskompetenzen bei unterschiedlichen Lernausgangslagen."
+    ]
+   }
+  },
+  {
+   "id": "emotional-social-development",
+   "modules": [
+    "m24247",
+    "m24228",
+    "m24262"
+   ],
+   "text": {
+    "tr": [
+     "Duygusal ve Sosyal Gelişim",
+     "Duygusal ve sosyal gelişimi değerlendirme, destek planı hazırlama ve kapsayıcı ortamlarda destekleme öğrenilir."
+    ],
+    "en": [
+     "Emotional Social Development",
+     "Students learn to assess emotional and social development, plan support, and provide it in inclusive settings."
+    ],
+    "de": [
+     "Emotionale und soziale Entwicklung",
+     "Emotionale und soziale Entwicklung wird eingeschätzt, geplant und in inklusiven Settings unterstützt."
+    ]
+   }
+  },
+  {
+   "id": "inclusive-school-development",
+   "modules": [
+    "m24261",
+    "m24292",
+    "m24255",
+    "m24268"
+   ],
+   "text": {
+    "tr": [
+     "Kapsayıcı Okul Gelişimi",
+     "Kapsayıcı eğitimin temelleri, karma gruplarda öğretim ve okulda iş birliği ile örgüt geliştirme birlikte ele alınır."
+    ],
+    "en": [
+     "Inclusive School Development",
+     "Students learn the foundations of inclusive education, teaching mixed groups, and cooperation for school development."
+    ],
+    "de": [
+     "Inklusive Schulentwicklung",
+     "Grundlagen inklusiver Pädagogik, Unterricht in inklusiven Lerngruppen sowie Kooperation und Organisationsentwicklung werden verbunden."
+    ]
+   }
+  },
+  {
+   "id": "diagnostics-and-assessment",
+   "modules": [
+    "m24262",
+    "m24283",
+    "m24281",
+    "m24298"
+   ],
+   "text": {
+    "tr": [
+     "Tanılama ve Değerlendirme",
+     "Gelişime yönelik tanılama, destek planlama, danışmanlık ve özel eğitim uzman değerlendirmesi öğrenilir."
+    ],
+    "en": [
+     "Diagnostics and Assessment",
+     "Students learn development oriented diagnostics, support planning, counseling, and special educational expert assessment."
+    ],
+    "de": [
+     "Diagnostik und Begutachtung",
+     "Entwicklungsorientierte Diagnostik, Förderplanung, Beratung und förderpädagogische Begutachtung werden erlernt."
+    ]
+   }
+  }
+ ],
+ "categories": [],
+ "rulesSummary": null,
+ "rulesSources": [],
+ "sections": [
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Klausur im E-Assessmentcenter": {
+   "en": "Written exam in the E-Assessmentcenter",
+   "tr": "Yazılı sınav E-Assessmentcenter'da"
+  },
+  "findet statt in Kurt-Wolters-Str. 5 Raum -1022": {
+   "en": "takes place at Kurt-Wolters-Str. 5, Room -1022",
+   "tr": "Kurt-Wolters-Str. 5, oda -1022'de gerçekleşir"
+  },
+  "findet statt in Kurt-Wolters-Str. 5 Raum -1021": {
+   "en": "takes place at Kurt-Wolters-Str. 5, Room -1021",
+   "tr": "Kurt-Wolters-Str. 5, oda -1021'de gerçekleşir"
+  },
+  "Zur Vorlesung gehört ein Tutorium.": {
+   "en": "The lecture includes a tutorial.",
+   "tr": "Derse bir tutorial dahildir."
+  },
+  "2. Klausurtermin": {
+   "en": "2nd written exam date",
+   "tr": "2. yazılı sınav tarihi"
+  },
+  "Veranstaltung findet von 9-17 Uhr statt.": {
+   "en": "The course takes place from 9-17 Uhr.",
+   "tr": "Etkinlik 9-17 Uhr saatleri arasında gerçekleşir."
+  },
+  "Die Veranstaltung findet an der Hermann-Schafft-Schule, Förderschule mit dem Förderschwerpunkt Hören in Homberg/Efze statt.": {
+   "en": "The course takes place at the Hermann-Schafft-Schule in Homberg/Efze, a special school with a special educational focus on hearing.",
+   "tr": "Etkinlik, Homberg/Efze'de bulunan ve işitme özel eğitim odağına sahip bir özel eğitim okulu olan Hermann-Schafft-Schule'de gerçekleşir."
+  },
+  "Bitte beachten Sie, dass die Präsenztermine 14tägig stattfinden und das Seminar im Sommersemester fortgesetzt wird. Weitere Informationen zum Seminaraufbau erhalten Sie in der ersten Sitzung am 28.10.26.": {
+   "en": "Please note that the in-person sessions take place every 14 days and that the seminar will be continued in the summer semester. You will receive further information on the structure of the seminar in the first session on 28.10.26.",
+   "tr": "Yüz yüze oturumların 14 günde bir gerçekleştiğini ve seminerin yaz yarıyılında devam edeceğini lütfen dikkate alın. Seminerin yapısına ilişkin daha fazla bilgiyi 28.10.26 tarihindeki ilk oturumda alacaksınız."
+  },
+  "Dieser Kurs bildet die Voraussetzung für die Teilnahme am Fallseminar des Moduls LER2 und muss daher vorab absolviert werden.": {
+   "en": "This course is the prerequisite for participation in the case seminar of module LER2 and must therefore be completed in advance.",
+   "tr": "Bu kurs, LER2 modülünün vaka seminerine katılım için ön koşuldur ve bu nedenle önceden tamamlanmalıdır."
+  },
+  "Achtung: Das Seminar startet am 14.10.2026. Nur dieser erste Termin findet online statt von 9-11 Uhr. Zugang erhalten Sie über folgenden Zoom-Link: https://uni-kassel.zoom-x.de/j/67926774329?pwd=Xh7behh0Vjg3TB4oIBG2jJeaD9P8rU.1": {
+   "en": "Attention: The seminar starts on 14.10.2026. Only this first session takes place online, from 9-11 Uhr. You will receive access via the following Zoom link: https://uni-kassel.zoom-x.de/j/67926774329?pwd=Xh7behh0Vjg3TB4oIBG2jJeaD9P8rU.1",
+   "tr": "Dikkat: Seminer 14.10.2026 tarihinde başlar. Yalnızca bu ilk oturum 9-11 Uhr saatleri arasında çevrimiçi gerçekleşir. Erişimi şu Zoom bağlantısı üzerinden alırsınız: https://uni-kassel.zoom-x.de/j/67926774329?pwd=Xh7behh0Vjg3TB4oIBG2jJeaD9P8rU.1"
+  },
+  "Achtung: Das Seminar startet am 14.10.2026. Nur dieser erste Termin findet online statt von 9-11 Uhr.Weitere Termine finden flexibel an Schulen statt.": {
+   "en": "Attention: The seminar starts on 14.10.2026. Only this first session takes place online, from 9-11 Uhr. Further sessions take place flexibly at schools.",
+   "tr": "Dikkat: Seminer 14.10.2026 tarihinde başlar. Yalnızca bu ilk oturum 9-11 Uhr saatleri arasında çevrimiçi gerçekleşir. Diğer oturumlar okullarda esnek biçimde gerçekleşir."
+  },
+  "Weitere Termine finden flexibel an Schulen statt.": {
+   "en": "Further sessions take place flexibly at schools.",
+   "tr": "Diğer oturumlar okullarda esnek biçimde gerçekleşir."
+  },
+  "findet digital statt": {
+   "en": "takes place digitally",
+   "tr": "dijital olarak gerçekleşir"
+  },
+  "Zur Vorlesung gehört eine begleitende Übung.": {
+   "en": "The lecture includes an accompanying exercise.",
+   "tr": "Derse eşlik eden bir alıştırma dahildir."
+  },
+  "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Maria Gallinat statt.": {
+   "en": "The course takes place in parallel with and in cooperation with the course of Maria Gallinat.",
+   "tr": "Etkinlik, Maria Gallinat'ın etkinliğine paralel olarak ve bu etkinlikle iş birliği içinde gerçekleşir."
+  },
+  "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Susanne Jurkowski statt.": {
+   "en": "The course takes place in parallel with and in cooperation with the course of Susanne Jurkowski.",
+   "tr": "Etkinlik, Susanne Jurkowski'nin etkinliğine paralel olarak ve bu etkinlikle iş birliği içinde gerçekleşir."
+  },
+  "Die Veranstaltung findet digital statt.Diese Übung gehört zu der Vorlesung Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen (FIPäd-1130-V01). Sie benötigen sowohl einen Platz in der Vorlesung als auch in einer der dazugehörigen Übungen.": {
+   "en": "The event takes place digitally. This exercise belongs to the lecture Diagnostics and Promotion of Basic Language Competencies with Different Initial Learning Conditions (FIPäd-1130-V01). You need a place both in the lecture and in one of the associated exercises.",
+   "tr": "Etkinlik dijital olarak gerçekleşir. Bu alıştırma, farklı öğrenme başlangıç koşullarında dilsel temel yetkinliklerin tanılanması ve desteklenmesi dersine aittir (FIPäd-1130-V01). Hem derste hem de buna bağlı alıştırmalardan birinde bir yere ihtiyacınız vardır."
+  },
+  "Gruppe 1": {
+   "en": "Group 1",
+   "tr": "Grup 1"
+  },
+  "hybrid": {
+   "en": "hybrid",
+   "tr": "hibrit"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General"
+ },
+ "modules": [
+  {
+   "id": "t:Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+   "title": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+   "titleEn": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "69277",
+    "69278"
+   ]
+  },
+  {
+   "id": "t:Einführung in die Inklusionspädagogik für L5",
+   "title": "Einführung in die Inklusionspädagogik für L5",
+   "titleEn": "Einführung in die Inklusionspädagogik für L5",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "69083",
+    "69082"
+   ]
+  },
+  {
+   "id": "t:Fallbasierte und Forschende Zugänge im Praxissemester - Schwerpunkt: Professionelles Handeln in inklusiven Kontexten, Kurs C",
+   "title": "Fallbasierte und Forschende Zugänge im Praxissemester - Schwerpunkt: Professionelles Handeln in inklusiven Kontexten, Kurs C",
+   "titleEn": "Fallbasierte und Forschende Zugänge im Praxissemester - Schwerpunkt: Professionelles Handeln in inklusiven Kontexten, Kurs C",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "68268"
+   ]
+  },
+  {
+   "id": "m24262",
+   "title": "Modul 1 Grundlagen entwicklungsorientierter Diagnostik, Förderplanung und Beratung - DFB1",
+   "titleEn": "Module 1 Fundamentals of Development-Oriented Diagnostics, Support Planning and Counseling - DFB1",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57261",
+    "57260",
+    "57244"
+   ]
+  },
+  {
+   "id": "m24232",
+   "title": "Modul 10 Einführung in den Förderschwerpunkt Lernen - LER1",
+   "titleEn": "Module 10 Introduction to the Special Needs Focus on Learning - LER1",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "56507",
+    "69273"
+   ]
+  },
+  {
+   "id": "m24281",
+   "title": "Modul 11 Diagnostik, Förderung und Beratung im Kontext der Lernentwicklung - LER2",
+   "titleEn": "Module 11 Diagnostics, Support and Counseling in the Context of Learning Development - LER2",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57163",
+    "69275"
+   ]
+  },
+  {
+   "id": "m24298",
+   "title": "Modul 12 Diagnostik und Fördern mathematischer Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER3",
+   "titleEn": "Module 12 Diagnostics and Support of Basic Mathematical Competencies with Different Initial Learning Conditions - LER3",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "56581",
+    "56580",
+    "56582"
+   ]
+  },
+  {
+   "id": "m24294",
+   "title": "Modul 14 Praxissemester mit förder- und inklusionspädagogischem Schwerpunkt - FIP",
+   "titleEn": "Module 14 Practical Semester with a Focus on Special and Inclusive Education - FIP",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69599",
+    "69588",
+    "72008"
+   ]
+  },
+  {
+   "id": "m24283",
+   "title": "Modul 2 Förderpädagogische Diagnostik und Begutachtung - DFB2",
+   "titleEn": "Module 2 Special Educational Diagnostics and Expert Assessment - DFB2",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57263",
+    "69191"
+   ]
+  },
+  {
+   "id": "m24247",
+   "title": "Modul 3 Einführung in den Förderschwerpunkt Emotionale und Soziale Entwicklung - ESE1",
+   "titleEn": "Module 3 Introduction to the Special Needs Focus on Emotional and Social Development - ESE1",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69255",
+    "69261",
+    "69251"
+   ]
+  },
+  {
+   "id": "m24228",
+   "title": "Modul 5 Unterstützung der sozialen und emotionalen Entwicklung in inklusiven Settings - ESE3",
+   "titleEn": "Module 5 Support for Social and Emotional Development in Inclusive Settings - ESE3",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "57452"
+   ]
+  },
+  {
+   "id": "m24268",
+   "title": "Modul 6 Förder- und inklusionspädagogische Vertiefung - FIV",
+   "titleEn": "Module 6 Advanced Special and Inclusive Education - FIV",
+   "code": null,
+   "ects": 10,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "56245",
+    "56241",
+    "69260",
+    "69264"
+   ]
+  },
+  {
+   "id": "m24261",
+   "title": "Modul 7 Grundfragen und Geschichte der inklusiven Pädagogik und Förderpädagogik - IPäd1",
+   "titleEn": "Module 7 Fundamental Questions and History of Inclusive Education and Special Education - IPäd1",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69267"
+   ]
+  },
+  {
+   "id": "m24292",
+   "title": "Modul 8 Unterrichten in inklusiven Lerngruppen - IPäd2",
+   "titleEn": "Module 8 Teaching in Inclusive Learning Groups - IPäd2",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "69271",
+    "56259",
+    "56268"
+   ]
+  },
+  {
+   "id": "m24255",
+   "title": "Modul 9 Kooperation und Organisationsentwicklung in der inklusiven Schule - IPäd3",
+   "titleEn": "Module 9 Cooperation and Organizational Development in the Inclusive School - IPäd3",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 1,
+    "fixed": [],
+    "unverified": true
+   },
+   "courseIds": [
+    "56261",
+    "75333"
+   ]
+  },
+  {
+   "id": "t:Zusatzleistungen FIPäd",
+   "title": "Zusatzleistungen FIPäd",
+   "titleEn": "Zusatzleistungen FIPäd",
+   "code": null,
+   "ects": null,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "unlisted": true,
+   "courseIds": [
+    "57255"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "57261",
+   "title": "Grundlagen entwicklungsorientierter Diagnostik, Förderplanung und Beratung – DFB1",
+   "number": "FIPäd-1010-V01",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Lüke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0109/0110 (Schreibbretter) (Nora-Platiel 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "13:30",
+       "end": "15:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-16",
+       "cancelled": [],
+       "note": "Klausur im E-Assessmentcenter",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57261&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fundamentals of Development-Oriented Diagnostics, Support Planning and Counseling – DFB1",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57260",
+   "title": "Grundlagen entwicklungsorientierter Diagnostik, Förderplanung und Beratung – DFB1 (Förderplanungsseminar)",
+   "number": "FIPäd-1010-V03",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Christopher Gerhold",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0614 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57260&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24268",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Development-Oriented Diagnostics, Support Planning and Counseling – DFB1 (Support Planning Seminar)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57244",
+   "title": "Grundlagen entwicklungsorientierter Diagnostik, Förderplanung und Beratung – DFB1 (Beratungsseminar)",
+   "number": "FIPäd-1010-V02",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Anne Stöcker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-10-14",
+        "2026-10-21",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-22",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57244&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24268",
+    "key": false
+   },
+   "titleEn": "Fundamentals of Development-Oriented Diagnostics, Support Planning and Counseling – DFB1 (Counseling Seminar)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57263",
+   "title": "Förderpädagogische Diagnostik und Begutachtung – DFB2",
+   "number": "FIPäd-1020-V01",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Christina Fuß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0213 (Nora-Platiel 6)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57263&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23793",
+    "key": false
+   },
+   "titleEn": "Special Educational Diagnostics and Expert Assessment – DFB2",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69191",
+   "title": "Förderpädagogische Diagnostik und Begutachtung – DFB2",
+   "number": "FIPäd-1020-V02",
+   "type": "Gutachtenseminar",
+   "language": null,
+   "responsible": "Dr. Philipp Schmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1219 (Nora-Platiel 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69191&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23793",
+    "key": false
+   },
+   "titleEn": "Special Educational Diagnostics and Expert Assessment – DFB2",
+   "typeEn": "Expert Report Seminar"
+  },
+  {
+   "id": "69255",
+   "title": "Einführung in den Förderschwerpunkt Emotionale und Soziale Entwicklung -ESE1",
+   "number": "FIPäd-1030-V01Tut",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Dr. Susanne Jurkowski",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "findet statt in Kurt-Wolters-Str. 5 Raum -1022",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "findet statt in Kurt-Wolters-Str. 5 Raum -1021",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      }
+     ]
+    },
+    {
+     "name": "4. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69255&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24999",
+    "key": false
+   },
+   "titleEn": "Introduction to the Special Needs Focus on Emotional and Social Development -ESE1",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "69261",
+   "title": "Einführung in den Förderschwerpunkt Emotionale und Soziale Entwicklung -ESE1",
+   "number": "FIPäd-1030-V01",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Susanne Jurkowski",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Zur Vorlesung gehört ein Tutorium.",
+       "instructors": [],
+       "room": "Raum 0109/0110 (Schreibbretter) (Nora-Platiel 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2027-03-18",
+       "endDate": "2027-03-18",
+       "cancelled": [],
+       "note": "2. Klausurtermin",
+       "instructors": [],
+       "room": "Raum 1102 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69261&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24999",
+    "key": false
+   },
+   "titleEn": "Introduction to the Special Needs Focus on Emotional and Social Development -ESE1",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69251",
+   "title": "Einführung in den Förderschwerpunkt Emotionale und Soziale Entwicklung -ESE1",
+   "number": "FIPäd-1030-V02",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Katja Bianchy",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0225 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0104 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1102 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69251&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24999",
+    "key": false
+   },
+   "titleEn": "Introduction to the Special Needs Focus on Emotional and Social Development -ESE1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57452",
+   "title": "Unterstützung der sozialen und emotionalen Entwicklung in inklusiven Settings – ESE3",
+   "number": "FIPäd-1050-V02",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Lukas Mundelsee",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-01-27",
+       "cancelled": [
+        "2026-12-30"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum -1029 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-12-11",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57452&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Support for Social and Emotional Development in Inclusive Settings – ESE3",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56245",
+   "title": "Förder- und inklusionspädagogische Vertiefung – FIV",
+   "number": "FIPäd-2060-V02",
+   "type": "Lehrforschungsprojekt",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Lüke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-23",
+       "endDate": "2026-10-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2026-10-24",
+       "endDate": "2026-10-24",
+       "cancelled": [],
+       "note": "Veranstaltung findet von 9-17 Uhr statt.",
+       "instructors": [],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-12-11",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2004 (G.-Forster-Str. 4)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2026-12-12",
+       "endDate": "2026-12-12",
+       "cancelled": [],
+       "note": "Veranstaltung findet von 9-17 Uhr statt.",
+       "instructors": [],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56245&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Special and Inclusive Education – FIV",
+   "typeEn": "Teaching-Research Project"
+  },
+  {
+   "id": "56241",
+   "title": "Förder- und inklusionspädagogische Vertiefung – FIV",
+   "number": "FIPäd-2060-V03",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Philipp Schmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0403 (Nora-Platiel 9)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56241&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Special and Inclusive Education – FIV",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69260",
+   "title": "Förder- und inklusionspädagogische Vertiefung – FIV",
+   "number": "FIPäd-2060-V03A",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Timo Lüke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69260&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Special and Inclusive Education – FIV",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69264",
+   "title": "Förder- und inklusionspädagogische Vertiefung – FIV",
+   "number": "FIPäd-2060-V03B",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Christina Fuß",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2026-10-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1309 (Arnold-Bode 10)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-12-08",
+       "endDate": "2026-12-08",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "14:00",
+       "startDate": "2026-12-11",
+       "endDate": "2026-12-11",
+       "cancelled": [],
+       "note": "Die Veranstaltung findet an der Hermann-Schafft-Schule, Förderschule mit dem Förderschwerpunkt Hören in Homberg/Efze statt.",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "14:00",
+       "startDate": "2027-01-15",
+       "endDate": "2027-01-15",
+       "cancelled": [],
+       "note": "Die Veranstaltung findet an der Hermann-Schafft-Schule, Förderschule mit dem Förderschwerpunkt Hören in Homberg/Efze statt.",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "08:00",
+       "end": "14:00",
+       "startDate": "2027-02-05",
+       "endDate": "2027-02-05",
+       "cancelled": [],
+       "note": "Die Veranstaltung findet an der Hermann-Schafft-Schule, Förderschule mit dem Förderschwerpunkt Hören in Homberg/Efze statt.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69264&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Special and Inclusive Education – FIV",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69267",
+   "title": "Grundfragen und Geschichte der inklusiven Pädagogik und Förderpädagogik - IPäd1",
+   "number": "FIPäd-1070-V02",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ann-Kathrin Arndt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1214 (Arnold-Bode 10)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1214 (Arnold-Bode 10)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69267&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fundamental Questions and History of Inclusive Education and Special Education - IPäd1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69271",
+   "title": "Unterrichten in inklusiven Lerngruppen - IPäd 2",
+   "number": "FIPäd-1080-V01",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Ann-Kathrin Arndt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0422 (Schreibbretter) (Nora-Platiel 8)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69271&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24705",
+    "key": false
+   },
+   "titleEn": "Teaching in Inclusive Learning Groups - IPäd 2",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "56259",
+   "title": "Unterrichten in inklusiven Lerngruppen – IPäd2",
+   "number": "FIPäd-1080-V03",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Lara Hausmann, Prof. Dr. Ann-Kathrin Arndt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56259&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24705",
+    "key": false
+   },
+   "titleEn": "Teaching in Inclusive Learning Groups – IPäd2",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "56268",
+   "title": "Unterrichten in inklusiven Lerngruppen – IPäd2",
+   "number": "FIPäd-1080-V02",
+   "type": "Lehrforschungsprojekt",
+   "language": "deutsch",
+   "responsible": "Dr. Nina Blasse",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-28",
+       "endDate": "2026-12-09",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2027-01-06",
+        "2027-01-20",
+        "2027-02-03"
+       ],
+       "note": "Bitte beachten Sie, dass die Präsenztermine 14tägig stattfinden und das Seminar im Sommersemester fortgesetzt wird. Weitere Informationen zum Seminaraufbau erhalten Sie in der ersten Sitzung am 28.10.26.",
+       "instructors": [],
+       "room": "Raum 4314 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2027-01-13",
+       "endDate": "2027-01-13",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 4314 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2027-01-27",
+       "endDate": "2027-01-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 4314 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2027-02-10",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 4314 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56268&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24705",
+    "key": false
+   },
+   "titleEn": "Teaching in Inclusive Learning Groups – IPäd2",
+   "typeEn": "Teaching-Research Project"
+  },
+  {
+   "id": "56261",
+   "title": "Kooperation und Organisationsentwicklung in der inklusiven Schule – IPäd3",
+   "number": "FIPäd-1090-V01",
+   "type": "Projektseminar",
+   "language": "deutsch",
+   "responsible": "Dr. Nina Blasse",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "12:00",
+       "startDate": "2026-10-23",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-10-16",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56261&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23835",
+    "key": true
+   },
+   "titleEn": "Cooperation and Organizational Development in the Inclusive School – IPäd3",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "75333",
+   "title": "Schutz vor sexualisierter Gewalt: Prävention, Intervention und Kooperation im Kontext Schule - IPäd3",
+   "number": "FIPäd-1090-V01A",
+   "type": "Projektseminar",
+   "language": null,
+   "responsible": "Lennart Bayer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lennart Bayer"
+       ],
+       "room": "Raum 0402 (Nora-Platiel 9)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-02-19",
+       "endDate": "2027-02-19",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lennart Bayer"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-02-20",
+       "endDate": "2027-02-20",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lennart Bayer"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-03-05",
+       "endDate": "2027-03-05",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lennart Bayer"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "10:00",
+       "end": "18:00",
+       "startDate": "2027-03-06",
+       "endDate": "2027-03-06",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Lennart Bayer"
+       ],
+       "room": "Raum 0402 (Arnold-Bode 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75333&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24734",
+    "key": true
+   },
+   "titleEn": "Protection against Sexualized Violence: Prevention, Intervention and Cooperation in the School Context - IPäd3",
+   "typeEn": "Project Seminar"
+  },
+  {
+   "id": "56507",
+   "title": "Einführung in den Förderschwerpunkt Lernen – LER1",
+   "number": "FIPäd-1100-V02",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Maria Gallinat",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 2111 (Universitätsplatz 9, ASL 1)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56507&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23333",
+    "key": false
+   },
+   "titleEn": "Introduction to the Special Needs Focus on Learning – LER1",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69273",
+   "title": "Einführung in den Förderschwerpunkt Lernen - LER1",
+   "number": "FIPäd-1100-V01",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Vertr-Prof Dr. Mia Viermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69273&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24870",
+    "key": true
+   },
+   "titleEn": "Introduction to the Special Needs Focus on Learning - LER1",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "57163",
+   "title": "Diagnostik, Förderung und Beratung im Kontext der Lernentwicklung – LER2",
+   "number": "FIPäd-1110-V01",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ann-Kathrin Hennes-Schuß, Sven Wiezorek",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-29",
+        "2027-01-12"
+       ],
+       "note": "Dieser Kurs bildet die Voraussetzung für die Teilnahme am Fallseminar des Moduls LER2 und muss daher vorab absolviert werden.",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-29",
+       "endDate": "2027-01-29",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2027-01-30",
+       "endDate": "2027-01-30",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1124, Seminarraum 6 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-27",
+       "endDate": "2027-02-02",
+       "cancelled": [
+        "2026-12-22",
+        "2027-01-05"
+       ],
+       "note": "Dieser Kurs bildet die Voraussetzung für die Teilnahme am Fallseminar des Moduls LER2 und muss daher vorab absolviert werden.",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2027-01-12",
+       "endDate": "2027-01-12",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0211 (Nora-Platiel 6)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "09:00",
+       "end": "18:00",
+       "startDate": "2027-01-23",
+       "endDate": "2027-01-23",
+       "cancelled": [],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0019 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57163&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24044",
+    "key": true
+   },
+   "titleEn": "Diagnostics, Support and Counseling in the Context of Learning Development – LER2",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69275",
+   "title": "Diagnostik, Förderung und Beratung im Kontext der Lernentwicklung – LER2",
+   "number": "FIPäd-1110-V02",
+   "type": "Fallseminar",
+   "language": "deutsch",
+   "responsible": "Vertr-Prof Dr. Mia Viermann, Maximilian Simon",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-14",
+       "endDate": "2026-10-14",
+       "cancelled": [],
+       "note": "Achtung: Das Seminar startet am 14.10.2026. Nur dieser erste Termin findet online statt von 9-11 Uhr. Zugang erhalten Sie über folgenden Zoom-Link: https://uni-kassel.zoom-x.de/j/67926774329?pwd=Xh7behh0Vjg3TB4oIBG2jJeaD9P8rU.1",
+       "instructors": [],
+       "room": ""
+      },
+      {
+       "rhythm": "14-täglich",
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-28",
+       "endDate": "2027-02-03",
+       "cancelled": [
+        "2026-10-14",
+        "2026-12-23",
+        "2027-01-06"
+       ],
+       "note": "Achtung: Das Seminar startet am 14.10.2026. Nur dieser erste Termin findet online statt von 9-11 Uhr.Weitere Termine finden flexibel an Schulen statt.",
+       "instructors": [],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-30"
+       ],
+       "note": "Weitere Termine finden flexibel an Schulen statt.",
+       "instructors": [],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69275&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24044",
+    "key": true
+   },
+   "titleEn": "Diagnostics, Support and Counseling in the Context of Learning Development – LER2",
+   "typeEn": "Case Seminar"
+  },
+  {
+   "id": "56581",
+   "title": "Diagnostik und Fördern mathematischer Basiskompetenzen bei unterschiedlichen Lernausgangslagen – LER3",
+   "number": "FIPäd-1120-V02",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Vertr-Prof Dr. Mia Viermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-12",
+        "2026-10-19",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "findet digital statt",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56581&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24873",
+    "key": true
+   },
+   "titleEn": "Diagnostics and Support of Basic Mathematical Competencies with Different Initial Learning Conditions – LER3",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "56580",
+   "title": "Diagnostik und Fördern mathematischer Basiskompetenzen bei unterschiedlichen Lernausgangslagen – LER3",
+   "number": "FIPäd-1120-V01",
+   "type": "Vorlesung/Übung",
+   "language": "deutsch",
+   "responsible": "Vertr-Prof Dr. Mia Viermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Zur Vorlesung gehört eine begleitende Übung.",
+       "instructors": [],
+       "room": "Raum 0421 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56580&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24873",
+    "key": true
+   },
+   "titleEn": "Diagnostics and Support of Basic Mathematical Competencies with Different Initial Learning Conditions – LER3",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "56582",
+   "title": "Diagnostik und Fördern mathematischer Basiskompetenzen bei unterschiedlichen Lernausgangslagen – LER3",
+   "number": "FIPäd-1120-V03",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Vertr-Prof Dr. Mia Viermann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56582&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24873",
+    "key": true
+   },
+   "titleEn": "Diagnostics and Support of Basic Mathematical Competencies with Different Initial Learning Conditions – LER3",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "69599",
+   "title": "Praxissemester mit förder- und inklusionspädagogischem Schwerpunkt - FIP",
+   "number": "FIPäd-8100-V01",
+   "type": "Begleitseminar",
+   "language": "deutsch",
+   "responsible": "Maximilian Simon",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-10-13",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1110, Seminarraum 1 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0151 (Henschelstraße 2)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69599&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23701",
+    "key": true
+   },
+   "titleEn": "Practical Semester with a Focus on Special and Inclusive Education - FIP",
+   "typeEn": "Accompanying Seminar"
+  },
+  {
+   "id": "69588",
+   "title": "Praxissemester mit förder- und inklusionspädagogischem Schwerpunkt - FIP",
+   "number": "FIPäd-8100-V02",
+   "type": "Flankierende Veranstaltung",
+   "language": null,
+   "responsible": "Dr. Susanne Jurkowski",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Maria Gallinat statt.",
+       "instructors": [],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Maria Gallinat statt.",
+       "instructors": [],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Maria Gallinat statt.",
+       "instructors": [],
+       "room": "Raum 3109 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Maria Gallinat statt.",
+       "instructors": [],
+       "room": "Raum 1122 (Kurt-Wolters 3)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-10-30",
+       "endDate": "2026-10-30",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Susanne Jurkowski statt.",
+       "instructors": [],
+       "room": "Raum 1111, Seminarraum 2 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2026-11-27",
+       "endDate": "2026-11-27",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Susanne Jurkowski statt.",
+       "instructors": [],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 6,
+       "start": "08:00",
+       "end": "18:00",
+       "startDate": "2026-11-28",
+       "endDate": "2026-11-28",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Susanne Jurkowski statt.",
+       "instructors": [],
+       "room": "Raum 3108 (Universitätsplatz 9, ASL 1)"
+      },
+      {
+       "rhythm": "Einzeltermin",
+       "day": 5,
+       "start": "14:00",
+       "end": "18:00",
+       "startDate": "2027-01-22",
+       "endDate": "2027-01-22",
+       "cancelled": [],
+       "note": "Veranstaltung findet parallel zu und in Kooperation mit der Veranstaltung von Susanne Jurkowski statt.",
+       "instructors": [],
+       "room": "Raum 1121 (Kurt-Wolters 3)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69588&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23701",
+    "key": true
+   },
+   "titleEn": "Practical Semester with a Focus on Special and Inclusive Education - FIP",
+   "typeEn": "Accompanying Event"
+  },
+  {
+   "id": "72008",
+   "title": "Schulpraktikum",
+   "number": "FIPäd-8100-V03",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Maximilian Simon",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72008&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "School Internship",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "69277",
+   "title": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+   "number": "FIPäd-1130-V01",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": null,
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69277&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "69278",
+   "title": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+   "number": "FIPäd-1130-V02",
+   "type": "Übung",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "09:45",
+       "startDate": "2026-10-29",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-10-22",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Die Veranstaltung findet digital statt.Diese Übung gehört zu der Vorlesung Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen (FIPäd-1130-V01). Sie benötigen sowohl einen Platz in der Vorlesung als auch in einer der dazugehörigen Übungen.",
+       "instructors": [],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69278&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Diagnostik und Fördern sprachlicher Basiskompetenzen bei unterschiedlichen Lernausgangslagen - LER4",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "69083",
+   "title": "Einführung in die Inklusionspädagogik für L5",
+   "number": "ErWi-1150-Tutorium1",
+   "type": "Tutorium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ann-Kathrin Arndt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-19",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Gruppe 1",
+       "instructors": [
+        "Prof. Dr. Ann-Kathrin Arndt"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-19",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ann-Kathrin Arndt"
+       ],
+       "room": "Raum 1118, Seminarraum 5 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-26",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-10-19",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ann-Kathrin Arndt"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69083&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Einführung in die Inklusionspädagogik für L5",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "69082",
+   "title": "Einführung in die Inklusionspädagogik für L5",
+   "number": "ErWi-1150-Vorlesung1",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ann-Kathrin Arndt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "14-täglich",
+       "day": 1,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-01-25",
+       "cancelled": [
+        "2026-12-28"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ann-Kathrin Arndt"
+       ],
+       "room": "Raum 1004 (G.-Forster-Str. 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69082&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Einführung in die Inklusionspädagogik für L5",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "68268",
+   "title": "Fallbasierte und Forschende Zugänge im Praxissemester - Schwerpunkt: Professionelles Handeln in inklusiven Kontexten, Kurs C",
+   "number": "ErWi-8100-Seminar3",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Nina Skorsetz-Gumprecht",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Nina Skorsetz-Gumprecht"
+       ],
+       "room": "Raum 4314 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68268&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Fallbasierte und Forschende Zugänge im Praxissemester - Schwerpunkt: Professionelles Handeln in inklusiven Kontexten, Kurs C",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "57255",
+   "title": "Zusatzleistungen FIPäd",
+   "number": "FIPäd-4400-V01",
+   "type": "Kolloquium",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Timo Lüke",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-01",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-10-15",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "hybrid",
+       "instructors": [],
+       "room": "Raum 1219 (Nora-Platiel 4)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57255&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Zusatzleistungen FIPäd",
+   "typeEn": "Colloquium"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

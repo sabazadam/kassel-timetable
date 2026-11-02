@@ -1,0 +1,4369 @@
+{
+ "generatedAt": "2026-10-21T18:02:42.590Z",
+ "period": "Wintersemester 2026/27",
+ "program": "Master Nanoscience (2023)",
+ "programEn": "Master Nanoscience (2023)",
+ "slug": "msc-nanoscience",
+ "degree": "master",
+ "themes": false,
+ "categories": [
+  {
+   "id": "Wahlpflichtmodule > Schwerpunktmodule",
+   "group": "area",
+   "name": "Specialization module",
+   "nameDe": "Schwerpunktmodule",
+   "short": "Specialization",
+   "count": 1,
+   "ects": 8,
+   "note": "At least one specialization module (S01 to S04), worth 8 ECTS. Further specialization modules may be credited as electives.",
+   "nameTr": "Uzmanlık modülü",
+   "noteTr": "En az bir uzmanlık modülü (S01-S04), 8 ECTS değerinde. İlave uzmanlık modülleri seçmeli olarak sayılabilir.",
+   "noteDe": "Mindestens ein Schwerpunktmodul (S01 bis S04) im Umfang von 8 ECTS. Weitere Schwerpunktmodule können als Wahlpflichtmodule angerechnet werden."
+  },
+  {
+   "id": "Wahlpflichtmodule > Kursmodule",
+   "group": "area",
+   "name": "Course modules",
+   "nameDe": "Kursmodule",
+   "short": "Course modules",
+   "count": 1,
+   "ects": 12,
+   "exclude": [
+    "Advanced Biochemistry & Microbiology",
+    "Advanced Nanophysics",
+    "Advanced Synthetic Chemistry"
+   ],
+   "note": "At least 12 ECTS from modules the PO designates as course modules, which takes more than one module this semester because none is worth 12 ECTS. Specialization modules do not count toward this minimum, even where eCampus also lists them under course modules.",
+   "nameTr": "Ders modülleri",
+   "noteTr": "PO'nun ders modülü saydığı modüllerden en az 12 ECTS. Bu dönem hiçbirinin karşılığı 12 ECTS olmadığı için bu asgari birden fazla modül gerektirir. Uzmanlık alanı modülleri, eCampus bunları ders modülleri altında da gösterse bile bu asgariye sayılmaz.",
+   "noteDe": "Mindestens 12 ECTS aus Modulen, die die PO als Lehrveranstaltungsmodule ausweist. Dafür braucht es in diesem Semester mehr als ein Modul, weil keines 12 ECTS umfasst. Schwerpunktmodule werden auf dieses Minimum nicht angerechnet, auch wenn eCampus sie zugleich unter den Lehrveranstaltungsmodulen führt."
+  },
+  {
+   "id": "Wahlpflichtmodule > Internshipmodule",
+   "group": "area",
+   "name": "Research internships",
+   "nameDe": "Internshipmodule",
+   "short": "Internships",
+   "count": 1,
+   "ects": 12,
+   "note": "At least 12 ECTS from research internships. The PO allows a short variant of 6 ECTS and a long variant of 12 ECTS; this semester every internship that carries credits is the 12-ECTS variant, so one of those meets the minimum.",
+   "nameTr": "Araştırma stajları",
+   "noteTr": "Araştırma stajlarından en az 12 ECTS. PO, 6 ECTS'lik kısa bir seçeneğe ve 12 ECTS'lik uzun bir seçeneğe izin verir. Bu dönem kredi getiren her staj 12 ECTS'lik seçenektedir; bunlardan biri asgariyi karşılar.",
+   "noteDe": "Mindestens 12 ECTS aus Forschungspraktika. Die PO lässt eine kurze Variante mit 6 ECTS und eine lange Variante mit 12 ECTS zu. In diesem Semester ist jedes Praktikum mit Leistungspunkten die Variante mit 12 ECTS; eines davon erfüllt das Minimum."
+  }
+ ],
+ "rulesSummary": {
+  "en": "Section 8 of the examination regulations of 17 May 2023 (Mitteilungsblatt 18/2023): 66 ECTS compulsory modules (nanostructure analysis, nanochemistry, nanophysics, nanobiology, preparatory project, thesis), at least one 8-ECTS specialization module (S01 to S04), and 46 ECTS further electives with at least 12 ECTS from course modules and at least 12 ECTS from research internships. The app program name remains Master Nanoscience (2023).",
+  "tr": "17 Mayıs 2023 tarihli sınav yönetmeliğinin 8. maddesi (Mitteilungsblatt 18/2023): 66 ECTS zorunlu modül (nanoyapı analizi, nanokimya, nanofizik, nanobiyoloji, hazırlık projesi, tez), en az bir adet 8 ECTS'lik uzmanlık modülü (S01-S04) ve 46 ECTS ek seçmeli. Bu seçmelilerin en az 12 ECTS'i ders modüllerinden, en az 12 ECTS'i araştırma stajlarından gelmelidir. Uygulamadaki program adı Master Nanoscience (2023) olarak kalır.",
+  "de": "§ 8 der Prüfungsordnung vom 17. Mai 2023 (Mitteilungsblatt 18/2023): 66 ECTS Pflichtmodule (Nanostrukturanalyse, Nanochemie, Nanophysik, Nanobiologie, Vorbereitungsprojekt, Thesis), mindestens ein Schwerpunktmodul im Umfang von 8 ECTS (S01 bis S04) sowie 46 ECTS weitere Wahlpflichtmodule, davon mindestens 12 ECTS aus Kursmodulen und mindestens 12 ECTS aus Forschungspraktika. Der Programmname in der App bleibt Master Nanoscience (2023)."
+ },
+ "rulesSources": [
+  "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21974&token=866f5320657d97dadfd806c9589d2e441b9140e8"
+ ],
+ "sections": [
+  {
+   "id": "Pflichtmodule",
+   "name": "Compulsory Modules",
+   "nameDe": "Pflichtmodule"
+  },
+  {
+   "id": "Wahlpflichtmodule",
+   "name": "Elective Modules",
+   "nameDe": "Wahlpflichtmodule"
+  },
+  {
+   "id": "Allgemein",
+   "name": "General",
+   "nameDe": "Allgemein"
+  },
+  {
+   "id": "german",
+   "name": "German Courses (ISZ)",
+   "nameDe": "Deutschkurse (ISZ)",
+   "note": {
+    "en": "Free German courses of the Language Centre (ISZ), only for enrolled Uni Kassel students. Register with the ISZ, not in eCampus. Whether the credits count in your program depends on your PO (e.g. key competencies or Studium Generale).",
+    "tr": "Dil Merkezi'nin (ISZ) ücretsiz Almanca kursları, yalnızca Uni Kassel'e kayıtlı öğrenciler için. Kayıt eCampus'tan değil ISZ'den yapılır. Kredilerin programında sayılıp sayılmayacağı PO'na bağlı (ör. anahtar yetkinlikler veya Studium Generale).",
+    "de": "Kostenfreie Deutschkurse des Sprachenzentrums (ISZ), nur für immatrikulierte Studierende der Uni Kassel. Die Anmeldung läuft über das ISZ, nicht über eCampus. Ob die Credits in deinem Studiengang zählen, regelt deine PO (z. B. Schlüsselkompetenzen oder Studium Generale)."
+   }
+  }
+ ],
+ "handbookUrl": null,
+ "noteTranslations": {
+  "Vorlesung": {
+   "en": "Lecture",
+   "tr": "Ders"
+  },
+  "Tutorium": {
+   "en": "Tutorial.",
+   "tr": "Tutorial (küçük grup dersi)."
+  },
+  "3 weeks in March/April": {
+   "en": "3 weeks in March/April",
+   "tr": "Mart/Nisan aylarında 3 hafta"
+  },
+  "Moodle-Kurs:https://moodle.uni-kassel.de/course/view.php?id=23275": {
+   "en": "Moodle course:https://moodle.uni-kassel.de/course/view.php?id=23275",
+   "tr": "Moodle kursu:https://moodle.uni-kassel.de/course/view.php?id=23275"
+  },
+  "Moodle-Kurs: https://moodle.uni-kassel.de/course/view.php?id=23275": {
+   "en": "Moodle course: https://moodle.uni-kassel.de/course/view.php?id=23275",
+   "tr": "Moodle kursu: https://moodle.uni-kassel.de/course/view.php?id=23275"
+  },
+  "Start: wird in der Vorlesung bekanntgegeben! ​ Link: http://www.ina.uni-kassel.de/?id=221": {
+   "en": "Start: will be announced in the lecture! Link: http://www.ina.uni-kassel.de/?id=221",
+   "tr": "Başlangıç: derste duyurulacaktır! Bağlantı: http://www.ina.uni-kassel.de/?id=221"
+  },
+  "Blockveranstaltung in der veranstaltungsfreien Zeit": {
+   "en": "Block course during the lecture-free period",
+   "tr": "Derslerin olmadığı dönemde blok ders"
+  },
+  "Termin: 25.11.2026 „online“": {
+   "en": "Appointment: 25.11.2026 \"online\"",
+   "tr": "Tarih: 25.11.2026 \"çevrimiçi\""
+  },
+  "Verpflichtende Vorbesprechung mit Sicherheitsunterweisung.Verbindliche Anmeldung bis zum 14.10.2026 an fprakt-anmeldung@uni-kassel.de unter Angabe von Matrikelnummer, Studiengang mit Jahr der Prüfungsordnung und Partner, wenn bekannt.": {
+   "en": "Mandatory kick-off meeting with safety instruction. Binding registration by 14.10.2026 to fprakt-anmeldung@uni-kassel.de, stating matriculation number, degree program with the year of the examination regulations, and partner if known.",
+   "tr": "Güvenlik eğitimini içeren zorunlu ön görüşme. Bağlayıcı kayıt 14.10.2026 tarihine kadar fprakt-anmeldung@uni-kassel.de adresine, öğrenci numarası, sınav yönetmeliğinin yılıyla birlikte öğrenim programı ve biliniyorsa partner belirtilerek yapılır."
+  },
+  "No lecture on 18.12.2026.Time was shifted to 14:15 to avoid overlap with nanophysics.Room is IBC3112": {
+   "en": "No lecture on 18.12.2026.Time was shifted to 14:15 to avoid overlap with nanophysics.Room is IBC3112",
+   "tr": "18.12.2026 tarihinde ders yoktur. Nanofizik ile çakışmayı önlemek için saat 14:15'e alınmıştır. Oda IBC3112'dir."
+  },
+  "Further appointments by arrangement": {
+   "en": "Further appointments by arrangement",
+   "tr": "Diğer randevular anlaşmaya göredir."
+  },
+  "Einführungsveranstaltung": {
+   "en": "Introductory session",
+   "tr": "Giriş oturumu"
+  },
+  "Termine werden über Moodle bekanntgegeben (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)": {
+   "en": "Dates will be announced via Moodle (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)",
+   "tr": "Tarihler Moodle üzerinden duyurulacaktır (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)"
+  },
+  "Dauer: 4 Wochen ganztags, Anmeldung erforderlich": {
+   "en": "Duration: 4 weeks all day, registration required",
+   "tr": "Süre: 4 hafta tam gün, kayıt gereklidir"
+  },
+  "Online als Zoom-Videokonferenz": {
+   "en": "Online as a Zoom video conference",
+   "tr": "Zoom video konferansı olarak online"
+  },
+  "beschränkte Teilnehmerzahl, Voranmeldung erforderlich": {
+   "en": "limited number of participants, advance registration required",
+   "tr": "sınırlı katılımcı sayısı, ön kayıt gereklidir"
+  },
+  "4 Weeks upon arrangement": {
+   "en": "4 Weeks upon arrangement",
+   "tr": "Anlaşmaya göre 4 hafta"
+  },
+  "Labor 1123": {
+   "en": "Laboratory 1123",
+   "tr": "Laboratuvar 1123"
+  },
+  "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Tuesdays: 08.12.2026, 12.01.2027, 26.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, salı: 08.12.2026, 12.01.2027, 26.01.2027 (saat belirtilmemiş)."
+  },
+  "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).": {
+   "en": "Plus 3 extra sessions on Wednesdays: 09.12.2026, 13.01.2027, 27.01.2027 (time not given).",
+   "tr": "Ayrıca 3 ek ders, çarşamba: 09.12.2026, 13.01.2027, 27.01.2027 (saat belirtilmemiş)."
+  },
+  "Online-Kurs auf Zoom, mit Präsenzanteil.": {
+   "en": "Online course on Zoom, with some sessions in person.",
+   "tr": "Zoom üzerinden online ders, bazı oturumlar yüz yüze."
+  },
+  "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).": {
+   "en": "Zoom sessions on Thursdays, plus three in-person sessions in Kurt-Wolters-Str. 5, room 1023 (dates not given).",
+   "tr": "Perşembe günleri Zoom, ayrıca Kurt-Wolters-Str. 5, oda 1023'te üç yüz yüze oturum (tarihler belirtilmemiş)."
+  }
+ },
+ "labels": {
+  "Allgemein": "General",
+  "Pflichtmodule": "Compulsory Modules",
+  "Wahlpflichtmodule": "Elective Modules",
+  "Kursmodule": "Course Modules",
+  "Schwerpunktmodule": "Specialization Modules",
+  "Internshipmodule": "Internship Modules"
+ },
+ "modules": [
+  {
+   "id": "m14650",
+   "title": "Advanced Biochemistry & Microbiology",
+   "titleEn": "Advanced Biochemistry & Microbiology",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule",
+    "Wahlpflichtmodule > Schwerpunktmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Schwerpunktmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70257",
+    "70258"
+   ]
+  },
+  {
+   "id": "m14623",
+   "title": "Advanced Nanophysics",
+   "titleEn": "Advanced Nanophysics",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule",
+    "Wahlpflichtmodule > Schwerpunktmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Schwerpunktmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54671"
+   ]
+  },
+  {
+   "id": "m14657",
+   "title": "Advanced Synthetic Chemistry",
+   "titleEn": "Advanced Synthetic Chemistry",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule",
+    "Wahlpflichtmodule > Schwerpunktmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Schwerpunktmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "59889",
+    "59890"
+   ]
+  },
+  {
+   "id": "m14685",
+   "title": "Angewandte Biotechnologie",
+   "titleEn": "Applied Biotechnology",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70259",
+    "70260"
+   ]
+  },
+  {
+   "id": "m14670",
+   "title": "Applied Physical Chemistry",
+   "titleEn": "Applied Physical Chemistry",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54514",
+    "54515"
+   ]
+  },
+  {
+   "id": "m14567",
+   "title": "Biological Rhythmus, Oscillations and Clocks",
+   "titleEn": "Biological Rhythmus, Oscillations and Clocks",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54467"
+   ]
+  },
+  {
+   "id": "m14342",
+   "title": "BPM Professional Practical Training",
+   "titleEn": "BPM Professional Practical Training",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54665"
+   ]
+  },
+  {
+   "id": "m14629",
+   "title": "Bridging the Gap Biology (Fundamentals)",
+   "titleEn": "Bridging the Gap Biology (Fundamentals)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "70122",
+    "70949"
+   ]
+  },
+  {
+   "id": "m14576",
+   "title": "Bridging the Gap Biology (Specialization)",
+   "titleEn": "Bridging the Gap Biology (Specialization)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "pick": {
+    "count": 2,
+    "fixed": []
+   },
+   "courseIds": [
+    "70130",
+    "70128",
+    "70114",
+    "54480"
+   ]
+  },
+  {
+   "id": "m14560",
+   "title": "Bridging the Gap Chemistry (Fundamentals)",
+   "titleEn": "Bridging the Gap Chemistry (Fundamentals)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": true,
+   "courseIds": [
+    "70126",
+    "70172",
+    "70180"
+   ]
+  },
+  {
+   "id": "m14680",
+   "title": "Bridging the Gap Chemistry (Specialization)",
+   "titleEn": "Bridging the Gap Chemistry (Specialization)",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "54604"
+   ]
+  },
+  {
+   "id": "m14574",
+   "title": "Bridging the Gap Physics (Specialization)",
+   "titleEn": "Bridging the Gap Physics (Specialization)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Allgemein"
+   ],
+   "categories": [],
+   "section": "Allgemein",
+   "pickOne": false,
+   "courseIds": [
+    "70983"
+   ]
+  },
+  {
+   "id": "m14632",
+   "title": "Computational Chemistry",
+   "titleEn": "Computational Chemistry",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54622",
+    "54623"
+   ]
+  },
+  {
+   "id": "m14219",
+   "title": "Lab Course Advanced Experimental Physics",
+   "titleEn": "Lab Course Advanced Experimental Physics",
+   "code": null,
+   "ects": 9,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54630"
+   ]
+  },
+  {
+   "id": "m14298",
+   "title": "Methods of Nanostructure Analysis",
+   "titleEn": "Methods of Nanostructure Analysis",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54415",
+    "70951"
+   ]
+  },
+  {
+   "id": "m14660",
+   "title": "Molecular Physics and Spectroscopy I",
+   "titleEn": "Molecular Physics and Spectroscopy I",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54313",
+    "54424"
+   ]
+  },
+  {
+   "id": "m13319",
+   "title": "Nanobiology",
+   "titleEn": "Nanobiology",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54495"
+   ]
+  },
+  {
+   "id": "m14570",
+   "title": "Nanochemistry",
+   "titleEn": "Nanochemistry",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54631"
+   ]
+  },
+  {
+   "id": "m14633",
+   "title": "Nanophysics",
+   "titleEn": "Nanophysics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54670",
+    "54484"
+   ]
+  },
+  {
+   "id": "m14636",
+   "title": "Physiology of the Senses",
+   "titleEn": "Physiology of the Senses",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70156"
+   ]
+  },
+  {
+   "id": "m14611",
+   "title": "PMP 2 Experimental Physics Seminar",
+   "titleEn": "PMP 2 Experimental Physics Seminar",
+   "code": null,
+   "ects": 5,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54628"
+   ]
+  },
+  {
+   "id": "m14581",
+   "title": "PMWE 6 Nano Scale Quantum Optics",
+   "titleEn": "PMWE 6 Nano Scale Quantum Optics",
+   "code": null,
+   "ects": 6,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54449"
+   ]
+  },
+  {
+   "id": "m14225",
+   "title": "Preparatory Project",
+   "titleEn": "Preparatory Project",
+   "code": null,
+   "ects": 13,
+   "areas": [
+    "Pflichtmodule"
+   ],
+   "categories": [],
+   "section": "Pflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54312"
+   ]
+  },
+  {
+   "id": "m14603",
+   "title": "Research Internship Biochemistry",
+   "titleEn": "Research Internship Biochemistry",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54307",
+    "54304"
+   ]
+  },
+  {
+   "id": "m14554",
+   "title": "Research Internship Biophysics",
+   "titleEn": "Research Internship Biophysics",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54325",
+    "54319",
+    "70229",
+    "54327"
+   ]
+  },
+  {
+   "id": "m14669",
+   "title": "Research Internship Cell Biology",
+   "titleEn": "Research Internship Cell Biology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54483",
+    "54486"
+   ]
+  },
+  {
+   "id": "m14658",
+   "title": "Research Internship Developmental Genetics",
+   "titleEn": "Research Internship Developmental Genetics",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54358",
+    "54360"
+   ]
+  },
+  {
+   "id": "m14558",
+   "title": "Research Internship Hybrid Materials",
+   "titleEn": "Research Internship Hybrid Materials",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54606"
+   ]
+  },
+  {
+   "id": "m14630",
+   "title": "Research Internship Laboratory Astrophysics",
+   "titleEn": "Research Internship Laboratory Astrophysics",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54763"
+   ]
+  },
+  {
+   "id": "m14604",
+   "title": "Research Internship Macromolecular Chemistry",
+   "titleEn": "Research Internship Macromolecular Chemistry",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54572"
+   ]
+  },
+  {
+   "id": "m14640",
+   "title": "Research Internship Microbiology",
+   "titleEn": "Research Internship Microbiology",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54370",
+    "54365"
+   ]
+  },
+  {
+   "id": "m14605",
+   "title": "Research Internship Nanoprocessing and -analysis",
+   "titleEn": "Research Internship Nanoprocessing and -analysis",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54722"
+   ]
+  },
+  {
+   "id": "m14637",
+   "title": "Research Internship Nanoscale Quantum Optics",
+   "titleEn": "Research Internship Nanoscale Quantum Optics",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54645"
+   ]
+  },
+  {
+   "id": "m14589",
+   "title": "Research Internship Organic Chemistry",
+   "titleEn": "Research Internship Organic Chemistry",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54609"
+   ]
+  },
+  {
+   "id": "m14565",
+   "title": "Research Internship Organometallic Chemistry",
+   "titleEn": "Research Internship Organometallic Chemistry",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54530"
+   ]
+  },
+  {
+   "id": "m14627",
+   "title": "Research Internship Physical Chemistry",
+   "titleEn": "Research Internship Physical Chemistry",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54572",
+    "54564"
+   ]
+  },
+  {
+   "id": "m14678",
+   "title": "Research Internship Physics of Nanostructured Materials and Devices",
+   "titleEn": "Research Internship Physics of Nanostructured Materials and Devices",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54663"
+   ]
+  },
+  {
+   "id": "m14654",
+   "title": "Research Internship Thin Films and Synchrotron Radiation",
+   "titleEn": "Research Internship Thin Films and Synchrotron Radiation",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54676"
+   ]
+  },
+  {
+   "id": "m14612",
+   "title": "Research Internship Ultrashort Laser Pulses",
+   "titleEn": "Research Internship Ultrashort Laser Pulses",
+   "code": null,
+   "ects": 12,
+   "areas": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Internshipmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54680"
+   ]
+  },
+  {
+   "id": "m14551",
+   "title": "Seminar: Basics of Chronobiology and Olfaction",
+   "titleEn": "Seminar: Basics of Chronobiology and Olfaction",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "70156"
+   ]
+  },
+  {
+   "id": "m14586",
+   "title": "Special Topics in Nanoscience",
+   "titleEn": "Special Topics in Nanoscience",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54408"
+   ]
+  },
+  {
+   "id": "m14671",
+   "title": "Thin Film Physics",
+   "titleEn": "Thin Film Physics",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "categories": [
+    "Wahlpflichtmodule > Kursmodule"
+   ],
+   "section": "Wahlpflichtmodule",
+   "pickOne": false,
+   "courseIds": [
+    "54714"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a21"
+   ]
+  },
+  {
+   "id": "isz:isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-a22"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b11"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b12"
+   ]
+  },
+  {
+   "id": "isz:isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-b2"
+   ]
+  },
+  {
+   "id": "isz:isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "code": null,
+   "ects": 8,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium Plus"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-c1"
+   ]
+  },
+  {
+   "id": "isz:isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-daf"
+   ]
+  },
+  {
+   "id": "isz:isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-wiwi"
+   ]
+  },
+  {
+   "id": "isz:isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "code": null,
+   "ects": 3,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-mint"
+   ]
+  },
+  {
+   "id": "isz:isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "code": null,
+   "ects": 2,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-sci"
+   ]
+  },
+  {
+   "id": "isz:isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "code": null,
+   "ects": 0,
+   "areas": [
+    "Deutschkurse (ISZ) > Studium International"
+   ],
+   "categories": [],
+   "section": "german",
+   "pickOne": false,
+   "courseIds": [
+    "isz-de-art"
+   ]
+  }
+ ],
+ "courses": [
+  {
+   "id": "70122",
+   "title": "Einführung in die Genetik",
+   "number": "FB1018.0455w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Arno Müller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Vorlesung",
+       "instructors": [
+        "Prof. Dr. Arno Müller"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 2138 (Heinr.-Plett-Str.)",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)",
+       "part": "Tutorium",
+       "partEn": "Tutorial"
+      }
+     ],
+     "slots": true
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70122&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23199",
+    "key": false
+   },
+   "titleEn": "Introduction to Genetics",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70949",
+   "title": "Einführung in die Molekulare Biophysik für Nanostrukturwissenschaften",
+   "number": "FB1018.0150w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Jörg Helmut Kleinschmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:15",
+       "end": "15:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörg Helmut Kleinschmidt"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70949&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24879",
+    "key": true
+   },
+   "titleEn": "Introduction to Molecular Biophysics for Nanostructure Sciences",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70130",
+   "title": "Mikrobiologie I",
+   "number": "FB1018.0515w",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Raffael Schaffrath, Dr. Roland Klassen",
+   "groups": [
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Raffael Schaffrath",
+        "Dr. Roland Klassen"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "17:00",
+       "end": "19:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    },
+    {
+     "name": "3. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Raffael Schaffrath",
+        "Dr. Roland Klassen"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)",
+       "fixed": true
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "17:00",
+       "end": "19:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "Tutorium",
+       "instructors": [],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)",
+       "fixed": true
+      }
+     ],
+     "slots": false
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70130&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24610",
+    "key": true
+   },
+   "titleEn": "Microbiology I",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70128",
+   "title": "Zellbiologie",
+   "number": "FB1018.1100w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Markus Maniak",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Markus Maniak"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70128&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24783",
+    "key": false
+   },
+   "titleEn": "Cell Biology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70114",
+   "title": "Tierphysiologischer Kurs",
+   "number": "FB1018.1045w",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Susanne Neupert",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "17:00",
+       "startDate": "2026-10-13",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Susanne Neupert"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70114&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23347",
+    "key": false
+   },
+   "titleEn": "Animal Physiology Course",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54480",
+   "title": "Praktikum Mikrobiologie",
+   "number": "FB1018.1154w",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Raffael Schaffrath",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Raffael Schaffrath"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54480&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Microbiology Lab",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70126",
+   "title": "Einführung und Grundlagen der Organischen Chemie",
+   "number": "FB1018.3172w",
+   "type": "Vorlesung/Übung",
+   "language": null,
+   "responsible": "Prof. Dr. Rüdiger Faust, Dr. Susanne Flock, Dr. Sven Fürmeier",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": "Raum 0282 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70126&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23515",
+    "key": false
+   },
+   "titleEn": "Introduction to and Fundamentals of Organic Chemistry",
+   "typeEn": "Lecture/Exercise"
+  },
+  {
+   "id": "70172",
+   "title": "Grundvorlesung Physikalische Chemie",
+   "number": "FB1018.3250w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Backes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70172&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "365",
+    "key": false
+   },
+   "titleEn": "Basic Lecture in Physical Chemistry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70180",
+   "title": "Tutorium zur Grundvorlesung Physikalische Chemie",
+   "number": "FB1018.3253w",
+   "type": "Tutorium",
+   "language": null,
+   "responsible": "Prof. Dr. Claudia Backes, apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "09:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Claas Baumgarte"
+       ],
+       "room": "Raum 1409 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70180&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "365",
+    "key": false
+   },
+   "titleEn": "Tutorial for the Basic Lecture in Physical Chemistry",
+   "typeEn": "Tutorial"
+  },
+  {
+   "id": "54604",
+   "title": "Precourse Advanced Synthetic Chemistry",
+   "number": "FB1018.3512",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "3 weeks in March/April",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54604&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Precourse Advanced Synthetic Chemistry",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70983",
+   "title": "Experimentalphysik V",
+   "number": "FB1018.4040w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Prof. Dr. Marcel Mudrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Moodle-Kurs:https://moodle.uni-kassel.de/course/view.php?id=23275",
+       "instructors": [
+        "Prof. Dr. Marcel Mudrich"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "Moodle-Kurs: https://moodle.uni-kassel.de/course/view.php?id=23275",
+       "instructors": [
+        "Prof. Dr. Marcel Mudrich"
+       ],
+       "room": "Raum 3139 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70983&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23275",
+    "key": false
+   },
+   "titleEn": "Experimental Physics V",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54415",
+   "title": "Methods of Nanostructure Analysis (Fortgeschrittene Methoden der Nanostrukturanalyse)",
+   "number": "FB1018.3517w",
+   "type": "Ringvorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Clemens Bruhn, Dr. Jonas Bugase, Prof. Dr. Rüdiger Faust, Dr. Sven Fürmeier, Prof. Dr. Jörg Helmut Kleinschmidt, Prof. Dr. Markus Maniak, Prof. Dr. René Matzdorf, Dr. Martin Maurer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 1245 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54415&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23443",
+    "key": false
+   },
+   "titleEn": "Methods of Nanostructure Analysis (Fortgeschrittene Methoden der Nanostrukturanalyse)",
+   "typeEn": "Lecture Series"
+  },
+  {
+   "id": "70951",
+   "title": "Seminar Nanostrukturwissenschaften",
+   "number": "FB1018.3509w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker, Prof. Dr. Mohamed Benyoucef",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "13:00",
+       "end": "16:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+        "Prof. Dr. Mohamed Benyoucef"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70951&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "374",
+    "key": false
+   },
+   "titleEn": "Seminar Nanostructure Sciences",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54631",
+   "title": "Nanochemistry I",
+   "number": "FB1018.3265w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker"
+       ],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54631&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "366",
+    "key": false
+   },
+   "titleEn": "Nanochemistry I",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54670",
+   "title": "Nanophysics I (Nanostrukturen aus physikalischer Sicht I)",
+   "number": "FB1018.4267w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Cyril Popov, Prof. Dr. Mohamed Benyoucef, Prof. Dr. Arno Ehresmann, Prof. Dr. Marcel Mudrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "08:00",
+       "end": "10:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0450 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [],
+       "room": "Raum 0450 A (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54670&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2907",
+    "key": true
+   },
+   "titleEn": "Nanophysics I (Nanostructures from a Physical Perspective I)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54484",
+   "title": "Nanophysics I Exercises",
+   "number": "FB1018.4260w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Cyril Popov, Prof. Dr. Mohamed Benyoucef, Prof. Dr. Arno Ehresmann, Prof. Dr. Marcel Mudrich",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "14:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Start: wird in der Vorlesung bekanntgegeben! ​ Link: http://www.ina.uni-kassel.de/?id=221",
+       "instructors": [],
+       "room": "Raum 1252 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54484&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2907",
+    "key": true
+   },
+   "titleEn": "Nanophysics I Exercises",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54495",
+   "title": "Nanobiology I (Nanostrukturen aus biologischer Sicht I)",
+   "number": "FB1018.1280",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Susanne Neupert, Prof. Dr. Jörg Helmut Kleinschmidt, Dr. Katja Kapp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Susanne Neupert",
+        "Prof. Dr. Jörg Helmut Kleinschmidt",
+        "Dr. Katja Kapp"
+       ],
+       "room": "Raum 0100 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54495&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23200",
+    "key": false
+   },
+   "titleEn": "Nanobiology I (Nanostructures from a Biological Perspective I)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54312",
+   "title": "Einführungsprojekt Forschungsphase",
+   "number": "FB1018.0047",
+   "type": "Projekt",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Claudia Backes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": ""
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rudolf Pietschnig"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54312&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introductory Project Research Phase",
+   "typeEn": "Project"
+  },
+  {
+   "id": "59889",
+   "title": "Advanced Synthetic Chemistry (Praktikum Synthesechemie II)",
+   "number": "FB1018.3510",
+   "type": "Praktikum",
+   "language": null,
+   "responsible": "Prof. Dr. Rüdiger Faust, Prof. Dr. Rudolf Pietschnig, Prof. Dr. Ulrich Siemeling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Prof. Dr. Rudolf Pietschnig",
+        "Prof. Dr. Ulrich Siemeling"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59889&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Advanced Synthetic Chemistry (Lab Synthetic Chemistry II)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "59890",
+   "title": "Seminar Advanced Synthetic Chemistry (Seminar Synthesechemie II)",
+   "number": "FB1018.3511",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Rüdiger Faust, Prof. Dr. Rudolf Pietschnig, Prof. Dr. Ulrich Siemeling",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Prof. Dr. Rudolf Pietschnig",
+        "Prof. Dr. Ulrich Siemeling"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59890&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "39",
+    "key": false
+   },
+   "titleEn": "Seminar Advanced Synthetic Chemistry (Seminar Synthetic Chemistry II)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54671",
+   "title": "Lab Course Nanophysics",
+   "number": "FB1018.4268",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Cyril Popov",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Cyril Popov"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54671&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2878",
+    "key": false
+   },
+   "titleEn": "Lab Course Nanophysics",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "70257",
+   "title": "Biochemistry II (Biochemie II)",
+   "number": "FB1018.0035w",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Daniela Bertinetti, Dr. Roland Klassen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Daniela Bertinetti",
+        "Dr. Roland Klassen"
+       ],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70257&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23761",
+    "key": false
+   },
+   "titleEn": "Biochemistry II (Biochemistry II)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70258",
+   "title": "Seminar zu Biochemistry II (Biochemie II)",
+   "number": "FB1018.0037w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Dr. Roland Klassen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Blockveranstaltung in der veranstaltungsfreien Zeit",
+       "instructors": [
+        "Dr. Roland Klassen"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70258&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23761",
+    "key": false
+   },
+   "titleEn": "Seminar on Biochemistry II (Biochemistry II)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54665",
+   "title": "Einführungsseminar zum Berufspraktikum für Studierende der Physik und den Nanostrukturwissenschaften (Seminar to Professional Practical Training for Students of Physics and Nanoscience)",
+   "number": "FB1018.4185",
+   "type": "Einführungsseminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Cyril Popov",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "15:00",
+       "end": "18:00",
+       "startDate": "2026-11-25",
+       "endDate": "2026-11-25",
+       "cancelled": [],
+       "note": "Termin: 25.11.2026 „online“",
+       "instructors": [
+        "apl. Prof. Dr. Cyril Popov"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54665&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Introductory Seminar for the Professional Internship for Students of Physics and Nanoscience (Seminar to Professional Practical Training for Students of Physics and Nanoscience)",
+   "typeEn": "Introductory Seminar"
+  },
+  {
+   "id": "70259",
+   "title": "Angewandte Biotechnologie / Applied Biotechnology",
+   "number": "FB1018.0038",
+   "type": "Vorlesung",
+   "language": null,
+   "responsible": "Dr. Daniela Bertinetti, Ioannis Pavlidis",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Daniela Bertinetti",
+        "Ioannis Pavlidis"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70259&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Applied Biotechnology / Applied Biotechnology",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "70260",
+   "title": "Bioinformatische Methoden der Biotechnologie / Bioinformatic methods of biotechnology",
+   "number": "FB1018.0039",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Ioannis Pavlidis",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ioannis Pavlidis"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70260&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Bioinformatische Methoden der Biotechnologie / Bioinformatic methods of biotechnology",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54630",
+   "title": "Lab course advanced experimental physics",
+   "number": "FB1018.4060",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Dr. Arne Senftleben, Prof. Dr. Jochen Mikosch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-20",
+       "endDate": "2026-10-20",
+       "cancelled": [],
+       "note": "Verpflichtende Vorbesprechung mit Sicherheitsunterweisung.Verbindliche Anmeldung bis zum 14.10.2026 an fprakt-anmeldung@uni-kassel.de unter Angabe von Matrikelnummer, Studiengang mit Jahr der Prüfungsordnung und Partner, wenn bekannt.",
+       "instructors": [
+        "Dr. Arne Senftleben",
+        "Prof. Dr. Jochen Mikosch"
+       ],
+       "room": "Raum 0100 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54630&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Lab course advanced experimental physics",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54514",
+   "title": "Lecture Applied Physical Chemistry",
+   "number": "FB1018.3280w",
+   "type": "Vorlesung",
+   "language": "englisch",
+   "responsible": "Prof. Dr. Claudia Backes, Foad Ghasemi",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "englisch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "14:15",
+       "end": "15:45",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "No lecture on 18.12.2026.Time was shifted to 14:15 to avoid overlap with nanophysics.Room is IBC3112",
+       "instructors": [
+        "Prof. Dr. Claudia Backes",
+        "Foad Ghasemi"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54514&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "16036",
+    "key": false
+   },
+   "titleEn": "Lecture Applied Physical Chemistry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54515",
+   "title": "Seminar Applied Physical Chemistry",
+   "number": "FB1018.3281w",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Claudia Backes, Foad Ghasemi",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "12:00",
+       "end": "17:00",
+       "startDate": "2027-03-03",
+       "endDate": "2027-03-04",
+       "cancelled": [],
+       "note": "Further appointments by arrangement",
+       "instructors": [
+        "Prof. Dr. Claudia Backes",
+        "Foad Ghasemi"
+       ],
+       "room": "Raum 3112 (IBC) (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54515&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "16036",
+    "key": false
+   },
+   "titleEn": "Seminar Applied Physical Chemistry",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54467",
+   "title": "Ring lecture of the Research Training Network Multiscale Clocks",
+   "number": "FB1018.1050",
+   "type": "Ringvorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Georg Mayer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "13:00",
+       "end": "15:30",
+       "startDate": "2026-10-07",
+       "endDate": "2027-03-31",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Georg Mayer",
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+        "Prof. Dr. Martin E. Garcia",
+        "Prof. Dr. Friedrich W. Herberg",
+        "Dr. Roland Klassen",
+        "Prof. Dr. Arno Müller",
+        "apl. Prof. Dr. Cyril Popov",
+        "Prof. Dr. Raffael Schaffrath",
+        "Prof. Dr.-Ing. Olaf Stursberg"
+       ],
+       "room": "Raum 2298 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54467&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "2899",
+    "key": true
+   },
+   "titleEn": "Ring lecture of the Research Training Network Multiscale Clocks",
+   "typeEn": "Lecture Series"
+  },
+  {
+   "id": "54622",
+   "title": "Computational Chemistry",
+   "number": "FB1018.4125",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Guido Falk von Rudorff",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "09:00",
+       "end": "13:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Guido Falk von Rudorff"
+       ],
+       "room": "Raum 3137 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54622&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "10897",
+    "key": false
+   },
+   "titleEn": "Computational Chemistry",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54623",
+   "title": "Übungen zu Computational Chemistry",
+   "number": "FB1018.4126",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Guido Falk von Rudorff",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Guido Falk von Rudorff"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54623&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "10897",
+    "key": false
+   },
+   "titleEn": "Exercises for Computational Chemistry",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "54628",
+   "title": "PMP2 Experimental Physics Seminar",
+   "number": "FB1018.4045",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Kilian Singer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "Einzeltermin",
+       "day": 3,
+       "start": "14:00",
+       "end": "16:00",
+       "startDate": "2026-10-21",
+       "endDate": "2026-10-21",
+       "cancelled": [],
+       "note": "Einführungsveranstaltung",
+       "instructors": [
+        "Prof. Dr. Kilian Singer"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "Blockveranstaltung",
+       "day": null,
+       "start": "08:00",
+       "end": "16:00",
+       "startDate": "2027-02-16",
+       "endDate": "2027-02-18",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kilian Singer"
+       ],
+       "room": "Raum 2102 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54628&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24045",
+    "key": false
+   },
+   "titleEn": "PMP2 Experimental Physics Seminar",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54449",
+   "title": "Nanoscale Quantum Optics I – Basic principles",
+   "number": "FB1018.4130w",
+   "type": "Vorlesung / Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Kilian Singer, Dr. Peter Zahariev",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "13:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kilian Singer",
+        "Dr. Peter Zahariev"
+       ],
+       "room": "Raum 1102 (Heinr.-Plett-Str.)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "10:00",
+       "end": "14:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kilian Singer",
+        "Dr. Peter Zahariev"
+       ],
+       "room": "Raum 2420 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54449&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Nanoscale Quantum Optics I – Basic principles",
+   "typeEn": "Lecture / Seminar"
+  },
+  {
+   "id": "54313",
+   "title": "Molecular Physics and Spectroscopy I (Molekülphysik und Spektroskopie I)",
+   "number": "FB1018.5522w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Guido Fuchs, Prof. Dr. Thomas Giesen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-15",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Guido Fuchs",
+        "Prof. Dr. Thomas Giesen"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54313&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24294",
+    "key": false
+   },
+   "titleEn": "Molecular Physics and Spectroscopy I (Molecular Physics and Spectroscopy I)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54424",
+   "title": "Exercises on Molecular Physics and Spectroscopy I (Übung zur Molekülphysik und Spektroskopie I)",
+   "number": "FB1018.5523w",
+   "type": "Übung",
+   "language": "deutsch",
+   "responsible": "Doris Herberth",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "14:00",
+       "end": "15:00",
+       "startDate": "2026-10-22",
+       "endDate": "2027-02-11",
+       "cancelled": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07"
+       ],
+       "note": "",
+       "instructors": [
+        "Doris Herberth"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54424&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "24294",
+    "key": false
+   },
+   "titleEn": "Exercises on Molecular Physics and Spectroscopy I (Exercise for Molecular Physics and Spectroscopy I)",
+   "typeEn": "Exercise"
+  },
+  {
+   "id": "70156",
+   "title": "Grundlagenseminar: Basics of Chronobiology and Olfaction",
+   "number": "FB1018.1035w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Anna Schneider",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Anna Schneider"
+       ],
+       "room": "Raum 0173 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70156&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23351",
+    "key": false
+   },
+   "titleEn": "Grundlagenseminar: Basics of Chronobiology and Olfaction",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54408",
+   "title": "Polarized Neutron Scattering for Nanomagnetism",
+   "number": "FB1018.4294w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Arno Ehresmann",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Ehresmann"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54408&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Polarized Neutron Scattering for Nanomagnetism",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54714",
+   "title": "Thin Films Physics (Dünnschichtphysik)",
+   "number": "FB1018.4375w",
+   "type": "Vorlesung",
+   "language": "deutsch",
+   "responsible": "Dr. Jonas Bugase, Prof. Dr. Arno Ehresmann, Rico Huhnstock",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "17:00",
+       "end": "19:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "",
+       "instructors": [
+        "Dr. Jonas Bugase",
+        "Prof. Dr. Arno Ehresmann",
+        "Rico Huhnstock"
+       ],
+       "room": "Raum 1135 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54714&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "23762",
+    "key": false
+   },
+   "titleEn": "Thin Films Physics (Thin Film Physics)",
+   "typeEn": "Lecture"
+  },
+  {
+   "id": "54307",
+   "title": "Current Topics in Biochemistry (Biochemisches Seminar über aktuelle Entwicklungen und Methoden)",
+   "number": "FB1018.0030",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Friedrich W. Herberg",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "13:00",
+       "end": "15:30",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "Termine werden über Moodle bekanntgegeben (https://moodle.uni-kassel.de/moodle/course/view.php?id=3812)",
+       "instructors": [
+        "Prof. Dr. Friedrich W. Herberg"
+       ],
+       "room": "Raum 2161 (AVZ I)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54307&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "740",
+    "key": true
+   },
+   "titleEn": "Current Topics in Biochemistry (Biochemical Seminar on Current Developments and Methods)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54304",
+   "title": "Research Internship Biochemistry (Forschungspraktikum Biochemie- M.Sc. Nanostrukturwissenschaften)",
+   "number": "FB1018.0017",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Dr. Daniela Bertinetti",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Wenn Sie Interesse an diesem Modul haben, melden Sie sich bis zum 01. Oktober bei Dr. Daniela Bertinetti (d.bertinetti@uni-kassel.de) zum Themenfindungsgespräch an. - If you are interested in this module, register with Dr. Daniela Bertinetti (d.bertinetti@uni-kassel.de) by October 01 for the biochemistry interview.",
+       "instructors": [
+        "Dr. Daniela Bertinetti"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54304&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Biochemistry (Research Internship Biochemistry- M.Sc. Nanostructure Sciences)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54325",
+   "title": "Research Internship Biophysics (Forschungspraktikum Biophysik)",
+   "number": "FB1018.0160",
+   "type": "Blockpraktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jörg Helmut Kleinschmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörg Helmut Kleinschmidt"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54325&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Biophysics (Research Internship Biophysics)",
+   "typeEn": "Block Lab"
+  },
+  {
+   "id": "54319",
+   "title": "Seminar Biophysik",
+   "number": "FB1018.0111",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jörg Helmut Kleinschmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörg Helmut Kleinschmidt"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54319&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar Biophysics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "70229",
+   "title": "Current topics in Biophysics",
+   "number": "FB1018.4425w",
+   "type": "Seminar",
+   "language": null,
+   "responsible": "Prof. Dr. Jörg Helmut Kleinschmidt, Prof. Dr. Martin E. Garcia",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "startDate": "2026-10-19",
+       "endDate": "2027-02-08",
+       "cancelled": [
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörg Helmut Kleinschmidt",
+        "Prof. Dr. Martin E. Garcia"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70229&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Current topics in Biophysics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54327",
+   "title": "Seminar zum Forschungspraktikum Biophysik",
+   "number": "FB1018.0161",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jörg Helmut Kleinschmidt",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "startDate": "2026-10-21",
+       "endDate": "2027-02-10",
+       "cancelled": [
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+       ],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Jörg Helmut Kleinschmidt"
+       ],
+       "room": "Raum 2404 (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54327&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Seminar on the Biophysics Research Internship",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54483",
+   "title": "Research Internship Cell Biology (Laborpraktikum molekulare Zellbiologie)",
+   "number": "FB1018.1175",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Markus Maniak",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Dauer: 4 Wochen ganztags, Anmeldung erforderlich",
+       "instructors": [
+        "Prof. Dr. Markus Maniak"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54483&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Cell Biology (Laboratory Practical in Molecular Cell Biology)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54486",
+   "title": "Current topics in Cell Biology (Aktuelle Probleme der Zellbiologie)",
+   "number": "FB1018.1180",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Markus Maniak",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Markus Maniak"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54486&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Current topics in Cell Biology (Current Problems in Cell Biology)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54358",
+   "title": "Current topics of Developmental Genetics (Aktuelle Themen der Entwicklungsgenetik für Masterstudierende und Doktorand*innen)",
+   "number": "FB1018.0425",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Dr. Katja Kapp, Prof. Dr. Arno Müller",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "17:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-09",
+       "cancelled": [
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05"
+       ],
+       "note": "Online als Zoom-Videokonferenz",
+       "instructors": [
+        "Prof. Dr. Arno Müller",
+        "Dr. Katja Kapp"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54358&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "259",
+    "key": true
+   },
+   "titleEn": "Current topics of Developmental Genetics (Current Topics in Developmental Genetics for Master's Students and Doctoral Students)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54360",
+   "title": "Research Internship Developmental Genetics (Forschungsmodul Entwicklungsgenetik für M.Sc. Biologie und Nanostrukturwissenschaften)",
+   "number": "FB1018.0467",
+   "type": "Blockpraktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Arno Müller, Dr. Katja Kapp",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Müller",
+        "Dr. Katja Kapp"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54360&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Developmental Genetics (Research Module Developmental Genetics for M.Sc. Biology and Nanostructure Sciences)",
+   "typeEn": "Block Lab"
+  },
+  {
+   "id": "54606",
+   "title": "Research Internship Hybrid Materials (Forschungspraktikum Chemische Hybridmaterialien)",
+   "number": "FB1018.3516",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Rudolf Pietschnig",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rudolf Pietschnig"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54606&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Hybrid Materials (Research Internship Chemical Hybrid Materials)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54763",
+   "title": "Research Internship Laboratory Astrophysics",
+   "number": "FB1018.5565",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Thomas Giesen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Thomas Giesen"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54763&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Laboratory Astrophysics",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54572",
+   "title": "Research Internship Physical Chemistry",
+   "number": "FB1018.3240",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker, Prof. Dr. Claudia Backes, Foad Ghasemi",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+        "Prof. Dr. Claudia Backes",
+        "Foad Ghasemi"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54572&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Physical Chemistry",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54370",
+   "title": "Praktikum zum Forschungsmodul Mikrobiologie für M.Sc. Biologie",
+   "number": "FB1018.0535",
+   "type": "Blockpraktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Raffael Schaffrath, Dr. Roland Klassen",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "beschränkte Teilnehmerzahl, Voranmeldung erforderlich",
+       "instructors": [
+        "Prof. Dr. Raffael Schaffrath",
+        "Dr. Roland Klassen"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54370&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Lab for the Research Module Microbiology for M.Sc. Biology",
+   "typeEn": "Block Lab"
+  },
+  {
+   "id": "54365",
+   "title": "Microbiological Seminar (Mikrobiologisches Seminar für Fortgeschrittene)",
+   "number": "FB1018.0505s",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Raffael Schaffrath",
+   "groups": [],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54365&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Microbiological Seminar (Microbiological Seminar for Advanced Students)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54722",
+   "title": "Research Internship nanoprocessing and -analysis (Participation in a research project)",
+   "number": "FB1018.4402",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. rer. nat. habil. Hartmut Hillmer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. rer. nat. habil. Hartmut Hillmer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54722&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship nanoprocessing and -analysis (Participation in a research project)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54663",
+   "title": "Research Internship Physics of Nanostructured Materials and Devices",
+   "number": "FB1018.4182",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Cyril Popov",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "4 Weeks upon arrangement",
+       "instructors": [
+        "apl. Prof. Dr. Cyril Popov"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54663&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Physics of Nanostructured Materials and Devices",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54609",
+   "title": "Research Internship Organic Chemistry (Forschungspraktikum Mesoskopische Systeme)",
+   "number": "FB1018.3518",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Rüdiger Faust, Dr. Susanne Flock, Dr. Sven Fürmeier",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Rüdiger Faust",
+        "Dr. Susanne Flock",
+        "Dr. Sven Fürmeier"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54609&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Organic Chemistry (Research Internship Mesoscopic Systems)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54530",
+   "title": "Research Internship Organometallic Chemistry (Forschungspraktikum Metallorganische Chemie)",
+   "number": "FB1018.3091",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Ulrich Siemeling, Dr. Clemens Bruhn, Dr. Michael Leibold",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Ulrich Siemeling",
+        "Dr. Clemens Bruhn",
+        "Dr. Michael Leibold"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54530&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Organometallic Chemistry (Research Internship Organometallic Chemistry)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54564",
+   "title": "Seminar Physical Chemistry (Seminar Molekulare Materialien)",
+   "number": "FB1018.3225",
+   "type": "Seminar",
+   "language": "deutsch",
+   "responsible": "apl. Prof. Dr. Thomas Fuhrmann-Lieker, Prof. Dr. Claudia Backes",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "09:30",
+       "end": "11:00",
+       "startDate": "2026-10-16",
+       "endDate": "2027-02-12",
+       "cancelled": [
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08"
+       ],
+       "note": "",
+       "instructors": [
+        "apl. Prof. Dr. Thomas Fuhrmann-Lieker",
+        "Prof. Dr. Claudia Backes"
+       ],
+       "room": "Raum 3112 (IBC) (Heinr.-Plett-Str.)"
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54564&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "369",
+    "key": false
+   },
+   "titleEn": "Seminar Physical Chemistry (Seminar Molecular Materials)",
+   "typeEn": "Seminar"
+  },
+  {
+   "id": "54645",
+   "title": "Research Internship Nanoscale Quantum Optics",
+   "number": "FB1018.4132",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Kilian Singer",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Kilian Singer"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54645&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Nanoscale Quantum Optics",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54676",
+   "title": "Research Internship Thin Films and Synchrotronradiation",
+   "number": "FB1018.4285",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Arno Ehresmann, Dr. Andreas Hans, Prof. Dr. Jochen Mikosch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Prof. Dr. Arno Ehresmann",
+        "Dr. Andreas Hans",
+        "Prof. Dr. Jochen Mikosch"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54676&periodId=720&navigationPosition=courseoverviewShow",
+   "titleEn": "Research Internship Thin Films and Synchrotronradiation",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "54680",
+   "title": "Praktikum Ultrakurze Laserpulse und deren Anwendung (M.Sc. Nano) (Research Internship ultrashort laser pulses)",
+   "number": "FB1018.4292",
+   "type": "Praktikum",
+   "language": "deutsch",
+   "responsible": "Prof. Dr. Jochen Mikosch",
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "language": "deutsch",
+     "series": [
+      {
+       "rhythm": "nach Vereinbarung",
+       "day": null,
+       "start": null,
+       "end": null,
+       "startDate": null,
+       "endDate": null,
+       "cancelled": [],
+       "note": "Labor 1123",
+       "instructors": [
+        "Prof. Dr. Jochen Mikosch"
+       ],
+       "room": ""
+      }
+     ]
+    }
+   ],
+   "url": "https://ecampus.uni-kassel.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54680&periodId=720&navigationPosition=courseoverviewShow",
+   "moodle": {
+    "id": "22141",
+    "key": false
+   },
+   "titleEn": "Lab Ultrashort Laser Pulses and Their Application (M.Sc. Nano) (Research Internship ultrashort laser pulses)",
+   "typeEn": "Lab"
+  },
+  {
+   "id": "isz-de-a11",
+   "title": "German for absolute beginners (Zielniveau A1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Volkan Erdogan"
+       ],
+       "room": "Raum 0608 (Möncheberg 7)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for absolute beginners (target level A1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a12",
+   "title": "Grundstufe I (Voraussetzung: A1.1, Zielniveau A1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Redhab Ahmed"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level I (requires A1.1, target level A1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a21",
+   "title": "Grundstufe II (Voraussetzung: A1.2, Zielniveau A2.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Aylin Sen"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level II (requires A1.2, target level A2.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-a22",
+   "title": "Grundstufe III (Voraussetzung: A2.1, Zielniveau A2.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Svetlana Stepanova"
+       ],
+       "room": "Raum 1016 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level III (requires A2.1, target level A2.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b11",
+   "title": "Grundstufe IV (Voraussetzung: A2.2, Zielniveau B1.1)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Xiufeng Ji"
+       ],
+       "room": "Raum 1011 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level IV (requires A2.2, target level B1.1)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b12",
+   "title": "Grundstufe V (Voraussetzung: B1.1, Zielniveau B1.2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Liana Baghdasaryan"
+       ],
+       "room": "Raum 1012 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "18:00",
+       "end": "21:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Ozan Seh"
+       ],
+       "room": "Raum 0017 (Kurt-Wolters 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German Basic Level V (requires B1.1, target level B1.2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-b2",
+   "title": "UNIcert II (Voraussetzung: B1.2, Zielniveau B2)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Valeriia Malova",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 1,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine dienstags: 08.12.2026, 12.01.2027, 26.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 1017 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 3,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Phuong Le Do",
+        "Niloofar Rafsanjani",
+        "Judith Labs"
+       ],
+       "room": "Raum 0107 (Nora-Platiel 5)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert II (requires B1.2, target level B2)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-c1",
+   "title": "UNIcert III (Voraussetzung: B2, Zielniveau C1-)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Beate Möller",
+        "Judith Labs"
+       ],
+       "room": "Raum 2044 (Kurt-Wolters 5)"
+      }
+     ]
+    },
+    {
+     "name": "2. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 2,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Dazu 3 Zusatztermine mittwochs: 09.12.2026, 13.01.2027, 27.01.2027 (Uhrzeit nicht angegeben).",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      },
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "19:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Judith Labs",
+        "Michael Ahlbrecht"
+       ],
+       "room": "Raum 1117, Seminarraum 4 (Moritzstr. 18 Campus Center)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German UNIcert III (requires B2, target level C1-)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-daf",
+   "title": "ONLINE Fachkommunikation im Fach DaF/Z: Lesen, Schreiben, Argumentieren",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE Academic communication in German as a foreign/second language: reading, writing, arguing",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-wiwi",
+   "title": "Fachkommunikation Wirtschaftswissenschaften mit KI für Studium und Beruf (Grundlagen)",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "12:00",
+       "end": "14:00",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Online-Kurs auf Zoom, mit Präsenzanteil.",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "Academic communication in economics with AI for study and work (basics)",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-mint",
+   "title": "MINT-Fachkommunikation Deutsch mit KI für Studium und Beruf",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "Zoom-Sitzungen donnerstags, dazu drei Präsenztermine in Kurt-Wolters-Str. 5, Raum 1023 (Daten nicht angegeben).",
+       "instructors": [
+        "Dr. Marina Adams"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German academic communication in STEM with AI for study and work",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-sci",
+   "title": "ONLINE: Wissenschaftlich schreiben - Grammatik der Wissenschaftssprache anwenden",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "10:00",
+       "end": "12:00",
+       "startDate": "2026-10-20",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Andrea Mentel-Winter",
+        "Kai Patri"
+       ],
+       "room": "Digitale/online Veranstaltung (Virtuelles Gebäude)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "ONLINE: Academic writing - using the grammar of academic German",
+   "typeEn": "Language course"
+  },
+  {
+   "id": "isz-de-art",
+   "title": "Deutsch Kunst / Gestaltung / Design - Präsenz",
+   "number": null,
+   "type": "Sprachkurs",
+   "language": null,
+   "responsible": null,
+   "groups": [
+    {
+     "name": "1. Parallelgruppe",
+     "series": [
+      {
+       "rhythm": "wöchentlich",
+       "day": 5,
+       "start": "15:00",
+       "end": "18:30",
+       "startDate": "2026-10-30",
+       "endDate": "2027-02-10",
+       "cancelled": [],
+       "note": "",
+       "instructors": [
+        "Amelie Trolldenier"
+       ],
+       "room": "Seminarraum (Menzelstraße 15 Südbau)"
+      }
+     ]
+    }
+   ],
+   "url": "https://szdb.uni-kassel.de/onlinks/info-listen/kurse.php?fach=deutsch",
+   "linkLabel": "ISZ",
+   "titleEn": "German for art / visual communication / design (in person)",
+   "typeEn": "Language course"
+  }
+ ]
+}

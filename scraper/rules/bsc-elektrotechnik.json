@@ -1,0 +1,68 @@
+{
+  "summary": "PO 2023 section 7: all listed Pflichtmodule are compulsory; students choose one specialization worth 30 ECTS plus at least 6 ECTS of electives (36 ECTS together) and a 9-ECTS project in an FB16 department. E-Mobility is one of those specializations: modules from both Pflichtmodule E-Mobility and Wahlpflichtmodule E-Mobility count toward the same 30 ECTS, the Pflichtmodule are required once it is chosen, and its Wahlpflichtmodule are the electives inside that total. Specialization, elective and project modules require Lineare Algebra, Analysis and Grundlagen der Elektrotechnik I and II to be passed first.",
+  "categories": [
+    {
+      "id": "Wahlpflichtmodule",
+      "group": "area",
+      "name": "Elective modules",
+      "nameDe": "Wahlpflichtmodule",
+      "short": "Electives",
+      "count": 1,
+      "ects": 6,
+      "note": "Take at least 6 ECTS from the cross-specialization catalogue: listed elective modules, specialization modules of another specialization, or further modules the examinations board approves. Labs of 3-4 ECTS may need to be combined to reach 6 ECTS."
+    },
+    {
+      "id": "Schlüsselkompetenzen Wahlpflicht",
+      "group": "module",
+      "name": "Key competencies (electives)",
+      "nameDe": "Schlüsselkompetenzen Wahlpflicht",
+      "short": "Key competencies",
+      "count": 1,
+      "note": "Elective part of the 7-ECTS key competencies module; 'Lernen und Organisation' (2 ECTS) is compulsory"
+    },
+    {
+      "id": "spec-choice",
+      "group": "oneOf",
+      "name": "One specialization of your choice",
+      "nameDe": "Schwerpunkt (eine Wahl)",
+      "short": "Specialization",
+      "count": 1,
+      "ects": 30,
+      "options": [
+        {
+          "type": "area",
+          "id": "Schwerpunkt Automated Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt E-Mobility"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Electrical Energy Systems"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Electronics and Photonics"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Information Technology"
+        },
+        {
+          "type": "area",
+          "id": "Schwerpunkt Smart Sensor Systems"
+        }
+      ],
+      "note": "Choose exactly one of the six specializations and complete 30 ECTS in it (each module 4-9 ECTS). E-Mobility counts both Pflichtmodule E-Mobility and Wahlpflichtmodule E-Mobility toward that 30 ECTS: the Pflichtmodule are required once E-Mobility is chosen, the Wahlpflichtmodule (this semester Lineare Regelungssysteme) are the electives inside it, at least one module is taught in English (B1 recommended), and a 6th-semester specialization exam requires that Signalübertragung has been sat at least once."
+    }
+  ],
+  "pickOne": [
+    "Schlüsselkompetenzen Wahlpflicht"
+  ],
+  "slug": "bsc-elektrotechnik",
+  "po": "Bachelor Elektrotechnik (2023)",
+  "sources": [
+    "https://www.uni-kassel.de/uni/index.php?eID=dumpFile&t=f&f=21959&token=79f95f0c78c73fd013fb9f304a79a9e347720a6f"
+  ]
+}

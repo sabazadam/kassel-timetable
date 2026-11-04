@@ -57,3 +57,16 @@ test('addFriend replaces a friend who sends a new link', () => {
   assert.equal(again.friends[0].parts[0].slug, 'bsc-physik');
   assert.equal(addFriend(again.friends, { name: 'Ayşe', parts: [] }, 3).friends.length, 2);
 });
+
+test('sharedCourses finds common courses and the meetings taken together', async () => {
+  const { sharedCourses } = await import('../site/js/share.js');
+  const b = (courseId, day, start, end) => ({ courseId, day, start, end, title: courseId, titleEn: courseId });
+  const me = [b('dl', 1, 720, 840), b('dl', 2, 480, 600), b('rl', 3, 600, 720), b('ml', 4, 480, 600)];
+  const friend = [b('ml', 4, 480, 600), b('dl', 1, 720, 840), b('dl', 2, 600, 720), b('x', 5, 480, 600)];
+  const out = sharedCourses(me, friend);
+  assert.deepEqual(out.map((c) => c.courseId), ['dl', 'ml']);
+  assert.deepEqual(out[0].together, [{ day: 1, start: 720, end: 840 }]);
+  assert.equal(out[0].theirs.length, 2);
+  assert.deepEqual(out[1].together, [{ day: 4, start: 480, end: 600 }]);
+  assert.deepEqual(sharedCourses(me, []), []);
+});

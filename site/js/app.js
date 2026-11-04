@@ -37,7 +37,7 @@ import {
   groupPhases,
 } from './schedule.js';
 import { buildIcs } from './ics.js';
-import { addFriend, clock, commonFree, decodeShare, shareFromHash, shareLink, weekBusy } from './share.js';
+import { addFriend, clock, commonFree, decodeShare, shareFromHash, shareLink, sharedCourses, weekBusy } from './share.js';
 import { floorOf, linkPlace, mapUrl, roomParts } from './campus-map.js';
 import { openFeedback } from './feedback.js';
 import { noteVisit, openNews, unseen } from './news.js';
@@ -74,6 +74,7 @@ const MINE_KEY = 'ders-programi:mine';
 const LANG_KEY = 'ders-programi:lang';
 const LIST_KEY = 'ders-programi:list';
 const HIDE_LATER_KEY = 'ders-programi:hide-later';
+const COMPARE_MODE_KEY = 'ders-programi:compare-mode';
 // Modules a student plans for coming semesters (next-semesters view): { 'S2027': [module number] }.
 const PLAN_KEY = `ders-programi:plan:${PROGRAM}`;
 // The next-semesters view offers the current semester and this many after it.
@@ -198,6 +199,14 @@ const ui = {
   termOpen: new Set(),
   // Friends view: shortest shared free stretch worth showing (minutes).
   freeMin: 60,
+  // Friends view: 'free' shows the hours free together, 'classes' everyone's classes side by side.
+  compareMode: (() => {
+    try {
+      return localStorage.getItem(COMPARE_MODE_KEY) === 'classes' ? 'classes' : 'free';
+    } catch {
+      return 'free';
+    }
+  })(),
 };
 
 // The module list starts open on wide screens, and on any screen while nothing is chosen yet;
@@ -2565,11 +2574,19 @@ function renderFriends() {
   renderCompare(people[0], others, [people[0], ...others].some((p) => p.week.loading));
 }
 
-// The comparison week, seen from the student: their own classes as grey blocks across the day, and per friend
-// (one lane each, in the friend's color) the hours both of them are free. Green behind: everyone is free.
+// The comparison week, seen from the student, in one of two modes:
+// - 'free': their own classes as grey blocks, and per friend (one lane each) the hours both are free, in
+//   green when there is one friend, in the friend's color when there are several. Green frame: everyone free.
+// - 'classes': one lane per person with that person's classes in their color; courses taken together are marked.
+// Above the week, one card per friend lists the shared courses and the shared free hours as text.
 function renderCompare(me, others, loading) {
   const cal = $('friends-calendar');
   cal.setAttribute('aria-label', t('tabFriends'));
+  const mode = ui.compareMode;
+  for (const btn of document.querySelectorAll('#compare-mode button')) btn.setAttribute('aria-pressed', String(btn.dataset.mode === mode));
+  $('free-min').closest('.free-min').hidden = mode !== 'free';
+  cal.classList.toggle('mode-classes', mode === 'classes');
+
   const days = [...WEEKDAYS];
   let first = 8;
   let last = 20;
@@ -2582,6 +2599,13 @@ function renderCompare(me, others, loading) {
   const range = { days, from: first * 60, to: last * 60, min: ui.freeMin };
   const pairs = loading ? [] : others.map((f) => commonFree([me.week.busy, f.week.busy], range));
   const everyone = !loading && others.length > 1 ? commonFree([me.week.busy, ...others.map((f) => f.week.busy)], range) : {};
+  const shared = loading ? [] : others.map((f) => sharedCourses(me.week.busy, f.week.busy));
+  const courseName = (b) => (lang === 'de' ? b.title : b.titleEn ?? b.title);
+  const slotKey = (b) => `${b.courseId}|${b.day}|${b.start}|${b.end}`;
+
+  renderCompareSummary(others, pairs, shared, days, loading, courseName);
+  renderCompareLegend(mode, others.length);
+
   const HOUR_PX = 44;
   cal.style.setProperty('--hour', `${HOUR_PX}px`);
   cal.style.setProperty('--days', String(days.length));
@@ -2593,35 +2617,144 @@ function renderCompare(me, others, loading) {
   const times = h('div', { class: 'cal-times', style: `height:${height}px` });
   for (let hr = first; hr < last; hr++) times.append(h('span', { style: `top:${y(hr * 60)}px` }, `${String(hr).padStart(2, '0')}:00`));
   nodes.push(times);
-  const lanes = Math.max(1, others.length);
+
+  // Meetings each person sits in with someone else in the comparison: slot key -> names of the others.
+  const people = [me, ...others];
+  const together = people.map((p) => {
+    const map = new Map();
+    for (const b of p.week.busy) {
+      const names = people.filter((q) => q !== p && q.week.busy.some((x) => slotKey(x) === slotKey(b))).map((q) => (q === me ? t('you') : q.name));
+      if (names.length) map.set(slotKey(b), names);
+    }
+    return map;
+  });
+  const sharedTag = (names) => h('em', { class: 'shared-tag', title: t('sharedWith', { name: names.join(', ') }) }, t('sharedTag'));
+
   for (const d of days) {
     const col = h('div', { class: 'cal-day', style: `height:${height}px` });
-    for (const [s, e] of everyone[d] ?? []) {
-      const label = `${t('freeEveryone')} ${clock(s)}-${clock(e)}`;
-      col.append(h('div', { class: 'free-band', style: span(s, e), title: label }, h('span', {}, t('freeEveryone'))));
-    }
-    for (const b of me.week.busy.filter((x) => x.day === d)) {
-      const name = lang === 'de' ? b.title : b.titleEn ?? b.title;
-      const label = `${clock(b.start)}-${clock(b.end)} ${name}`;
-      col.append(h('div', { class: 'mine', style: span(b.start, b.end), title: label }, h('span', {}, name)));
-    }
-    others.forEach((f, lane) => {
-      for (const [s, e] of pairs[lane]?.[d] ?? []) {
-        const label = t('freeWith', { name: f.name, time: `${clock(s)}-${clock(e)}` });
-        col.append(
-          h(
-            'div',
-            { class: 'match', title: label, style: `${span(s, e)};left:calc(${(lane * 100) / lanes}% + 2px);width:calc(${100 / lanes}% - 4px);--person:${f.color}` },
-            h('b', {}, f.name),
-            h('span', { class: 'match-time' }, `${clock(s)}-${clock(e)}`),
-          ),
-        );
+    if (mode === 'classes') {
+      const lanes = people.length;
+      people.forEach((p, lane) => {
+        for (const b of p.week.busy.filter((x) => x.day === d)) {
+          const names = together[lane].get(slotKey(b));
+          const label = `${p === me ? t('you') : p.name}: ${clock(b.start)}-${clock(b.end)} ${courseName(b)}${names ? ` (${t('sharedWith', { name: names.join(', ') })})` : ''}`;
+          col.append(
+            h(
+              'div',
+              { class: `lane-class${names ? ' shared' : ''}`, title: label, style: `${span(b.start, b.end)};left:calc(${(lane * 100) / lanes}% + 1px);width:calc(${100 / lanes}% - 2px);--person:${p.color}` },
+              names ? sharedTag(names) : null,
+              h('span', {}, courseName(b)),
+            ),
+          );
+        }
+      });
+    } else {
+      for (const [s, e] of everyone[d] ?? []) {
+        const label = `${t('freeEveryone')} ${clock(s)}-${clock(e)}`;
+        col.append(h('div', { class: 'free-band', style: span(s, e), title: label }, h('span', {}, t('freeEveryone'))));
       }
-    });
+      for (const b of me.week.busy.filter((x) => x.day === d)) {
+        const names = together[0].get(slotKey(b));
+        const label = `${clock(b.start)}-${clock(b.end)} ${courseName(b)}${names ? ` (${t('sharedWith', { name: names.join(', ') })})` : ''}`;
+        col.append(h('div', { class: `mine${names ? ' shared' : ''}`, style: span(b.start, b.end), title: label }, names ? sharedTag(names) : null, h('span', {}, courseName(b))));
+      }
+      const lanes = Math.max(1, others.length);
+      others.forEach((f, lane) => {
+        for (const [s, e] of pairs[lane]?.[d] ?? []) {
+          const label = t('freeWith', { name: f.name, time: `${clock(s)}-${clock(e)}` });
+          col.append(
+            h(
+              'div',
+              { class: `match${others.length === 1 ? ' solo' : ''}`, title: label, style: `${span(s, e)};left:calc(${(lane * 100) / lanes}% + 2px);width:calc(${100 / lanes}% - 4px);--person:${others.length === 1 ? 'var(--ok)' : f.color}` },
+              h('b', {}, others.length === 1 ? t('bothFree') : t('freeWithShort', { name: f.name })),
+              h('span', { class: 'match-time' }, `${clock(s)}-${clock(e)}`),
+            ),
+          );
+        }
+      });
+    }
     nodes.push(col);
   }
   if (loading) nodes.push(h('div', { class: 'cal-empty' }, t('friendLoading')));
   cal.replaceChildren(...nodes);
+}
+
+// One card per friend in the comparison: the courses you share (and whether at the same time), and the
+// hours you are both free as a list of days, so the answer can be read without studying the grid.
+function renderCompareSummary(others, pairs, shared, days, loading, courseName) {
+  const box = $('compare-summary');
+  box.hidden = loading || !others.length;
+  if (box.hidden) return box.replaceChildren();
+  const when = (x) => `${dayShort(x.day)} ${clock(x.start)}-${clock(x.end)}`;
+  box.replaceChildren(
+    ...others.map((f, i) => {
+      const byName = new Map();
+      for (const c of shared[i]) {
+        const name = courseName(c);
+        const prev = byName.get(name);
+        byName.set(name, prev ? { ...prev, together: [...prev.together, ...c.together], theirs: [...prev.theirs, ...c.theirs] } : c);
+      }
+      const courses = [...byName.values()];
+      const free = days.flatMap((d) => (pairs[i][d] ?? []).map(([start, end]) => ({ day: d, start, end })));
+      return h(
+        'section',
+        { class: 'summary-card', style: `--person:${f.color}` },
+        h('h3', {}, h('span', { class: 'swatch', 'aria-hidden': 'true' }), t('youAnd', { name: f.name })),
+        h(
+          'div',
+          { class: 'summary-block' },
+          h('h4', {}, `${t('sharedCoursesTitle')} (${courses.length})`),
+          courses.length
+            ? h(
+                'ul',
+                { class: 'summary-courses' },
+                ...courses.map((c) => {
+                  const apart = c.theirs.filter((x) => !c.together.some((y) => y.day === x.day && y.start === x.start && y.end === x.end));
+                  return h(
+                    'li',
+                    {},
+                    h('b', {}, courseName(c)),
+                    c.together.length ? h('span', { class: 'together' }, `${c.together.map(when).join(', ')} · ${t('sameTime')}`) : null,
+                    apart.length ? h('span', { class: 'apart' }, t('otherGroup', { name: f.name, time: apart.map(when).join(', ') })) : null,
+                  );
+                }),
+              )
+            : h('p', { class: 'summary-none' }, t('sharedNone')),
+        ),
+        h(
+          'div',
+          { class: 'summary-block' },
+          h('h4', {}, t('freeSlotsTitle', { min: t('minutesShort', { n: ui.freeMin }) })),
+          free.length
+            ? h(
+                'ul',
+                { class: 'summary-free' },
+                ...days
+                  .filter((d) => free.some((x) => x.day === d))
+                  .map((d) =>
+                    h(
+                      'li',
+                      {},
+                      h('span', { class: 'free-day' }, dayShort(d)),
+                      ...free.filter((x) => x.day === d).map((x) => h('span', { class: 'free-chip' }, `${clock(x.start)}-${clock(x.end)}`)),
+                    ),
+                  ),
+              )
+            : h('p', { class: 'summary-none' }, t('freeNone')),
+        ),
+      );
+    }),
+  );
+}
+
+// What the colors in the week mean, for the mode on screen.
+function renderCompareLegend(mode, friendCount) {
+  const item = (cls, text) => h('span', { class: 'legend-item' }, h('i', { class: `legend-swatch ${cls}`, 'aria-hidden': 'true' }), text);
+  const items =
+    mode === 'classes'
+      ? [h('span', { class: 'legend-item' }, t('legendClasses')), item('shared', t('legendShared'))]
+      : [item('mine', t('legendMine')), item('shared', t('legendShared')), friendCount ? item('free', t('legendBothFree')) : null, friendCount > 1 ? item('everyone', t('freeEveryone')) : null];
+  $('compare-legend').replaceChildren(...items.filter(Boolean));
 }
 
 function exportIcs() {
@@ -2666,6 +2799,15 @@ function bindControls() {
   $('tab-terms').addEventListener('click', () => setView('terms'));
   $('tab-friends').addEventListener('click', () => setView('friends'));
   $('share-open').addEventListener('click', openShareDialog);
+  for (const btn of document.querySelectorAll('#compare-mode button')) {
+    btn.addEventListener('click', () => {
+      ui.compareMode = btn.dataset.mode;
+      try {
+        localStorage.setItem(COMPARE_MODE_KEY, ui.compareMode);
+      } catch {}
+      renderFriends();
+    });
+  }
   $('free-min').addEventListener('change', (ev) => {
     ui.freeMin = Number(ev.target.value);
     renderFriends();

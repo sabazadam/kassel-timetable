@@ -116,10 +116,16 @@
         <div class="compare-bar">
           <ul id="people" class="people" data-i18n-aria="peopleTitle"></ul>
           <div class="compare-tools">
+            <div id="compare-mode" class="compare-mode" role="group" data-i18n-aria="compareShow">
+              <button type="button" data-mode="free" data-i18n="modeFree">Ortak boşluklar</button>
+              <button type="button" data-mode="classes" data-i18n="modeClasses">Dersler</button>
+            </div>
             <label class="free-min"><span data-i18n="freeMin">En kısa boşluk</span> <select id="free-min"></select></label>
             <button id="share-open" type="button" class="primary share-open"><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="1" y="4" width="9" height="10" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="6" y="1.5" width="9" height="10" rx="1.5" fill="currentColor" opacity=".45"/></svg><span data-i18n="shareCopyShort">Linkini paylaş</span></button>
           </div>
         </div>
+        <div id="compare-summary" class="compare-summary"></div>
+        <p id="compare-legend" class="compare-legend"></p>
         <div id="friends-calendar" class="calendar compare"></div>
       </div>
 

@@ -111,3 +111,38 @@ export function addFriend(friends, payload, now = Date.now()) {
   const friend = { id: same?.id ?? `f${now.toString(36)}`, name: payload.name, parts: payload.parts, added: now, hidden: same?.hidden ?? false };
   return { friends: same ? friends.map((f) => (f === same ? friend : f)) : [...friends, friend], friend, updated: Boolean(same) };
 }
+
+// Courses two people both take (same course id), each with the meetings they sit in together (same day
+// and times) and, when they are in different groups, both sides' times. Sorted by first meeting.
+// [{ courseId, title, titleEn, together: [{ day, start, end }], mine: [...], theirs: [...] }]
+export function sharedCourses(mine, theirs) {
+  const byCourse = (busy) => {
+    const map = new Map();
+    for (const b of busy) {
+      if (!map.has(b.courseId)) map.set(b.courseId, []);
+      map.get(b.courseId).push(b);
+    }
+    return map;
+  };
+  const a = byCourse(mine);
+  const b = byCourse(theirs);
+  const slot = ({ day, start, end }) => ({ day, start, end });
+  const key = (x) => `${x.day}|${x.start}|${x.end}`;
+  const out = [];
+  for (const [courseId, list] of a) {
+    const other = b.get(courseId);
+    if (!other) continue;
+    const otherKeys = new Set(other.map(key));
+    const { title, titleEn } = list[0];
+    out.push({
+      courseId,
+      title,
+      titleEn,
+      together: list.filter((x) => otherKeys.has(key(x))).map(slot),
+      mine: list.map(slot),
+      theirs: other.map(slot),
+    });
+  }
+  const first = (c) => Math.min(...c.mine.map((x) => x.day * 1440 + x.start));
+  return out.sort((x, y) => first(x) - first(y));
+}

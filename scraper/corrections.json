@@ -2,7 +2,7 @@
  "note": "Hand corrections to eCampus data, applied on every scrape: { courseId: { source, series: [{ match: {series fields}, set: {series fields} }] } }. Remove an entry once eCampus has the same information or its date has passed. Entries with \"login\" come from pages that need a university login (e.g. Moodle); scrape with --public-only to leave them out.",
  "courses": {
   "57543": {
-   "source": "User, 2026-10-28: Reinforcement Learning exercise (Wednesdays) moves to room -1605; eCampus says \"Raum im Fachgebiet\".",
+   "source": "User, 2026-11-04: Reinforcement Learning tutorial (Wednesdays) moves to room 1344 for all future sessions (before: -1605 from 2026-10-28; eCampus says \"Raum im Fachgebiet\"). The announcement names no building; the campus map has one Raum 1344, in WA 73.",
    "series": [
     {
      "match": {
@@ -11,7 +11,7 @@
       "start": "10:00"
      },
      "set": {
-      "room": "Raum -1605 (WA-Neubau (Emilien))",
+      "room": "Raum 1344 (WA-altes Gebäude (WA 73))",
       "note": ""
      }
     }
